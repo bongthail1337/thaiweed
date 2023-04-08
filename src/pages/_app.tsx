@@ -8,7 +8,7 @@ import {appWithTranslation, useTranslation} from 'next-i18next';
 import React from 'react';
 
 import nextI18NextConfig from '../../next-i18next.config.js';
-import {Header} from '../components';
+// import {Header} from '../components';
 import {createEmotionCache} from '../helpers/createEmotionCache';
 import {GA_MEASUREMENT_ID,pageview} from '../helpers/gtag';
 import {withYM, YA_METRIKA_ID} from '../helpers/ym';
@@ -50,7 +50,7 @@ const App = ({Component, emotionCache = clientSideEmotionCache, pageProps}) => {
       />
       <GlobalStyle />
       <Head>
-        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="/favicon.svg?" sizes="any" type="image/svg+xml"></link>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="robots" content="max-image-preview:large" />
         <title>{t('SEO.title')}</title>
@@ -59,7 +59,7 @@ const App = ({Component, emotionCache = clientSideEmotionCache, pageProps}) => {
       </Head>
       <ThemeProvider theme={theme}>
         <CssBaseline />
-        <Header />
+        {/* <Header /> */}
         <Component {...pageProps} />
       </ThemeProvider>
     </CacheProvider>

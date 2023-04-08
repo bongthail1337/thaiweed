@@ -5,7 +5,7 @@ import {serverSideTranslations} from 'next-i18next/serverSideTranslations';
 import React from 'react';
 import {Events, scrollSpy} from 'react-scroll';
 
-import {Contact,Intro, ListOfBuildings, Worth} from '../components';
+import {Intro} from '../components';
 
 type Props = {
   // Add custom props here
@@ -54,10 +54,6 @@ const HomePage = (_props: InferGetStaticPropsType<typeof getStaticProps>) => {
         <meta property="twitter:url" content={t('HomePage.SEO.twitter.url')} />
       </Head>
       <Intro />
-      <Worth />
-      <Contact />
-      <ListOfBuildings />
-      <Contact />
     </>
   );
 };

@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://novostroiki-54.ru
+Host: https://localhost.ru
 
 # Sitemaps
-Sitemap: https://novostroiki-54.ru/sitemap.xml
+Sitemap: https://localhost.ru/sitemap.xml

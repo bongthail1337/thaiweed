@@ -5,7 +5,5 @@ export {ContactForm} from './contactForm';
 export {Header} from './header';
 export {InputPhone} from './inputPhone';
 export {Intro} from './intro';
-export {ListOfBuildings} from './listOfBuildings';
 export {Page} from './page';
 export {Select} from './select';
-export {Worth} from './worth';
