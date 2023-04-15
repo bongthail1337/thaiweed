@@ -1,0 +1,2826 @@
+{
+  "id":"6533d363-ed96-4d44-898c-7fde1a8f609f",
+  "lat":"9.7086132",
+  "lng":"100.0005632",
+  "city":"Surat Thani",
+  "name":"ร้านกัญชา High Cloud By P&P Dispensary (Koh Phangan)",
+  "type":null,
+  "business_images":[
+    "544b044e0c084c91f29d418c28b5cb1a",
+    "86c9228c51380e21e144e31e0d052dda",
+    "543eda643a970d8aa0a9e46c395f6e88"
+  ],
+  "google_images":[
+    
+  ],
+  "status":"approved",
+  "website":"https://www.facebook.com/PPsmartfarm/",
+  "phone":"+66 64 264 0616",
+  "opening_hours":[
+    {
+      "open":{
+        "day":0,
+        "time":"0900"
+      },
+      "close":{
+        "day":0,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":1,
+        "time":"0900"
+      },
+      "close":{
+        "day":1,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":2,
+        "time":"0900"
+      },
+      "close":{
+        "day":2,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":3,
+        "time":"0900"
+      },
+      "close":{
+        "day":3,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":4,
+        "time":"0900"
+      },
+      "close":{
+        "day":4,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":5,
+        "time":"0900"
+      },
+      "close":{
+        "day":5,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":6,
+        "time":"0900"
+      },
+      "close":{
+        "day":6,
+        "time":"0000"
+      }
+    }
+  ],
+  "line":"",
+  "google_url":"https://maps.google.com/?cid=4958293980906275260",
+  "place_id":"PuVWG_se9vm7IQNEiRUt_kczm1D",
+  "facebook":"https://www.facebook.com/PPsmartfarm/",
+  "description":"Medical Cannabis Dispensary By P\\\\u0026P Smart Farm",
+  "products_flowers":[
+    {
+      "id":"47ea8ff5-d3bd-403c-a1ef-92a27e80454f",
+      "name":"Animal Runtz",
+      "description":"Indica dominant",
+      "images":[
+        "bdce276472f37ac1de0d8b5e77fc6630"
+      ],
+      "thc":25,
+      "cbd":1,
+      "sativa":30,
+      "indica":70,
+      "images_coa":[
+        
+      ],
+      "quality":"AAAA",
+      "disabled":false,
+      "created_at":"2023-01-25T10:36:52.646805+00:00",
+      "updated_at":"2023-04-06T21:00:04.402893+00:00"
+    },
+    {
+      "id":"9063a428-aa5c-43d1-af9e-6dbce56c2e7c",
+      "name":"Sweat Helmet",
+      "description":"Indica dominant",
+      "images":[
+        "ed389bf2d7266e2796d08f07bed9ef59"
+      ],
+      "thc":24,
+      "cbd":1,
+      "sativa":30,
+      "indica":70,
+      "images_coa":[
+        
+      ],
+      "quality":"AAAA",
+      "disabled":false,
+      "created_at":"2023-01-25T10:41:08.347146+00:00",
+      "updated_at":"2023-04-06T21:00:04.424171+00:00"
+    },
+    {
+      "id":"0cecec77-70d9-4d13-9a4b-c039ab1b4028",
+      "name":"Gorillar Glue",
+      "description":"indica Hybrid",
+      "images":[
+        "addeed013d238d9b3a51123726825ecd"
+      ],
+      "thc":26,
+      "cbd":1,
+      "sativa":40,
+      "indica":60,
+      "images_coa":[
+        
+      ],
+      "quality":"AAAA",
+      "disabled":false,
+      "created_at":"2023-01-25T10:43:40.393609+00:00",
+      "updated_at":"2023-04-06T21:00:04.418417+00:00"
+    },
+    {
+      "id":"6d089520-dbb1-4c6a-a48e-eecffee18242",
+      "name":"Santa Marta Haze",
+      "description":"Sativa dominant",
+      "images":[
+        "bed16df014590246ec916814bfef5baa"
+      ],
+      "thc":20,
+      "cbd":1,
+      "sativa":0,
+      "indica":100,
+      "images_coa":[
+        
+      ],
+      "quality":"AAAA",
+      "disabled":false,
+      "created_at":"2023-01-25T10:48:07.595455+00:00",
+      "updated_at":"2023-04-06T21:00:04.412402+00:00"
+    },
+    {
+      "id":"db3da3da-7d52-4673-add8-bd3e84b89c2e",
+      "name":"Gorilla Runtz",
+      "description":"Sativa dominant",
+      "images":[
+        "f632484fbee435ef77c72092f9a893a1"
+      ],
+      "thc":23,
+      "cbd":1,
+      "sativa":80,
+      "indica":20,
+      "images_coa":[
+        
+      ],
+      "quality":"AAAA",
+      "disabled":false,
+      "created_at":"2023-01-25T10:54:18.15431+00:00",
+      "updated_at":"2023-04-06T21:00:04.406457+00:00"
+    }
+  ],
+  "products_seeds":[
+    
+  ],
+  "products_prerolls":[
+    
+  ],
+  "products_edibles":[
+    
+  ],
+  "products_topicals":[
+    
+  ],
+  "products_gear":[
+    {
+      "id":"3c8774e7-f042-465d-92c9-0903920fd5f2",
+      "name":"Bong",
+      "description":"glass bong",
+      "images":[
+        "98d38017bc8b48cbe3bbf32a84146d16"
+      ],
+      "disabled":false,
+      "created_at":"2023-01-25T10:45:37.477327+00:00",
+      "updated_at":"2023-04-06T21:00:04.430918+00:00"
+    }
+  ],
+  "products_misc":[
+    
+  ],
+  "reviews":[
+    {
+      "author":"Ivan Serrano",
+      "avatar":"00a93f6db5077f1659f4aa44e30524cb",
+      "content":"Many strains, nice place.",
+      "review_date":"2023-03-20T05:42:22.551+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100051175874799287057?hl=en-US"
+    },
+    {
+      "author":"สิทธิพงศ์ จํานงค์ทอง",
+      "avatar":"9d0baa1887004f87b3e87d7b27a83332",
+      "content":"ราคาถูก สินค้าดีมีคุณภาพ ร้านสวยสะอาด\n\n(Translated by Google)\nCheap price, good quality products, nice clean shop.",
+      "review_date":"2023-03-10T11:13:28.625+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100074285317164133744?hl=en-US"
+    },
+    {
+      "author":"Rasmus Pedersen",
+      "avatar":"3440d24f3861f760a94b05a76f5bb1c1",
+      "content":"Stylish new shop, with great location in Bantai! Their selection is top-notch, with a broad variety of strains and prices!",
+      "review_date":"2023-01-25T12:45:07.353+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100452737976042980038?hl=en-US"
+    },
+    {
+      "author":"speedy gonzales",
+      "avatar":"d4bcc4eec70b69e69e11e13f127b502e",
+      "content":"Nice spot,\nNice shop with nice sympathetic staff and very good weed..",
+      "review_date":"2023-03-18T08:45:06.279+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100463987622335280002?hl=en-US"
+    },
+    {
+      "author":"Юрий Горбатюк",
+      "avatar":"27bc02bd18c3c5b1928acb13979b6bee",
+      "content":"Granddaddy, best choice 👍😇😊\nGood service 👍",
+      "review_date":"2023-03-20T16:09:54.429+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100888827728940774588?hl=en-US"
+    },
+    {
+      "author":"Daniel Anderson",
+      "avatar":"3ee9efc091f2a5a4dbc767a0e90090f6",
+      "content":"Good deals. Lovely staff. Most reasonable prices on the island!",
+      "review_date":"2023-03-14T03:46:10.625+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100953528637989428826?hl=en-US"
+    },
+    {
+      "author":"Corbyn Harris",
+      "avatar":"ee4dcc2450b2cf2ae04c59326d60a6ee",
+      "content":"Best bud on the island and great staff. Would recommend highly !!!!",
+      "review_date":"2023-01-25T12:17:39.257+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101039641500964046664?hl=en-US"
+    },
+    {
+      "author":"monty crowe",
+      "avatar":"0f4a4abbce5614aa0b9eeabc2ba72039",
+      "content":"Lovely stuff, very kind staff",
+      "review_date":"2023-03-24T13:13:34.971+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101289691877458397003?hl=en-US"
+    },
+    {
+      "author":"Guy Hamilton",
+      "avatar":"8e0c31e5095802c69c49e1c960117149",
+      "content":"Great weed and best prices on the island!",
+      "review_date":"2023-02-03T12:50:17.184+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101395219186797253824?hl=en-US"
+    },
+    {
+      "author":"The BigHit 75",
+      "avatar":"58e7289a3ebfb6f7f3370a37a80e9047",
+      "content":"Really nice shop with a lovely owner, good choice of strains and fair prices.",
+      "review_date":"2023-03-13T11:54:18.565+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101416512576873961453?hl=en-US"
+    },
+    {
+      "author":"yellowboi 691",
+      "avatar":"52843bf301e42ee78163f0490fdd1bb1",
+      "content":"So it's a friendly store, the Budtender/Owner was knowledgeable and really nice too, and great to deal with.\nGood selection  of bud and great prices, I would definitely recommend.",
+      "review_date":"2023-02-07T09:14:39.682+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101432814389299331155?hl=en-US"
+    },
+    {
+      "author":"Amy Friesen",
+      "avatar":"861399c378776b1b61495c63fa64579c",
+      "content":"The cutest little shop! They were so lovely and even gave me a birthday gift 🤍 best on Koh Phangan",
+      "review_date":"2023-03-07T06:17:01.856+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101487709198214725337?hl=en-US"
+    },
+    {
+      "author":"bun diggi",
+      "avatar":"31b451e6f613a5ba4d1e28e3b1edcc3d",
+      "content":"My favourite Shop on koh phangan!sweet people, nice prices :)",
+      "review_date":"2023-01-25T13:50:58.378+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101582177483707135690?hl=en-US"
+    },
+    {
+      "author":"אלה אלפסי",
+      "avatar":"adc97278a5c583f59f54ca5276f76ce4",
+      "content":"Amazing place and staff! 😍",
+      "review_date":"2023-02-15T13:24:29.605+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101771496832717456853?hl=en-US"
+    },
+    {
+      "author":"Tinx Gliksman",
+      "avatar":"beef6234df41e4fbccb4a9e2b055b090",
+      "content":"Amazing experience and some great variety. A must come to in Ko Phangan",
+      "review_date":"2023-03-14T13:20:40.848+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101902435720756937239?hl=en-US"
+    },
+    {
+      "author":"Alina Abdrafikova",
+      "avatar":"f1ef6d8a37bb66980556f28afa01d68f",
+      "content":"Very friendly stuff",
+      "review_date":"2023-03-21T04:50:18.993+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101904986880887188774?hl=en-US"
+    },
+    {
+      "author":"pavel kl",
+      "avatar":"33a49bbb487370f97d5f753ee9249631",
+      "content":"Great shop with good quality of weed and service. Just try and be happy :)",
+      "review_date":"2023-03-15T09:41:24.024+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101999379599827170060?hl=en-US"
+    },
+    {
+      "author":"Eli Mercer",
+      "avatar":"8412c8095474eee7420a02e27a1ec6cb",
+      "content":"Great experience! Weed smelled and looked fresh. Owners very helpful in selecting what is best for you.",
+      "review_date":"2023-01-24T15:06:47.231+00:00",
+      "rating":5,
+      "images":[
+        "ca432e0bd8a9fc8c0aadcc2dc742d91c"
+      ],
+      "url":"https://www.google.com/maps/contrib/102015726715911308117?hl=en-US"
+    },
+    {
+      "author":"chris helmer",
+      "avatar":"541cf03d11804ce51595431564251c03",
+      "content":"Really good 😊",
+      "review_date":"2023-01-25T13:40:41.105+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102253838223889564417?hl=en-US"
+    },
+    {
+      "author":"June june",
+      "avatar":"9d95029737f61c999ed30dff8908edf7",
+      "content":"cheap price good quality\nvery good service",
+      "review_date":"2023-02-24T11:22:17.51+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102455752177774749614?hl=en-US"
+    },
+    {
+      "author":"Тоня Сидихина",
+      "avatar":"766f7bacf8dff5300708c8594e6578c4",
+      "content":"Love the place. Nice owner and good stuff ❤️",
+      "review_date":"2023-02-23T11:45:07.92+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102616470005294343013?hl=en-US"
+    },
+    {
+      "author":"Thomas Miksche",
+      "avatar":"54fdc6354056905705538276e43adaf3",
+      "content":"(Translated by Google) Very nice and clear shop.\nYou get great advice and get high-quality grass at a very reasonable price 👌\n\n(Original)\nSehr schöner und übersichtlicher Shop.\nMan wird super beraten und kriegt qualitativ super Gras zu einem sehr vernüftigen Preis👌",
+      "review_date":"2023-03-20T05:51:34.905+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102727425768418562564?hl=en-US"
+    },
+    {
+      "author":"UrosNBGD",
+      "avatar":"a0cae6a8ac2a98724def0367ad8c47a3",
+      "content":"Good choice. Good quality.",
+      "review_date":"2023-02-24T03:54:45.277+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103139011832765190361?hl=en-US"
+    },
+    {
+      "author":"Ksenia",
+      "avatar":"bb288c77a3747d99dcde89a2e7116bfb",
+      "content":"Good shop nice stuff",
+      "review_date":"2023-03-02T15:03:33.642+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103241800743448350413?hl=en-US"
+    },
+    {
+      "author":"Emilie B",
+      "avatar":"b0ab29a569cfc134ef168d32aa97c5ab",
+      "content":"nice place and nice weed:) many opportunities!",
+      "review_date":"2023-03-20T07:06:08.529+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103324973111810825048?hl=en-US"
+    },
+    {
+      "author":"Hamad Alali",
+      "avatar":"f7104cce5dfacfb0685630bd8e6703ed",
+      "content":"the best stuff ever in koh phangan",
+      "review_date":"2023-03-18T08:43:39.561+00:00",
+      "rating":5,
+      "images":[
+        "aa4e0c658b7dbd02611ad4c09f52d120"
+      ],
+      "url":"https://www.google.com/maps/contrib/103436987590903334497?hl=en-US"
+    },
+    {
+      "author":"Sam Morris",
+      "avatar":"916e248efbb3b9234ee8bcdfe237c4f2",
+      "content":"Lots of choices of good flower available inside, chilled vibe to smoke and friendly staff, overall great place",
+      "review_date":"2023-03-16T05:08:39.409+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103951051888493068571?hl=en-US"
+    },
+    {
+      "author":"ryan brockie",
+      "avatar":"a566bdce656cf8cbf5a42ce63c136637",
+      "content":"I visited High Cloud tonight for the first time, a very nice place, and very helpful staff. The quality of the weed is amazing and the prices are very good also. HIGHLY RECOMMEND!!",
+      "review_date":"2023-03-14T15:14:33.01+00:00",
+      "rating":5,
+      "images":[
+        "3bbc363c8c209aca875b339ae4a78826"
+      ],
+      "url":"https://www.google.com/maps/contrib/104276395412831257319?hl=en-US"
+    },
+    {
+      "author":"Louis Nobes",
+      "avatar":"1db6858b361e0ec631d4dc709a0dae4f",
+      "content":"",
+      "review_date":"2023-03-04T09:56:58.278+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104480934885123141712?hl=en-US"
+    },
+    {
+      "author":"Keno Anna",
+      "avatar":"47075702536d0d813248f63e40403ddf",
+      "content":"Very good service and weed:))) Would recommend.",
+      "review_date":"2023-03-20T07:21:19.918+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104739548423465733125?hl=en-US"
+    },
+    {
+      "author":"Nabil Koodaruth",
+      "avatar":"694796c50bdc0c8dcc57526380eaf224",
+      "content":"",
+      "review_date":"2023-02-24T10:40:23.536+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104913353875283735908?hl=en-US"
+    },
+    {
+      "author":"Safdar Sahabooleea",
+      "avatar":"59192e7d440c0f5511cf3bfeb6bd456e",
+      "content":"",
+      "review_date":"2023-02-24T10:40:15.965+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105482072431713936597?hl=en-US"
+    },
+    {
+      "author":"Diamond K",
+      "avatar":"9c901202852b4ebfeb7fdf061f9631a7",
+      "content":"Top quality weed ,all indoor!!! Don’t even look anywere else! Ive been here for 2 months and tried many places but this one is the best ,reasonable prices and all weed excellent quality !!! The best in the island !!!",
+      "review_date":"2023-02-28T11:55:50.787+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106076993014311043663?hl=en-US"
+    },
+    {
+      "author":"Gaetano Panariello",
+      "avatar":"24e64259b2346efcf53004a80e7610bb",
+      "content":"The best place in the city. Top quality weed",
+      "review_date":"2023-01-26T06:35:32.828+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106215924310571527784?hl=en-US"
+    },
+    {
+      "author":"Kenneth Reeves",
+      "avatar":"cd0d70668d80d1db1b00386b407ac836",
+      "content":"Very very good I will be back, great weed friendly staff",
+      "review_date":"2023-03-01T05:53:39.842+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106433972180281122560?hl=en-US"
+    },
+    {
+      "author":"Arty Gladk",
+      "avatar":"861399c378776b1b61495c63fa64579c",
+      "content":"Nice weed, great price. Recommending 👍",
+      "review_date":"2023-02-01T13:24:17.602+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106786126987816149340?hl=en-US"
+    },
+    {
+      "author":"Tyron Pretto",
+      "avatar":"d18e5d514aabe51dc05309b914be41e6",
+      "content":"Premium products and very well priced. Definitely coming back :)",
+      "review_date":"2023-03-13T04:29:25.97+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106902508448243048666?hl=en-US"
+    },
+    {
+      "author":"Jonathan Hennecke",
+      "avatar":"5f7826ae0d94ca85ed9e7a61d8711804",
+      "content":"Best weed on Koh Phangan! Fair prices! 😁",
+      "review_date":"2023-02-09T13:59:33.971+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107264248119926911709?hl=en-US"
+    },
+    {
+      "author":"Sofie Str.",
+      "avatar":"9536c0b69db9ce27667e4d32fdd542a3",
+      "content":"(Translated by Google) Nice sellers and many varieties! Recommendation!\n\n(Original)\nNette Verkäufer und viele Sorten! Empfehlung!",
+      "review_date":"2023-03-20T07:04:05.338+00:00",
+      "rating":5,
+      "images":[
+        "8cbe6a8cb08108d9fac27a0a3eb907c9"
+      ],
+      "url":"https://www.google.com/maps/contrib/107410766332910207790?hl=en-US"
+    },
+    {
+      "author":"Dan Slater",
+      "avatar":"493f3ac802be136c714164c40fd45712",
+      "content":"Friendly and experienced staff with great products highly recommended",
+      "review_date":"2023-01-26T02:34:34.515+00:00",
+      "rating":5,
+      "images":[
+        "053fcd5fb0793683ea43101feec42d04"
+      ],
+      "url":"https://www.google.com/maps/contrib/107770166034605775452?hl=en-US"
+    },
+    {
+      "author":"Talhia F",
+      "avatar":"877d6498dc531b9247399a4c4ecd6bd0",
+      "content":"Great selection of weed! Friendly, helpful and nice clean, AC store.",
+      "review_date":"2023-03-24T05:13:17.223+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107854282273742859425?hl=en-US"
+    },
+    {
+      "author":"רועי בניזרי לוי",
+      "avatar":"8ba4121eac2b22732dc764ed881c5d8d",
+      "content":"Best prices!!! The owner is so nice and kind and the weed is great!",
+      "review_date":"2023-02-15T13:20:42.393+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108079570992805464188?hl=en-US"
+    },
+    {
+      "author":"Jerome Feldeisen",
+      "avatar":"a7b3c7ef6b7e1e3fe78ae33fcf6dadae",
+      "content":"(Translated by Google) A great shop with lots of varieties and very good advice provided by a French friend 😜\n\n(Original)\nUne super boutique avec beaucoup de variétés et de très bons conseils fournis par un ami français 😜",
+      "review_date":"2023-02-07T10:48:53.158+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108171605923042672651?hl=en-US"
+    },
+    {
+      "author":"Spencer Bray",
+      "avatar":"9536c0b69db9ce27667e4d32fdd542a3",
+      "content":"Clean shop good prices, nice looking weed",
+      "review_date":"2023-03-08T12:38:25.486+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108240068015959949485?hl=en-US"
+    },
+    {
+      "author":"akash singh",
+      "avatar":"00e4dc58002337575aeb139970fede20",
+      "content":"Nice place near beach to spend some quality time and good J !!",
+      "review_date":"2023-03-03T06:56:11.76+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108524060995116365105?hl=en-US"
+    },
+    {
+      "author":"Vishwanath Jha",
+      "avatar":"2df3a7def5aaf9aaff588aeb4b9ece35",
+      "content":"Great menu! Warm people!",
+      "review_date":"2023-03-03T06:50:03.567+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108591839406745249618?hl=en-US"
+    },
+    {
+      "author":"jayolovestechhouse",
+      "avatar":"f6fd1e93be0328041210655a186d82ad",
+      "content":"Great shop with nice selection grown in Thailand. Highly recommend",
+      "review_date":"2023-01-27T12:43:45.376+00:00",
+      "rating":5,
+      "images":[
+        "9cd99790d30adf3541b1cc050957f9e4"
+      ],
+      "url":"https://www.google.com/maps/contrib/108654509387910310190?hl=en-US"
+    },
+    {
+      "author":"אייל אלפסי",
+      "avatar":"9498d4b859d45f0283b984e2247f535a",
+      "content":"Best prices in the island and wonderfull owners i really enjoyed the weed and the environment in the shop ❤️",
+      "review_date":"2023-02-15T13:24:27.282+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108754465713710354769?hl=en-US"
+    },
+    {
+      "author":"Sebastian Stepper",
+      "avatar":"7c79a1430ad1b63909fd37c6aefc045c",
+      "content":"Nice shop. Best candy on the island",
+      "review_date":"2023-02-06T14:27:42.607+00:00",
+      "rating":5,
+      "images":[
+        "ba3c04719c7f1f86d15d10c92c9b9022"
+      ],
+      "url":"https://www.google.com/maps/contrib/108989982240673998494?hl=en-US"
+    },
+    {
+      "author":"palord33",
+      "avatar":"c1ebec6a18cc4cebc7a462dad6b1fe27",
+      "content":"sooooo Dam Good stuff.  with the best price in town   (Kon Phangan)",
+      "review_date":"2023-01-24T14:54:35.466+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109032678486057140760?hl=en-US"
+    },
+    {
+      "author":"Helen Helen",
+      "avatar":"d33e763b47ae8168ee2101408564265d",
+      "content":"Best weed on Koh phangan 🌈",
+      "review_date":"2023-02-24T12:38:35.944+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109367161198386277661?hl=en-US"
+    },
+    {
+      "author":"Brody Visser",
+      "avatar":"cb2eb7ee652e757642de0d99d1707532",
+      "content":"Great prices",
+      "review_date":"2023-01-25T14:45:35.825+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109462121777546405346?hl=en-US"
+    },
+    {
+      "author":"Stephen Nalder",
+      "avatar":"34fcd8da2b8113b6c53fc0972ba0070b",
+      "content":"Clean products and top shelf attention.",
+      "review_date":"2023-03-09T09:13:51.084+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109701794559680178837?hl=en-US"
+    },
+    {
+      "author":"Steven Piong",
+      "avatar":"0780ae2d302f445f2f2189d69f943f9c",
+      "content":"Best dispensary in Koh Phangan. Amazing price!",
+      "review_date":"2023-03-29T05:02:53.422+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109752048764838789925?hl=en-US"
+    },
+    {
+      "author":"Shane Drayton",
+      "avatar":"83c532cf3fc7369512b1c5ea6ad7ca0a",
+      "content":"My neighborhood dispensary. Great service everytime and good vibes from when they open til close. Come multiple times a week 🙏🏼",
+      "review_date":"2023-04-04T08:55:55.359+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109905362846067082659?hl=en-US"
+    },
+    {
+      "author":"Joris Raznik",
+      "avatar":"7dec395f3b30375760ff86d2f4a9931a",
+      "content":"(Translated by Google) Very good coffee shop, good weed, lots of variety ☀️🌱 welcome at the top 🎉🌙\n\n(Original)\nTrès bon coffee shop, bonne weed, bcp de variété ☀️🌱 accueil au top 🎉🌙",
+      "review_date":"2023-02-09T12:38:06.873+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110220198497060599996?hl=en-US"
+    },
+    {
+      "author":"Coline Bflt",
+      "avatar":"3d5473c6474e8570f26cf200fd40cafc",
+      "content":"(Translated by Google) Very nice coffee with a wide choice, very good product and welcoming!\n\n(Original)\nTrès beau coffee avec un large choix très bon produit et accueillant !",
+      "review_date":"2023-02-09T12:35:31.611+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110497107521339567275?hl=en-US"
+    },
+    {
+      "author":"Tom LB",
+      "avatar":"e00cc203a49b60d73fef643089a53bd2",
+      "content":"Best shop around, half the price as the others and has all the good imported stuff also. Clean and awesome shop",
+      "review_date":"2023-03-09T05:35:49.5+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110512771192964873345?hl=en-US"
+    },
+    {
+      "author":"Yana Shostak",
+      "avatar":"00bc41541598fe8902897b44fc772d66",
+      "content":"Such an insta dispensary with cool design! Great quality weed, wide choice of beautiful plants, super nice stuff and owner☺️Recommend!",
+      "review_date":"2023-02-09T14:16:43.551+00:00",
+      "rating":5,
+      "images":[
+        "1c6cfc54e584db93f5d3a56898285d15"
+      ],
+      "url":"https://www.google.com/maps/contrib/110537703595519111544?hl=en-US"
+    },
+    {
+      "author":"Floriane LELIEVRE",
+      "avatar":"06bc7ca17ae1fab4db804ef1f3225f6b",
+      "content":"Very nice weed,beautiful shop and nice stuff and staff 🤣🤣🤣",
+      "review_date":"2023-03-15T06:09:13.689+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110712563714839976852?hl=en-US"
+    },
+    {
+      "author":"Nickolas Donsky",
+      "avatar":"08a10f6eb14dd80700768bae7871f3d3",
+      "content":"Awesome atmosphere there, immediately makes you feel like home😌 variety of strains is impressive and the prices are very reasonable for the great quality 💪🤟🙏",
+      "review_date":"2023-01-26T12:22:25.97+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110748939935575550458?hl=en-US"
+    },
+    {
+      "author":"Chris Sumner",
+      "avatar":"eff5c5f564c45348a8b59492520aca57",
+      "content":"Great customer service! Highly recommend!",
+      "review_date":"2023-04-03T04:55:52.179+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110797899618465850288?hl=en-US"
+    },
+    {
+      "author":"Darren Smith",
+      "avatar":"7452f6adf9938a53077586b41773a7ca",
+      "content":"Amazing menu. Staff. Shop and more! Good prices.  Good vibes!",
+      "review_date":"2023-03-14T15:13:06.412+00:00",
+      "rating":5,
+      "images":[
+        "cf6a536f0445f0b7da11518f69f4c7c8"
+      ],
+      "url":"https://www.google.com/maps/contrib/110870134896005614243?hl=en-US"
+    },
+    {
+      "author":"Marc-Ole Marthiensen",
+      "avatar":"2d9275e7e4fbe9563529da00a251b4cf",
+      "content":"(Translated by Google) Hey, one star off because it's not quite finished yet. However, nice people, fair prices,\ngood stuff The rest in good planning. I'd love to come back.....\nLove from\n\n(Original)\nHey, ein Stern abzug da noch nicht ganz fertig. Allerdings nette leute, faire Preise,\nguter Stuff. Der Rest in guter Planung. Komme gerne wieder.....\nLieben Gruß",
+      "review_date":"2023-02-01T12:55:38.029+00:00",
+      "rating":4,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110892535589433551585?hl=en-US"
+    },
+    {
+      "author":"Steven Schneider",
+      "avatar":"9127e625e5720366f6fa005606fbc2ab",
+      "content":"The best weed for the best price.",
+      "review_date":"2023-03-20T07:22:21.781+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111013015126704482018?hl=en-US"
+    },
+    {
+      "author":"jerome",
+      "avatar":"f6fd1e93be0328041210655a186d82ad",
+      "content":"Best weed for good price",
+      "review_date":"2023-03-20T06:08:07.389+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111071909433568745763?hl=en-US"
+    },
+    {
+      "author":"Joe Morgan",
+      "avatar":"75f7c3bef6e881d3c67b2ad7208c3715",
+      "content":"A very tasty selection, good prices, and service with a smile 🙏",
+      "review_date":"2023-01-27T12:37:16.099+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111096248198999140176?hl=en-US"
+    },
+    {
+      "author":"Gianluca Benigno",
+      "avatar":"5d45a8e7db88d886fd91fb1d287d5837",
+      "content":"Best cannabis on the Island 🏝!",
+      "review_date":"2023-03-14T13:20:43.321+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111205477539360184270?hl=en-US"
+    },
+    {
+      "author":"Samuel Grau",
+      "avatar":"9536c0b69db9ce27667e4d32fdd542a3",
+      "content":"Very nice people and nice weed thanks :)",
+      "review_date":"2023-03-20T07:04:04.538+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111236992622525369982?hl=en-US"
+    },
+    {
+      "author":"Sam Thomas",
+      "avatar":"0780ae2d302f445f2f2189d69f943f9c",
+      "content":"Excellent selection with very helpful staff\nGood prices would definitely recommend",
+      "review_date":"2023-01-25T12:18:17.002+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111390047117977169523?hl=en-US"
+    },
+    {
+      "author":"Maya .G",
+      "avatar":"ecd0974c51dc90599dbb66c402e94ccf",
+      "content":"In  this amazing and chill  store I find my favourite sort !granddaddy purple ,indica is very good for night )))actually I love the design of shop high cloud ☁️,a lot of plants 🌱,and good atmosphere here",
+      "review_date":"2023-01-28T09:35:15.93+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111714083994224774709?hl=en-US"
+    },
+    {
+      "author":"Manuel Leuppert",
+      "avatar":"639c09562467784ccdfc4f4ab499be47",
+      "content":"Very good place!!! Nice people ;)",
+      "review_date":"2023-02-06T14:28:04.258+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111783313117705691682?hl=en-US"
+    },
+    {
+      "author":"นางสาว ชญาภา ศิริโชติพัชร",
+      "avatar":"51277ce4f2277bd1f3d5a397f2a940b6",
+      "content":"",
+      "review_date":"2023-03-13T04:32:05.175+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111890675099987016225?hl=en-US"
+    },
+    {
+      "author":"Evgenyi Litvin",
+      "avatar":"20fc6c43f003887c8e89f6ec8e222771",
+      "content":"Goods buds and best price :3 <3",
+      "review_date":"2023-01-28T09:29:33.176+00:00",
+      "rating":5,
+      "images":[
+        "3f4d898351b8c202f9bd1242cf966073"
+      ],
+      "url":"https://www.google.com/maps/contrib/112036598878897261924?hl=en-US"
+    },
+    {
+      "author":"Vinc OT",
+      "avatar":"d6e503f35aa5d1ba4dc48ef2c96a7af0",
+      "content":"Weed is amazing for fair prices. Would totally recommend so come and check it out",
+      "review_date":"2023-03-20T07:23:20.825+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112248548200680446844?hl=en-US"
+    },
+    {
+      "author":"Moritz Neumann",
+      "avatar":"d48013834242101926d70b91aa7bb7c8",
+      "content":"(Translated by Google) Perfect store with top service 👍🏻👍🏻\n\n(Original)\nPerfekter Store mit top Bedienungen 👍🏻👍🏻",
+      "review_date":"2023-03-29T12:49:57.201+00:00",
+      "rating":5,
+      "images":[
+        "916afa1dc8de8b4334a5cfc6b28d726c"
+      ],
+      "url":"https://www.google.com/maps/contrib/112348755898067899452?hl=en-US"
+    },
+    {
+      "author":"jean Christian fressonnet",
+      "avatar":"99955002f2ee982f2b735871d7da1b32",
+      "content":"(Translated by Google) Great service great weed .nice!!!\nFrom time to time a French is present for those who have a poor command of English\n\n(Original)\nSuper service super weed .nice !!!\nDe temps en temps un français est présent pour ceux qui maîtrisent mal l anglais",
+      "review_date":"2023-02-07T10:47:52.88+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112389652325594341358?hl=en-US"
+    },
+    {
+      "author":"Yaël",
+      "avatar":"a91f918421528cfbc09f25d6e243b39e",
+      "content":"Best shop, high quality service & product. I recommend",
+      "review_date":"2023-02-12T06:34:48.704+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112447265647359381405?hl=en-US"
+    },
+    {
+      "author":"Lasse Knuth",
+      "avatar":"2ab10449627509f025e14ade976174f4",
+      "content":"Amazing Store, great quality and very nice Staff.",
+      "review_date":"2023-02-09T13:55:51.581+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112732999626466917644?hl=en-US"
+    },
+    {
+      "author":"aieie braze",
+      "avatar":"78d0064e052f2bc99ba118f70c3daf53",
+      "content":"(Translated by Google) Super place to recommend to everyone.\n\n(Original)\nSuper posto da raccomandare a tutti.",
+      "review_date":"2023-01-25T10:41:54.795+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112877027060703647151?hl=en-US"
+    },
+    {
+      "author":"Anna Jefferson",
+      "avatar":"3f0146e956651513b708813a07937b5a",
+      "content":"The best people and the best weed. Thank you for being my non stop shop for getting high!!",
+      "review_date":"2023-02-23T03:37:20.572+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113040226865614251401?hl=en-US"
+    },
+    {
+      "author":"Тимофей Хвостов",
+      "avatar":"d18e5d514aabe51dc05309b914be41e6",
+      "content":"(Translated by Google) Thanks to this place! 🙏🏻🙏🏻🙏🏻\n\n(Original)\nСпасибо этому место ! 🙏🏻🙏🏻🙏🏻",
+      "review_date":"2023-02-23T05:39:57.086+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113131676189361132370?hl=en-US"
+    },
+    {
+      "author":"pantin chaimongkol",
+      "avatar":"9ff5aa560744feff985d3132a111430a",
+      "content":"Best cannabis store , tasted good and fair price.",
+      "review_date":"2023-01-24T14:55:33.093+00:00",
+      "rating":5,
+      "images":[
+        "6935cc937afd0d577021de91a82aebca",
+        "4bcd1d7741680f173d75acd94e1d4975"
+      ],
+      "url":"https://www.google.com/maps/contrib/113650576788817032961?hl=en-US"
+    },
+    {
+      "author":"Shikha Ramavat",
+      "avatar":"9127e625e5720366f6fa005606fbc2ab",
+      "content":"Very good and clean place with good strains.",
+      "review_date":"2023-03-03T06:51:24.278+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113652006254489337760?hl=en-US"
+    },
+    {
+      "author":"Tsunami Free",
+      "avatar":"877d6498dc531b9247399a4c4ecd6bd0",
+      "content":"Indeed in the few that actually looks really professional despite the amounth of everage random places that try to open following the weed trend.\n\nStrains are not common, high quality and not expencive as everyone is for the quality they offer.\n\nOwner is from bkk and is not his only shop. This is one of the few that will survive . Good job",
+      "review_date":"2023-01-25T09:52:15.065+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113760692078659222854?hl=en-US"
+    },
+    {
+      "author":"amit eiger",
+      "avatar":"d3bb3b9e7b0406e9a2b1a4404bbaa846",
+      "content":"Wow\nAmazing place with great weed.\nIf you want some good time and nice people you definitely need to visit here ❤️❤️",
+      "review_date":"2023-01-25T11:16:13.056+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113943008635031194638?hl=en-US"
+    },
+    {
+      "author":"Vadim Sergeevich",
+      "avatar":"7538f85b841e4087730155a2691b744d",
+      "content":"great dispensary, reasonable price",
+      "review_date":"2023-02-08T05:57:03.227+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114429734389399481047?hl=en-US"
+    },
+    {
+      "author":"Tommy Hayes",
+      "avatar":"7f30696691ee072b4dfc9de0608604e3",
+      "content":"Amazing shop and staff, all very friendly! Favourite shop in thailand :)",
+      "review_date":"2023-03-24T13:13:44.335+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114839964550354431384?hl=en-US"
+    },
+    {
+      "author":"Aleksandra Zhukova",
+      "avatar":"84afa83d5d5192e6252213f5aa7899a3",
+      "content":"Very nice, clean and green shop\nwith good assistance and also super weeeed\nand good price for it!",
+      "review_date":"2023-01-26T15:32:33.394+00:00",
+      "rating":5,
+      "images":[
+        "29328d9973d38182e774803eb6b8002f"
+      ],
+      "url":"https://www.google.com/maps/contrib/115009593166563194909?hl=en-US"
+    },
+    {
+      "author":"klaudia 4040",
+      "avatar":"afb33c58685a831bc37ab4c62e7de2b8",
+      "content":"Super clean shop, have been back many times for Bourbon Street weed. Would recommend. The ladies are lovely and good prices",
+      "review_date":"2023-03-14T03:44:49.654+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115032961887864701905?hl=en-US"
+    },
+    {
+      "author":"Iskander Akhunov",
+      "avatar":"569235bb71b16c44dbec13f1faeeecb1",
+      "content":"My favourite shop in Phangan! Good taste weed!",
+      "review_date":"2023-02-05T10:54:37.445+00:00",
+      "rating":5,
+      "images":[
+        "be9168b8255b1a421ae2b84ec0fdfdaa"
+      ],
+      "url":"https://www.google.com/maps/contrib/115361845014183730635?hl=en-US"
+    },
+    {
+      "author":"caleb morphy",
+      "avatar":"040a90f9e08b694dc357dfd62c5878a8",
+      "content":"Good place, good prices and niiiice weed :)",
+      "review_date":"2023-01-26T14:14:47.194+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115398568556706389834?hl=en-US"
+    },
+    {
+      "author":"Konstantin Mantos",
+      "avatar":"c9a1a131159df80c648396a1a9148ef5",
+      "content":"best prices and good service. Nice place !!",
+      "review_date":"2023-03-20T07:21:45.569+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115536793464580673528?hl=en-US"
+    },
+    {
+      "author":"luke silver",
+      "avatar":"865e2cfde0f0f2de73836cbc8d1d2151",
+      "content":"Awesome shop, really nice product and great pricing 100%",
+      "review_date":"2023-01-25T10:42:05.241+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115557662361944704491?hl=en-US"
+    },
+    {
+      "author":"Oliver Whelan",
+      "avatar":"300c8d1fc5aedc318a435745eb306170",
+      "content":"Best on the island so far 👌",
+      "review_date":"2023-03-17T10:57:40.157+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115629718909828338576?hl=en-US"
+    },
+    {
+      "author":"Xtem Xtem",
+      "avatar":"14d7eef4d60434c85718b8079ed457dc",
+      "content":"Best prices for top shelf bud! Definitely will comeback!!",
+      "review_date":"2023-03-14T12:20:47.174+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115657602450357766176?hl=en-US"
+    },
+    {
+      "author":"Vithaya Pengsakul",
+      "avatar":"ade3ef58eed5f736f78e5ef260dfe9b0",
+      "content":"Friendly local bud-tender with a great selection.",
+      "review_date":"2023-03-18T09:56:14.352+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115832627856025028934?hl=en-US"
+    },
+    {
+      "author":"Florian Greuter",
+      "avatar":"3018798f1e90decec5d48bb4cd6caecc",
+      "content":"Great selection and quality at fair prices, plus friendly service, can only recommend this place 😃",
+      "review_date":"2023-03-18T09:53:54.74+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115941115124345137575?hl=en-US"
+    },
+    {
+      "author":"Adel Shalan",
+      "avatar":"9f128aba2afcce86fbfc97fb30fc21ac",
+      "content":"One of the best places in koh phangan.. great value for money and promotions",
+      "review_date":"2023-03-25T04:06:45.204+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115956960383536746685?hl=en-US"
+    },
+    {
+      "author":"Олег Латыпов",
+      "avatar":"2392e9180b07e8a858ce681950a43e88",
+      "content":"(Translated by Google) Great store, quality staff and very pleasant service, I recommend it to everyone\n\n(Original)\nОтличный магазин, качественный стафф и очень приятное обслуживание, всем рекомендую",
+      "review_date":"2023-02-04T12:31:01.45+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116065982661816019793?hl=en-US"
+    },
+    {
+      "author":"Karine Ozaslan",
+      "avatar":"3842db1cd09fcc7b9fd05a12a96124a9",
+      "content":"Amazing place!! Really good prices, really nice weed. My store for the next 2 weeks. Thank’s",
+      "review_date":"2023-02-25T12:07:10.198+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116391143700153991369?hl=en-US"
+    },
+    {
+      "author":"Сергей Ильичев",
+      "avatar":"6e534ec3370451ec3cc4346d16a5bc7b",
+      "content":"Nice weed that makes you high, good prices",
+      "review_date":"2023-03-02T15:03:14.943+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116653741983487981186?hl=en-US"
+    },
+    {
+      "author":"silvy cottet",
+      "avatar":"f58aaf96e04f57380eff3bc389cab2dc",
+      "content":"(Translated by Google) Very nice shop.\nGreat welcome.\nGood quality.. good price 🙏💝\n\n(Original)\nTrès beau shop .\nSuper accueil .\nGood quality.. good price 🙏💝",
+      "review_date":"2023-01-25T05:26:39.251+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116762880824411189926?hl=en-US"
+    },
+    {
+      "author":"Thomas Bradford",
+      "avatar":"4a161ee6cbf6cf9e2b4e2f41435d187d",
+      "content":"",
+      "review_date":"2023-03-09T11:39:03.981+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116769536051103389931?hl=en-US"
+    },
+    {
+      "author":"Alex Birnbaum",
+      "avatar":"112fb5e8a77526c96d63b5e8e17051c4",
+      "content":"(Translated by Google) Great store! Absolutely to recommend! Nice people, fair prices and right on the main street! No.1 on the island!!!!!\n\n(Original)\nSuper Laden! Absolut zu empfehlen! Nette Leute, faire Preise und direkt an der Hauptstraße! No.1 on the island!!!!!!",
+      "review_date":"2023-02-01T12:56:02.981+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116803935890378668611?hl=en-US"
+    },
+    {
+      "author":"Marc Todd",
+      "avatar":"03344a6cef45dd1cb9532848195e3277",
+      "content":"The best smoke in Ko Phan Ngan, fair prices and friendly staff. Highly recommended",
+      "review_date":"2023-02-25T06:46:02.045+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116816224464528218768?hl=en-US"
+    },
+    {
+      "author":"Валерия Стаси",
+      "avatar":"a4371d466666ecfe461aa115ac1fd613",
+      "content":"(Translated by Google) Great staff 👍 the saleswoman is very nice and will tell you everything by variety ❤️ the prices are excellent compared to everything in the area\n\n(Original)\nОтличный стафф 👍 продавщица очень приятная и подскажет по сортам всё ❤️ цены отличные по сравнению со всем в округе",
+      "review_date":"2023-02-01T08:08:07.535+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117360484956204455314?hl=en-US"
+    },
+    {
+      "author":"ruey than",
+      "avatar":"e6f7072c0fd166e11a900a4cd10bb491",
+      "content":"",
+      "review_date":"2023-03-07T06:23:34.619+00:00",
+      "rating":5,
+      "images":[
+        "a01c0cf50cd02bd78a8e1872c2f52bf3"
+      ],
+      "url":"https://www.google.com/maps/contrib/117414704792929202904?hl=en-US"
+    },
+    {
+      "author":"Vincent Flowers",
+      "avatar":"dd5fe228337c13348d3a9119b57dbea7",
+      "content":"Very large selection of flowers with top quality !! O recommend this shop !!",
+      "review_date":"2023-03-14T04:56:40.336+00:00",
+      "rating":5,
+      "images":[
+        "27a7faa7c90fc8d0833db6faa75b4a0e"
+      ],
+      "url":"https://www.google.com/maps/contrib/117622179852067012258?hl=en-US"
+    },
+    {
+      "author":"anna maria reviglio",
+      "avatar":"e23412828ba6966d55358bda6cbb3c47",
+      "content":"Nice shop, nice quality, good price and lovely honer.. Hight recommended 🎉🎉🎉",
+      "review_date":"2023-01-26T06:34:55.102+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117998792663381856614?hl=en-US"
+    }
+  ],
+  "reviews_aggregate":{
+    "aggregate":{
+      "sum":{
+        "rating":549
+      },
+      "count":110
+    }
+  },
+  "suggestions":[
+    {
+      "distance":0.00926738815414251,
+      "dispensary":{
+        "id":"a585e434-4607-44a4-8d89-7d382589b434",
+        "city":"Surat Thani",
+        "name":"Space Koh Pha Ngan",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":9.70862,
+        "lng":100.0004876,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":2
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":2
+            },
+            "count":1
+          }
+        },
+        "has_products":false,
+        "address":"128/16 เกาะพะงัน Tambon Ko Pha-ngan, เกาะพะงัน Chang Wat Surat Thani 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.010030089881296684,
+      "dispensary":{
+        "id":"6344655a-7a44-464c-9b21-7ca9135960ae",
+        "city":"Surat Thani",
+        "name":"Space Koh Pha Ngan",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"2300"
+            }
+          }
+        ],
+        "lat":9.7086291,
+        "lng":100.0004787,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "image":"7bdefb183dafbddfda643d4e042baf12",
+        "has_products":false,
+        "address":"128 Koh PhaNgan Chang Wat Surat Thani 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.04828260392215537,
+      "dispensary":{
+        "id":"291e7eec-6095-4818-8820-ef6cb2fe3986",
+        "city":"Surat Thani",
+        "name":"Stay High",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1100"
+            },
+            "close":{
+              "day":0,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1100"
+            },
+            "close":{
+              "day":1,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1100"
+            },
+            "close":{
+              "day":2,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1100"
+            },
+            "close":{
+              "day":3,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1100"
+            },
+            "close":{
+              "day":4,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1100"
+            },
+            "close":{
+              "day":5,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1100"
+            },
+            "close":{
+              "day":6,
+              "time":"2200"
+            }
+          }
+        ],
+        "lat":9.708677199999999,
+        "lng":100.0010084,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":55
+            },
+            "count":11
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":55
+            },
+            "count":11
+          }
+        },
+        "image":"64109cd95acb7e47625acccbcef20af3",
+        "has_products":false,
+        "address":"135/20, Tambon koh phangan, ตำบล บ้านใต้ Koh Phangan, สุราษฎร์ธานี 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.2051279385624912,
+      "dispensary":{
+        "id":"ec73b6e3-9f22-47ea-9fc4-a59a63d2a2fe",
+        "city":"Surat Thani",
+        "name":"big aows tattoo, piercing and weed",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0900"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"0900"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"0900"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"0900"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"0900"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"0900"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"0900"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":9.708656399999997,
+        "lng":100.0024409,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "image":"f4621f69146396a270e0f56e687c7f3f",
+        "has_products":false,
+        "address":"100/5 M.I T.kohpangan A. kohpangan surathani, ตำบลเกาะพะงัน อำเภอเกาะพะงัน สุราษฎร์ธานี 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.4151235283191145,
+      "dispensary":{
+        "id":"00260073-8053-46a2-b96c-e25b4ba33efa",
+        "city":"Surat Thani",
+        "name":"Dudka coffeeshop",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":9.7084269,
+        "lng":99.99678809999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":76
+            },
+            "count":16
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":76
+            },
+            "count":16
+          }
+        },
+        "image":"d40e0122ca210b83ab7537d646eadd43",
+        "has_products":false,
+        "address":"PX5W+9M9, Ko Pha-ngan Sub-district, Ko Pha-ngan District, Surat Thani 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.518922587022326,
+      "dispensary":{
+        "id":"b4d11ff0-acdd-4356-b12a-ccd024674353",
+        "city":"Surat Thani",
+        "name":"Gan Avatar Shop 2",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1100"
+            },
+            "close":{
+              "day":0,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1100"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1100"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1100"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1100"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1100"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1100"
+            },
+            "close":{
+              "day":6,
+              "time":"2300"
+            }
+          }
+        ],
+        "lat":9.7080945,
+        "lng":99.9958674,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "has_products":false,
+        "address":"99/40 Tambon Ko Pha-ngan, เกาะพะงัน Chang Wat Surat Thani 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.7695582207940493,
+      "dispensary":{
+        "id":"7280d3ee-35e3-480c-a6eb-c2c5ea6f92fd",
+        "city":"Surat Thani",
+        "name":"A•Central Koh Phangan",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":9.7085708,
+        "lng":99.99354840000001,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":20
+            },
+            "count":4
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":15
+            },
+            "count":3
+          }
+        },
+        "image":"d04dbed4e228fdeaee957b92b173bf66",
+        "has_products":false,
+        "address":"99/131 Moo 1 T, Koh Phangan A Koh Phangan, ตำบลเกาะพะงัน อำเภอเกาะพะงัน สุราษฎร์ธานี 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.7909548340599799,
+      "dispensary":{
+        "id":"f77fb05a-b7d7-4304-bce2-1b81dfa67240",
+        "city":"Surat Thani",
+        "name":"Cali Weed Phangan",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1100"
+            },
+            "close":{
+              "day":0,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1100"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1100"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1100"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1100"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1100"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1100"
+            },
+            "close":{
+              "day":6,
+              "time":"2300"
+            }
+          }
+        ],
+        "lat":9.708799299999999,
+        "lng":99.99335459999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":35
+            },
+            "count":7
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":35
+            },
+            "count":7
+          }
+        },
+        "image":"d13adb316ad3e89aec6bbae7a86c09bd",
+        "has_products":false,
+        "address":"PX5V+G9C, Ko Pha-ngan Sub-district, Ko Pha-ngan District, Surat Thani 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.8091671367378334,
+      "dispensary":{
+        "id":"3cddf8f8-5e81-4b35-8192-11a44631eef2",
+        "city":"Surat Thani",
+        "name":"Mamma Mia Wonderfood food delivery",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1300"
+            },
+            "close":{
+              "day":1,
+              "time":"0100"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1300"
+            },
+            "close":{
+              "day":2,
+              "time":"0100"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1300"
+            },
+            "close":{
+              "day":3,
+              "time":"0100"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1300"
+            },
+            "close":{
+              "day":5,
+              "time":"0100"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1300"
+            },
+            "close":{
+              "day":6,
+              "time":"0100"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1300"
+            },
+            "close":{
+              "day":0,
+              "time":"0100"
+            }
+          }
+        ],
+        "lat":9.708701099999999,
+        "lng":99.9931869,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":668
+            },
+            "count":147
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":273
+            },
+            "count":60
+          }
+        },
+        "image":"87eddcd9065d21c2202386466524eb13",
+        "has_products":false,
+        "address":"99/88 Koh Phangan Tong Sala, ตำบลเกาะพะงัน อำเภอเกาะพะงัน สุราษฎร์ธานี 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.9070175173428694,
+      "dispensary":{
+        "id":"b1f6180e-3e9f-4e69-aaba-a852fcdcc877",
+        "city":"Surat Thani",
+        "name":"Weedo's",
+        "types":[
+          "Dispensary"
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1100"
+            },
+            "close":{
+              "day":0,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1100"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1100"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1100"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1100"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1100"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1100"
+            },
+            "close":{
+              "day":6,
+              "time":"2300"
+            }
+          }
+        ],
+        "lat":9.7061805,
+        "lng":100.0084594,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":209
+            },
+            "count":42
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":209
+            },
+            "count":42
+          }
+        },
+        "image":"5f50448a194b69481c6bc487f71f082b",
+        "has_products":false,
+        "address":"103 5 หมู่ 1 Ban Tai, เกาะพะงัน Surat Thani 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.97660947067264,
+      "dispensary":{
+        "id":"e9b84fe6-ac04-4048-a26e-4585b67165fd",
+        "city":"Surat Thani",
+        "name":"Duck Farmer",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0930"
+            },
+            "close":{
+              "day":0,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"0930"
+            },
+            "close":{
+              "day":1,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"0930"
+            },
+            "close":{
+              "day":2,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"0930"
+            },
+            "close":{
+              "day":3,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"0930"
+            },
+            "close":{
+              "day":4,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"0930"
+            },
+            "close":{
+              "day":5,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"0930"
+            },
+            "close":{
+              "day":6,
+              "time":"0200"
+            }
+          }
+        ],
+        "lat":9.709003299999997,
+        "lng":99.9916665,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":195
+            },
+            "count":39
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":195
+            },
+            "count":39
+          }
+        },
+        "image":"bbb723c3be5a0d68f6f993a8fedc2ac4",
+        "has_products":false,
+        "address":"99/100 Koh Phangan Koh Phangan Tambon Ko Pha-ngan, Amphoe Ko Pha-ngan, Chang Wat Surat Thani 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.0309842891607448,
+      "dispensary":{
+        "id":"ab240e1e-69d9-4766-8b34-e196791da507",
+        "city":"Surat Thani",
+        "name":"DONS. Professional Cannabis",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":9.7093125,
+        "lng":99.99118750000001,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":274
+            },
+            "count":56
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":274
+            },
+            "count":56
+          }
+        },
+        "image":"554a03928abb24f6970f63dab9c97ec8",
+        "has_products":false,
+        "address":"PX5R+PF5 Phangan Food Court, Tambon Ko Pha-ngan, Koh Phangan, Chang Wat Surat Thani 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.0943703426314,
+      "dispensary":{
+        "id":"f91e3f55-eaff-4498-ba2b-11c0a32f0ba0",
+        "city":"Surat Thani",
+        "name":"Toler Fighters cannabis store",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1400"
+            },
+            "close":{
+              "day":0,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1400"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1400"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1400"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1400"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1400"
+            },
+            "close":{
+              "day":6,
+              "time":"2300"
+            }
+          }
+        ],
+        "lat":9.7109715,
+        "lng":99.9908684,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":20
+            },
+            "count":4
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":20
+            },
+            "count":4
+          }
+        },
+        "image":"31d597395cea586242ef494af8815b9c",
+        "has_products":false,
+        "address":"212, Koh Phangan, Chang Wat Surat Thani 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.097048848653973,
+      "dispensary":{
+        "id":"178c0855-264a-4bf6-881d-d75a97f2be76",
+        "city":"Surat Thani",
+        "name":"THE LAB , Koh Phangan",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":9.7100118,
+        "lng":99.99065709999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "image":"f143fe878e41028a26359e2a9d1f7ee1",
+        "has_products":false,
+        "address":"144, koh phangan, Chang Wat Surat Thani 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.109949273004332,
+      "dispensary":{
+        "id":"98dbd773-eea6-48ff-9cc9-ce3d41f3a59a",
+        "city":"Surat Thani",
+        "name":"HEADQUARTERS KPG",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"2000"
+            }
+          }
+        ],
+        "lat":9.710952699999998,
+        "lng":99.9907176,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":165
+            },
+            "count":34
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":165
+            },
+            "count":34
+          }
+        },
+        "image":"176433e982b33d893ecebb8ba366ff85",
+        "has_products":false,
+        "address":"PX6R+955, Ko Pha-ngan Sub-district, Ko Pha-ngan District, Surat Thani 84280, Thailand",
+        "open":false
+      }
+    }
+  ]
+}

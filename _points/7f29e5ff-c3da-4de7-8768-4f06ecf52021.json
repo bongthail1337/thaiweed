@@ -1,0 +1,714 @@
+{
+    "id":"7f29e5ff-c3da-4de7-8768-4f06ecf52021",
+    "lat": "13.9096236",
+    "lng": "100.6367977",
+    "city":"Bangkok",
+    "name":"iGrowman.Weed",
+    "type":null,
+    "business_images":[
+      "4dd3d5e8ace663226696844a9fd64171",
+      "123cd4c4746a2659da67c648ced0663f",
+      "4a9b188fc6e064522a37b90d625375ed",
+      "b0885e2fc2ab37e27a23c4067c0dfd32",
+      "07b59bdac7304c3571397473fa3f7ac6",
+      "31a67263247bc61909fa7ee5cc22c841",
+      "c618e7db451df2bc63a7ab84c310ce2a",
+      "84489fba972053da9e4a13bb18bf9e11",
+      "b9b14fada8c56e2807a10dba07f28839",
+      "3a5c22233118f99d4db5367c22078000",
+      "8271d064a0b6871f5c9d4a1c02b06b79",
+      "87ed14964a88dbe68d79a98145dee1b8",
+      "cd37c7b0499236997a2595b805a58b25"
+    ],
+    "google_images":[
+      
+    ],
+    "status":"approved",
+    "website":"https://www.facebook.com/profile.php?id=100086253286385",
+    "phone":"0643077328",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"0000"
+        }
+      }
+    ],
+    "line":"@050yxumk",
+    "google_url":"https://maps.google.com/?cid=525818520237307707",
+    "place_id":"PuVWhJdv0OO7UGREB_pDtltIGNp",
+    "facebook":"https://www.facebook.com/profile.php?id=100086253286385",
+    "description":"\"iGrowman\"  is an Online Cannabis Shop located in BKK with different grade of buds,Sativa Hybrid and Indica with crystal are available, weed cuttings with many strains, planting equipment, many Accessories of Smoke Equipments such as Cookie Grinder, and we have organic fertilizer there are shrimp shell, crab shell, shells, soybean meal, worm castings.\nPlease feel free to check out our products and Promotions ! \n\nDelivery are available by Grab, Lineman ✓\n☎️ https://lin.ee/OIrD8xS\n🕛Business Hours - 12PM.- 12AM. (7Days)\n\nThank you for support as always. 🙂\n---iGrowman---",
+    "products_flowers":[
+      {
+        "id":"8a1c0132-b12d-4d9d-8fae-a93a10e378d4",
+        "name":"Gorilla Zkittlez",
+        "description":"gorilla zkittlez\nFeelings: Hungry.Giggly.Sleepy\nHelps with: Anxiety.Depression.Stress",
+        "images":[
+          "f04435bd77cf72737660eb43a526de1e",
+          "49384ea1fbe00ff374872c315ed63fbd",
+          "a4f1f843ab95337193176fad58cf7195"
+        ],
+        "thc":24,
+        "cbd":0,
+        "sativa":40,
+        "indica":60,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-05T20:16:25.338737+00:00",
+        "updated_at":"2023-04-15T22:00:09.729809+00:00"
+      },
+      {
+        "id":"2a5fe2b8-a65a-4f59-b26e-eecc92dc52d9",
+        "name":"Super Lemon Haze",
+        "description":"super lemon haze\nFeelings: Energetic.Uplifted.Creative\nHelps with: Stress.Depression.Anxiety",
+        "images":[
+          "1e30f24b41557c06ae27cbbc9840af7b",
+          "b0885e2fc2ab37e27a23c4067c0dfd32",
+          "35506772bf6817d3d95e5398c07276a4"
+        ],
+        "thc":25,
+        "cbd":0,
+        "sativa":70,
+        "indica":30,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-05T20:17:28.608207+00:00",
+        "updated_at":"2023-04-15T22:00:09.689759+00:00"
+      },
+      {
+        "id":"a00e66ed-4db3-406a-b2ad-f6d05cd77ea3",
+        "name":"Headband x Blueberry",
+        "description":"headband x blueberry\nFeelings: Giggly.Talkative.Uplifted\nHelps with: Stress.Anxiety.Depression",
+        "images":[
+          "b9b14fada8c56e2807a10dba07f28839",
+          "e287271a3702ffd4436898f0d0c49266"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-05T20:20:04.994752+00:00",
+        "updated_at":"2023-04-15T22:00:09.706651+00:00"
+      },
+      {
+        "id":"19e29bf4-1a35-409a-831b-a4c8de3748fd",
+        "name":"Purple Kush",
+        "description":"purple kush\nFeelings: Sleepy.Hungry.Giggly\nHelps with: Stress.Pain.Insomnia",
+        "images":[
+          "d80771cbc3b14d24b72065239c5519fd"
+        ],
+        "thc":27,
+        "cbd":0,
+        "sativa":25,
+        "indica":75,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-06T18:52:50.592582+00:00",
+        "updated_at":"2023-04-15T22:00:09.724026+00:00"
+      },
+      {
+        "id":"a812c2ae-b78f-4933-9baf-5609bc223fd8",
+        "name":"Purple Skunk",
+        "description":"purple skunk\nFeelings: Tingly.Aroused.Energetic\nHelps with: Stress.Pain.Depression",
+        "images":[
+          "05b2fb88f528603d4dbd3b1694702274"
+        ],
+        "thc":20,
+        "cbd":0,
+        "sativa":25,
+        "indica":75,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-06T18:58:46.470372+00:00",
+        "updated_at":"2023-04-15T22:00:09.718179+00:00"
+      },
+      {
+        "id":"dd80dad8-57e9-4e06-a772-085ebf1e01ce",
+        "name":"ฺBCN Critical XXL Autoflower",
+        "description":"เหมาะสำหรับผู้เริ่มต้น\n",
+        "images":[
+          "93e09c0ab541b919f21e0a2fd7b135f2",
+          "4f7ff06b027f519569be4a983cce92f2"
+        ],
+        "thc":22,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"B",
+        "disabled":false,
+        "created_at":"2023-03-07T06:26:23.119261+00:00",
+        "updated_at":"2023-04-15T22:00:09.694623+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"J T",
+        "avatar":"0f57c1b32b9f77a67523c529db708e9f",
+        "content":"I bought by contacting via facebook. Good service. Really good stuff.",
+        "review_date":"2023-03-07T05:57:59.299+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110100081669001469224?hl=en-US"
+      },
+      {
+        "author":"SIMRIOTIODAK KPADNG",
+        "avatar":"957eabc48215a91bfb56db724f546fa2",
+        "content":"แนะนำร้านนี้เลยจริงๆร้านจัดส่งไว ราคาถูก คุณภาพดีมากๆ very good👍🏻👍🏻\n\n(Translated by Google)\nReally recommend this store, fast delivery, cheap price, very good quality very good👍🏻👍🏻",
+        "review_date":"2023-03-23T06:04:25.117+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110491337603972819959?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":10
+        },
+        "count":2
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.1677767932616763,
+        "dispensary":{
+          "id":"beec3ba8-68bd-4791-8ed7-e935f03e9a47",
+          "city":"Bangkok",
+          "name":"iGrowman",
+          "types":[
+            
+          ],
+          "lat":13.9099926,
+          "lng":100.636844,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"111 คลองถนน สายไหม Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.5916917680499341,
+        "dispensary":{
+          "id":"863984ce-bf74-404f-bdd0-b710e1f4973c",
+          "city":"Bangkok",
+          "name":"\" กินแฟกัญ \" (Cannabis coffee)",
+          "types":[
+            
+          ],
+          "lat":13.9105985,
+          "lng":100.6318811,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"59612021dabf9aee1a06a5897145a392",
+          "has_products":false,
+          "address":"8 เทวรัตน์แมนชั่น โจ๊กเจ๊หมวย สาขา2 (หลังวัดเกาะ สายไหม Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.178340947665852,
+        "dispensary":{
+          "id":"df100d59-8d7e-43b6-bbab-a805e4883b52",
+          "city":"Bangkok",
+          "name":"Weedking Farm & Cafe",
+          "types":[
+            "Cafe",
+            "Dispensary",
+            "Farm",
+            "Delivery",
+            "Grower",
+            "Wholesaler"
+          ],
+          "lat":13.898563,
+          "lng":100.6330786,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"510b80a8d03a49d014d84318419c62d0",
+          "has_products":true,
+          "address":"560, 23 หมู่ 2 Soi Phoem Sin 26, Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.5963145787442126,
+        "dispensary":{
+          "id":"9c18a760-4268-4071-9d5e-f58245b82970",
+          "city":"Bangkok",
+          "name":"Sawadee​ Ganja สาขาสายไหม(Cannabis,Hemp,Weed,cannabis dispensary, THC,CBD, กัญชา, weed shop, บราวนี่ THC, jelly THC)",
+          "types":[
+            
+          ],
+          "lat":13.9217934,
+          "lng":100.6424589,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "image":"e1eb91d92f3ab6fd07cc757501906a8b",
+          "has_products":false,
+          "address":"99/6 Soi Sai Mai 22, Khwaeng Sai Mai, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.926906231903155,
+        "dispensary":{
+          "id":"487de52a-28af-4791-af35-f7a8ee175324",
+          "city":"Bangkok",
+          "name":"MariJBKK",
+          "types":[
+            
+          ],
+          "lat":13.9209643,
+          "lng":100.6492994,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "image":"e7ed3f887fc8acf8272be597bd64198d",
+          "has_products":false,
+          "address":"Mari J BKK 92/2 Soi Sap Suk, Khwaeng Sai Mai, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.439872741777437,
+        "dispensary":{
+          "id":"0ea8e09d-bd16-4b58-a23c-5179a72e19f9",
+          "city":"Bangkok",
+          "name":"Smonkey's buds",
+          "types":[
+            "Wholesaler",
+            "Delivery",
+            "Farm"
+          ],
+          "lat":13.9230299,
+          "lng":100.6538381,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"3d1d77b6ab78022e6bbf0a27537794cc",
+          "has_products":false,
+          "address":"289/17, saimai, เขตสายไหม กรุงเทพมหานคร 10220, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.597789940840801,
+        "dispensary":{
+          "id":"f7be4467-ae1a-4461-905d-fe829933a035",
+          "city":"Bangkok",
+          "name":"Happy moon Herb",
+          "types":[
+            
+          ],
+          "lat":13.8962213,
+          "lng":100.657397,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"e427a51cb6702babe70e54530e957c4d",
+          "has_products":false,
+          "address":"15 13 Soi Sukhaphiban 5 soi 41, Khwaeng Ao Ngoen, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.7040398867642477,
+        "dispensary":{
+          "id":"1026e2f0-8245-4255-8608-bb54a5a4c460",
+          "city":"Bangkok",
+          "name":"Cannabis Coffee",
+          "types":[
+            
+          ],
+          "lat":13.891146,
+          "lng":100.6193474,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"1/29 Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.8286913159886464,
+        "dispensary":{
+          "id":"754574c8-8db8-4a3b-a9b7-fe842b8eff5b",
+          "city":"Bangkok",
+          "name":"กัญเอง - น้ำกัญชาสกัดเพื่อสุขภาพ",
+          "types":[
+            
+          ],
+          "lat":13.8940089,
+          "lng":100.6153626,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"dfae07551a6e647004fe4579405356b0",
+          "has_products":false,
+          "address":"569 11 Soi Phahon Yothin 52, Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.9005462840294403,
+        "dispensary":{
+          "id":"a80e3b9c-fd39-4bb2-a04e-92e82124af2f",
+          "city":"Bangkok",
+          "name":"ธัญญาสุตรา คลินิกกัญชาทางการแพทย์",
+          "types":[
+            "Clinic"
+          ],
+          "lat":13.8943533,
+          "lng":100.6594993,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"1c9a9b98f0f716e24265e91292b4393b",
+          "has_products":false,
+          "address":"Sukhabibal5, Khwaeng Ao Ngoen, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.9674244185597503,
+        "dispensary":{
+          "id":"9113d78d-3864-4222-91a8-7321a42e5c33",
+          "city":"Bangkok",
+          "name":"SPACE SEED",
+          "types":[
+            
+          ],
+          "lat":13.8852573,
+          "lng":100.6233766,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "image":"2ec174c02d7a26a4b96ca013c677df0c",
+          "has_products":false,
+          "address":"139 117 ซ. พหลโยธิน 52 Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.989705553798022,
+        "dispensary":{
+          "id":"2bd792a9-87fd-4ee9-bb75-7de588e6b791",
+          "city":"Bangkok",
+          "name":"GREEN AREA",
+          "types":[
+            
+          ],
+          "lat":13.9003305,
+          "lng":100.6633062,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"87769941be35241858f8e4a3467e414f",
+          "has_products":false,
+          "address":"38 โครงการเพนกวินปาร์ค 10 Sukhaphiban 5 Road, Khwaeng Ao Ngoen, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":3.0144368995011934,
+        "dispensary":{
+          "id":"2228d103-393a-4e2a-aebe-f9978c841d08",
+          "city":"Pathum Thani",
+          "name":"Herbstore",
+          "types":[
+            
+          ],
+          "lat":13.9351911,
+          "lng":100.6417136,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"350 11 Thanon Lam Luk Ka, คูคต Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":3.065393181044395,
+        "dispensary":{
+          "id":"1b46e151-1863-4c60-a7d6-f41296542c5b",
+          "city":"Bangkok",
+          "name":"PIGCOLOSHOP",
+          "types":[
+            
+          ],
+          "lat":13.8884602,
+          "lng":100.6564304,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":50
+              },
+              "count":10
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":50
+              },
+              "count":10
+            }
+          },
+          "image":"39ca33f388bc2544da12c4c35ec6ec72",
+          "has_products":false,
+          "address":"เลขที่ 2 ถนน Sukhaphiban 5 Soi 40, Khwaeng Ao Ngoen, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":3.104524145855489,
+        "dispensary":{
+          "id":"e307440e-e136-485d-b9f3-659d36d0b730",
+          "city":"Bangkok",
+          "name":"ร้าน Cookie กัญ By ท่าบ่อ กรีนเนอรี่",
+          "types":[
+            
+          ],
+          "lat":13.9340554,
+          "lng":100.6253626,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":4
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":4
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"241 Phahonyothin Road, Khwaeng Sai Mai, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

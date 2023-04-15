@@ -1,0 +1,3738 @@
+{
+  "id":"12ed06ed-97de-4b43-93b9-d39bade75ffc",
+  "lat":"7.879723",
+  "lng":"98.3723906",
+  "city":"Phangnga",
+  "name":"Green high shop",
+  "type":null,
+  "business_images":[
+    "5021270dc298651f5930544bb35ae2be"
+  ],
+  "google_images":[
+    "429f7186482ae8ce6691986eb3329e91",
+    "0da85710f25164c32c35191586c38c11",
+    "7af3a6f0bb58806010d655012de438e0",
+    "4880cc5f009a44af2c68953b8df55cc0",
+    "5304537ca8dac91be8d56ea832b7579d",
+    "d33086df618bd0366aab95ce3001ec35",
+    "e5afbcd68744e058b4a45679a00ca607",
+    "b526ab8b99edde829553cf60a2de1c62",
+    "2d4fca490752e1440949dd2e5ed96f4f",
+    "b526ab8b99edde829553cf60a2de1c62"
+  ],
+  "status":"approved",
+  "website":"https://greenhighshop.business.site/?utm_source=gmb&utm_medium=referral",
+  "phone":"+66 64 563 9941",
+  "opening_hours":[
+    {
+      "open":{
+        "day":0,
+        "time":"1200"
+      },
+      "close":{
+        "day":1,
+        "time":"0100"
+      }
+    },
+    {
+      "open":{
+        "day":1,
+        "time":"1200"
+      },
+      "close":{
+        "day":2,
+        "time":"0100"
+      }
+    },
+    {
+      "open":{
+        "day":2,
+        "time":"1200"
+      },
+      "close":{
+        "day":3,
+        "time":"0100"
+      }
+    },
+    {
+      "open":{
+        "day":3,
+        "time":"1200"
+      },
+      "close":{
+        "day":4,
+        "time":"0100"
+      }
+    },
+    {
+      "open":{
+        "day":4,
+        "time":"1200"
+      },
+      "close":{
+        "day":5,
+        "time":"0100"
+      }
+    },
+    {
+      "open":{
+        "day":5,
+        "time":"1200"
+      },
+      "close":{
+        "day":6,
+        "time":"0100"
+      }
+    },
+    {
+      "open":{
+        "day":6,
+        "time":"1200"
+      },
+      "close":{
+        "day":0,
+        "time":"0100"
+      }
+    }
+  ],
+  "line":"@greenhighshop",
+  "google_url":"https://maps.google.com/?cid=2172436287364674118",
+  "place_id":"PuVWxIikaCNkHQNEEwXXSHfYWu5",
+  "facebook":"https://www.facebook.com/profile.php?id=100083176848553",
+  "description":"Phuket cannabis shop / Bongs / Rolling Paper / Drink / Food / Music / Community / \nLocations : Naka Chao fa Phuket\nBest place to chill out with your friend or have a dinner at our shop \nWe welcome for everyone who never meet us \nAlso Delivery all around \nPeace and Love \n",
+  "products_flowers":[
+    
+  ],
+  "products_seeds":[
+    
+  ],
+  "products_prerolls":[
+    
+  ],
+  "products_edibles":[
+    {
+      "id":"5d9e15c4-40d4-449d-9487-7dd457338c93",
+      "name":"Brownies/cookies/popcorn/ terpene gummy",
+      "description":"Medium high 20mg per one ",
+      "images":[
+        "cf415e35eda9c160dee57c3208268cd5"
+      ],
+      "thc":20,
+      "cbd":0,
+      "sativa":50,
+      "indica":50,
+      "images_coa":[
+        
+      ],
+      "disabled":false,
+      "created_at":"2022-12-29T08:59:24.969639+00:00",
+      "updated_at":"2023-04-06T20:00:05.160046+00:00"
+    }
+  ],
+  "products_topicals":[
+    
+  ],
+  "products_gear":[
+    
+  ],
+  "products_misc":[
+    
+  ],
+  "reviews":[
+    {
+      "author":"Mr.Alex channel",
+      "avatar":"fed692cab0ea11c6c53fee7fa4b1cc17",
+      "content":"(Translated by Google) Decent place with nice staff\n\n(Original)\nДостойное место с рриятным персоналом",
+      "review_date":"2023-02-02T10:58:59.754+00:00",
+      "rating":5,
+      "images":[
+        "621b0146a7acd64b0d9b18b7a4b6e14f"
+      ],
+      "url":"https://www.google.com/maps/contrib/100209214718633040126?hl=en-US"
+    },
+    {
+      "author":"Teshimoto",
+      "avatar":"183cc680428cc7b3c564c6f6893806f6",
+      "content":"Awesome",
+      "review_date":"2023-02-03T16:05:36.379+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100220911320836266030?hl=en-US"
+    },
+    {
+      "author":"Сергей Александрович",
+      "avatar":"ef4ff2ebbc8a7da353ad34b770783b84",
+      "content":"(Translated by Google) Staff is great! Staff is killer!\nI recommend!\n\n(Original)\nСтафф отличный! Стафф убойный!\nРекомендую!",
+      "review_date":"2023-02-11T15:57:45.231+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100225056683360525204?hl=en-US"
+    },
+    {
+      "author":"Щербань Диана",
+      "avatar":"4d7c5ab96e7a0fc0e68d1f194557004f",
+      "content":"great place with the best guys working here! all our friends who have been smoking for a while said that the best stuff is sold here!",
+      "review_date":"2023-01-21T15:02:56.573+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100348084764767300768?hl=en-US"
+    },
+    {
+      "author":"Дмитрий Баскаков",
+      "avatar":"3f39041c92ec722eb114da2f3445e1e7",
+      "content":"(Translated by Google) everything is great, great store\n\n(Original)\nвсе кайф, отличный магазин",
+      "review_date":"2023-03-07T07:49:19.932+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100439792049072101803?hl=en-US"
+    },
+    {
+      "author":"Karina Tsyndukova",
+      "avatar":"2150c80d17a784491388c911ea6411e2",
+      "content":"The best shop",
+      "review_date":"2023-01-21T08:46:28.189+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100515609993949923230?hl=en-US"
+    },
+    {
+      "author":"urboypatindahood",
+      "avatar":"524cd9b36d8d35787ad76fb90578d896",
+      "content":"Probably the best dispensaries in town so far from 5 years smoking experience in Phuket🙌🙌🙌",
+      "review_date":"2022-09-28T09:40:22.779+00:00",
+      "rating":5,
+      "images":[
+        "5422d4d9711565e5e297a34d0c14dde1"
+      ],
+      "url":"https://www.google.com/maps/contrib/100580547449253995115?hl=en-US"
+    },
+    {
+      "author":"Scarlett Brice-adams",
+      "avatar":"0939aad7863bb1b1703a0cd2618c8737",
+      "content":"Awesome spot in Phuket with a great selection. Lovely staff, friendly and helpful. Definitely recommend!",
+      "review_date":"2022-10-17T06:36:17.912+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100887883744693109388?hl=en-US"
+    },
+    {
+      "author":"Jazmine Calixtro",
+      "avatar":"1125bcc7c469453e8509168ba94d8ee1",
+      "content":"Easy shop to find. As soon as we walk in, the staff were helpful on what we were looking for. They even roll you a joint for free!",
+      "review_date":"2023-02-09T09:24:47.434+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100893298500350295318?hl=en-US"
+    },
+    {
+      "author":"Younes Benjnouh",
+      "avatar":"b54027bf0d3ed6299b2a5032b3e52e9b",
+      "content":"Amazing Coffeshop",
+      "review_date":"2023-02-25T15:20:00.812+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101052998769916503779?hl=en-US"
+    },
+    {
+      "author":"Nick Smith",
+      "avatar":"dff3ba2c927aa2974f55be2ace28e0ef",
+      "content":"Best shop in town. Friendly staff and chilled location.",
+      "review_date":"2023-01-18T05:21:06.012+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101180593177267822141?hl=en-US"
+    },
+    {
+      "author":"Isaac Newmind",
+      "avatar":"d93f76c8e6ae327e202a5f083beed85d",
+      "content":"Cool place, cool staff!",
+      "review_date":"2023-01-18T15:04:25.876+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101216073887955541546?hl=en-US"
+    },
+    {
+      "author":"Unseen Andaman",
+      "avatar":"93da58b134d55d76de4f06fbdca10b80",
+      "content":"Good Quality Good Price Good Service 👍👍👍",
+      "review_date":"2022-09-28T09:38:03.314+00:00",
+      "rating":5,
+      "images":[
+        "74bf2a7e934bafe4a5edebc3f35e8c12"
+      ],
+      "url":"https://www.google.com/maps/contrib/101595201568923935431?hl=en-US"
+    },
+    {
+      "author":"PG 128%",
+      "avatar":"0838b086e1de1432eb3f4a16351f0a87",
+      "content":"ดีมากครับ โคตรเมาโคตรhigh🤯😵‍💫\n\n(Translated by Google)\nVery good, super drunk, super high🤯😵‍💫",
+      "review_date":"2023-01-21T14:01:20.55+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101602867504623282340?hl=en-US"
+    },
+    {
+      "author":"Иван Смышляев",
+      "avatar":"8fae5d06ca3c105f52a14a188fa546a0",
+      "content":"Best shop)",
+      "review_date":"2023-01-21T12:58:15.23+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101684521359593044330?hl=en-US"
+    },
+    {
+      "author":"Mikhail Mavrin",
+      "avatar":"c2d6faea6fc2e87f9b026af6b05d6fda",
+      "content":"The best place",
+      "review_date":"2023-01-30T16:07:53.274+00:00",
+      "rating":5,
+      "images":[
+        "0fafa4e48bd9af8f954c3d3d1b8861d2"
+      ],
+      "url":"https://www.google.com/maps/contrib/101686086064555303922?hl=en-US"
+    },
+    {
+      "author":"Dima Pavlov",
+      "avatar":"8d95dd9e9e6549184a97582f99f9d0b6",
+      "content":"The best weed shop in the town! Nice price and friendly environment!",
+      "review_date":"2023-01-17T12:35:51.201+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101744476722170123046?hl=en-US"
+    },
+    {
+      "author":"Caroline Vath",
+      "avatar":"d9fbd6569df416e522bd6ed3349e1181",
+      "content":"Soo good quality !!!",
+      "review_date":"2023-02-25T12:27:45.441+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101752896910961822897?hl=en-US"
+    },
+    {
+      "author":"Praethip Kulnoy",
+      "avatar":"02a295965eb1e6ed1b8034a9ef369512",
+      "content":"10000/10 high เมาจัดครับ เนื้อดีบริการดี คนขายดี💋\n\n(Translated by Google)\n10000/10 high. Get drunk. Good texture, good service, good seller 💋",
+      "review_date":"2023-02-21T17:37:05.75+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101803814926724826219?hl=en-US"
+    },
+    {
+      "author":"Асем Елеубаева",
+      "avatar":"283e62d304217d092a8d7f80f67e78ea",
+      "content":"(Translated by Google) Great bar, polite staff always prompt) and delicious sweets here)\n\n(Original)\nОтличный бар,вежливый персонал всегда подскажут) и вкусные сладости тут)",
+      "review_date":"2023-02-28T15:05:55.075+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101811031633312791337?hl=en-US"
+    },
+    {
+      "author":"Joseph Laverty",
+      "avatar":"39c317d722daf7456324c1073d642c87",
+      "content":"Excellent service. Friendly staff who were very knowledgeable about their products.",
+      "review_date":"2023-02-04T13:47:19.808+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102096863202511925528?hl=en-US"
+    },
+    {
+      "author":"Stas Shatarsky",
+      "avatar":"ec6dc7bda6caac89c2347033cd65a589",
+      "content":"",
+      "review_date":"2023-01-30T09:38:25.661+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102117988866415714322?hl=en-US"
+    },
+    {
+      "author":"Donnie Yegen",
+      "avatar":"ba99f26cbc6ac93f5273e0f377279c48",
+      "content":"Great service, thanks Patty",
+      "review_date":"2023-01-21T13:54:34.649+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102190550609538174921?hl=en-US"
+    },
+    {
+      "author":"ตัวแม่ออร์แกนิค420 Cannabis Shop",
+      "avatar":"6bc962c74140bbc538557a887c1a40ef",
+      "content":"ราคาดีย์\n\n(Translated by Google)\ngood price",
+      "review_date":"2022-12-10T09:37:34.469+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102197832451618036029?hl=en-US"
+    },
+    {
+      "author":"Natthapol Sae-Kam",
+      "avatar":"e19c4b4fc2c64bd64adf7155af9389ff",
+      "content":"Good​ service",
+      "review_date":"2022-10-08T15:51:46.614+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102211107837061820875?hl=en-US"
+    },
+    {
+      "author":"Вадим Мусатов",
+      "avatar":"fa2a77dacf2f6d4045432c2537a2d1a8",
+      "content":"(Translated by Google) One of the best establishments) Value for money at the level!\n\n(Original)\nОдно из лучших заведений) Соотношение цена/качество на уровне!",
+      "review_date":"2023-03-18T13:00:08.356+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102351222559072653573?hl=en-US"
+    },
+    {
+      "author":"Михаил Да",
+      "avatar":"868a9d25922c81b060d1e0f76b0819ca",
+      "content":"(Translated by Google) Super place, great selection, great guys, I advise everyone👍\n\n(Original)\nСупер место, большой выбор, отличные ребята, всем советую👍",
+      "review_date":"2023-02-24T07:59:57.697+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102386844289272394658?hl=en-US"
+    },
+    {
+      "author":"Aleksandra Kotovskaia",
+      "avatar":"c40a901eb16f391425eaa4cded757783",
+      "content":"Very good shop ! kind staff",
+      "review_date":"2023-02-06T15:36:12.149+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102556961430290922771?hl=en-US"
+    },
+    {
+      "author":"Thaksaphorn Sianglert",
+      "avatar":"4ed8672d6ff16bd1cc2e1f1a8f56ce15",
+      "content":"ร้านสวยมาก เรามานั่งรอแฟน แนะนำคราฟโซดา โคตรดี\n\n(Translated by Google)\nThe shop is very beautiful. We sit and wait for our girlfriend. Recommend craft soda",
+      "review_date":"2022-11-16T16:20:02.636+00:00",
+      "rating":5,
+      "images":[
+        "b407087f9f47385c677b745dc189d56b"
+      ],
+      "url":"https://www.google.com/maps/contrib/102652992764153577752?hl=en-US"
+    },
+    {
+      "author":"Bato Dagbaev",
+      "avatar":"a4371d466666ecfe461aa115ac1fd613",
+      "content":"Good",
+      "review_date":"2023-01-19T14:50:24.566+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102686082130991506510?hl=en-US"
+    },
+    {
+      "author":"Behzad Rad",
+      "avatar":"2c54afca194315374940e2171265bce0",
+      "content":"Very nice place to buy weed and smoke there is nice place im enjoy my time\n\n💚🕊❤️",
+      "review_date":"2022-11-03T07:15:07.133+00:00",
+      "rating":5,
+      "images":[
+        "34e8becb681b6509f584397646085843",
+        "28969b7b35a32f26ad2c34e36f379f64",
+        "7e6b37fa223f09d1b207ff507ec82482"
+      ],
+      "url":"https://www.google.com/maps/contrib/102846313142822630870?hl=en-US"
+    },
+    {
+      "author":"Lex Mich",
+      "avatar":"f7a156c07a9b4261e8e13ad15a5404f7",
+      "content":"",
+      "review_date":"2023-02-12T14:57:58.466+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102853215633960912996?hl=en-US"
+    },
+    {
+      "author":"YULIA SADOVA",
+      "avatar":"6c377c23dcdf2ee942e36d75899ed818",
+      "content":"(Translated by Google) Cool place, there is a backyard, a bar. Can be well chilled\n\n(Original)\nПрикольное место, есть задний дворик, бар. Можно хорошо почилить",
+      "review_date":"2023-02-24T08:00:35.908+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102870588423910574731?hl=en-US"
+    },
+    {
+      "author":"Руслан Десакулов",
+      "avatar":"211ed8d1c039eba6e28e462a5b0c3b79",
+      "content":"Top at the Phuket 🚩",
+      "review_date":"2023-02-27T09:31:11.681+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103052258167433520895?hl=en-US"
+    },
+    {
+      "author":"Test Jo",
+      "avatar":"fca753de4869b38bcdcb509a79d19c25",
+      "content":"Amazing vibe especially Mr. Diamond aka Khun Pet, gives lots of advice and helps with choosing the right product for me.",
+      "review_date":"2023-03-04T13:31:26.201+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103052632484169406531?hl=en-US"
+    },
+    {
+      "author":"Vladimir P",
+      "avatar":"f23d9b7636a7868818895fc671af7582",
+      "content":"Cool!",
+      "review_date":"2023-01-19T16:55:05.138+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103162694609068102596?hl=en-US"
+    },
+    {
+      "author":"sharma nair",
+      "avatar":"f0e8609d4bc8917a0a06b6a4b99184d5",
+      "content":"Just visited this shop, nice selection and good prices and the owners are super nice. Would definitely visit again.",
+      "review_date":"2022-10-12T08:55:44.26+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103189467673561011116?hl=en-US"
+    },
+    {
+      "author":"Frankie Raye",
+      "avatar":"3b75da6901c40809d81a323b4578ef84",
+      "content":"",
+      "review_date":"2022-10-11T07:40:17.44+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103250595368542158233?hl=en-US"
+    },
+    {
+      "author":"Александр «Casey» Соченко",
+      "avatar":"2add63eed9d4d055074f8278c4622af2",
+      "content":"",
+      "review_date":"2022-10-17T15:13:15.284+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103280501246528202408?hl=en-US"
+    },
+    {
+      "author":"Dm K",
+      "avatar":"c9aaaaf3aa986110b0d2a95afdc22d44",
+      "content":"The best ❤️👋🙏👍🏻",
+      "review_date":"2023-02-22T09:19:47.179+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103332187924497817365?hl=en-US"
+    },
+    {
+      "author":"Sean Elmont",
+      "avatar":"fc74a6575dd4710feaaee76c5c28042b",
+      "content":"If you’re trying to find real measured edibles these are your boys! Knowledgeable, caring and not pushy. Selection that would take days to explore. This is THE spot, Keep up the hustle boys!",
+      "review_date":"2023-02-15T08:14:40.822+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103519721122808232899?hl=en-US"
+    },
+    {
+      "author":"Deus Ex",
+      "avatar":"aa6c2ef99b988245570ff6dd1dbb0b41",
+      "content":"(Translated by Google) The best in Phuket!\n\n(Original)\nСамый лучший на пхукете!",
+      "review_date":"2023-02-16T15:45:00.018+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103527856409158021065?hl=en-US"
+    },
+    {
+      "author":"David Abbey",
+      "avatar":"a5d722c5fc032c7ee600c23991dfc2a7",
+      "content":"Great stuff! Would re purchase for sure!",
+      "review_date":"2023-02-11T12:35:09.065+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103581683296896825188?hl=en-US"
+    },
+    {
+      "author":"Rishav Chakraborty",
+      "avatar":"cf6f5c05c96c2ad8a98ddadfcb7614b9",
+      "content":"Best experience . A must visit store for Canabees lovers 😃😃😃😃",
+      "review_date":"2023-01-19T11:38:00.386+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103593948852432822540?hl=en-US"
+    },
+    {
+      "author":"Teekayu",
+      "avatar":"a7e2ca8317a23442c0297edf0b130e3f",
+      "content":"",
+      "review_date":"2023-01-21T16:11:38.484+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103705932998144418402?hl=en-US"
+    },
+    {
+      "author":"Nathaporn Tongrada",
+      "avatar":"351a5e8ad40dd691feb82dbfb05f4930",
+      "content":"บรรยากาศร้านดีมากก\n\n(Translated by Google)\nThe atmosphere of the shop is very good.",
+      "review_date":"2023-01-17T06:44:21.284+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103706250917982550946?hl=en-US"
+    },
+    {
+      "author":"Artem Barsukov",
+      "avatar":"98e7c22099ad6596998f05ddc9d9e247",
+      "content":"Very interesting and kind shop",
+      "review_date":"2022-10-31T15:10:56.868+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103917694177401288931?hl=en-US"
+    },
+    {
+      "author":"Prakhar Virendra",
+      "avatar":"00865a285f755c21ba461f675f147a5c",
+      "content":"The widest range of strains in Phuket can be found here",
+      "review_date":"2023-01-18T09:28:36.671+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104389364050768445551?hl=en-US"
+    },
+    {
+      "author":"Руслан Ортиков",
+      "avatar":"bde42b41d937809394f4be3be06353f6",
+      "content":"(Translated by Google) cool grass\n\n(Original)\nКрутая трава",
+      "review_date":"2023-01-29T13:32:24.844+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104468564081374787665?hl=en-US"
+    },
+    {
+      "author":"Магомед Аминов",
+      "avatar":"ec59d172534239cddcb6d39c22bd023a",
+      "content":"🚀🚀🚀",
+      "review_date":"2023-02-19T13:33:05.103+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104476863629757717177?hl=en-US"
+    },
+    {
+      "author":"Алексей Соколов",
+      "avatar":"9f128aba2afcce86fbfc97fb30fc21ac",
+      "content":"Good place, good atmosphere",
+      "review_date":"2023-03-19T14:56:25.454+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104516026797054353132?hl=en-US"
+    },
+    {
+      "author":"George Nersesyan",
+      "avatar":"2275e64c66ea94e496331d0fd929b42a",
+      "content":"(Translated by Google) Cool place!\n\n(Original)\nКлассное место!",
+      "review_date":"2023-03-07T14:18:23.69+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104803203946136764335?hl=en-US"
+    },
+    {
+      "author":"กมนรัตน์ คงดี (เจี๊ยบ)",
+      "avatar":"b4a551e319e949e7834365d8a18bf2e7",
+      "content":"มีขนม มีอีก หลายอย่าง\n\n(Translated by Google)\nThere are desserts and many more.",
+      "review_date":"2022-12-06T11:33:48.97+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104869876463623287298?hl=en-US"
+    },
+    {
+      "author":"Дмитрий Королев",
+      "avatar":"292a829c487c6f40f7731b0589116d2e",
+      "content":"👍👌😂🚀",
+      "review_date":"2023-03-05T08:59:39.704+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105217295508345158197?hl=en-US"
+    },
+    {
+      "author":"Kaolyan VATH",
+      "avatar":"1ad032816d1bbf351685bc6b48d35614",
+      "content":"Good Price and Good Quality !",
+      "review_date":"2023-02-25T12:29:52.336+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105355476726554291783?hl=en-US"
+    },
+    {
+      "author":"saengthip pattalod",
+      "avatar":"af2fe29158b67fa34761358c5f12cd28",
+      "content":"ของเค้าดีจริงๆ เหลืองข้ามวันกันเลย\n\n(Translated by Google)\nHis stuff is really good. Yellow across the day",
+      "review_date":"2023-02-12T12:19:43.372+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105419947341025712572?hl=en-US"
+    },
+    {
+      "author":"Natasha Bordly",
+      "avatar":"62dd10afff968eaa43f028c024dab555",
+      "content":"Best weed shop we have found in phuket treat you so well lovely area to sit and chill in highly recommend coming here if you get the opportunity to!",
+      "review_date":"2023-01-17T12:40:02.803+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105458625778505270865?hl=en-US"
+    },
+    {
+      "author":"Grigorii Lavrentev",
+      "avatar":"04c9d03b31de2e9248139c92cc5d57b5",
+      "content":"(Translated by Google) Perfect place! Top quality. There is a space for use, the necessary devices.\nVery friendly guys!\n\n(Original)\nОтличное место! Качество топ. Есть пространство для употребления, необходимые девайсы.\nОчень дружелюбные ребята!",
+      "review_date":"2022-12-29T08:16:54.175+00:00",
+      "rating":5,
+      "images":[
+        "a3970dd858bdde6fb87069ce43f53195",
+        "bded7209bc7b320af2c979336368cb5c",
+        "5676439708eea5c7700d601b042ecd6b",
+        "1598382edb8e20082c7bc0a014fad609"
+      ],
+      "url":"https://www.google.com/maps/contrib/105657542244619433928?hl=en-US"
+    },
+    {
+      "author":"Leon B",
+      "avatar":"e0b283226523925e4ee95a56f4062e5f",
+      "content":"Cool Coffeeshop! Good weed and nice staff.",
+      "review_date":"2022-11-09T17:52:05.493+00:00",
+      "rating":5,
+      "images":[
+        "3df5c9eed8dc433d781b4ff9a8ecff5e"
+      ],
+      "url":"https://www.google.com/maps/contrib/105790421747092666342?hl=en-US"
+    },
+    {
+      "author":"Nishanthan Baskaran",
+      "avatar":"e1d141985f56d4cf780f86936a501936",
+      "content":"Dream land for any and all stoner🤌🏼",
+      "review_date":"2023-02-24T08:46:33.584+00:00",
+      "rating":5,
+      "images":[
+        "0a103951ec762b99ef75201997a3359d"
+      ],
+      "url":"https://www.google.com/maps/contrib/105796274845245232033?hl=en-US"
+    },
+    {
+      "author":"ตัวแม่ออร์แกนิค420 Phuket Cannabis Dispensary",
+      "avatar":"189e8ad991eb049778f09f91c7fbc28a",
+      "content":"",
+      "review_date":"2022-11-21T08:12:14.654+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105799944516396507763?hl=en-US"
+    },
+    {
+      "author":"Жавдет Сеитов",
+      "avatar":"23b8f65fca5a6812b0b03d3e77787ba5",
+      "content":"Best place in town so far! Wery friendfull stuff, a lot of strains at decent price. Don’t miss the craft soda and eatables",
+      "review_date":"2023-01-18T07:51:36.469+00:00",
+      "rating":5,
+      "images":[
+        "471440ec6f8b87cd78a7552d79d33892"
+      ],
+      "url":"https://www.google.com/maps/contrib/105871195434861160896?hl=en-US"
+    },
+    {
+      "author":"Di ssolute",
+      "avatar":"958546fac3a94d4837f52dea8ff3c63e",
+      "content":"Very cool place and friendly staff ✨",
+      "review_date":"2023-02-21T13:00:10.943+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106071297088145842738?hl=en-US"
+    },
+    {
+      "author":"ศดานันท์ อาญาเสน",
+      "avatar":"825ce819c68ec33916c42242171f448b",
+      "content":"🤑🤑",
+      "review_date":"2023-02-02T14:56:33.24+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106092669515687363618?hl=en-US"
+    },
+    {
+      "author":"Алексей Хоменко",
+      "avatar":"0457e2ffebd65495f5b3c05d83142c2d",
+      "content":"So good place!! So recommend!!",
+      "review_date":"2023-03-24T08:30:56.525+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106252758250227626223?hl=en-US"
+    },
+    {
+      "author":"Andrei Nikiforov",
+      "avatar":"b838bc1ba56408572d640ae49ce60e0e",
+      "content":"(Translated by Google) Perfect place. Friendly staff. Big choice. I advise!\n\n(Original)\nОтличное место. Приветливый персонал. Большой выбор. Советую!",
+      "review_date":"2023-02-03T16:06:12.88+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106509243523208900041?hl=en-US"
+    },
+    {
+      "author":"Андрей Тотсамый",
+      "avatar":"ac68c07371a0e899200365d3eff6abd9",
+      "content":"Good stuff",
+      "review_date":"2023-02-25T12:58:47.933+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106518887728433628053?hl=en-US"
+    },
+    {
+      "author":"Кирилл Смирнов",
+      "avatar":"b99ec1c984bd878f553aa7ee6f085c10",
+      "content":"Best weed shop in the neighborhood! The assortment constantly expands and changes, there’s just anything you would think of, the staff is the kindest, I had lost a bag of weed the other day right after I left the shop and was immediately given some more just for the sake of fellowship 😃😃😃",
+      "review_date":"2023-02-28T17:58:39.485+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106607514963272751658?hl=en-US"
+    },
+    {
+      "author":"Анвар Узбеков",
+      "avatar":"0e03ffffc9fa92cc02a7189eb616a9e9",
+      "content":"the best place in Phuket.  best staff and top product. Must try it",
+      "review_date":"2022-10-11T11:37:17.826+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106678169339517016113?hl=en-US"
+    },
+    {
+      "author":"Лена Денисова",
+      "avatar":"dfeef4157a582475cdd29ee23cb5f4f0",
+      "content":"Good place! Very friendly peronal, we will definitely come back again!",
+      "review_date":"2023-01-20T10:14:14.031+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106774851066057746224?hl=en-US"
+    },
+    {
+      "author":"Jatin Kataria",
+      "avatar":"1d90f6050e84ec4c7a33aa095a822f61",
+      "content":"Quality of the Stuff is Legit and damn high , Highly suggest to visit this shop",
+      "review_date":"2023-02-04T11:24:08.775+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106807660303538827596?hl=en-US"
+    },
+    {
+      "author":"umami onnanoko",
+      "avatar":"723d3af9edb76fc090590b10f5a741ee",
+      "content":"Best weed shop! 😄🌺⭐️⭐️⭐️",
+      "review_date":"2023-02-04T11:48:06.909+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106848209881799832413?hl=en-US"
+    },
+    {
+      "author":"Алдар Аладар",
+      "avatar":"a005d9f8cc9b0a811fa75f913623f180",
+      "content":"Thanks guys! Recommend this one 100%. I’ll back to soon!",
+      "review_date":"2022-12-29T07:03:15.738+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106884017768126907829?hl=en-US"
+    },
+    {
+      "author":"rabab bkl",
+      "avatar":"7552c56dd3ef20133aea33c7dd014d29",
+      "content":"",
+      "review_date":"2023-02-04T14:03:35.819+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106924033913762477884?hl=en-US"
+    },
+    {
+      "author":"Лена Бабинцева",
+      "avatar":"5df95a091230e3840b7d0e2caace057c",
+      "content":"(Translated by Google) Friendly guys, great selection of everything interesting🌱\n\n(Original)\nДружелюбные ребята, большой выбор всего интересного🌱",
+      "review_date":"2023-02-02T11:00:38.48+00:00",
+      "rating":5,
+      "images":[
+        "8b6e94e5e5b1808e3557caa085a3ca17",
+        "0f6de91948b8b0cb73e64290998acce0",
+        "56dd733b7d75714a7c7c48e81efde88d"
+      ],
+      "url":"https://www.google.com/maps/contrib/106949495005354063878?hl=en-US"
+    },
+    {
+      "author":"Rustam Kokov",
+      "avatar":"3fbb58f1981f2023669ae88bebf1019f",
+      "content":"(Translated by Google) The shop is good, the guys are cool, everything is always there\n\n(Original)\nШоп хорош, ребята крутые, всегда все есть",
+      "review_date":"2023-01-27T13:06:33.126+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106972555804288224156?hl=en-US"
+    },
+    {
+      "author":"Евгений",
+      "avatar":"4e889f16cfd87d2962f491e9de9d78c2",
+      "content":"(Translated by Google) Cool place with cool atmosphere and chic interior! Here you can sit with a company, drink beer or take snacks. Big choice. If you're around, drop by, you won't regret it\n\n(Original)\nКлассное место с крутой атмосферой и шикарным интерьером! Здесь же можно посидеть компанией, выпить пива или взять вкусняшки. Большой выбор. Будете рядом, загляните, не пожалеете",
+      "review_date":"2023-02-05T17:36:40.18+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107092305406489001359?hl=en-US"
+    },
+    {
+      "author":"lénaïc FERRIER",
+      "avatar":"94f1f7c47613896a7710ecce62527ccc",
+      "content":"(Translated by Google) Simply the best! Quality weed and a very pleasant welcome. They are all adorable and the shop is very well kept. We will come back to see them for sure!\n\n(Original)\nTout simplement les meilleurs ! Weed de qualité et un accueil hyper agréable. Ils sont tous adorables et le shop est très bien tenu. Nous reviendrons les voir eux c'est sur !",
+      "review_date":"2022-10-20T05:59:55.072+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107180104107093016767?hl=en-US"
+    },
+    {
+      "author":"ชนาธิป ฤาแรง",
+      "avatar":"1fb2aba733b878eec777d0abf8d1e2c6",
+      "content":"ร้านสวยครับ\n\n(Translated by Google)\nbeautiful shop",
+      "review_date":"2023-01-21T14:12:29.61+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107319952146514456735?hl=en-US"
+    },
+    {
+      "author":"ยุทธนาวี 40",
+      "avatar":"253eec294343615f8ee432dc11f099b1",
+      "content":"",
+      "review_date":"2023-01-20T07:15:04.277+00:00",
+      "rating":4,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107562831640115483651?hl=en-US"
+    },
+    {
+      "author":"Dmitry Rodin",
+      "avatar":"493f3ac802be136c714164c40fd45712",
+      "content":"",
+      "review_date":"2023-03-02T10:56:56.45+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107571582185848740946?hl=en-US"
+    },
+    {
+      "author":"Alessandro Quintano",
+      "avatar":"2c43edeed0fc400ffa8633001ff22764",
+      "content":"Pleasant responsive staff",
+      "review_date":"2023-02-14T16:12:40.555+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107773622525561145149?hl=en-US"
+    },
+    {
+      "author":"Panuwat Rodpibat",
+      "avatar":"eaa6d53daa132c31270773b9a9ea8619",
+      "content":"พื่นที่บันยากาสชิวมากคับ\nการบริการเป็นกันเองมากคีบ\n\n(Translated by Google)\nThe Banyakas area is very chilling.\nThe service is very friendly.",
+      "review_date":"2023-02-12T12:11:19.616+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107830051275312594330?hl=en-US"
+    },
+    {
+      "author":"AKSHAY KUMAWAT",
+      "avatar":"c13c43cb19f80f65b8fbb0d20f9436c1",
+      "content":"Great shop! Lovely people",
+      "review_date":"2023-01-21T16:51:40.043+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108084474694597308029?hl=en-US"
+    },
+    {
+      "author":"Alex Sverdlove",
+      "avatar":"487fd04a44efd91b8a796513519f4b20",
+      "content":"Really",
+      "review_date":"2023-02-06T15:38:47.092+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108145755235123782307?hl=en-US"
+    },
+    {
+      "author":"Fabien M",
+      "avatar":"fef8a61f620fa456691bd405d53e5147",
+      "content":"Strains looks good, great service",
+      "review_date":"2023-01-21T09:21:25.197+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108260140946747250960?hl=en-US"
+    },
+    {
+      "author":"Александр Ходин",
+      "avatar":"ac68c07371a0e899200365d3eff6abd9",
+      "content":"Damn amazing place! Very professional and friendly personal, now availlibale taste, clear and light kratom, also have a promotions and delivery, and for sure nice quality weed - strongly reccomend for visit",
+      "review_date":"2023-03-05T07:48:05.427+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108332871883217358760?hl=en-US"
+    },
+    {
+      "author":"ธีรวุฒิ เสาหฤทโสธน",
+      "avatar":"825ce819c68ec33916c42242171f448b",
+      "content":"Beat yummy cannabis product.\nWelcome everyone Dont miss!!!",
+      "review_date":"2022-11-16T16:17:55.734+00:00",
+      "rating":5,
+      "images":[
+        "c66a3ec9fcb32dea2fc75ae2e16258f9"
+      ],
+      "url":"https://www.google.com/maps/contrib/108595217250638540772?hl=en-US"
+    },
+    {
+      "author":"Richard DS",
+      "avatar":"be2e9e398ff16a0d5ee705ec1299b770",
+      "content":"Good shop friendly staff",
+      "review_date":"2023-02-09T11:50:25.989+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108608006482452075471?hl=en-US"
+    },
+    {
+      "author":"Matt A",
+      "avatar":"fc12af33748d58e4a2946797e30bdac7",
+      "content":"Great stuff",
+      "review_date":"2023-01-08T00:10:41.249+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108869323947717689462?hl=en-US"
+    },
+    {
+      "author":"Ilya Khachaturov",
+      "avatar":"350396e365d0726c0382e79638fc689c",
+      "content":"Very nice place to relax ! High grade staff, very frendly membership",
+      "review_date":"2023-02-13T16:44:12.481+00:00",
+      "rating":5,
+      "images":[
+        "64d1f7d6c07653c39d7d2c6ae9e1dc1e",
+        "6b0cf450e91f548918e7e601ee406e9e",
+        "b5a3d89afe97ff00da953192ccc8da61"
+      ],
+      "url":"https://www.google.com/maps/contrib/109164711477213528727?hl=en-US"
+    },
+    {
+      "author":"Я Познаю Мир",
+      "avatar":"ad066838391de97d8fba86f1fadb825f",
+      "content":"(Translated by Google) Cool store, one of the few stores that has super fragrant stuff\n\n(Original)\nКрутой магазин, один из не многих магазинов, в котором супер ароматный стаф",
+      "review_date":"2022-10-18T02:08:00.87+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109218901680587896502?hl=en-US"
+    },
+    {
+      "author":"Barley 10.",
+      "avatar":"e1f2d7d6ef114d7a8dedeb75b55584ab",
+      "content":"Good",
+      "review_date":"2022-12-03T09:30:16.903+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109417594876750448473?hl=en-US"
+    },
+    {
+      "author":"B. S.",
+      "avatar":"01f6e550b6ee3932a471dd490801996b",
+      "content":"Very good weed grown in Thailand!Very nice owner and staff!Fair prices and a little place to enjoy a smoke and they have a play station as well!Real Phuket people!",
+      "review_date":"2022-12-01T07:31:58.265+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109435262260735749998?hl=en-US"
+    },
+    {
+      "author":"Oleg M",
+      "avatar":"c7f961462c6972640dd27a9192c89489",
+      "content":"Top weed shop in the town! Best price and friendly environment!",
+      "review_date":"2023-01-21T08:47:08.27+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109519515214604645869?hl=en-US"
+    },
+    {
+      "author":"Dawski 23",
+      "avatar":"0d73e0a79b086733549e33a210816c5e",
+      "content":"Very Nice people. Best weed in phuket. And very good prices",
+      "review_date":"2023-02-01T13:49:49.178+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109665420971848965216?hl=en-US"
+    },
+    {
+      "author":"Thatsaphong Intaphan",
+      "avatar":"da057d183627271de8b16f61e3a50027",
+      "content":"โครตฟิน\n\n(Translated by Google)\nCroat Fin",
+      "review_date":"2023-02-08T10:27:17.427+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109699638484425295135?hl=en-US"
+    },
+    {
+      "author":"Sebastian Burwitz",
+      "avatar":"a262fdf439582e8c493f8a80e33ea5dd",
+      "content":"Good shop best quality",
+      "review_date":"2023-02-22T08:28:04.604+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109722858543506252875?hl=en-US"
+    },
+    {
+      "author":"Олег Барсуков",
+      "avatar":"7e5248839a544dabd2666fd4fc77109d",
+      "content":"Very very goooooood",
+      "review_date":"2023-02-22T09:19:34.773+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109773343615650447935?hl=en-US"
+    },
+    {
+      "author":"Shaun Saintey",
+      "avatar":"7e251587a5d7f587906d7e4c1a6921ce",
+      "content":"Best shop we found in 3 weeks exploring phuket. The top shelf is TOP Shelf but priced way lower than surrounding shops. The green crack for 60baht (yes that cheap) takes a G joint to get me really high but the high is sooo nice. 10/10",
+      "review_date":"2023-01-17T12:41:08.246+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109778844861582818259?hl=en-US"
+    },
+    {
+      "author":"Astro Gator",
+      "avatar":"e9328b4ab3ac3b3dbeb0f43e7f5069e8",
+      "content":"Professional service overall solid dispensary.",
+      "review_date":"2022-10-10T07:54:43.914+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110188265873985563439?hl=en-US"
+    },
+    {
+      "author":"Saowaluck Janpukdee",
+      "avatar":"ac9cd5f0324c11cf1b4e0bf787c48e56",
+      "content":"The best dispensary shop in Phuket 💚",
+      "review_date":"2023-02-06T15:25:20.433+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110266965831798770824?hl=en-US"
+    },
+    {
+      "author":"Kirill Lisin",
+      "avatar":"9fc00ee2196cddd2f97dbdcf902ff439",
+      "content":"(Translated by Google) Very cool smokehouse. Everyone here)\n\n(Original)\nОчень классная накурочная. Всем сюда)",
+      "review_date":"2023-02-16T15:18:09.657+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110415915415441329674?hl=en-US"
+    },
+    {
+      "author":"Евграфьев Сергей",
+      "avatar":"f34497b08bb23bdff351e14a292a2688",
+      "content":"Good staff, and good stuff too.\nThe seller gonna hellp with everything, nice quality and quantity. If you're nearby come inside even just for talk.",
+      "review_date":"2023-02-03T07:27:55.562+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110498261045477993909?hl=en-US"
+    },
+    {
+      "author":"Станислав Черепанов",
+      "avatar":"fc9cb5b54663c6ca4d3b89f58fefdf95",
+      "content":"Excellent service. Thanks Mr Patrick",
+      "review_date":"2023-01-21T13:53:14.443+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110580488476741630853?hl=en-US"
+    },
+    {
+      "author":"แสน ราชสีห์",
+      "avatar":"e5692b98e9805792c4261401bc22ced2",
+      "content":"การบริการดี เป็นมิตร\n\n(Translated by Google)\nThe service is good, friendly.",
+      "review_date":"2022-12-21T21:15:55.501+00:00",
+      "rating":5,
+      "images":[
+        "bd0efd90baedbe31b865767e16e9d2d0"
+      ],
+      "url":"https://www.google.com/maps/contrib/110617992792373881705?hl=en-US"
+    },
+    {
+      "author":"Francis Tan",
+      "avatar":"3b75da6901c40809d81a323b4578ef84",
+      "content":"",
+      "review_date":"2023-01-18T06:41:41.864+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110649176066052400480?hl=en-US"
+    },
+    {
+      "author":"Minsoo Son",
+      "avatar":"59b8a63cbdca0f21d5f5b72a041aa489",
+      "content":"บริการดีจาดๆครับ\n\n(Translated by Google)\nGood service",
+      "review_date":"2023-01-21T14:03:31.175+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110735408873754060002?hl=en-US"
+    },
+    {
+      "author":"nafis peace",
+      "avatar":"e59974bc39fcc79adf38ea66830513ff",
+      "content":"",
+      "review_date":"2023-02-09T08:49:45.636+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110806232869792087642?hl=en-US"
+    },
+    {
+      "author":"Ольга Павлова",
+      "avatar":"ec238e8de310ff7c340ec149e9ceffcf",
+      "content":"Very good weed and service!",
+      "review_date":"2023-03-10T14:23:42.691+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110825644914540917628?hl=en-US"
+    },
+    {
+      "author":"LIL CHEY",
+      "avatar":"3015041552228b5d7a648aa0dc4da5b5",
+      "content":"🎄",
+      "review_date":"2022-12-25T14:02:20.744+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111012144611674593510?hl=en-US"
+    },
+    {
+      "author":"Jona",
+      "avatar":"884174c263b0d5f536abcaae030693ae",
+      "content":"Edibles be poppin'",
+      "review_date":"2023-02-19T15:37:29.922+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111054467570692125318?hl=en-US"
+    },
+    {
+      "author":"Sky Justus",
+      "avatar":"553314c57d973ae786705408c2f7205f",
+      "content":"Best dispensary in Phuket, great selection, and awesome staff. Highly recommend if you’re in the Phuket area!",
+      "review_date":"2023-02-06T15:26:16.32+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111171445836812664720?hl=en-US"
+    },
+    {
+      "author":"Nikita “AdmiralSnoopdog” Kochevykh",
+      "avatar":"4e4dc6487e44b2c0b303add2d65df672",
+      "content":"Best service👍",
+      "review_date":"2023-02-11T14:02:13.057+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111210144638028950450?hl=en-US"
+    },
+    {
+      "author":"Александр Иванов",
+      "avatar":"f2c8c5d2d932d40fc21aa47f9fe2c194",
+      "content":"(Translated by Google) Mushrooms and cool jottings. Cool place and great people. We were warmly welcomed and fed well.\n\n(Original)\nГр*ибы и крутые джотнты. Крутое место и прекрасные люди. Добро встретили и хорошо «накормили».",
+      "review_date":"2023-02-02T10:57:51.683+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111271923211491766536?hl=en-US"
+    },
+    {
+      "author":"Farang Thai",
+      "avatar":"e7995b3ec483268cb74207ba320ee410",
+      "content":"Nice place friendly staff.  HIGHLY recommended 🙃",
+      "review_date":"2023-03-17T16:21:21.674+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111366990822915949460?hl=en-US"
+    },
+    {
+      "author":"Yeti Underdog",
+      "avatar":"977e4214ede6ae61ed34cb546fb02f95",
+      "content":"Cozy place, nice guys! I like it",
+      "review_date":"2022-12-07T04:53:06.553+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111481063417210008303?hl=en-US"
+    },
+    {
+      "author":"Roman Nosa",
+      "avatar":"eda6c1a9c21ee9207709e6df900bbee5",
+      "content":"Funny guy's, Funny day's. Get high weed 🤠\nDo not hesitate to come in 🤙",
+      "review_date":"2023-01-29T14:26:09.117+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111486982420830727988?hl=en-US"
+    },
+    {
+      "author":"Ara Brat",
+      "avatar":"8ed461e4f341a149adab590ce3b64ecd",
+      "content":"(Translated by Google) If you're reading this, don't hesitate to go here.\nThe best shop in Phuket\n\n(Original)\nЕсли ты это читаешь, то не раздумывая едь сюда\nЛучший шоп на Пхукете",
+      "review_date":"2023-01-12T13:50:53.056+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111511906063904864032?hl=en-US"
+    },
+    {
+      "author":"vplisko",
+      "avatar":"66f38aacf67b46f30b113eec2dbc2945",
+      "content":"(Translated by Google) Cool place, there is a prefix, the guys are friendly, nice music\n\n(Original)\nКрутое место, есть приставка, ребята приветливые, приятная музыка",
+      "review_date":"2023-02-01T09:04:17.594+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111669621982627677225?hl=en-US"
+    },
+    {
+      "author":"Bolot Dugarzhapov",
+      "avatar":"b473dc8452cb4d47a401c657550dd21e",
+      "content":"(Translated by Google) Interesting place )\n\n(Original)\nИнтересное место )",
+      "review_date":"2023-01-27T16:02:35.754+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111679264011088345465?hl=en-US"
+    },
+    {
+      "author":"Дмитрий Савельев",
+      "avatar":"bc277c86dac08d8c92fc231d2ce3207d",
+      "content":"Very nice shop\n\nI buy weed this every day\n\nVery good price and best quality",
+      "review_date":"2023-01-18T16:30:48.548+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111680655059667536923?hl=en-US"
+    },
+    {
+      "author":"Александр Фаст",
+      "avatar":"861399c378776b1b61495c63fa64579c",
+      "content":"(Translated by Google) Great store, one of the best in the area\n\n(Original)\nМагазин отличный, один из лучших на местности",
+      "review_date":"2023-01-29T14:25:47.091+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111754981593757516885?hl=en-US"
+    },
+    {
+      "author":"Vov Petrovskij",
+      "avatar":"989b9b8cc202cbc7309131d0eb0118b2",
+      "content":"great place! all my friends who have been smoking for a while said that the best stuff !)",
+      "review_date":"2023-03-04T14:11:45.889+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111965004142003741513?hl=en-US"
+    },
+    {
+      "author":"Диитрий Родионов",
+      "avatar":"f2b263404fe40cd6786afe40cb6d6665",
+      "content":"(Translated by Google) Great place - friendly staff, huge selection and delicious weed\n\n(Original)\nОтличное место- приветливый персонал , огромный выбор и вкусная травка",
+      "review_date":"2023-03-07T15:14:29.179+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112113527719322332744?hl=en-US"
+    },
+    {
+      "author":"Tom Neo",
+      "avatar":"fa7a92e89275bc26d411f4c7ee71ef5e",
+      "content":"Very good and cool shop thanks",
+      "review_date":"2023-02-02T14:24:25.085+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112114428110280353567?hl=en-US"
+    },
+    {
+      "author":"farxfernz",
+      "avatar":"7957048d85f943619a3744743c50866d",
+      "content":"ราคาถูก ให้ของเยอะ เนื้อดีกว่าหลายๆที่ คนขายน่ารัก เนื้อไม่แห้ง เมาจัด😵‍💫😵‍💫\n\n(Translated by Google)\nCheap price, give a lot of stuff, meat is better than many places, the seller is cute, the meat is not dry, get drunk 😵‍💫😵‍💫",
+      "review_date":"2023-02-16T17:22:03.458+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112225691909236408084?hl=en-US"
+    },
+    {
+      "author":"Олег Пигильцин",
+      "avatar":"09dcff1b6855e469330b55114610df07",
+      "content":"(Translated by Google) The best, I advise everyone🤘🏽\n\n(Original)\nЛучшие, все советую🤘🏽",
+      "review_date":"2023-02-16T15:41:04.624+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112257004465214069585?hl=en-US"
+    },
+    {
+      "author":"Khoi Diep",
+      "avatar":"a05b14d89014acef74b14b6fc00c5d48",
+      "content":"amazing weed great people",
+      "review_date":"2023-02-21T16:05:28.817+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112260098783421552949?hl=en-US"
+    },
+    {
+      "author":"Silvanus Gestión S.L.",
+      "avatar":"ac4aa9d1cb6d87c27d9fce34e56e04c0",
+      "content":"",
+      "review_date":"2023-02-04T14:02:51.969+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112374301102889560848?hl=en-US"
+    },
+    {
+      "author":"Сергей Прокопчук",
+      "avatar":"e369841ee45d894caaa4c05e5937aa81",
+      "content":"There are the best assortment, which I saw and tried. Cool guys, who can help u to choose what u want",
+      "review_date":"2023-02-05T17:16:09.67+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112669162521781786574?hl=en-US"
+    },
+    {
+      "author":"Ilya Gr",
+      "avatar":"7f9ceca7f42c14db0ec9d1247f62d76b",
+      "content":"The best quintessence of quality and price.\nPersonal is very helpful",
+      "review_date":"2023-02-12T13:51:22.204+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112805861714961939687?hl=en-US"
+    },
+    {
+      "author":"aix_bux",
+      "avatar":"0400bfe42415bfac4c3448f2a569b35c",
+      "content":"",
+      "review_date":"2022-09-28T09:41:14.383+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112858190217539514199?hl=en-US"
+    },
+    {
+      "author":"Sombhumi Nopwankeaw",
+      "avatar":"53cc1f29d3550634a2cd8451361de8d4",
+      "content":"Very good place and the best marijuana",
+      "review_date":"2023-02-06T15:25:45.748+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112931583910987839053?hl=en-US"
+    },
+    {
+      "author":"Ilya P",
+      "avatar":"eb50bff53593dec0ca5c738661f26c52",
+      "content":"",
+      "review_date":"2023-01-11T09:00:49.673+00:00",
+      "rating":4,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113018477792750500742?hl=en-US"
+    },
+    {
+      "author":"Анастасия Старостина",
+      "avatar":"ad60ae78abb7569252284949aaca2aaa",
+      "content":"(Translated by Google) Perfect place. Very friendly staff. Quality goods. I will definitely come back here again.\n\nPerfect place. Very friendly staff. quality goods. I will definitely come back here again.\n\n(Original)\nОтличное место. Очень дружелюбный персонал. Качественный товар. Обязательно вернусь сюда еще.\n\nPerfect place.  Very friendly staff.  Quality goods.  I will definitely come back here again.",
+      "review_date":"2023-01-18T07:59:03.401+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113083850221564743177?hl=en-US"
+    },
+    {
+      "author":"Darren Sheridan",
+      "avatar":"dd590796464a3846cc846ae8d6b09584",
+      "content":"Very good location different strains good people definitely recommend 👍",
+      "review_date":"2023-03-01T13:43:30.991+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113271759050168278863?hl=en-US"
+    },
+    {
+      "author":"Gleb Navolykin",
+      "avatar":"966dfed60798acb3794cb8552be891d9",
+      "content":"Coming here is like coming to a close friend's home, to chill, laugh or talk))) very kind and friendly atmosphere!\n\nThe shop works till 23:59 and it's a great advantage too!",
+      "review_date":"2022-10-03T09:49:34.956+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113438349063976202707?hl=en-US"
+    },
+    {
+      "author":"Pranav Madhu",
+      "avatar":"bde42b41d937809394f4be3be06353f6",
+      "content":"Great stuff. Recommend 100/10",
+      "review_date":"2023-01-21T16:59:17.657+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113611434737292641784?hl=en-US"
+    },
+    {
+      "author":"Wheelie mT",
+      "avatar":"6660426a3f1f68e90754c1b470657627",
+      "content":"The best shop in Phuket✅✅\nIf you don't know the word drunk, I recommend you to come to this shop. I guarantee that you will know for sure.😂❤️",
+      "review_date":"2023-01-12T13:20:37.752+00:00",
+      "rating":5,
+      "images":[
+        "ee747f3be4d4fe7026eee1a5563a7143",
+        "69101b5344a32db757edc4fce94a4897",
+        "40e85085ba8ba0fc9a8d0477e40df4af",
+        "e32f92fa008c84ef8ef8a854a27b9c9e",
+        "556487bb870ae01c97ecebf1a1f4c6e0",
+        "86f7915c81728127bd797d19a3131da2",
+        "b0a23cb1a99f8d12730f59acf33681c5"
+      ],
+      "url":"https://www.google.com/maps/contrib/113873865054408449080?hl=en-US"
+    },
+    {
+      "author":"Лё Павлова",
+      "avatar":"dd1d67365b752c2041a89d94a15f67c2",
+      "content":"Niiiiice joints and weed!!!",
+      "review_date":"2023-03-10T14:25:18.856+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114064929171042314501?hl=en-US"
+    },
+    {
+      "author":"007Chatdanai Thammachot",
+      "avatar":"da0c98992c39a0c11d4af12d9421bfd7",
+      "content":"Very niceshop and great service🙏💯",
+      "review_date":"2022-09-29T08:34:30.168+00:00",
+      "rating":5,
+      "images":[
+        "9d35869af643299f271ef214e7431643"
+      ],
+      "url":"https://www.google.com/maps/contrib/114066609678786719358?hl=en-US"
+    },
+    {
+      "author":"Yulia Mosenzova",
+      "avatar":"e35a4c8cf800c5042a9afd37c5b1df10",
+      "content":"Great place, good stuff, super friendly staff. Highly recommend",
+      "review_date":"2023-01-07T16:25:40.19+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114117950893255562036?hl=en-US"
+    },
+    {
+      "author":"Максим Баикин",
+      "avatar":"9776ecb90c4832790a3ad55aea0ec64a",
+      "content":"Great place, the best that we found on Phuket. Top quality, great staff and atmosphere. Highly recommended.",
+      "review_date":"2023-01-28T13:52:11.922+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114306355193208624167?hl=en-US"
+    },
+    {
+      "author":"Никита Гурдыш",
+      "avatar":"c3b28e02318575765e0b574d90dba51f",
+      "content":"The best stuff💥💥🔥💥",
+      "review_date":"2023-01-29T13:32:06.001+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114359748999094862849?hl=en-US"
+    },
+    {
+      "author":"hemp farm",
+      "avatar":"ce52665d8c311d8e4ef912b1ef2923bc",
+      "content":"(Translated by Google) If you are not satisfied with the products that you have found up to now, you must necessarily go here and you will not be disappointed.\nGrower's word 😉\n\n(Original)\nSe non sei soddisfatto dei prodotti che fino ad ora hai trovato, devi per forza recarti qui che non rimarrai deluso.\nParola di grower 😉",
+      "review_date":"2022-12-03T13:26:42.009+00:00",
+      "rating":5,
+      "images":[
+        "656df317912b3a6e3a91b7a3099512ab",
+        "869cfc944a490795ebdad049a3b418e6",
+        "bc017b84d2a3e22a6b906730b0d69ca2",
+        "d240cd2cf1c76f3e3faffb539af2e343"
+      ],
+      "url":"https://www.google.com/maps/contrib/114422503857203289654?hl=en-US"
+    },
+    {
+      "author":"Roman Alexeyuk",
+      "avatar":"21ec7808b922bada1b7e7f3e7ae1570c",
+      "content":"Friendly staff, good atmosphere and nice weed. Quiet neighborhood.",
+      "review_date":"2023-01-24T06:28:00.408+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114468324631965520319?hl=en-US"
+    },
+    {
+      "author":"Максим Рогожин",
+      "avatar":"1f305cf36a1799ea3e793da560c35af6",
+      "content":"Best shop in the universe!! Friendly and pro staff!",
+      "review_date":"2023-01-20T13:39:34.016+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114487836248173384731?hl=en-US"
+    },
+    {
+      "author":"Андрей Кирпичников",
+      "avatar":"84afa83d5d5192e6252213f5aa7899a3",
+      "content":"(Translated by Google) Perfect place! With excellent staff\n\n(Original)\nОтличное место! С отличным стафом",
+      "review_date":"2023-03-10T14:26:01.098+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114494286792858652610?hl=en-US"
+    },
+    {
+      "author":"Алексей Крымов",
+      "avatar":"a005d9f8cc9b0a811fa75f913623f180",
+      "content":"(Translated by Google) Absolutely iconic place for weed lovers. If you love, then you must be here. I have never experienced such an atmosphere as here. If I could give more than 5 stars, I would\n\n(Original)\nАбсолютно культовое место для любителей травки. Если ты любишь, то тут надо быть обязательно. Такой атмосферы как здесь я не встречал нигде. Если бы вместо 5-ти звёзд можно было поставить больше, я бы поставил",
+      "review_date":"2022-10-28T02:17:26.585+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114676317618779640993?hl=en-US"
+    },
+    {
+      "author":"jimmy 9999",
+      "avatar":"94025dcbe2ec43a7153b2429fd8cf8d1",
+      "content":"ร้านดีมากครับ\n\n(Translated by Google)\nVery good shop",
+      "review_date":"2023-01-21T16:09:56.041+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114712888871481740724?hl=en-US"
+    },
+    {
+      "author":"samy KHAMOUJA",
+      "avatar":"0544aefdf4ab0aa75b56150b9def7eeb",
+      "content":"Good price and the Best quality in phuket !!!!",
+      "review_date":"2023-02-25T12:29:01.041+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115001325566167957333?hl=en-US"
+    },
+    {
+      "author":"Юлия Барнаева",
+      "avatar":"a5502d2f4682be7af9663c8039f4d80f",
+      "content":"(Translated by Google) Good attitude towards visitors. Attentive staff. Large selection for every taste\n\n(Original)\nХорошее отношение к посетителям. Внимательный персонал. Большой выбор на любой вкус",
+      "review_date":"2023-03-09T14:07:07.821+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115071202276985707676?hl=en-US"
+    },
+    {
+      "author":"Jojo Blum",
+      "avatar":"20ce76563e4c8f39f1fec4d5666344c3",
+      "content":"",
+      "review_date":"2022-11-09T17:47:11.766+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115091550635979150448?hl=en-US"
+    },
+    {
+      "author":"Alex Laza",
+      "avatar":"4a472418095b39839b07a8cc6bae06a1",
+      "content":"this place really stands out for its friendly atmosphere and recreation area! thank you!!!",
+      "review_date":"2023-03-22T09:30:43.906+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115238875907790462462?hl=en-US"
+    },
+    {
+      "author":"KK Meenburi",
+      "avatar":"5bd61a156d07f11c177eda6cb707162a",
+      "content":"",
+      "review_date":"2022-09-28T09:41:00.902+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115332616585748138287?hl=en-US"
+    },
+    {
+      "author":"Dimension FT",
+      "avatar":"85fb23e5b5cd53805f798d2f5a7f3f2a",
+      "content":"best weed in town",
+      "review_date":"2023-01-19T09:59:55.833+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115354682636972861528?hl=en-US"
+    },
+    {
+      "author":"RIRID ER",
+      "avatar":"f8a039ad2c558e728e8ccd142cfe213a",
+      "content":"Great buds with great service, must try the craft soda’s they go nicely with the buds. Highly recommended.",
+      "review_date":"2022-11-01T11:21:58.913+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115458139565342817037?hl=en-US"
+    },
+    {
+      "author":"Enzo Østergaard",
+      "avatar":"50c16bfee512c485c461416c10afc444",
+      "content":"Very nice shop! Good weed and very nice staff 😁",
+      "review_date":"2023-02-01T13:47:31.031+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115710758214328533098?hl=en-US"
+    },
+    {
+      "author":"Tariq Alayed",
+      "avatar":"33d2e97579bddb6629b6463becb31e0d",
+      "content":"Very good vibes and service",
+      "review_date":"2022-12-26T09:44:03.076+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115791442122143475474?hl=en-US"
+    },
+    {
+      "author":"Станислав Зорин",
+      "avatar":"1dbbc8f46e5aa15284e721f2dda45ea2",
+      "content":"The best shop in the hood!",
+      "review_date":"2023-03-09T14:09:00.404+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115823258512901759226?hl=en-US"
+    },
+    {
+      "author":"Désirée Mercedes",
+      "avatar":"6ae564b2fbd10299abe7fb1a0e9bcb12",
+      "content":"",
+      "review_date":"2022-11-09T17:47:47.852+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116211010429539313301?hl=en-US"
+    },
+    {
+      "author":"Angie B",
+      "avatar":"ec8a180688f737c856e085b44c1533fb",
+      "content":"Very kind and helpful!",
+      "review_date":"2023-02-05T15:16:50.691+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116446075851799104892?hl=en-US"
+    },
+    {
+      "author":"Maxim Prygunov",
+      "avatar":"fd7b14680a6d97e9283f356b3fbd61bc",
+      "content":"💪🏻",
+      "review_date":"2023-01-23T17:38:10.645+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116528096988200144935?hl=en-US"
+    },
+    {
+      "author":"Иван Жданов",
+      "avatar":"a19d54608278fe25e666bc49626d189f",
+      "content":"(Translated by Google) Super!\n\n(Original)\nСупер!",
+      "review_date":"2023-02-11T10:38:04.735+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116967281456568431234?hl=en-US"
+    },
+    {
+      "author":"Михаил Смирнов",
+      "avatar":"8bd0e34922fd14c5e9b7d825f071ef4a",
+      "content":"(Translated by Google) Permanently closed, vendors not available\n\n(Original)\nПостоянно закрыто, продавцов нет на месте",
+      "review_date":"2023-02-14T05:03:34.028+00:00",
+      "rating":1,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117025832155298001722?hl=en-US"
+    },
+    {
+      "author":"Taras Fazylov",
+      "avatar":"239da668101d67a1aa4fd800cc0df644",
+      "content":"Best place on Phuket to buy quality weed. Just come here and you will not be upset ;)",
+      "review_date":"2023-01-20T10:06:43.91+00:00",
+      "rating":5,
+      "images":[
+        "ab8de4a80ef7eba465968d4da80b94db",
+        "1c4ba3bf01e5c24461a442bf8698a058"
+      ],
+      "url":"https://www.google.com/maps/contrib/117085181841222867147?hl=en-US"
+    },
+    {
+      "author":"Валерия Семенова",
+      "avatar":"409ab4638a8213b26c0fb751a489f02c",
+      "content":"Good place, best weed, cozy interior 🍀🫶🏻🤙🏻",
+      "review_date":"2023-03-24T08:30:26.04+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117158108746338047988?hl=en-US"
+    },
+    {
+      "author":"James Finigan",
+      "avatar":"741611760f96ffcbf42e5aa0fde8203e",
+      "content":"Nice edibles\nOk prices w/ some nice specials\nGreat place",
+      "review_date":"2023-02-19T15:38:01.231+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117420779962650354931?hl=en-US"
+    },
+    {
+      "author":"Jakub Andrzejewski",
+      "avatar":"375e0a02ba20432781dfa9a75fa432bd",
+      "content":"",
+      "review_date":"2022-12-28T13:20:04.042+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117597843655130680620?hl=en-US"
+    },
+    {
+      "author":"Lemozeen",
+      "avatar":"f39ba54b10e71e2a168bb9e030cf208d",
+      "content":"Best weed shop in Phuket! Very good prices and helpful staff !!! 🔥🔥🔥",
+      "review_date":"2023-02-04T11:48:40.181+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117895679623341558515?hl=en-US"
+    },
+    {
+      "author":"Ammara Pinto",
+      "avatar":"ab9bc2987455c9a9a4e8c76060cea6ff",
+      "content":"",
+      "review_date":"2023-02-04T15:11:17.495+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117902241718394947690?hl=en-US"
+    },
+    {
+      "author":"Санчо Панса",
+      "avatar":"52bc61f40fd73e96b09b67c90d0887e3",
+      "content":"",
+      "review_date":"2023-02-17T10:33:55.149+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/118049102283729098339?hl=en-US"
+    },
+    {
+      "author":"Konstantin koterpiler",
+      "avatar":"c9a1a131159df80c648396a1a9148ef5",
+      "content":"very good place, and weed",
+      "review_date":"2023-01-28T14:51:48.671+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/118104689897161712685?hl=en-US"
+    },
+    {
+      "author":"Виктория Сергеевна",
+      "avatar":"950360e493db56914104106b87fa672a",
+      "content":"Good price, lovely place and kind stuff",
+      "review_date":"2023-02-06T16:18:02.623+00:00",
+      "rating":5,
+      "images":[
+        "a96a3cbfc548e09406f1222032e69b7a"
+      ],
+      "url":"https://www.google.com/maps/contrib/118316888568606244535?hl=en-US"
+    }
+  ],
+  "reviews_aggregate":{
+    "aggregate":{
+      "sum":{
+        "rating":869
+      },
+      "count":175
+    }
+  },
+  "suggestions":[
+    {
+      "distance":0.13366758356438616,
+      "dispensary":{
+        "id":"a806741f-8d2f-4fae-876f-9def52606e2a",
+        "city":"Phangnga",
+        "name":"Spacebar Cannabis",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"2200"
+            }
+          }
+        ],
+        "lat":7.880832200000001,
+        "lng":98.3728584,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "has_products":false,
+        "address":"V9JF+84G, Thanon Wirat Hong Yok, Tambon Wichit, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.5340281179342348,
+      "dispensary":{
+        "id":"d820efd7-27b9-4114-834a-8204caa1d6d5",
+        "city":"Phangnga",
+        "name":"The Corner 5/1",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1700"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1700"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1700"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1700"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1700"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1700"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1700"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":7.880392299999999,
+        "lng":98.3675895,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":120
+            },
+            "count":24
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":115
+            },
+            "count":23
+          }
+        },
+        "image":"5f21016b9001696b09c8f27f89dd474d",
+        "has_products":false,
+        "address":"263 Soi Wirat Hong Yok 5/1, Tambon Wichit, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.5737053563399773,
+      "dispensary":{
+        "id":"4fdca44f-28cd-4858-a2da-fff39b62dd03",
+        "city":"Phangnga",
+        "name":"Garfield Thailand Weed Club",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1030"
+            },
+            "close":{
+              "day":0,
+              "time":"2330"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1030"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1030"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1030"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1030"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1030"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1030"
+            },
+            "close":{
+              "day":6,
+              "time":"2330"
+            }
+          }
+        ],
+        "lat":7.880521399999999,
+        "lng":98.3672447,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":120
+            },
+            "count":24
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":115
+            },
+            "count":23
+          }
+        },
+        "image":"e0c0425015a433b45a429ab2dc8c3441",
+        "has_products":false,
+        "address":"63, 262 หมู่ที่ 4 Soi Wirat Hong Yok 5/1, Tambon Wichit, เมือง, Chang Wat Phuket 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.6078243501040158,
+      "dispensary":{
+        "id":"8d827770-a8d3-4095-adce-9f4d6fe9cc36",
+        "city":"Phangnga",
+        "name":"The Greenery Cannabis Dispensary",
+        "types":[
+          "Dispensary",
+          "Cafe",
+          "Delivery",
+          "Bar"
+        ],
+        "delivery_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1200"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1200"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1200"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1200"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1200"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1200"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1200"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0000"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"0000"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"0000"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"0000"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"0000"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"0000"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"0000"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":7.881323399999999,
+        "lng":98.367114,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":95
+            },
+            "count":19
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":95
+            },
+            "count":19
+          }
+        },
+        "image":"dadf690855c70997aea4f0c7f2a1f288",
+        "has_products":true,
+        "address":"4/30 Wichit Road Mueang Phuket, ตำบล วิชิต อำเภอเมืองภูเก็ต ภูเก็ต 83000, Thailand",
+        "open":true
+      }
+    },
+    {
+      "distance":0.6506094770567804,
+      "dispensary":{
+        "id":"36315fab-7c11-41ed-b81f-32107e35f6ba",
+        "city":"Phangnga",
+        "name":"WEED WOW SHOP Good!! Cheap!! Cannabis Shop in PHUKET",
+        "types":[
+          "Dispensary"
+        ],
+        "delivery_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1300"
+            },
+            "close":{
+              "day":1,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1300"
+            },
+            "close":{
+              "day":2,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1300"
+            },
+            "close":{
+              "day":3,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1300"
+            },
+            "close":{
+              "day":4,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1300"
+            },
+            "close":{
+              "day":5,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1700"
+            },
+            "close":{
+              "day":6,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1700"
+            },
+            "close":{
+              "day":0,
+              "time":"2200"
+            }
+          }
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":1,
+              "time":"1200"
+            },
+            "close":{
+              "day":1,
+              "time":"2230"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1200"
+            },
+            "close":{
+              "day":3,
+              "time":"1030"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1200"
+            },
+            "close":{
+              "day":3,
+              "time":"2230"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1200"
+            },
+            "close":{
+              "day":4,
+              "time":"2230"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1200"
+            },
+            "close":{
+              "day":5,
+              "time":"2230"
+            }
+          }
+        ],
+        "lat":7.885250499999999,
+        "lng":98.3743277,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":25
+            },
+            "count":5
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":25
+            },
+            "count":5
+          }
+        },
+        "image":"06ab06dd1790be7d939967796b8f37ab",
+        "has_products":false,
+        "address":"4, จังหวัดภูเก็ค 83000, Tambon Wichit, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.6506094770567804,
+      "dispensary":{
+        "id":"b643d297-8b56-4dbb-a8d9-509f59381442",
+        "city":"Phangnga",
+        "name":"Weed Wow cannabis shop",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":1,
+              "time":"1200"
+            },
+            "close":{
+              "day":1,
+              "time":"2230"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1200"
+            },
+            "close":{
+              "day":2,
+              "time":"2230"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1200"
+            },
+            "close":{
+              "day":3,
+              "time":"2230"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1200"
+            },
+            "close":{
+              "day":4,
+              "time":"2230"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1200"
+            },
+            "close":{
+              "day":5,
+              "time":"2230"
+            }
+          }
+        ],
+        "lat":7.885250499999999,
+        "lng":98.3743277,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "has_products":false,
+        "address":"4 Wichit, Mueang Phuket District, Phuket 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.7500469083260243,
+      "dispensary":{
+        "id":"2d57400a-c62d-4ec5-94c9-2915109ff457",
+        "city":"Phangnga",
+        "name":"CANNABIS BOX",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1700"
+            },
+            "close":{
+              "day":6,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1700"
+            },
+            "close":{
+              "day":0,
+              "time":"2200"
+            }
+          }
+        ],
+        "lat":7.8809004,
+        "lng":98.3656855,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "image":"de784d781a8bb4ec835ed3058b60a4b6",
+        "has_products":false,
+        "address":"V9J8+F75, Wichit, Mueang Phuket District, Phuket 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.7528611555619388,
+      "dispensary":{
+        "id":"51b2c6fd-5cac-42db-9aff-3f7e0a5eb58f",
+        "city":"Phuket",
+        "name":"Heaven Weed Shop Phuket",
+        "types":[
+          "Delivery"
+        ],
+        "delivery_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":7.880773599999999,
+        "lng":98.379143,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":55
+            },
+            "count":11
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":55
+            },
+            "count":11
+          }
+        },
+        "image":"700fd88ac0d5b40a6f3bf5fc95ab203b",
+        "has_products":false,
+        "address":"76 พัฒนา ซอย 10 อ.เมือง Phuket 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.8185549707742912,
+      "dispensary":{
+        "id":"832c64b9-958f-48c4-a6c4-a1ecd6b68663",
+        "city":"Phangnga",
+        "name":"Arasaka Weeds",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":7.886756300000001,
+        "lng":98.37458470000001,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"199 หมู่ที่ 4 Vichitsongkram Rd, Wichit, อำเภอเมืองภูเก็ต ภูเก็ต 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.8535884182061784,
+      "dispensary":{
+        "id":"a94f1220-4423-4016-b458-f35c1801a1e7",
+        "city":"Phangnga",
+        "name":"Cannabis Family shop",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":7.882864400000001,
+        "lng":98.3794617,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "image":"ef98b065de04563fb897411ca5eac40a",
+        "has_products":false,
+        "address":"34 Pattana Soi 6, Tambon Talat Nuea, เมือง Chang Wat Phuket 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.870145176266854,
+      "dispensary":{
+        "id":"695d6e27-1b45-4934-86ed-e6564c25910e",
+        "city":"Phangnga",
+        "name":"กัญชา ภูเก็ต",
+        "types":[
+          "Cafe"
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1230"
+            },
+            "close":{
+              "day":0,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1230"
+            },
+            "close":{
+              "day":1,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1230"
+            },
+            "close":{
+              "day":2,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1230"
+            },
+            "close":{
+              "day":3,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1230"
+            },
+            "close":{
+              "day":4,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1230"
+            },
+            "close":{
+              "day":5,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1230"
+            },
+            "close":{
+              "day":6,
+              "time":"2200"
+            }
+          }
+        ],
+        "lat":7.8804167,
+        "lng":98.3645217,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":15
+            },
+            "count":3
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":15
+            },
+            "count":3
+          }
+        },
+        "image":"3b736db6449d08390a73c919749f07ca",
+        "has_products":false,
+        "address":"50 ภูเก็ตวิลล่าสวนหลวง ซ.18 Tambon Wichit, เมือง Chang Wat Phuket 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.8866126461070629,
+      "dispensary":{
+        "id":"999aba67-59d4-4bf0-aa1a-ad153a3602c8",
+        "city":"Phangnga",
+        "name":"Hippie Weed",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"2100"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2100"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2100"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2100"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2100"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"2100"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"2100"
+            }
+          }
+        ],
+        "lat":7.8876642,
+        "lng":98.3716668,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":20
+            },
+            "count":4
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":20
+            },
+            "count":4
+          }
+        },
+        "has_products":false,
+        "address":"74/10, ตำบล วิชิต เมือง, ภูเก็ต 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.9055997407095531,
+      "dispensary":{
+        "id":"7904057b-cf5f-430e-829c-5699a6ce9397",
+        "city":"Phangnga",
+        "name":"กัญกัญ KANkan",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"2300"
+            }
+          }
+        ],
+        "lat":7.872046099999999,
+        "lng":98.36964549999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"ถนน เจ้าฟ้าสวนหลวง Tambon Wichit, เมือง, Chang Wat Phuket 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.9217700649125744,
+      "dispensary":{
+        "id":"6b3ffeb2-94fe-421c-b982-7e85e92bd0c9",
+        "city":"Phangnga",
+        "name":"Hotbox Phuket (Cannabis Dispensary)",
+        "types":[
+          "Dispensary",
+          "Cafe",
+          "Delivery"
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"2300"
+            }
+          }
+        ],
+        "lat":7.8834392,
+        "lng":98.3649099,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "image":"bb12501a8d97c328d9f6b0664261a53d",
+        "has_products":false,
+        "address":"35 Thanon Chao Fah Tawan Tok, Tambon Wichit, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.9229663489045987,
+      "dispensary":{
+        "id":"ab894d5d-1a21-4a8b-a89d-7cf02cdfcdd2",
+        "city":"Phangnga",
+        "name":"Hotbox Phuket",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":7.8834389,
+        "lng":98.36489759999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"35 Thanon Chao Fah Tawan Tok, Tambon Wichit, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand",
+        "open":false
+      }
+    }
+  ]
+}

@@ -1,0 +1,664 @@
+{
+    "id":"1fe64bbe-ee57-41cb-8772-d9d09a92e335",
+    "lat": "14.0384306",
+    "lng": "100.6706656",
+    "city":"Pathum Thani",
+    "name":"Friend Farm OG",
+    "type":null,
+    "business_images":[
+      "7cad5aad7dcd1a3b4d68e31619bf507b",
+      "c22a39db9e1f4da8acfe89e0022b8b9c",
+      "a02ef5a3f4cf4db89ac4c6bff861a313"
+    ],
+    "google_images":[
+      
+    ],
+    "status":"approved",
+    "website":"https://www.facebook.com/profile.php?id=100011774252034&mibextid=LQQJ4d",
+    "phone":"+66 98 919 9149",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"0900"
+        },
+        "close":{
+          "day":0,
+          "time":"2230"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"0900"
+        },
+        "close":{
+          "day":1,
+          "time":"2230"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"0900"
+        },
+        "close":{
+          "day":2,
+          "time":"2230"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"0900"
+        },
+        "close":{
+          "day":3,
+          "time":"2230"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"0900"
+        },
+        "close":{
+          "day":4,
+          "time":"2230"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"0900"
+        },
+        "close":{
+          "day":5,
+          "time":"2230"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"0900"
+        },
+        "close":{
+          "day":6,
+          "time":"2230"
+        }
+      }
+    ],
+    "line":"film.mi.",
+    "google_url":"https://maps.google.com/?cid=668453392214610269",
+    "place_id":"PuVWKMQt5Uk_UGREKIUow7UFEtx",
+    "facebook":"https://www.facebook.com/profile.php?id=100011774252034&mibextid=LQQJ4d",
+    "description":"ฟาร์มกัญชา ปลีก-ส่ง",
+    "products_flowers":[
+      {
+        "id":"125a7f2b-43d3-4f5c-8ace-ae89e43cb656",
+        "name":"Godfather OG",
+        "description":"Sweet ",
+        "images":[
+          "2493242ef94672e1b82acc852f7c9fcc"
+        ],
+        "thc":34,
+        "cbd":0,
+        "sativa":70,
+        "indica":30,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2022-12-31T05:44:59.629219+00:00",
+        "updated_at":"2023-04-15T19:00:05.040907+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"Cholthicha Yusong",
+        "avatar":"308d5e17b5a1b6a91794932ae8101305",
+        "content":"ขอบคุณสำหรับดอกหอมๆ นะครับ รอบหน้าไปอุดหนุนไหม่นะครับ\n\n(Translated by Google)\nThank you for the fragrant flowers. Will you go and support next round?",
+        "review_date":"2022-12-29T11:19:27.082+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101484300508759361802?hl=en-US"
+      },
+      {
+        "author":"nuttavut tumsuk",
+        "avatar":"0e335cfc9c94be7ea06c3fe69d95f512",
+        "content":"",
+        "review_date":"2022-12-29T11:16:15.295+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108262290455179681373?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":10
+        },
+        "count":2
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.46977327187986134,
+        "dispensary":{
+          "id":"dfc13f67-8353-4c30-b43d-07d74533317b",
+          "city":"Pathum Thani",
+          "name":"Gum Yarn",
+          "types":[
+            
+          ],
+          "lat":14.0406571,
+          "lng":100.6669975,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"65b60ddaf004be0c09291eba6e34f98e",
+          "has_products":false,
+          "address":"40/433 Moo Ban Phrueksa 22 B, คลองสาม Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.65646493015913,
+        "dispensary":{
+          "id":"de987926-3288-46e7-9fad-f4becac4b3a7",
+          "city":"Pathum Thani",
+          "name":"บริษัท โตริชา กรุ๊ป จำกัด Tori Cha Group Co.,Ltd. (สำนักงานใหญ่)",
+          "types":[
+            
+          ],
+          "lat":14.043362,
+          "lng":100.6674714,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"45/57 Pruksa D, Tambon Khlong Sam, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.7725919467934745,
+        "dispensary":{
+          "id":"3fe29501-4953-4b9e-9fdf-930726765cb8",
+          "city":"Pathum Thani",
+          "name":"ร้าน อม ยิ้ม กัญ เครื่องดื่มกัญชาแท้",
+          "types":[
+            
+          ],
+          "lat":14.0382273,
+          "lng":100.6634558,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"31/646 หมู่บ้านพฤกษา 12 ซ 4/1 ถ. เลียบคลองสาม Tambon Khlong Sam, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.910547122349994,
+        "dispensary":{
+          "id":"c411b219-8230-499b-b0b6-adfa5da6cbf2",
+          "city":"Pathum Thani",
+          "name":"กินกูมิ กินกัญไหม (KINKUMI CAFE)",
+          "types":[
+            
+          ],
+          "lat":14.035575,
+          "lng":100.6626606,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"db1dd8c8e0a5a1fd08f184a8a42fdec5",
+          "has_products":false,
+          "address":"2MP7+63C, Khlong Sam, Khlong Luang District, Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.9112257480357481,
+        "dispensary":{
+          "id":"ce082187-1b69-43b0-9927-e1eb9afd4def",
+          "city":"Pathum Thani",
+          "name":"JIBGUN",
+          "types":[
+            
+          ],
+          "lat":14.0463366,
+          "lng":100.6689229,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"หมู่บ้าน พฤกษาวิลล์ 46/2 เลขที่บ้าน 51/179 คลองสาม Khlong Luang District, Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.9189296062070378,
+        "dispensary":{
+          "id":"a5eb7fd9-6918-4def-8d5d-a6ee81fa1ef9",
+          "city":"Pathum Thani",
+          "name":"Cannabis Drunks",
+          "types":[
+            
+          ],
+          "lat":14.0435934,
+          "lng":100.6640684,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "image":"6b35c9fd036574246a86e777549ad88a",
+          "has_products":false,
+          "address":"2MV7+CJP ถ. เลียบคลองสาม Tambon Khlong Sam, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.9209918993762217,
+        "dispensary":{
+          "id":"3c3da7f0-ead2-43f0-9673-bd116f2e146b",
+          "city":"Pathum Thani",
+          "name":"ยอดมนุษย์กัญชาคาเฟ่ สาขาคลอง3 at Ninetytwo café",
+          "types":[
+            
+          ],
+          "lat":14.035896,
+          "lng":100.6624498,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":14
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"b3be155648a6bbea2fe5f1bff610175a",
+          "has_products":false,
+          "address":"2MP6+9X4, Khlong Sam, Khlong Luang District, Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.0102621634650737,
+        "dispensary":{
+          "id":"eda0757c-2255-4331-9310-76ba8c8594f4",
+          "city":"Pathum Thani",
+          "name":"100 TO THE MOON พฤกษา13 รังสิตคลอง3",
+          "types":[
+            
+          ],
+          "lat":14.0392891,
+          "lng":100.6613068,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"37 357 หมู่4 หมู่บ้านพฤกษา 13 คลองสาม Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.3450769783866359,
+        "dispensary":{
+          "id":"5182f873-962d-4353-ac4a-7f830003fcbb",
+          "city":"Pathum Thani",
+          "name":"89 District Coffeeshop",
+          "types":[
+            
+          ],
+          "lat":14.0500291,
+          "lng":100.6675335,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"4c3c23d8f09273390363db99068e5ad6",
+          "has_products":false,
+          "address":"45/40 (ดิ นครา) หมู่ 5 คลองสาม Tambon Khlong Sam, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.7540430269123617,
+        "dispensary":{
+          "id":"167b2936-3f46-44d2-9bab-27ed8b0b3d3a",
+          "city":"Pathum Thani",
+          "name":"ท่อมๆ ชา ๆ",
+          "types":[
+            
+          ],
+          "lat":14.0250258,
+          "lng":100.6618462,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"319edd4e86a1df99b5a558ce786b34ad",
+          "has_products":false,
+          "address":"59 650 Soi Mu Ban Wararak Rangsit Khlong 3, Tambon Khlong Sam, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.8200470148057093,
+        "dispensary":{
+          "id":"e3aad984-9724-40a4-945a-6ce7d1c0472d",
+          "city":"Pathum Thani",
+          "name":"Herbalist Rangsit (Klong3) - เฮอบะลิซท์ รังสิต (คลอง3)",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":14.0530709,
+          "lng":100.6633298,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":12
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":12
+              },
+              "count":3
+            }
+          },
+          "image":"e6eac187a5cbb9d068f6eb60dc64bc89",
+          "has_products":false,
+          "address":"ตลาดปู่กะย่า Soi Khlong Sam 5/11, คลองสาม Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.2639436335078993,
+        "dispensary":{
+          "id":"1cdaad10-4caf-4dfb-86f2-2f35463e7631",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชา แก๊สสเตชั่น",
+          "types":[
+            
+          ],
+          "lat":14.0198841,
+          "lng":100.6795488,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"1f755873eeae5619c32ba7704eced832",
+          "has_products":false,
+          "address":"คลองสี่ 86/284 Pleno รังสิตคลอง 4 - วงแหวน หมู่ 1 คลองสี่ Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.271811164278536,
+        "dispensary":{
+          "id":"4f5a34a7-4857-4380-87e2-4a7057bc8284",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชาใกล้ฉัน Xweed",
+          "types":[
+            
+          ],
+          "lat":14.0198933,
+          "lng":100.6797386,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "has_products":false,
+          "address":"คลองสี่ 90/284 Pleno รังสิตคลอง 4 - วงแหวน หมู่ 1 คลองสี่ Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.2785462313713967,
+        "dispensary":{
+          "id":"e6684a3b-c347-4a32-be7f-5dfd8c55dc0d",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชา Grassstation",
+          "types":[
+            "Dispensary",
+            "Cafe",
+            "Club",
+            "Wholesaler",
+            "Farm",
+            "Grower"
+          ],
+          "lat":14.0199285,
+          "lng":100.6799558,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":618
+              },
+              "count":124
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":618
+              },
+              "count":124
+            }
+          },
+          "image":"855e51d977c0ab791854bc43fffc47c1",
+          "has_products":false,
+          "address":"Pleno 88/284 พลีโน่รังสิตคลองสี่-วงแหวน คลองสี่ Tambon Khlong Si, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.2854874000292904,
+        "dispensary":{
+          "id":"fc7ba2db-b168-451f-889f-c569f4a4ca33",
+          "city":"Pathum Thani",
+          "name":"ร้านกัญชา Grassstation",
+          "types":[
+            
+          ],
+          "lat":14.0198733,
+          "lng":100.6799859,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":125
+              },
+              "count":25
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":125
+              },
+              "count":25
+            }
+          },
+          "image":"f17385b4522ccd6b1ae3d75b6fe32742",
+          "has_products":false,
+          "address":"88/284 Pleno Rangsit KhlongSi-Wongwaen, Khlong Si Subdistrict, อำเภอคลองหลวง ปทุมธานี 12120, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

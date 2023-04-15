@@ -1,0 +1,1545 @@
+{
+    "id":"db178f04-189c-42f1-be8c-79d3070feecf",
+    "lat": "13.8291222",
+    "lng": "100.5630116",
+    "city":"Bangkok",
+    "name":"Neverland.og | Cannabis | Weed shop",
+    "type":null,
+    "business_images":[
+      "0a60feccf57562d340708145c9bd45a3",
+      "1b463b701f53740c64ad96a0e4d5a128",
+      "e8a0603b34eb5574c25bf3f221b49974"
+    ],
+    "google_images":[
+      
+    ],
+    "status":"approved",
+    "website":"https://neverland-ogth.com",
+    "phone":"+66889691555",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1400"
+        },
+        "close":{
+          "day":0,
+          "time":"2200"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1400"
+        },
+        "close":{
+          "day":1,
+          "time":"2200"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1500"
+        },
+        "close":{
+          "day":2,
+          "time":"2200"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1400"
+        },
+        "close":{
+          "day":3,
+          "time":"2200"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1400"
+        },
+        "close":{
+          "day":4,
+          "time":"2330"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1430"
+        },
+        "close":{
+          "day":5,
+          "time":"2350"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1430"
+        },
+        "close":{
+          "day":6,
+          "time":"2300"
+        }
+      }
+    ],
+    "line":"@neverland.bkk",
+    "google_url":"https://maps.google.com/?cid=16271565346331581583",
+    "place_id":"PuVWRk5.-cvq5wNEw4lz48t01BR",
+    "facebook":"https://www.facebook.com/neverland.ogstorex",
+    "description":"Neverland.OG is your one-stop destination when it comes to buying premium quality cannabis products in Thailand – so come explore our selection today and find everything you need!",
+    "products_flowers":[
+      {
+        "id":"e3199b87-2292-4744-b6fd-7d66ad718a77",
+        "name":"Mac n' Cheese",
+        "description":"Things begin to change exhaling the first hit, and even if you are in a fine state of mind your condition will only become better. Once mind and body reach synchronicity, both should be in a very relaxed mood. I found that after half hour or so, the body remained at ease while still feeling coordinated enough to become active. All systems were now ready to get out and have a look around. A calm, clear mind combined with an energetic, yet relaxed body made for a pleasant perspective for the afternoon. In light doses, expect about 2 1/2 hours in this type of mood with an easy come-down with increased appetite and sensual appreciation of what you are eating. A few more tokes would go nicely to provide a more intense high and probably a longer duration.",
+        "images":[
+          "4d92034a772eafc1a6e4cb2a2f93b403"
+        ],
+        "thc":22,
+        "cbd":1,
+        "sativa":60,
+        "indica":40,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2023-04-01T18:25:26.4699+00:00",
+        "updated_at":"2023-04-15T23:00:07.785368+00:00"
+      },
+      {
+        "id":"94c690c8-68e9-45b5-9298-a584a622931a",
+        "name":"Runtz Muffin",
+        "description":"Runtz Muffin Cannabis Seeds offer supreme relaxation with euphoric effects that will calm and uplift you. This is a high that will last throughout the entire day, slowly easing your ailments and giving you those warm feelings with no paranoia.\n",
+        "images":[
+          "52f070b506b435a3540285607d1967d1"
+        ],
+        "thc":23,
+        "cbd":0,
+        "sativa":30,
+        "indica":70,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2023-04-01T18:36:11.501928+00:00",
+        "updated_at":"2023-04-15T23:00:07.795152+00:00"
+      },
+      {
+        "id":"d6a08dab-364b-481c-8156-848a5d68d3d7",
+        "name":"White Runtz",
+        "description":"White Runtz is one of the most exclusive marijuana strains today, and boy doesn’t the strain fit the bill. Whether it is a long-lasting high, lip-smacking fruity aroma, or high yields, White Runtz gives you that.",
+        "images":[
+          "87ad4b621a4867023fcdd88da752ebd5"
+        ],
+        "thc":24,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2023-04-01T18:41:05.313458+00:00",
+        "updated_at":"2023-04-15T23:00:07.78874+00:00"
+      },
+      {
+        "id":"d58376eb-41dc-4e2e-87dd-6c1d9e19514b",
+        "name":"Oreoz Cookies",
+        "description":" Both the flavor and aroma are of chocolate, diesel, and nuts. The terpenes in this strain are Bisabolol, Caryophyllene, and Phellandrene. This is going to be one of the most flavorful strains that you have tried and you won’t regret toking up. ",
+        "images":[
+          "255320614acd346e1eb81ab3f4bfa934"
+        ],
+        "thc":22,
+        "cbd":0,
+        "sativa":40,
+        "indica":60,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2023-04-01T18:46:41.592352+00:00",
+        "updated_at":"2023-04-15T23:00:07.7795+00:00"
+      },
+      {
+        "id":"4e44870e-aa09-47fb-b92d-035f945d0f82",
+        "name":"WeddingCake",
+        "description":"Wedding Cake has relaxing and euphoric effects, but novices should be careful due to its powerful psychoactive effects.",
+        "images":[
+          "a600b6a68c3a916c43f0431ce9234c43"
+        ],
+        "thc":27,
+        "cbd":0,
+        "sativa":40,
+        "indica":60,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2023-04-14T22:48:11.45836+00:00",
+        "updated_at":"2023-04-15T23:00:07.774212+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      {
+        "id":"1ffc38aa-3684-434e-a79a-2d1952c14fc9",
+        "name":"PinkLemon Haze",
+        "description":"Our pre-roll uses pure medical marijuana flowers.  no other ingredients  and use the bottom of the filter and organic paper.",
+        "images":[
+          
+        ],
+        "thc":20,
+        "cbd":0,
+        "sativa":80,
+        "indica":20,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-04-01T18:16:48.52327+00:00",
+        "updated_at":"2023-04-15T23:00:07.802428+00:00"
+      }
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"La Casa Shambala",
+        "avatar":"1db6858b361e0ec631d4dc709a0dae4f",
+        "content":"They are so lovely and the products have  very good quality",
+        "review_date":"2023-03-10T13:17:56.39+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100427756499982023693?hl=en-US"
+      },
+      {
+        "author":"Komdej Tangkittiwet",
+        "avatar":"8592aa6bc49b7544740062da489d5732",
+        "content":"ร้านดีมาก ชิว บรรยากาศดี\n\n(Translated by Google)\nVery good shop, chill, good atmosphere",
+        "review_date":"2023-02-28T13:34:18.696+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100627499260047856324?hl=en-US"
+      },
+      {
+        "author":"lucas burrows",
+        "avatar":"969779e4eaf2c3f23568f239600af7e0",
+        "content":"Very good place to shop",
+        "review_date":"2023-03-27T08:34:43.647+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100718203170571948444?hl=en-US"
+      },
+      {
+        "author":"Kornel Korabiowski",
+        "avatar":"cd0d70668d80d1db1b00386b407ac836",
+        "content":"The best weed in Bkk.\nExotics and topshelf 👌🏻",
+        "review_date":"2023-02-28T13:36:16.774+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101306389010018444417?hl=en-US"
+      },
+      {
+        "author":"Swetha Raveendran",
+        "avatar":"3edb41119bfe3120984bbfeabd352971",
+        "content":"",
+        "review_date":"2023-03-10T14:22:01.475+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101651340297910339228?hl=en-US"
+      },
+      {
+        "author":"Nadira Austricia",
+        "avatar":"1c468ff00aa0a3e815d8f6d268b42379",
+        "content":"Really good service, knowledgeable Budtenders, & homey vibes",
+        "review_date":"2023-03-04T14:31:56.464+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102140648569528543494?hl=en-US"
+      },
+      {
+        "author":"Pirakorn Herunlertkorn",
+        "avatar":"8be0b517cba5d11dd009844b66980492",
+        "content":"good place",
+        "review_date":"2023-02-21T11:54:32.895+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102457083030299785476?hl=en-US"
+      },
+      {
+        "author":"Acad Ma",
+        "avatar":"ac68c07371a0e899200365d3eff6abd9",
+        "content":"Good Service and variety of choices with reasonable prices. Free equipments for smoking as well .",
+        "review_date":"2023-03-10T09:47:17.682+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102515382204185081986?hl=en-US"
+      },
+      {
+        "author":"Kritsakon Chavongluang",
+        "avatar":"cd8e401bc36bcf4a1260735964d990c6",
+        "content":"",
+        "review_date":"2023-02-21T05:37:51.496+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102623608785002981688?hl=en-US"
+      },
+      {
+        "author":"David Bennett",
+        "avatar":"26509440a17e470bcef7be498d9d0eee",
+        "content":"Doesn't appear to be there anymore.",
+        "review_date":"2023-02-06T11:05:28.23+00:00",
+        "rating":1,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102629547167141197608?hl=en-US"
+      },
+      {
+        "author":"Nichcha Kupruksapun",
+        "avatar":"72ffb9d76fa9abb1edb3dca84c3d1faf",
+        "content":"Green paradise💚",
+        "review_date":"2023-02-24T11:44:16.792+00:00",
+        "rating":5,
+        "images":[
+          "26a41d923f3e9d0269ab887884434073"
+        ],
+        "url":"https://www.google.com/maps/contrib/102682034047636485698?hl=en-US"
+      },
+      {
+        "author":"Tanabodee Limpaitoon",
+        "avatar":"d2e8f5122424727a78bf4e0b829a81bb",
+        "content":"",
+        "review_date":"2023-03-07T17:46:00.693+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103749487637671686873?hl=en-US"
+      },
+      {
+        "author":"ต้นหิน Toninho",
+        "avatar":"c4f9aba759b97d9e89ba2d0058099ee6",
+        "content":"Enjoy แอร์เย็นฉ่ำ มีWifi ด้วย ดอกไม้คุณภาพคับแก้ว 🍀🍀\n\n(Translated by Google)\nEnjoy the cool air conditioner with Wifi with quality flowers. 🍀🍀",
+        "review_date":"2023-03-29T08:36:16.753+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103860335751439108256?hl=en-US"
+      },
+      {
+        "author":"Ivashov Max",
+        "avatar":"2e0330ea009d776bf38b97bc39673472",
+        "content":"",
+        "review_date":"2023-02-24T08:39:28.254+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104007053754471004622?hl=en-US"
+      },
+      {
+        "author":"Соня Новожилова",
+        "avatar":"52bc61f40fd73e96b09b67c90d0887e3",
+        "content":"Pretty good people with good stuff. Thank you 🌷",
+        "review_date":"2023-03-14T12:31:47.201+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104045377761605582428?hl=en-US"
+      },
+      {
+        "author":"Maytus Wang",
+        "avatar":"c921dea83b6ff5d2747f031fa4e14415",
+        "content":"Very good quality product and very friendly staff, Strongly recommended",
+        "review_date":"2023-04-04T14:58:25.477+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104705790342555718357?hl=en-US"
+      },
+      {
+        "author":"Talay Jiamjaratrangsee",
+        "avatar":"fca753de4869b38bcdcb509a79d19c25",
+        "content":"good and friendly service.\ntotally recommended.",
+        "review_date":"2023-02-22T13:34:31.395+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104859976623801011435?hl=en-US"
+      },
+      {
+        "author":"Sky Chew",
+        "avatar":"fa243af5f952c3acf41d49db606f7459",
+        "content":"Awesome place. To get high wualit weed. Also have joints.",
+        "review_date":"2023-03-30T11:14:18.093+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104916936375569585764?hl=en-US"
+      },
+      {
+        "author":"Anna T",
+        "avatar":"f09af8831b139f8fd137ed5b721ae7a9",
+        "content":"Chillin space, Cool stuff, Good place for Cannabis experience.🍃☮️",
+        "review_date":"2023-02-21T11:37:02.465+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104917972479659515233?hl=en-US"
+      },
+      {
+        "author":"SETTAWEE",
+        "avatar":"83c2894ef9f783da100512ad5237cb34",
+        "content":"เพลินครับ\n\n(Translated by Google)\nenjoy",
+        "review_date":"2023-03-11T13:07:18.001+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104944304896905638767?hl=en-US"
+      },
+      {
+        "author":"Athiapch",
+        "avatar":"2a625666b6f9a9c2d5dd7658a13d06af",
+        "content":"ถูกและดีต้องที่นี่เลยครับ คุณภาพดี เมา ทุกดอก สินค้าหลากหลายให้เลือกมากมาย การันตี 5ดาว ครับ👍👍👍👑👑👑\n\n(Translated by Google)\nCheap and good must be here. Good quality. Every flower is drunk. A variety of products to choose from. Guarantee 5 stars. 👍👍👍👑👑👑",
+        "review_date":"2023-03-09T05:49:27.762+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105262687241230682364?hl=en-US"
+      },
+      {
+        "author":"Jacob Black",
+        "avatar":"1d286e4ff5d7e3d542d1c47e286bfc60",
+        "content":"Great price nice people",
+        "review_date":"2023-02-22T12:40:23.539+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105308529721794046967?hl=en-US"
+      },
+      {
+        "author":"Boom Theeranon",
+        "avatar":"52961d5349355388dd36019c16771929",
+        "content":"Good service 🤙💚",
+        "review_date":"2023-02-21T03:53:39.951+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105365083190185954157?hl=en-US"
+      },
+      {
+        "author":"ภัทรภณ ขุนนาศรี",
+        "avatar":"11c04e336358dd5fe1c227e27ff462dc",
+        "content":"เยี่ยมครับ\n\n(Translated by Google)\ngreat",
+        "review_date":"2023-02-25T13:57:06.981+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105478569435394353596?hl=en-US"
+      },
+      {
+        "author":"Supakkanat KROEKKARAN",
+        "avatar":"88e3372dea655df3d45336cd20c28251",
+        "content":"ราคาดีมากครับ\n\n(Translated by Google)\nvery good price",
+        "review_date":"2023-04-01T12:38:30.574+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105792361918210990879?hl=en-US"
+      },
+      {
+        "author":"kwunwang ho",
+        "avatar":"44622f11fb97773e3c02e347e95f38cc",
+        "content":"Very good place to chill super friendly and it’s a very wonderful land",
+        "review_date":"2023-02-24T09:05:25.371+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105830468114786851303?hl=en-US"
+      },
+      {
+        "author":"Jeffsrc",
+        "avatar":"5f7826ae0d94ca85ed9e7a61d8711804",
+        "content":"โคตรดีครับ\n\n(Translated by Google)\nvery good",
+        "review_date":"2023-02-23T15:32:32.176+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105923856448953426089?hl=en-US"
+      },
+      {
+        "author":"IBAGUN",
+        "avatar":"8026e66ad86b67370027bd3d63c8172a",
+        "content":"Best weed &good price 👍🏼",
+        "review_date":"2023-02-21T08:56:36.839+00:00",
+        "rating":5,
+        "images":[
+          "8aec72b907d470d533f04dd73f81a0bb"
+        ],
+        "url":"https://www.google.com/maps/contrib/106646392944209187478?hl=en-US"
+      },
+      {
+        "author":"Frode Sjurseth",
+        "avatar":"67bcaa4934029a76435f150350cf9894",
+        "content":"Good Quality and good atmosphere, friendly place.",
+        "review_date":"2023-03-25T12:55:17.235+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106694278510364567024?hl=en-US"
+      },
+      {
+        "author":"Riccardo Dominici",
+        "avatar":"1cfb0d286789ce93e67ffa929c31022b",
+        "content":"Good vibes, good weed too! Prices very affordable too, 100% would reccomend 😁",
+        "review_date":"2023-03-10T13:12:11.647+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106742457010665130391?hl=en-US"
+      },
+      {
+        "author":"Meen P.",
+        "avatar":"481024612d3cf765dcb4ef12ae828b5e",
+        "content":"บริการดีมากครับ สินค้าหลากหลาย\n\n(Translated by Google)\nVery good service variety of products",
+        "review_date":"2023-03-27T11:23:53.24+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107213458333008598685?hl=en-US"
+      },
+      {
+        "author":"Jules Demay",
+        "avatar":"1a6ebab6105838456fc658ec7f0cdf76",
+        "content":"Best place to chill and enjoy a stick",
+        "review_date":"2023-03-11T11:05:30.215+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107737413170044132072?hl=en-US"
+      },
+      {
+        "author":"Nachat Natemaneesuk",
+        "avatar":"483b8dc750d62e79ea2a8db9d4872f62",
+        "content":"",
+        "review_date":"2023-03-22T11:32:30.733+00:00",
+        "rating":5,
+        "images":[
+          "1b277478527d2dafecaca2e6c1943e1c"
+        ],
+        "url":"https://www.google.com/maps/contrib/107795714585681832707?hl=en-US"
+      },
+      {
+        "author":"palmmpalmm poonthanasup",
+        "avatar":"4b7dca8cf58c934edcd4f4c65798f141",
+        "content":"(Translated by Google) So good\n\n(Original)\nSo gud",
+        "review_date":"2023-02-21T05:07:09.872+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108130774824382755917?hl=en-US"
+      },
+      {
+        "author":"Alex Black",
+        "avatar":"b7621bd056d37830763d382a9af4bbd9",
+        "content":"great staff and vibe, thank you very much, hope to be back :)",
+        "review_date":"2023-03-04T19:22:13.4+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108149219535860785284?hl=en-US"
+      },
+      {
+        "author":"Jeerapat N",
+        "avatar":"53562a4e523eb057f0d82d3545a24f3f",
+        "content":"ของในร้านคุณภาพดีมาก ราคาสมเหตุสมผลไปทีไรเหลืองตลอด\n\n(Translated by Google)\nThe items in the store are of very good quality. The price is reasonable, always yellow.",
+        "review_date":"2023-02-21T04:33:57.613+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108414971314385977920?hl=en-US"
+      },
+      {
+        "author":"Spacebluez",
+        "avatar":"11de7add8eb73b312e06a56e001303a9",
+        "content":"I love this place and the people there. They got great quality, great prices and great vibes. A1 - I will be a regular, fa sho",
+        "review_date":"2023-03-10T05:46:16.324+00:00",
+        "rating":5,
+        "images":[
+          "4ba077467aeb61fd98145244512771da"
+        ],
+        "url":"https://www.google.com/maps/contrib/108423678701375183468?hl=en-US"
+      },
+      {
+        "author":"Samanya Sinprasert",
+        "avatar":"e473231e5c1d8b12372b239e761a5db3",
+        "content":"Nice place and best weed! 👍🏻",
+        "review_date":"2023-02-21T10:14:07.041+00:00",
+        "rating":5,
+        "images":[
+          "ea368c1f424176e41bc53dc3068c683a"
+        ],
+        "url":"https://www.google.com/maps/contrib/108461737195213684394?hl=en-US"
+      },
+      {
+        "author":"Sali w",
+        "avatar":"970fce5c699bd6f79b0bb21edd2300ef",
+        "content":"Lovely staff and environment!",
+        "review_date":"2023-02-24T12:02:38.284+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108644765362936076756?hl=en-US"
+      },
+      {
+        "author":"Jakub Sobek",
+        "avatar":"c97ef1e81cd04e10796379358f65dc20",
+        "content":"Perfect place in Bangkok countryside, you will love it:) will come back on my next visit to Bangkok✋✋✋",
+        "review_date":"2023-03-07T09:22:07.453+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108802723837321902464?hl=en-US"
+      },
+      {
+        "author":"nnop W",
+        "avatar":"b0162bb1a4c085d563728ea0dd3f2f9d",
+        "content":"Cool place in Bangkok",
+        "review_date":"2023-02-21T06:50:48.11+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108986723343851603918?hl=en-US"
+      },
+      {
+        "author":"Ratana Kanjanaviroje",
+        "avatar":"b040c56e4e8dcf5c4ad4fa1f9df138ad",
+        "content":"พี่ๆในร้านคุยสนุก ดอกไม้ที่ร้านมีคุณภาพครับ\n\n(Translated by Google)\nBrothers and sisters in the shop have fun talking. The flowers at the shop are of good quality.",
+        "review_date":"2023-03-27T12:06:51.898+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109119148415222480686?hl=en-US"
+      },
+      {
+        "author":"Amirreza Golshan",
+        "avatar":"d997007385897c137be6ff2c4d0a67e9",
+        "content":"",
+        "review_date":"2023-02-23T13:20:07.688+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109336184479114619945?hl=en-US"
+      },
+      {
+        "author":"Umathip Harsvik",
+        "avatar":"8a3fab0a399db27efb96b25074a9fe0b",
+        "content":"Good shop",
+        "review_date":"2023-04-06T10:04:25.257+00:00",
+        "rating":5,
+        "images":[
+          "6e792cda93aef4b6af6dc0b3aa1c7c63"
+        ],
+        "url":"https://www.google.com/maps/contrib/109612733874935007230?hl=en-US"
+      },
+      {
+        "author":"Five M",
+        "avatar":"77af7bc77ed590301e3e74d151d51324",
+        "content":"เมามากครับ\n\n(Translated by Google)\nvery drunk",
+        "review_date":"2023-04-08T12:23:31.13+00:00",
+        "rating":5,
+        "images":[
+          "261c9bd4ca8fe8ab938edee81c521e4a"
+        ],
+        "url":"https://www.google.com/maps/contrib/109771110631011051629?hl=en-US"
+      },
+      {
+        "author":"regina degasperis",
+        "avatar":"afb5dc33f99368bbdb0e4764a0754ba3",
+        "content":"Great service and very chill ! Best place to get top quality buds 💖",
+        "review_date":"2023-02-28T09:35:14.594+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109879923888856925569?hl=en-US"
+      },
+      {
+        "author":"Lil DN",
+        "avatar":"bdbc4c773551d08c0a0172a78b707fd6",
+        "content":"🔥🔥🔥💚💚",
+        "review_date":"2023-03-03T12:59:44.1+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/111171142248993280323?hl=en-US"
+      },
+      {
+        "author":"Tabo Gado-Gado",
+        "avatar":"766f7bacf8dff5300708c8594e6578c4",
+        "content":"Good place, and friendly staff!...",
+        "review_date":"2023-02-24T14:44:53.539+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/111778477680015358291?hl=en-US"
+      },
+      {
+        "author":"siwaporn parnming",
+        "avatar":"701075ef75ee07e9a06b954e41b5b816",
+        "content":"Good place and good stuff 🤙🏿🤙🏿",
+        "review_date":"2023-02-20T04:46:12.34+00:00",
+        "rating":5,
+        "images":[
+          "68d1d06e2efd666f6d674893148cd37d"
+        ],
+        "url":"https://www.google.com/maps/contrib/112101097395552928618?hl=en-US"
+      },
+      {
+        "author":"CHONLAPAT SRIWARANANT",
+        "avatar":"e369841ee45d894caaa4c05e5937aa81",
+        "content":"ร้านนี้ดีมากเลยครับ บริการให้ความรู่เกี่ยวกับเนื้อดีมากๆเลย ไว้อุดหนุนใหม่ครับ\n\n(Translated by Google)\nThis shop is very good. The service to know about the meat is very good. new support",
+        "review_date":"2023-03-07T12:50:00.525+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112884977712058813313?hl=en-US"
+      },
+      {
+        "author":"พลช เงินยวง",
+        "avatar":"57c0ed491ac86409bb2f0c23e30b7ede",
+        "content":"Good weed\nGood price\nGood atmosphere",
+        "review_date":"2023-02-24T14:29:24.017+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112933014866458302731?hl=en-US"
+      },
+      {
+        "author":"Tanabodee Limpaitoon",
+        "avatar":"15b9b9e7c216142ca9a056e8209e9c1b",
+        "content":"premium quality products!",
+        "review_date":"2023-02-23T16:19:44.809+00:00",
+        "rating":5,
+        "images":[
+          "aa2760935bec31da039683700816fc35",
+          "aa2760935bec31da039683700816fc35"
+        ],
+        "url":"https://www.google.com/maps/contrib/112956543532959580895?hl=en-US"
+      },
+      {
+        "author":"Sonny Chungyampin",
+        "avatar":"05f12836406698551c28cfba26e4a430",
+        "content":"Great vibe, great taste, & with great collections!",
+        "review_date":"2023-03-02T16:07:55.821+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113055897973422422153?hl=en-US"
+      },
+      {
+        "author":"Maksym Piec",
+        "avatar":"39d9d5b0b02f4a3293c97364cee424f4",
+        "content":"Best species, best prices",
+        "review_date":"2023-02-28T13:37:35.099+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113192707140135488639?hl=en-US"
+      },
+      {
+        "author":"Paz Azizov",
+        "avatar":"c56a138b1b376ed3b3feb1c5e8132dbc",
+        "content":"The best weed I saw yet",
+        "review_date":"2023-03-04T11:38:08.995+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113760924782526557490?hl=en-US"
+      },
+      {
+        "author":"Peem",
+        "avatar":"b0b5f2295cdc9450c57ed4ada0c9d4ce",
+        "content":"There's the biggest blunt I've ever seen.",
+        "review_date":"2023-02-21T05:51:55.085+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113885465854789571477?hl=en-US"
+      },
+      {
+        "author":"Michael Sutton",
+        "avatar":"fd7b14680a6d97e9283f356b3fbd61bc",
+        "content":"Excellent quality, and service. Definitely the go to spot. Not and Jun know their stuff.",
+        "review_date":"2023-03-09T08:28:06.529+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114055883331749668905?hl=en-US"
+      },
+      {
+        "author":"Chat Chawan",
+        "avatar":"0504eecd1a56af10ba73ec385c9ac660",
+        "content":"",
+        "review_date":"2023-02-20T09:17:05.156+00:00",
+        "rating":5,
+        "images":[
+          "f4237b7d9c4762e950b79c61d4d737bd",
+          "ab2b3b61776107f9c5db47a3573e7542"
+        ],
+        "url":"https://www.google.com/maps/contrib/114195994814735941285?hl=en-US"
+      },
+      {
+        "author":"Pheerawut Sumretphol",
+        "avatar":"38d0dda3e96e0f400452aa3954f99b9b",
+        "content":"",
+        "review_date":"2023-03-03T12:16:05.395+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114309478789054507537?hl=en-US"
+      },
+      {
+        "author":"JUN killer",
+        "avatar":"cfc78763394aaa7012b6b8bab76cb5c1",
+        "content":"(Translated by Google) The best moon rock.\nlet's go on a trip to the moon\n\n(Original)\n最高のmoon rock。\n月旅行へ出かけよう",
+        "review_date":"2023-02-21T11:41:19.029+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114651621072648792727?hl=en-US"
+      },
+      {
+        "author":"Bran Hen",
+        "avatar":"a80acafd019f49c14a8573acb294e8f2",
+        "content":"Great shop and prices!",
+        "review_date":"2023-02-25T10:32:47.981+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115390845851728155113?hl=en-US"
+      },
+      {
+        "author":"Keio L",
+        "avatar":"a475d7fccb702c45a14370226f40fcbf",
+        "content":"Cool little shop",
+        "review_date":"2023-02-20T15:49:48.441+00:00",
+        "rating":5,
+        "images":[
+          "691941eb85a40583d92119b438a8d788"
+        ],
+        "url":"https://www.google.com/maps/contrib/115433049014004311896?hl=en-US"
+      },
+      {
+        "author":"Piset BHESAYANAVIN",
+        "avatar":"c7affbcf4c94eb7fa1bc36abcd8719b6",
+        "content":"ร้านราคาโปรโมชั่น สุดยอดครับ ดิกลายสวยราคาน่าคบสุดๆคร้บ nice place\n\n(Translated by Google)\nThe promotional price is the best. The pattern is beautiful. The price is very attractive. Nice place.",
+        "review_date":"2023-03-27T11:57:41.878+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115570766491346236406?hl=en-US"
+      },
+      {
+        "author":"Maya Sim",
+        "avatar":"9f6dc1f8704ec7ade5c815460f935185",
+        "content":"Nice shop to stop by. Would be back 💯",
+        "review_date":"2023-04-08T13:44:55.523+00:00",
+        "rating":5,
+        "images":[
+          "d41e2a14eac2bfc3be711677f5010d28"
+        ],
+        "url":"https://www.google.com/maps/contrib/115900999933444251019?hl=en-US"
+      },
+      {
+        "author":"Zarol Zahimi",
+        "avatar":"0fa48f7185d35fd4974e1095630ef5d9",
+        "content":"Good service, good weed for a good price",
+        "review_date":"2023-03-13T14:10:32.512+00:00",
+        "rating":5,
+        "images":[
+          "4f0e96a9e3ed2ea9cfe6778bf84ee442"
+        ],
+        "url":"https://www.google.com/maps/contrib/117570029878019785465?hl=en-US"
+      },
+      {
+        "author":"PraxedeS Lyla",
+        "avatar":"cdce1962075b93307855e7ea5d578759",
+        "content":"มีของดีมาเลย โดยเฉพาะ moon rock ต้องลอง!!\n\n(Translated by Google)\nThere are good things, especially moon rock, must try!!",
+        "review_date":"2023-03-20T12:18:51.843+00:00",
+        "rating":5,
+        "images":[
+          "6551824b553a6360bffc21c1eedc2d3b"
+        ],
+        "url":"https://www.google.com/maps/contrib/117608961646652743624?hl=en-US"
+      },
+      {
+        "author":"Janindu Chamika Park Properties",
+        "avatar":"c159682931c9db165756a69a5a8fad3f",
+        "content":"Best place in town... Good Stuff....",
+        "review_date":"2023-03-10T13:24:07.987+00:00",
+        "rating":5,
+        "images":[
+          "15ab65033c839d02175927d181cf073a",
+          "37f8d4abfb99d7875296d3fc27948e65"
+        ],
+        "url":"https://www.google.com/maps/contrib/117748040625459660297?hl=en-US"
+      },
+      {
+        "author":"C. Murl",
+        "avatar":"cf473863ae44743399138face5910f28",
+        "content":"",
+        "review_date":"2023-02-21T05:59:51.819+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117858890950541089667?hl=en-US"
+      },
+      {
+        "author":"Rindaman BoY",
+        "avatar":"3538f5e42d35eb168303442225d70270",
+        "content":"เดือนนน\n\n(Translated by Google)\nmonth",
+        "review_date":"2023-03-09T12:44:01.012+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117905642544888716392?hl=en-US"
+      },
+      {
+        "author":"pattranit nilrat",
+        "avatar":"434d17e184b39d045092e69849358701",
+        "content":"",
+        "review_date":"2023-02-21T04:03:35.292+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/118043525606196823441?hl=en-US"
+      },
+      {
+        "author":"Anne Sjurseth",
+        "avatar":"9a18aeab6c84760f47aa7d06b1b577c6",
+        "content":"Friendly and fun environment, great service",
+        "review_date":"2023-03-04T14:10:16.093+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/118079845975745213692?hl=en-US"
+      },
+      {
+        "author":"Renato Quintal",
+        "avatar":"f505852b1b7fa29df9c0ce7820c33088",
+        "content":"This was the best weedshop in BANGKOK! We got the best time there and the staff was super kind aswell. Will come back!",
+        "review_date":"2023-02-22T14:35:44.88+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/118211703902893274959?hl=en-US"
+      },
+      {
+        "author":"David V",
+        "avatar":"bffd464b80170d046f99fcf37fe3b7f1",
+        "content":"By far the best selection and prices in the area. Very convenient location and friendly staff!",
+        "review_date":"2023-03-09T13:38:07.151+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/118432000975131966469?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":361
+        },
+        "count":73
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.2022997121268179,
+        "dispensary":{
+          "id":"229ec51f-f548-42fb-956c-13afbce5d993",
+          "city":"Bangkok",
+          "name":"Cannabis homemade Th.",
+          "types":[
+            
+          ],
+          "lat":13.8285439,
+          "lng":100.5609758,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"7, 202 Soi Vibhavadi Rangsit 36, Lane 3-2, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.35522755626482083,
+        "dispensary":{
+          "id":"66100c87-c296-429e-9bfc-ba87c0d7d1a3",
+          "city":"Bangkok",
+          "name":"ร้านกัญชา พหลโยธิน รัชดา รัชโยธิน",
+          "types":[
+            
+          ],
+          "lat":13.8323513,
+          "lng":100.5616,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":6
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":6
+              },
+              "count":2
+            }
+          },
+          "image":"79484e518b22a5c14544df3b1b263bbc",
+          "has_products":false,
+          "address":"40 1 Soi Vibhavadi Rangsit 38, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.4931542704776611,
+        "dispensary":{
+          "id":"661f18c9-9669-47ef-85d7-2ace3f614f09",
+          "city":"Bangkok",
+          "name":"Doobie's Farm Thailand",
+          "types":[
+            
+          ],
+          "lat":13.8322581,
+          "lng":100.5592364,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"4b5880fe2b81170f4ef79e40346a4b79",
+          "has_products":false,
+          "address":"2, 17 Soi Vibhavadi Rangsit 38, Khwaeng Lat Yao, จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.5574747679464885,
+        "dispensary":{
+          "id":"260ae2ba-a464-4333-9b30-2b0fcf60a41a",
+          "city":"Bangkok",
+          "name":"Geezer High",
+          "types":[
+            
+          ],
+          "lat":13.8255533,
+          "lng":100.5592692,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"3faa0b0857f1e7b9b24f954bf5b87ebe",
+          "has_products":false,
+          "address":"4/5 Soi Vibhavadi Rangsit 32, Khwaeng Lat Yao, จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.6124785475654428,
+        "dispensary":{
+          "id":"eacc2978-6f93-4d47-a25a-70d63346f4f2",
+          "city":"Bangkok",
+          "name":"Industrial Cannabis Hemp &Kratom Association",
+          "types":[
+            
+          ],
+          "lat":13.8254435,
+          "lng":100.5666867,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"1895 1 Phahonyothin Rd, Khwaeng Lat Yao, จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.751010513321709,
+        "dispensary":{
+          "id":"0f740d7e-3287-40e5-843d-af025bdbe63d",
+          "city":"Bangkok",
+          "name":"Baan Khun Sook",
+          "types":[
+            
+          ],
+          "lat":13.8228992,
+          "lng":100.5647951,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"58b53b53e8ce15a9a83cf353e47253b5",
+          "has_products":false,
+          "address":"3/6 คอนโด ศุภาลัย ปาร์ค 2 Soi Phahon Yothin 21, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.0278868595369486,
+        "dispensary":{
+          "id":"ddd5a513-c483-4cb7-8d08-747a64237b62",
+          "city":"Bangkok",
+          "name":"PIGCOLOSHOP",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":13.8329236,
+          "lng":100.5714368,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":65
+              },
+              "count":13
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":65
+              },
+              "count":13
+            }
+          },
+          "image":"98f7bb0b42c78ffd5e3cf58498bab771",
+          "has_products":false,
+          "address":"1873/27 ริมถนนด้านหน้า เสนาเซ็นเตอร์ Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.2448899190007772,
+        "dispensary":{
+          "id":"51a6d674-7075-4882-b535-dff17cc82ebb",
+          "city":"Bangkok",
+          "name":"RollLoft.Kasetsart",
+          "types":[
+            "Dispensary",
+            "Cafe",
+            "Restaurant",
+            "Delivery"
+          ],
+          "lat":13.8332739,
+          "lng":100.5734564,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"5f68e80214b0dfab170a265913f4fb6b",
+          "has_products":false,
+          "address":"2308 17 Phahonyothin Road, Khwaeng Chan Kasem, จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.2526191974326726,
+        "dispensary":{
+          "id":"758a4b21-eecf-4819-9ca1-146fe154a6e9",
+          "city":"Bangkok",
+          "name":"Cann-ya",
+          "types":[
+            "Cafe",
+            "Dispensary",
+            "Club",
+            "Bar"
+          ],
+          "lat":13.8333865,
+          "lng":100.5734888,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":80
+              },
+              "count":16
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":80
+              },
+              "count":16
+            }
+          },
+          "image":"b26ad17dcba29cc7be137e19546198f2",
+          "has_products":true,
+          "address":"6 50 Sana Nikhom 1 Soi 3, จันทร์เกษม จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.3947656052589834,
+        "dispensary":{
+          "id":"4858c1ec-4a00-43f9-82ed-4ed52392a9d5",
+          "city":"Bangkok",
+          "name":"ร้านหอมกัญ",
+          "types":[
+            
+          ],
+          "lat":13.8243579,
+          "lng":100.574526,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "image":"512ed06ed2f4a54ad182233f8b4ebfec",
+          "has_products":false,
+          "address":"9 36 Soi Amon Ratchada, จันทรเกษม Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.6016639606889207,
+        "dispensary":{
+          "id":"1b0f3dd9-5fd6-41f2-b7a1-f89283acd9bf",
+          "city":"Bangkok",
+          "name":"ร้านกัญชา ดอกดี Goodbuds cannabis shop",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":13.8223666,
+          "lng":100.5756519,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":195
+              },
+              "count":39
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":195
+              },
+              "count":39
+            }
+          },
+          "image":"fbb0ab1167f377c1dc24ec57cea960a3",
+          "has_products":false,
+          "address":"16/452 ซ.รัชดาภิเษก36 Soi Suea Yai Uthit, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.6067994467093203,
+        "dispensary":{
+          "id":"e4dc1160-2fa4-4d66-8b09-539c66a10d35",
+          "city":"Bangkok",
+          "name":"ร้านหอมเหนียว(ขวัญใจสายเขียว)",
+          "types":[
+            "Dispensary",
+            "Delivery"
+          ],
+          "lat":13.8223221,
+          "lng":100.5756809,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":482
+              },
+              "count":97
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":482
+              },
+              "count":97
+            }
+          },
+          "image":"64c542d81d6beab949bbbd58572b35b5",
+          "has_products":false,
+          "address":"16/452 1 Ratchadaphisek 36 Alley, Khwaeng Chan Kasem, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.6551888938119026,
+        "dispensary":{
+          "id":"c468bf0f-1e24-47fe-ac23-92b953574157",
+          "city":"Bangkok",
+          "name":"Cannyn Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.8397466,
+          "lng":100.5517158,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"88/167 Thetsaban Songkhro Rd, Ladyao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.6576343537736618,
+        "dispensary":{
+          "id":"823b08fb-4eca-42a4-90c4-abcecb813f86",
+          "city":"Bangkok",
+          "name":"The Green",
+          "types":[
+            
+          ],
+          "lat":13.8422183,
+          "lng":100.5703797,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"8610f994212a47bfc797bca6393f7f07",
+          "has_products":false,
+          "address":"B11, 89 Soi Ngam Wong Wan 52, Lane 1, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.6576343537736618,
+        "dispensary":{
+          "id":"08d92a66-349c-4dc6-990c-e53e808220da",
+          "city":"Bangkok",
+          "name":"Green 9",
+          "types":[
+            
+          ],
+          "lat":13.8422183,
+          "lng":100.5703797,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"B11, 89 Soi Ngam Wong Wan 52, Lane 1, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

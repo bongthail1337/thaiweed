@@ -1,0 +1,1926 @@
+{
+  "id":"476bba4f-2618-483d-8ceb-118f7477f797",
+  "lat":"9.5780356",
+  "lng":"99.9768533",
+  "city":"Surat Thani",
+  "name":"The Hangout",
+  "type":null,
+  "business_images":[
+    "6a851e0ed18ec11021d5363929e9fae3",
+    "1db5224ff968d115461b6efa5d3a1a92"
+  ],
+  "google_images":[
+    "fbcf27777ec1b876f60532311237c1b5",
+    "31e9284bd438b2f9c0dc6c29305f1a87",
+    "48bd07ce7bc6c436be676f11f4681fd4",
+    "58f09dc87cbd3006d011b9be96468aa4",
+    "f623bd3cb29e43450f38ddeffca9dd26",
+    "80fc5ef6e25259bb62fa1563bdd50fb8",
+    "d8667fd2af773a3fdefeb51d09db1ed0",
+    "42f73f0f10bf0e996eb770fb33547049",
+    "f7ea2359889406c8fdb279b6252b09f6",
+    "03886c43e2d1305e46fb120fcfab1f5b"
+  ],
+  "status":"approved",
+  "website":"http://facebook.com/TheHangOutSamui",
+  "phone":"+66 61 656 5178",
+  "opening_hours":[
+    {
+      "open":{
+        "day":0,
+        "time":"1300"
+      },
+      "close":{
+        "day":1,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":1,
+        "time":"1300"
+      },
+      "close":{
+        "day":2,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":2,
+        "time":"1300"
+      },
+      "close":{
+        "day":3,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":3,
+        "time":"1300"
+      },
+      "close":{
+        "day":4,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":4,
+        "time":"1300"
+      },
+      "close":{
+        "day":5,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":5,
+        "time":"1300"
+      },
+      "close":{
+        "day":6,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":6,
+        "time":"1300"
+      },
+      "close":{
+        "day":0,
+        "time":"0000"
+      }
+    }
+  ],
+  "line":"https://line.me/ti/p/bS9EehDwm6",
+  "google_url":"https://maps.google.com/?cid=3993756147200830169",
+  "place_id":"PuVWaJ-DA-CmIQNE0FcjJD.foQp",
+  "facebook":"https://m.facebook.com/100083537225503/",
+  "description":"#1 Cannabis Lounge on samui, Enjoy hand curated craft cannabis, craft beer ,Imported snacks, Video games and so much more! Your home away from home, Come Hangout with us!\n\n",
+  "products_flowers":[
+    {
+      "id":"58acc4ee-9a50-48d6-a1a6-cac7a31cbe98",
+      "name":"EndGame",
+      "description":"A knockout indica with pure white ash and a deep gassy taste",
+      "images":[
+        "59602e808e9831b9fed201682c706d98"
+      ],
+      "thc":28,
+      "cbd":0,
+      "sativa":20,
+      "indica":80,
+      "images_coa":[
+        
+      ],
+      "quality":"AAAA",
+      "disabled":false,
+      "created_at":"2023-04-01T09:43:29.569999+00:00",
+      "updated_at":"2023-04-06T21:00:02.216977+00:00"
+    }
+  ],
+  "products_seeds":[
+    
+  ],
+  "products_prerolls":[
+    
+  ],
+  "products_edibles":[
+    
+  ],
+  "products_topicals":[
+    
+  ],
+  "products_gear":[
+    {
+      "id":"a54f552f-3859-4bb1-8644-167768a96193",
+      "name":"Bongs",
+      "description":"Manu bongs sizes and prices vary",
+      "images":[
+        "c0a871bbf9f2c1b4adbbeed20871cf4f"
+      ],
+      "disabled":false,
+      "created_at":"2023-04-01T09:46:10.106202+00:00",
+      "updated_at":"2023-04-06T21:00:02.236065+00:00"
+    }
+  ],
+  "products_misc":[
+    
+  ],
+  "reviews":[
+    {
+      "author":"Ростислав Панасов",
+      "avatar":"fae3c5af919bd1fc6e5cf534760211d1",
+      "content":"Very good stuff, recommend",
+      "review_date":"2023-03-21T14:38:12.418+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100766431218530635189?hl=en-US"
+    },
+    {
+      "author":"полина уходи",
+      "avatar":"f40ca50e91cf98b416e701b08b7af8b0",
+      "content":"(Translated by Google) lots of board games\n\n(Original)\nмного настольных игр)😍",
+      "review_date":"2023-03-15T06:03:51.308+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100857430086137645272?hl=en-US"
+    },
+    {
+      "author":"Michael Kohl",
+      "avatar":"efba5fd98bd2108331a15d06c41020a1",
+      "content":"This is the sort of place Samui was missing. Board games, video games, craft beers, 420 supplies, all in a friendly and relaxed atmosphere.",
+      "review_date":"2022-10-30T03:58:49.486+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101046237539584353961?hl=en-US"
+    },
+    {
+      "author":"Charlie Carlin",
+      "avatar":"8a957f68ec16b9f983d0b26228d1b0b6",
+      "content":"Awesome place! Way bigger than it looks from the outside!",
+      "review_date":"2023-03-10T10:44:51.107+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101544452261229367043?hl=en-US"
+    },
+    {
+      "author":"Tomm Wahl",
+      "avatar":"5a895543939dfba4efef91d58fee4bd7",
+      "content":"Very friendly staff. Great advice and large selection. Will come again soon.",
+      "review_date":"2023-03-09T10:05:27.988+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102036945918303017865?hl=en-US"
+    },
+    {
+      "author":"Juhana Jääskeläinen",
+      "avatar":"75f7c3bef6e881d3c67b2ad7208c3715",
+      "content":"Really chill place to play some ps5 or switch or some boardgames, or just hang out with people. Owners are super cool and the staff very friendly. Hope to come back here in the future.",
+      "review_date":"2022-09-20T07:33:50.947+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102493191429083557935?hl=en-US"
+    },
+    {
+      "author":"himanshu virwani",
+      "avatar":"d4e240ff22eb14249e9575b40089e1dd",
+      "content":"",
+      "review_date":"2023-03-25T12:16:01.765+00:00",
+      "rating":5,
+      "images":[
+        "d1da75c19338a2f7fde8641f21562e56"
+      ],
+      "url":"https://www.google.com/maps/contrib/102927273399831367374?hl=en-US"
+    },
+    {
+      "author":"Shayla Roufosse",
+      "avatar":"553314c57d973ae786705408c2f7205f",
+      "content":"New bar opening in August 2022. If you love video games or board games this is the place to be.",
+      "review_date":"2022-07-20T10:35:08.398+00:00",
+      "rating":5,
+      "images":[
+        "879adb5bf15c80936d49d082789c79cc",
+        "0b6538353a3c2bf00affb33ceefa9217",
+        "afdb3d91983d8532200d182728a53d84",
+        "186a79ed0072ffba18063e4877c52f3a",
+        "9f3ceaa686bbe1a9b2584ba3f8490522"
+      ],
+      "url":"https://www.google.com/maps/contrib/102949709327604209310?hl=en-US"
+    },
+    {
+      "author":"Ralph Ronald",
+      "avatar":"d9a9982b77923514ec6dc0e97a16e220",
+      "content":"Awesome spot. Loads of video games, board games, nice cocktails, nice ganja. Worth checking out",
+      "review_date":"2022-09-10T12:13:11.797+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103617547895165905424?hl=en-US"
+    },
+    {
+      "author":"Carl Ballard",
+      "avatar":"6b957828aa22b39dfbe116dddd233b7a",
+      "content":"We had a good time sharing info with fellow ex-pats. Owners are great and staff is helpful. Much better having a place to  hangout with drinks & ganja!",
+      "review_date":"2022-11-01T10:28:55.034+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103873858575497802915?hl=en-US"
+    },
+    {
+      "author":"Alexander Rosell",
+      "avatar":"861399c378776b1b61495c63fa64579c",
+      "content":"Really nice place to hang and play some games. They have ps5, xbox one, Nintendo, computor and lots of board games etc. The staff is very nice and friendly.\nPerfect for a rainy day! 🙏",
+      "review_date":"2023-01-10T09:41:44.555+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104128284416506483725?hl=en-US"
+    },
+    {
+      "author":"Wesley Moss",
+      "avatar":"c5f02e3fdc0a04c34badc752f70e30e9",
+      "content":"Great spot, everything you could need to just soak up some AC and chill!",
+      "review_date":"2023-03-09T10:50:41.596+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104318628372104225454?hl=en-US"
+    },
+    {
+      "author":"Ti Be",
+      "avatar":"6585384280ad80e9332374d707972d7b",
+      "content":"",
+      "review_date":"2023-03-13T10:53:40.392+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106130775242686288073?hl=en-US"
+    },
+    {
+      "author":"Daria Prokopeva",
+      "avatar":"64cf70cf5377918227d4220b056b9bd2",
+      "content":"Very nice, cozy place with lots of board and video games! Great place to hang out with your friends and the owners are super nice!",
+      "review_date":"2022-11-28T12:49:58.831+00:00",
+      "rating":5,
+      "images":[
+        "2cfe7473cd40324f0df5b35ef3409766",
+        "aa272cd26218e521c9fb4a864732269c"
+      ],
+      "url":"https://www.google.com/maps/contrib/106620352102648523377?hl=en-US"
+    },
+    {
+      "author":"Garik Sinitsyn",
+      "avatar":"949ef756cf838dfd00b9721d0a4e0018",
+      "content":"The best place in Koh Samui! The stuff is really taste, smells fruits and berries!! The atmosphere is perfect for chill, one can play video games! Thanks and until next time on Koh Samui!",
+      "review_date":"2023-03-28T16:33:15.37+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106747649104444714362?hl=en-US"
+    },
+    {
+      "author":"Roofy",
+      "avatar":"3d17a1f59c5da6de898df4090fc4e7a3",
+      "content":"Had an awesome experience, good prices, great staff & an awesome vibe, bring your friends trust",
+      "review_date":"2022-09-20T07:13:15.035+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107200330080025649577?hl=en-US"
+    },
+    {
+      "author":"Майк Вазовский",
+      "avatar":"ce151f072ac132e8a55416d7943771ee",
+      "content":"The best place in Samui for staff!\nRecomended🙏🏿",
+      "review_date":"2023-03-17T13:02:13.852+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107689755385379366147?hl=en-US"
+    },
+    {
+      "author":"Valery Savenko",
+      "avatar":"d4823c15d56631d3b9377077e28b3f97",
+      "content":"Good stuff ❤️",
+      "review_date":"2023-03-21T14:39:07.087+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107746834609471615146?hl=en-US"
+    },
+    {
+      "author":"Joey Dalton",
+      "avatar":"c1d8c826729ea01c9ce1225d9ed21e53",
+      "content":"Great times and great vibes",
+      "review_date":"2022-12-27T14:01:34.803+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107767928279473419676?hl=en-US"
+    },
+    {
+      "author":"Apple Apple",
+      "avatar":"a005d9f8cc9b0a811fa75f913623f180",
+      "content":"Honestly , Good place for Smoking & Relaxing\nFriendly Good Staff & Good Comfortable Chair- Sofa for your Stress\nHighly Recommend This Place 💗",
+      "review_date":"2023-03-28T12:05:11.07+00:00",
+      "rating":5,
+      "images":[
+        "7e5f5fdba0e097105b8a2791ede289c4",
+        "40240299c2ba6d52acd4d508b9bb27ab",
+        "14ed2ecf385fe0b2f2398eb31688971f",
+        "441d4ed58bc7cb7b222297693f72104e",
+        "fd0d75d87f37520d322a4cff5a16686c"
+      ],
+      "url":"https://www.google.com/maps/contrib/108010279222492545977?hl=en-US"
+    },
+    {
+      "author":"Maria Kotyza",
+      "avatar":"2ec85a4a8a49af98cf07d6625cb6eaa9",
+      "content":"Guys this is literally the best hangout spot EVERR. MORE THEN 20 TABLE GAMES, XBOX, PS5, MOVIES, NINTENDO SWITCH and MORE. And of course WEEED.",
+      "review_date":"2023-03-18T08:42:17.492+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108102994578224442527?hl=en-US"
+    },
+    {
+      "author":"Anabel Zaldivar",
+      "avatar":"66b378844e1acafdea35316a09936793",
+      "content":"Super chilled place to get blazed on banging weed.. cool vibes and amazing service",
+      "review_date":"2023-03-11T12:03:58.607+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108957906304625087876?hl=en-US"
+    },
+    {
+      "author":"Andrew Koty",
+      "avatar":"b7621bd056d37830763d382a9af4bbd9",
+      "content":"Really nice place to chill with your friends play some table games and video games and weed as well so come and have some fun",
+      "review_date":"2023-03-18T08:42:18.756+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109874613066447949742?hl=en-US"
+    },
+    {
+      "author":"Nilay Khanderia",
+      "avatar":"c1acde708ea2c59ca0a076cec74388c7",
+      "content":"Lovely place.\nGreat weed.\nLots of games...Real hospitable.",
+      "review_date":"2023-01-04T14:19:53.966+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110452534973343420030?hl=en-US"
+    },
+    {
+      "author":"Ferxo Galvis Curcó",
+      "avatar":"565461da9be45e85d6ca4681ca1e3fd2",
+      "content":"",
+      "review_date":"2022-09-23T09:30:44.086+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112050730897883024021?hl=en-US"
+    },
+    {
+      "author":"Buu",
+      "avatar":"e0587eb08e265b77f053cbe31b150dd7",
+      "content":"",
+      "review_date":"2023-03-25T09:51:16.155+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112193062902737856856?hl=en-US"
+    },
+    {
+      "author":"Стас Дьячук",
+      "avatar":"c302794fc0bf60aaacb326d03ba650ac",
+      "content":"Best stuff I've even seen sold is here.\nAlso amazing place if you would like to have a good time with your friends.\nMany challenges for stunned individual such as ps/slot/table games.\nDefinitely recommend",
+      "review_date":"2022-12-10T18:32:34.548+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112509021196048953976?hl=en-US"
+    },
+    {
+      "author":"jade edwards",
+      "avatar":"c12eac8b5210348a6bd87a04e8a263df",
+      "content":"Absolutely amazing vibe! Amazing ambience, great games, and music is lit !",
+      "review_date":"2023-03-24T16:18:43.633+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113346265479044151566?hl=en-US"
+    },
+    {
+      "author":"Big Buddha",
+      "avatar":"603e8dc368275c35279fccc15e01700d",
+      "content":"(Translated by Google) Good tasty weed buy here🤣🤣\n\n(Original)\nGutes leckeres Gras Kauf hier🤣🤣",
+      "review_date":"2023-03-13T11:59:13.37+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114935168777170607790?hl=en-US"
+    },
+    {
+      "author":"Zanda Sketika",
+      "avatar":"3514488fb01df88d46520be10ee70caa",
+      "content":"Super place! Good VIBES and amazing personal! We liked it!",
+      "review_date":"2023-03-11T12:47:56.816+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114935717495831343575?hl=en-US"
+    },
+    {
+      "author":"Bogdan Grom",
+      "avatar":"a8c218aab398f97c332343f86627b1ac",
+      "content":"Cool weed, staff and the vibe in there! Huge recommendation:)",
+      "review_date":"2023-03-21T16:19:14.96+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114993820740390488749?hl=en-US"
+    },
+    {
+      "author":"Jesse Rasijärvi",
+      "avatar":"34a6ad24f12d6cbcbe86a4be8fce6d47",
+      "content":"Perfect place to chill out with some video games, good drinks and great staff!\nHighly recommended",
+      "review_date":"2022-09-05T20:39:08.58+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115095808602968739984?hl=en-US"
+    },
+    {
+      "author":"นาย อิคึ",
+      "avatar":"57c0ed491ac86409bb2f0c23e30b7ede",
+      "content":"Great!!!",
+      "review_date":"2023-01-26T07:25:21.41+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115116254661195639371?hl=en-US"
+    },
+    {
+      "author":"Shayaway travel",
+      "avatar":"e0a2ab478224548033a9dae2972922c5",
+      "content":"One if the only places to buy bud in Mae Nam!",
+      "review_date":"2022-09-06T14:49:43.507+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115261649872651256469?hl=en-US"
+    },
+    {
+      "author":"Raslan Schulze",
+      "avatar":"f466e6c78d1caf44a20ea2ec72e83074",
+      "content":"Best Lounge on Island !",
+      "review_date":"2023-03-21T11:10:50.721+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116456817084484358799?hl=en-US"
+    },
+    {
+      "author":"Mike Beletz",
+      "avatar":"037d3b700cbc318890ccc90f719870d4",
+      "content":"This place has the best vibe, the best quality weed, and the best prices in Koh Samui. Definitely my favorite place to hang out and smoke. Lots of room to chill and play Xbox, PS5, or board games.",
+      "review_date":"2022-12-22T10:21:34.905+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116460262038414737901?hl=en-US"
+    },
+    {
+      "author":"King catfish",
+      "avatar":"b5aa3e0e55d0738b8ed52cbe3b86edc4",
+      "content":"The name is no joke. The proper hangout spot if you wanna chill at the spot. Great selection of buds and buds and the owner is a great lad. Good choices of all types of games from consoles to arcade. Very recommended. Good vibes and relaxing times.",
+      "review_date":"2023-03-25T09:50:09.122+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116975499871606570832?hl=en-US"
+    },
+    {
+      "author":"virgil iovino",
+      "avatar":"88938e2a96cca46a4541d991ffaf7e0c",
+      "content":"Best place on Maenam to chill out with good vibes :)",
+      "review_date":"2023-03-09T14:15:41.274+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117062383161964315285?hl=en-US"
+    },
+    {
+      "author":"Matt Foster",
+      "avatar":"875b4a1d0f8a1c4b0887118e0ef8ae57",
+      "content":"Nice quality and well priced",
+      "review_date":"2022-12-24T02:04:50.905+00:00",
+      "rating":4,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/118010033461012566545?hl=en-US"
+    }
+  ],
+  "reviews_aggregate":{
+    "aggregate":{
+      "sum":{
+        "rating":194
+      },
+      "count":39
+    }
+  },
+  "suggestions":[
+    {
+      "distance":0.011085066980474591,
+      "dispensary":{
+        "id":"a0c8e754-cbe4-42b1-ae8a-31c3fcf8dd9a",
+        "city":"Surat Thani",
+        "name":"Buds 4 life",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1300"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1300"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1300"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1300"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1300"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1300"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1300"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":9.578118599999998,
+        "lng":99.9767973,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "image":"acab2b41d922af46631f96f8afa332c5",
+        "has_products":false,
+        "address":"69, 48 moo 5 4169 Maenam, Tambon Mae Nam, Amphoe Ko Samui, Chang Wat Surat Thani 84330, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.011958734103804183,
+      "dispensary":{
+        "id":"e5a3c91e-ec68-4286-b09f-24c098cdeefd",
+        "city":"Surat Thani",
+        "name":"Budz 4 Lyfe",
+        "types":[
+          "Dispensary",
+          "Bar",
+          "Delivery"
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1300"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1300"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1300"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1300"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1300"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1300"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1300"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":9.5781399,
+        "lng":99.9768799,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":180
+            },
+            "count":36
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":180
+            },
+            "count":36
+          }
+        },
+        "image":"2f52ec120e6bbc3464b53a2110194fd5",
+        "has_products":true,
+        "address":"68, Tambon Mae Nam, Amphoe Ko Samui, Chang Wat Surat Thani 84330, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.05577252932174961,
+      "dispensary":{
+        "id":"dc0a882b-ba13-4354-b6a4-500898d2a19b",
+        "city":"Surat Thani",
+        "name":"Orod Chakan 2",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1200"
+            },
+            "close":{
+              "day":0,
+              "time":"1900"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1200"
+            },
+            "close":{
+              "day":1,
+              "time":"1900"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1200"
+            },
+            "close":{
+              "day":2,
+              "time":"1900"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1200"
+            },
+            "close":{
+              "day":3,
+              "time":"1900"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1200"
+            },
+            "close":{
+              "day":4,
+              "time":"1900"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1200"
+            },
+            "close":{
+              "day":5,
+              "time":"1900"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1200"
+            },
+            "close":{
+              "day":6,
+              "time":"1900"
+            }
+          }
+        ],
+        "lat":9.5777789,
+        "lng":99.97729029999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "image":"c65cc75325af6e529235d3c826766e5f",
+        "has_products":false,
+        "address":"Ring Road, ตำบล บ้านใต้ Koh Samui, สุราษฎร์ธานี 84330, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.6819428139471432,
+      "dispensary":{
+        "id":"c27c093f-a2ed-4ec4-a6d7-5e0bb8fbb55c",
+        "city":"Surat Thani",
+        "name":"Satang Bar",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":9.580673599999999,
+        "lng":99.98246809999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":287
+            },
+            "count":61
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":75
+            },
+            "count":17
+          }
+        },
+        "image":"95481b5c3d766de1de3bd7bca01a77a8",
+        "has_products":false,
+        "address":"Mae Nam, Ko Samui District, Surat Thani 84330, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.8410435032726583,
+      "dispensary":{
+        "id":"2fc05fd4-963e-499d-86db-f35fca58400b",
+        "city":"Surat Thani",
+        "name":"Happy islander Ban Tai",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1300"
+            },
+            "close":{
+              "day":0,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1300"
+            },
+            "close":{
+              "day":2,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1300"
+            },
+            "close":{
+              "day":3,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1300"
+            },
+            "close":{
+              "day":4,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1300"
+            },
+            "close":{
+              "day":5,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1300"
+            },
+            "close":{
+              "day":6,
+              "time":"2200"
+            }
+          }
+        ],
+        "lat":9.5789125,
+        "lng":99.96923439999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":25
+            },
+            "count":5
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":25
+            },
+            "count":5
+          }
+        },
+        "image":"f126378fab2b56f34e292d5c7b3c3fc8",
+        "has_products":false,
+        "address":"HXH9+HM9, Ko Samui District, Surat Thani 84330, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.8522370590560697,
+      "dispensary":{
+        "id":"82ed7ec5-93fc-401f-894c-c8d96efcaea7",
+        "city":"Surat Thani",
+        "name":"PiNam Cannabis Shop ชาวเกาะ",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":9.5787391,
+        "lng":99.9691134,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":20
+            },
+            "count":4
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":20
+            },
+            "count":4
+          }
+        },
+        "image":"06ba04c39b04d673786ca35175bf7ee4",
+        "has_products":false,
+        "address":"No.9, Soi 4, Ko Samui District, Surat Thani 84330, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.0988719766790511,
+      "dispensary":{
+        "id":"44cc1cef-665c-4445-80a2-067eab355bc7",
+        "city":"Surat Thani",
+        "name":"BB CANNABIS SHOP",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":9.578912299999999,
+        "lng":99.9668707,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"27 ตำบล แม่น้ำ Tambon Mae Nam, เกาะสมุย Chang Wat Surat Thani 84330, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":2.3899435896986096,
+      "dispensary":{
+        "id":"6a654f1b-ef42-4f16-ad17-37036009625e",
+        "city":"Surat Thani",
+        "name":"Heureuse Islander Cannabis",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"2300"
+            }
+          }
+        ],
+        "lat":9.5701333,
+        "lng":99.9971235,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":41
+            },
+            "count":9
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":41
+            },
+            "count":9
+          }
+        },
+        "image":"b29505bb4d6cb1cc13f01fb41071fed0",
+        "has_products":false,
+        "address":"183 Walking Street, Mae Nam, Surat Thani 84330, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":2.477619417046098,
+      "dispensary":{
+        "id":"21fd502e-e52f-4ff3-913c-3357da6c2534",
+        "city":"Surat Thani",
+        "name":"Grow High",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1100"
+            },
+            "close":{
+              "day":0,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1100"
+            },
+            "close":{
+              "day":1,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1100"
+            },
+            "close":{
+              "day":3,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1100"
+            },
+            "close":{
+              "day":4,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1100"
+            },
+            "close":{
+              "day":5,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1100"
+            },
+            "close":{
+              "day":6,
+              "time":"2200"
+            }
+          }
+        ],
+        "lat":9.5687588,
+        "lng":99.99739819999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":261
+            },
+            "count":53
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":261
+            },
+            "count":53
+          }
+        },
+        "image":"8cd1b56b5f6967c1d8b3f9bdb61013e1",
+        "has_products":false,
+        "address":"100/5, ตำบล แม่น้ำ อำเภอเกาะสมุย สุราษฎร์ธานี 84330, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":2.560695533792788,
+      "dispensary":{
+        "id":"cd167a69-7009-4f09-a80c-a2c9e1397ae0",
+        "city":"Surat Thani",
+        "name":"BB CANNABIS SHOP",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0900"
+            },
+            "close":{
+              "day":0,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"0900"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"0900"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"0900"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"0900"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"0900"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"0900"
+            },
+            "close":{
+              "day":6,
+              "time":"2300"
+            }
+          }
+        ],
+        "lat":9.568175799999999,
+        "lng":99.99795859999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"27 ตำบล แม่น้ำ Tambon Mae Nam, เกาะสมุย Chang Wat Surat Thani 84330, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":2.6754114093750814,
+      "dispensary":{
+        "id":"115e509c-a577-425a-a005-672c5007aca3",
+        "city":"Surat Thani",
+        "name":"N1 cannabis",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0900"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"0930"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"0900"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"0900"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"0900"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"0900"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"0900"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":9.557476699999999,
+        "lng":99.9895293,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":35
+            },
+            "count":7
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":35
+            },
+            "count":7
+          }
+        },
+        "image":"f3d189104fc305c85a5d01d6ee23b647",
+        "has_products":false,
+        "address":"78 มะเร็ต Tambon Mae Nam, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":3.3193391189565564,
+      "dispensary":{
+        "id":"8b8d9872-4f97-4aa8-8419-5fbb0ebcacfa",
+        "city":"Surat Thani",
+        "name":"JZ cannabis shop",
+        "types":[
+          "Bar"
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"0100"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"0100"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"0100"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"0100"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0100"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0100"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0100"
+            }
+          }
+        ],
+        "lat":9.566086,
+        "lng":100.004595,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "image":"bf9e84909783b30448e75fe0c452eaf1",
+        "has_products":false,
+        "address":"ตรงข้าม ถนนแม่น้ำซอย1 Tambon Mae Nam, เกาะสมุย Chang Wat Surat Thani 84330, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":3.3536480258268218,
+      "dispensary":{
+        "id":"43779e2e-2d12-49e4-b750-abd0bb327a47",
+        "city":"Surat Thani",
+        "name":"Angel Be High",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":9.565833,
+        "lng":100.004824,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "image":"3cb65bdb8d12160d3a07c3de6fbc2793",
+        "has_products":false,
+        "address":"14, 93 ถ. ทวีราษฎร์ภักดี Tambon Mae Nam, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":3.573790879674912,
+      "dispensary":{
+        "id":"1a1b9d91-7219-4ad1-b644-59b1409939cd",
+        "city":"Surat Thani",
+        "name":"TEA GANJA - สาขาเกาะสมุย",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":9.565705999999999,
+        "lng":100.0069532,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "image":"e91c2ee50c85b6045acb2217ab9c4467",
+        "has_products":false,
+        "address":"H284+7QP, Mae Nam, Ko Samui District, Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":4.251261470812913,
+      "dispensary":{
+        "id":"f359e658-08d8-4868-adfa-36a6e5ab1fbb",
+        "city":"Surat Thani",
+        "name":"TARZAN BAR",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":9.542494099999997,
+        "lng":99.99114170000001,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":148
+            },
+            "count":32
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "image":"94c1fb6ab7deb7399fb27d83fed82ded",
+        "has_products":false,
+        "address":"Maenam,, GXRR+XFR ตำบล แม่น้ำ อำเภอเกาะสมุย สุราษฎร์ธานี 84320, Thailand",
+        "open":false
+      }
+    }
+  ]
+}

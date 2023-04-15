@@ -1,0 +1,749 @@
+{
+    "id":"f561c4a3-a8c4-494f-aa5c-eb769240fd47",
+    "lat": "13.810161",
+    "lng": "100.5666005",
+    "city":"Bangkok",
+    "name":"ARijuana Ladprao",
+    "type":null,
+    "business_images":[
+      "a23e32151f19c914e0b95c5c68767daf"
+    ],
+    "google_images":[
+      "3c27a1f988d7edebef712d15ded9d9e6",
+      "5e67acca5a0bc4fa51f34b025ac1bf62",
+      "5e67acca5a0bc4fa51f34b025ac1bf62",
+      "de5137f49b5ab7255de7014abb474de4",
+      "cc272ac3228732ebc9f6d9cc8e416f6f",
+      "c4c1eaadfd9548dec2fa428d22a3e72c",
+      "f54b99435090367e7ff6ec0d89073df6",
+      "25f3129aa5e4b169cb4752dd00f92431",
+      "726766b2ed81b1286bb57e448330e9f3",
+      "d9af2863e68d01a20f72214be0a11f2d"
+    ],
+    "status":"approved",
+    "website":"No",
+    "phone":"+66 610946566",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1200"
+        },
+        "close":{
+          "day":1,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1200"
+        },
+        "close":{
+          "day":2,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1200"
+        },
+        "close":{
+          "day":3,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1200"
+        },
+        "close":{
+          "day":4,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1200"
+        },
+        "close":{
+          "day":5,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1300"
+        },
+        "close":{
+          "day":6,
+          "time":"0100"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1300"
+        },
+        "close":{
+          "day":0,
+          "time":"0100"
+        }
+      }
+    ],
+    "line":"arijuanaladprao",
+    "google_url":"https://maps.google.com/?cid=6007030636981721827",
+    "place_id":"PuVW7DvSa.Xq5wNE5kbidVyPKIZ",
+    "facebook":"ARijuana Ladprao",
+    "description":"จำหน่ายดอกกัญชาแบบออแกนิค",
+    "products_flowers":[
+      {
+        "id":"ef6254ec-9854-4a60-b1fb-c3bb4a5a7a8a",
+        "name":"Pink Certs",
+        "description":"Effect : relaxed focused energetic\nFlavor :menthol chemical lemon",
+        "images":[
+          "4294dbff8977a66d679a002c8767957d"
+        ],
+        "thc":100,
+        "cbd":1,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          "https://cdn.filestackcontent.com/F9bGu7BpSKmv5zPmz7eN"
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2023-01-23T11:42:41.252322+00:00",
+        "updated_at":"2023-04-15T23:00:10.87734+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"icodetoo cold",
+        "avatar":"41485a7c54a3d56c4ed63664b9cc3ab8",
+        "content":"Honest suggestions from a real customer who lives in the area and wants to see you succeed.\n\n1. stop putting your flower in jars. It's ok if you're a 20 year old stoner, but if you're trying to compete with all the shops coming up these days, it simply doesn't preserve the flower and leaves it more exposed to air every time you open it. In fact, all other stores are mostly doing vacuum sealed, pre-packaged and the difference in quality is CLEAR. I won't go into detail but the cost to implement  this in relation to benefits is a no brainer.\n\n2. Start PRE-WEIGHING your buds guys. I think you could learn a lot from what highland or Thai cannabis club does.\n\n3. PUT YOUR PRICES ON THE JARS. It's a guessing game and it's pretty shady to be honest.\n\nYou have about 20 or so jars of buds with names, percentages of thc, but NO PRICES. You literally have to ask the cashier for the price of whatever bud you might be interested in. This becomes exhausting and at this point you're making the customer do too much work. The brochure doesn't help because it's just names and prices and often times items on the brochure aren't available.\n\nI hope that this has been brought it because this is one the main things I hear mentioned about this place.\n\n\"They don't show their prices on the jars...smh\"\n\n4. Want to keep your customers? How about a customer-retention plan? If you know anything, there is no loyalty in the cannabis game, so you have to create it, and customers want the best for the lowest price. TCC gives a free J for every 5,500 thb spent, never expiring. I may not get a free J on every visit, but I know if I keep choosing them, I'll get one eventually. That's more than I can say from the other local shops in lad prao/paholyothin/ari  area.\n\nI hope this helps! Wishing for your success in 2023. I know getting constructive criticism can be annoying, but the truth can hurt sometimes, but this is intended to make you better.",
+        "review_date":"2023-02-23T04:30:52.563+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104448636009013331193?hl=en-US"
+      },
+      {
+        "author":"ssnamee ee",
+        "avatar":"d4bcc4eec70b69e69e11e13f127b502e",
+        "content":"Best place to come in Ladprao, good environment with friendly staffs, highly recommended.",
+        "review_date":"2023-03-30T16:48:27.853+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104897330976960047728?hl=en-US"
+      },
+      {
+        "author":"Mohamad Elroumy",
+        "avatar":"fd7b14680a6d97e9283f356b3fbd61bc",
+        "content":"Fake Raw paper",
+        "review_date":"2023-04-02T11:20:57.078+00:00",
+        "rating":1,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107348325618553020682?hl=en-US"
+      },
+      {
+        "author":"Amornrat Phatulab",
+        "avatar":"f09af8831b139f8fd137ed5b721ae7a9",
+        "content":"พนักงานร้านผู้ชาย ไปซื้อของเมื่อวานช่วงเที่ยงๆ บริการไม่ดีเลยครับ... จะไปซื้อของแต่พอตอบคำถามคำพูดนักเลง ช่วยปรับปรุงด้วยครับ งานบริการยอดแย่\n\n(Translated by Google)\nmale shop clerk Went shopping yesterday around noon. The service is not good at all... going to buy things but when answering questions about gangster words Please improve. Terrible Service",
+        "review_date":"2023-03-23T05:10:08.875+00:00",
+        "rating":1,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108063946234477152397?hl=en-US"
+      },
+      {
+        "author":"Run ProPlugin",
+        "avatar":"a0c5a76f23acedc763131a5252138c0b",
+        "content":"Good place to hang out, good place to find Cannabis in the area, and good service.",
+        "review_date":"2022-12-06T11:35:42.59+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108204559392102460482?hl=en-US"
+      },
+      {
+        "author":"Функен Функевич",
+        "avatar":"dfc08a16e42c837dcd344404b95358b7",
+        "content":"Realy good shop and good staff",
+        "review_date":"2023-03-02T15:14:27.882+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108579821804850696298?hl=en-US"
+      },
+      {
+        "author":"Nonthaburi Gang",
+        "avatar":"9e5a245a211c3625e231e38139fb2022",
+        "content":"Very good !\nVery hight",
+        "review_date":"2023-01-23T11:48:15.09+00:00",
+        "rating":5,
+        "images":[
+          "d997eb31aa448ddbd55e9c5746c54869"
+        ],
+        "url":"https://www.google.com/maps/contrib/110107884199775509611?hl=en-US"
+      },
+      {
+        "author":"Run Karan",
+        "avatar":"28a91bd49e052decf76d67bd974b4aa0",
+        "content":"Good Vibe, Good Weed, Good Place to hang out.",
+        "review_date":"2023-03-24T13:56:12.089+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110521550822735609109?hl=en-US"
+      },
+      {
+        "author":"Jack Chawla",
+        "avatar":"b3088de383293a46a1bf382183e5729d",
+        "content":"",
+        "review_date":"2022-12-29T13:01:10.477+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114272204223686743152?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":37
+        },
+        "count":9
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.003718171976252364,
+        "dispensary":{
+          "id":"a586528b-a3be-4ce6-95c8-fad15ec9c98f",
+          "city":"Bangkok",
+          "name":"ARijuana ลาดพร้าว",
+          "types":[
+            
+          ],
+          "lat":13.8101935,
+          "lng":100.5666086,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"671/4 ปาก Soi Lat Phrao 5/1, Khwaeng Chom Phon, จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.003718171976252364,
+        "dispensary":{
+          "id":"f11002aa-2ec4-4b6c-9b8e-4795ad35a6af",
+          "city":"Bangkok",
+          "name":"ARijuana Ladprao",
+          "types":[
+            
+          ],
+          "lat":13.8101935,
+          "lng":100.5666086,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"671/4 ปาก Soi Lat Phrao 5/1, Khwaeng Chom Phon, จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.39862864834952305,
+        "dispensary":{
+          "id":"aedd40c5-bdef-4f90-9965-4a16fb628733",
+          "city":"Bangkok",
+          "name":"Wild Weed BKK | Delivery Only",
+          "types":[
+            "Delivery"
+          ],
+          "lat":13.8079543,
+          "lng":100.5636911,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "image":"c46513a9a136b1f4c3ca9377c764e80e",
+          "has_products":false,
+          "address":"Lat Phrao 10 Alley, Chompon, Chatuchak, Bangkok 10900, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.6141089316095557,
+        "dispensary":{
+          "id":"58f2babc-4d3f-4ede-a2bd-6567d26cc79f",
+          "city":"Bangkok ",
+          "name":"TARATERA CORPORATION Co.,Ltd.",
+          "types":[
+            
+          ],
+          "lat":13.8067053,
+          "lng":100.5710368,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"99 130 ถนน ลาดพร้าว 8 Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.7217500363299059,
+        "dispensary":{
+          "id":"3a197eb0-73d0-4f17-bbba-2473c6819fd2",
+          "city":"Bangkok",
+          "name":"Highland Café",
+          "types":[
+            "Cafe",
+            "Dispensary",
+            "Delivery",
+            "Restaurant"
+          ],
+          "lat":13.8129871,
+          "lng":100.5605832,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":892
+              },
+              "count":195
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":340
+              },
+              "count":76
+            }
+          },
+          "image":"979fafced9c8c46bbc9be30572441e15",
+          "has_products":false,
+          "address":"12 7 Lat Phrao Rd, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.9079425867358994,
+        "dispensary":{
+          "id":"7341f371-fee0-406f-907f-e4e832d888e3",
+          "city":"Bangkok",
+          "name":"Your Nabis",
+          "types":[
+            "Dispensary",
+            "Wholesaler"
+          ],
+          "lat":13.8082282,
+          "lng":100.5584311,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"50fa926bfa42e525926a5b32aa540445",
+          "has_products":false,
+          "address":"Floor G Sun Tower, Chompol Chatuchak, Bangkok 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.0290417434596701,
+        "dispensary":{
+          "id":"bdb3ad34-7d1a-44e7-b1f8-9e149a7f53b8",
+          "city":"Bangkok",
+          "name":"Best Weed Bangkok | RATCHADA",
+          "types":[
+            
+          ],
+          "lat":13.8024069,
+          "lng":100.5718023,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "image":"f8e4c2e039e10e47174608b67aaf922b",
+          "has_products":false,
+          "address":"228/3 Soi Lat Phrao 26, Lane 2-2, Khwaeng Chom Phon, Chattuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.046616354427866,
+        "dispensary":{
+          "id":"e64b2919-a35c-4ed3-9301-3ee248121489",
+          "city":"Bangkok",
+          "name":"Addicted",
+          "types":[
+            "Dispensary",
+            "Club"
+          ],
+          "lat":13.8057639,
+          "lng":100.5751704,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":80
+              },
+              "count":16
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":80
+              },
+              "count":16
+            }
+          },
+          "image":"2479930049c686e045cda33e4488178c",
+          "has_products":false,
+          "address":"8, 70 Lat Phrao 23, Chankasem, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.0989142814003197,
+        "dispensary":{
+          "id":"b5e2009f-dd3d-442a-bc81-a056e2af76f6",
+          "city":"Bangkok",
+          "name":"0",
+          "types":[
+            
+          ],
+          "lat":13.8017959,
+          "lng":100.5611814,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"Mixt Chatuchak at 1st floor Khwaeng Chatuchak, จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.1203946115815118,
+        "dispensary":{
+          "id":"70001a7c-a71f-4dbe-bac5-63243248ff1a",
+          "city":"Bangkok",
+          "name":"Rollloft.Latphrao23",
+          "types":[
+            
+          ],
+          "lat":13.805166,
+          "lng":100.5756116,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"e56fdecc1990acc2f81384bc1b676ced",
+          "has_products":false,
+          "address":"951 ถ.ลาดพร้าว จัตตุจักร Soi Lat Phrao 23, Lane 8, Khwaeng Chan Kasem, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.1806187039056666,
+        "dispensary":{
+          "id":"4269184c-4ea3-4cbe-b976-79ee6c6d1e1c",
+          "city":"Bangkok",
+          "name":"ร้านกัญชา The Palace Collective",
+          "types":[
+            
+          ],
+          "lat":13.8017916,
+          "lng":100.5598727,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"106, 22 Thanon Vibhavadi Rangsit, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10400, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.429775284981219,
+        "dispensary":{
+          "id":"0f740d7e-3287-40e5-843d-af025bdbe63d",
+          "city":"Bangkok",
+          "name":"Baan Khun Sook",
+          "types":[
+            
+          ],
+          "lat":13.8228992,
+          "lng":100.5647951,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"58b53b53e8ce15a9a83cf353e47253b5",
+          "has_products":false,
+          "address":"3/6 คอนโด ศุภาลัย ปาร์ค 2 Soi Phahon Yothin 21, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.6703081295459306,
+        "dispensary":{
+          "id":"e4dc1160-2fa4-4d66-8b09-539c66a10d35",
+          "city":"Bangkok",
+          "name":"ร้านหอมเหนียว(ขวัญใจสายเขียว)",
+          "types":[
+            "Dispensary",
+            "Delivery"
+          ],
+          "lat":13.8223221,
+          "lng":100.5756809,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":482
+              },
+              "count":97
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":482
+              },
+              "count":97
+            }
+          },
+          "image":"64c542d81d6beab949bbbd58572b35b5",
+          "has_products":false,
+          "address":"16/452 1 Ratchadaphisek 36 Alley, Khwaeng Chan Kasem, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.6724847554451403,
+        "dispensary":{
+          "id":"1b0f3dd9-5fd6-41f2-b7a1-f89283acd9bf",
+          "city":"Bangkok",
+          "name":"ร้านกัญชา ดอกดี Goodbuds cannabis shop",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":13.8223666,
+          "lng":100.5756519,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":195
+              },
+              "count":39
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":195
+              },
+              "count":39
+            }
+          },
+          "image":"fbb0ab1167f377c1dc24ec57cea960a3",
+          "has_products":false,
+          "address":"16/452 ซ.รัชดาภิเษก36 Soi Suea Yai Uthit, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.6880739315404356,
+        "dispensary":{
+          "id":"5c3b8963-5919-43c6-b953-89c49a3ec9c1",
+          "city":"Bangkok",
+          "name":"Innoleaf plus",
+          "types":[
+            
+          ],
+          "lat":13.8150655,
+          "lng":100.5813955,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"c6acccada6b2025201ccd3c35ef02969",
+          "has_products":false,
+          "address":"32 188 จันทรเกษม Khwaeng Chan Kasem, จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

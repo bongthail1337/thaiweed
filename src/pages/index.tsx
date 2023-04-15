@@ -6,6 +6,7 @@ import React from 'react';
 import {Events, scrollSpy} from 'react-scroll';
 
 import {Intro} from '../components';
+import { getAllPoints } from '../libs/api'
 
 type Props = {
   // Add custom props here
@@ -58,10 +59,22 @@ const HomePage = (_props: InferGetStaticPropsType<typeof getStaticProps>) => {
   );
 };
 
-export const getStaticProps: GetStaticProps<Props> = async ({locale}) => ({
-  props: {
-    ...(await serverSideTranslations(locale ?? 'ru', ['common'])),
-  },
-});
+export const getStaticProps: GetStaticProps<Props> = async ({locale}) => {
+  const allPoints = getAllPoints([
+    'title',
+    'date',
+    'slug',
+    'author',
+    'coverImage',
+    'excerpt',
+  ]);
+  console.log('index _props::: ', allPoints);
+  return {
+    props: {
+      ...(await serverSideTranslations(locale ?? 'ru', ['common'])),
+      allPoints,
+    },
+  };
+}
 
 export default HomePage;

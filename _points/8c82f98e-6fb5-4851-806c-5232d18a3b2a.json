@@ -1,0 +1,651 @@
+{
+    "id":"8c82f98e-6fb5-4851-806c-5232d18a3b2a",
+    "lat":"4867570157",
+    "lng":"4116.03.225",
+    "city":"Pathum Thani",
+    "name":"Art of Cannabis",
+    "type":null,
+    "business_images":[
+      "0b4f3fd4d283a4f967ad2276278ec7d7",
+      "89b911464d28541a6b224c320cb39b51"
+    ],
+    "google_images":[
+      "1de366cd69d792ce0ab9a1155ae8b386",
+      "8b0fcbed7659d51a434161e5466e8e79",
+      "c6db49df16dccda4cb9ec54f0a972840"
+    ],
+    "status":"approved",
+    "website":"กลุ่มฟาร์มดอกไม้ทุกสายพันธุhttps://lin.ee/AjPGrp0",
+    "phone":"+66 62 326 9568",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1000"
+        },
+        "close":{
+          "day":1,
+          "time":"0900"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1000"
+        },
+        "close":{
+          "day":2,
+          "time":"0900"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1000"
+        },
+        "close":{
+          "day":3,
+          "time":"0900"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1000"
+        },
+        "close":{
+          "day":4,
+          "time":"0900"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1000"
+        },
+        "close":{
+          "day":5,
+          "time":"0900"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1000"
+        },
+        "close":{
+          "day":6,
+          "time":"0900"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1000"
+        },
+        "close":{
+          "day":0,
+          "time":"0900"
+        }
+      }
+    ],
+    "line":"@577cuzkv",
+    "google_url":"https://maps.google.com/?cid=13447088469377735547",
+    "place_id":"PuVWw93i4Au7UGREr7hPzYraaob",
+    "facebook":"https://www.facebook.com/ArtAmulets1992?mibextid=ZbWKwL",
+    "description":"Top4 best indica. อินดิก้าแรงๆ\n1.Zombie OG  \n2.Godfather \n3.Sticky glue \n4.passion berry \n5.cookie R2\nดอกไม้หลากหลายสายพันธุ์ราคาเข้าถึงได้",
+    "products_flowers":[
+      {
+        "id":"95e8bf63-b947-458f-85dc-4f0fddf55182",
+        "name":"Zombie Og ",
+        "description":"Zombie OG strain helps with\nPain\n38% of people say it helps with pain\nInsomnia\n36% of people say it helps with insomnia\nAnxiety\n33% of people say it helps with anxiety",
+        "images":[
+          "643c1efc3a21312f51362a17c814b44e"
+        ],
+        "thc":21,
+        "cbd":0,
+        "sativa":10,
+        "indica":90,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-04-04T23:51:33.283352+00:00",
+        "updated_at":"2023-04-15T22:00:05.307383+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"Cannabis Swag",
+        "avatar":"4f1cb85f00559871c3fce32e8f309dc1",
+        "content":"พระแท้ คนแท้ แนะนำเลยครับ\n\n(Translated by Google)\nReal monk, real person. I recommend it.",
+        "review_date":"2023-01-05T11:04:35.999+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103324512270757731497?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":5
+        },
+        "count":1
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.21090654295906686,
+        "dispensary":{
+          "id":"cd4f2655-197b-4d99-b808-6169cf524084",
+          "city":"Pathum Thani",
+          "name":"กัญชวยหัวคา 420",
+          "types":[
+            
+          ],
+          "lat":13.9510868,
+          "lng":100.6284115,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "image":"4b02175c57b2dfe7b5502808c6a9016d",
+          "has_products":false,
+          "address":"43 28 Thanon Lam Luk Ka, Tambon Khu Khot, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.098405923121089,
+        "dispensary":{
+          "id":"6908a966-0a49-47c8-98d5-44e8af7e4eab",
+          "city":"Pathum Thani",
+          "name":"กันชากัญ (กัญชา)",
+          "types":[
+            "Delivery",
+            "Dispensary"
+          ],
+          "lat":13.9397959,
+          "lng":100.6255558,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "image":"c5194f39ffb25d8b334ba4abd33ad98c",
+          "has_products":true,
+          "address":"1 855 Khu Khot, Lam Luk Ka District, Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.3886122970767698,
+        "dispensary":{
+          "id":"95670a40-d63d-4a85-8e52-3530e4a99459",
+          "city":"Pathum Thani",
+          "name":"AsiaVape.co - Bangkok",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":13.9367203,
+          "lng":100.6283512,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":216
+              },
+              "count":50
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":41
+              },
+              "count":9
+            }
+          },
+          "image":"c8ba613000b9fa0ffd9cbda8136886b0",
+          "has_products":false,
+          "address":"60 Phahonyothin Rd, Krung Thep Maha Nakhon, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.7216209823331994,
+        "dispensary":{
+          "id":"e307440e-e136-485d-b9f3-659d36d0b730",
+          "city":"Bangkok",
+          "name":"ร้าน Cookie กัญ By ท่าบ่อ กรีนเนอรี่",
+          "types":[
+            
+          ],
+          "lat":13.9340554,
+          "lng":100.6253626,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":4
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":4
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"241 Phahonyothin Road, Khwaeng Sai Mai, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.906227550704221,
+        "dispensary":{
+          "id":"c8d703cb-1152-4aa0-a7a7-d441fea51e75",
+          "city":"Pathum Thani",
+          "name":"มาลีจูนน่า 420 สาขา ลำลูกกา",
+          "types":[
+            
+          ],
+          "lat":13.9592974,
+          "lng":100.6429342,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":6
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":6
+              },
+              "count":2
+            }
+          },
+          "image":"0c6a8b0ecabd282cf05e2a4a6a3dca2d",
+          "has_products":false,
+          "address":"339 19 Thanon Lam Lukka 11, Tambon Khu Khot, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.9508180123678194,
+        "dispensary":{
+          "id":"588c9e31-f474-42a8-a35b-f7fa37d6dc06",
+          "city":"Bangkok",
+          "name":"พี่อ้วนCannabis",
+          "types":[
+            
+          ],
+          "lat":13.9411396,
+          "lng":100.6126019,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":140
+              },
+              "count":28
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":140
+              },
+              "count":28
+            }
+          },
+          "image":"a44edd486547f1fc52ac134056c9b891",
+          "has_products":false,
+          "address":"ดแน, 19/150 Vibhavadi Rangsit Frontage Rd, Khwaeng Sanambin, Khet Don Mueang, Krung Thep Maha Nakhon 10210, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.955673409603033,
+        "dispensary":{
+          "id":"29d5d622-4399-4836-8b54-fe96b02424a6",
+          "city":"Bangkok",
+          "name":"Indy Pots",
+          "types":[
+            
+          ],
+          "lat":13.935051,
+          "lng":100.6178983,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"5, 46-47 Soi Phahon Yothin 73, Khwaeng Sanambin, Khet Don Mueang, Krung Thep Maha Nakhon 10210, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.1009783224462426,
+        "dispensary":{
+          "id":"2228d103-393a-4e2a-aebe-f9978c841d08",
+          "city":"Pathum Thani",
+          "name":"Herbstore",
+          "types":[
+            
+          ],
+          "lat":13.9351911,
+          "lng":100.6417136,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"350 11 Thanon Lam Luk Ka, คูคต Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.1182140618728895,
+        "dispensary":{
+          "id":"67f95158-9fb2-470a-a7bf-9b1fb6c3685b",
+          "city":"Pathum Thani",
+          "name":"Weed is here",
+          "types":[
+            "Dispensary",
+            "Cafe"
+          ],
+          "lat":13.9633687,
+          "lng":100.6417815,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":66
+              },
+              "count":14
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":66
+              },
+              "count":14
+            }
+          },
+          "image":"128d0ad1feb213fe13647619031af837",
+          "has_products":true,
+          "address":"ตลาดนาทองเจริญ เลขที่ 11 ถ.ลำลูกกา11 ต.คูคต อ.ลำลูกกา Tambon Khu Khot, ลำลูกกา Chang Wat Pathum Thani 12130, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.2734511688084647,
+        "dispensary":{
+          "id":"1f260502-3bcd-4c2f-b15b-2a30410d2acc",
+          "city":"Pathum Thani",
+          "name":"Green Station: Cannabis Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.9637942,
+          "lng":100.6434151,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"96, 254 Kukot, Tambon Khu Khot, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12130, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.290968034330407,
+        "dispensary":{
+          "id":"e9e92569-7ca4-46d5-ac6a-15d920eac806",
+          "city":"Pathum Thani",
+          "name":"มาลีจูนน่า420 สาขาลำลูกกาคลอง2",
+          "types":[
+            
+          ],
+          "lat":13.9638573,
+          "lng":100.6435804,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"16d795e825c09fb6748b28b0aad97afa",
+          "has_products":false,
+          "address":"00 ตำบล คูคต Tambon Khu Khot, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.321865631159687,
+        "dispensary":{
+          "id":"4d34f2c6-2cb7-4cc2-aee6-89e4db0cbd0b",
+          "city":"Pathum Thani",
+          "name":"airportcannabis",
+          "types":[
+            
+          ],
+          "lat":13.9691584,
+          "lng":100.634997,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"5ca33de653c67f5fa6212f505e220be7",
+          "has_products":false,
+          "address":"567/หมู่ที่4 ต.คูคต อ.ลำลูกกา Tambon Khu Khot, ลำลูกกา Chang Wat Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.321865631159687,
+        "dispensary":{
+          "id":"1c36db02-5512-4576-9161-7c1d2832033a",
+          "city":"Pathum Thani",
+          "name":"airportcannabis",
+          "types":[
+            
+          ],
+          "lat":13.9691584,
+          "lng":100.634997,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"567, Tambon Khu Khot, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.3446208318728328,
+        "dispensary":{
+          "id":"00c5331b-8c63-44a6-b2b8-9986f2955e9f",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชา AČK-LP",
+          "types":[
+            
+          ],
+          "lat":13.9636944,
+          "lng":100.64444,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"33aaf883ce2f79102a49a00a61a837c5",
+          "has_products":false,
+          "address":"336/50 อาคาร2 ชั้น5 หมู่บ้านเอื่ออาทร บ้านเอื้ออาทรปทุมธานี Khu Khot, Lam Luk Ka District, Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.349332016956477,
+        "dispensary":{
+          "id":"d5860a14-710b-4e5d-9402-e8b7ca50c026",
+          "city":"Pathum Thani",
+          "name":"GREEN ZONE",
+          "types":[
+            "Cafe"
+          ],
+          "lat":13.9701153,
+          "lng":100.6317723,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"0760652684ab7a32fce52e2ed18cf6cf",
+          "has_products":false,
+          "address":"หมู่บ้านพูลผล 600/66 หมู่7 ตำบล คูคต Tambon Khu Khot, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

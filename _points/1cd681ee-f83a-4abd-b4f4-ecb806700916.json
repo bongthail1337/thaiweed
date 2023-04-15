@@ -1,0 +1,865 @@
+{
+    "id":"1cd681ee-f83a-4abd-b4f4-ecb806700916",
+    "lat": "13.8343711",
+    "lng": "100.5865165",
+    "city":"Bangkok",
+    "name":"Time 2 high cafe",
+    "type":null,
+    "business_images":[
+      "c90df066e51b22467791858c1284092d",
+      "189f87b38f5049d0b4ec64e94a22868c",
+      "c90df066e51b22467791858c1284092d",
+      "e683d1463e9939d657796167494ac4c3",
+      "dc6d33d4d69e07dfa6249a3efd4b5548",
+      "0bba7fab3affb6f0e33b8be2572096fb",
+      "d02ce899d21f88f4d6a8ab36e2add7cb",
+      "eac314f2b240b64f742047a385821948",
+      "b8c742dece531332423d4ae972b8ac98",
+      "0bffdbee90d5184abbb6eedd8d220aa3"
+    ],
+    "google_images":[
+      "9e092786da77fee81915c879df49be47"
+    ],
+    "status":"approved",
+    "website":"https://www.facebook.com/profile.php?id=100090638083520&mibextid=LQQJ4d",
+    "phone":"+66 94 686 6262",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1300"
+        },
+        "close":{
+          "day":0,
+          "time":"2300"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1300"
+        },
+        "close":{
+          "day":1,
+          "time":"2300"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1300"
+        },
+        "close":{
+          "day":2,
+          "time":"2300"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1300"
+        },
+        "close":{
+          "day":3,
+          "time":"2300"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1300"
+        },
+        "close":{
+          "day":4,
+          "time":"2300"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1300"
+        },
+        "close":{
+          "day":5,
+          "time":"2300"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1300"
+        },
+        "close":{
+          "day":6,
+          "time":"2300"
+        }
+      }
+    ],
+    "line":"@149nhpmg",
+    "google_url":"https://maps.google.com/?cid=17371807321438962497",
+    "place_id":"PuVWTpuB5tJq5wNEDHCzSYtBSsR",
+    "facebook":"https://www.facebook.com/profile.php?id=100090638083520&mibextid=LQQJ4d",
+    "description":"Cannabis cafe that will take your feet off the ground and get you high to the moon.",
+    "products_flowers":[
+      {
+        "id":"8d24dea0-583d-48b1-beb2-28ee9bf80a1e",
+        "name":"Grand master sexy",
+        "description":"Exotic",
+        "images":[
+          "c5beebebc420e77776b6d894037a36e5"
+        ],
+        "thc":22,
+        "cbd":0,
+        "sativa":40,
+        "indica":60,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-31T10:20:24.48327+00:00",
+        "updated_at":"2023-04-15T19:00:18.731612+00:00"
+      },
+      {
+        "id":"f8202fab-3aab-4d58-933f-18093b6df88a",
+        "name":"Ice cream king",
+        "description":"Happy\nEuphoric",
+        "images":[
+          "2058cff286d33aa997624d2ff33475c2"
+        ],
+        "thc":22,
+        "cbd":0,
+        "sativa":40,
+        "indica":60,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-04-09T10:38:12.486132+00:00",
+        "updated_at":"2023-04-15T19:00:18.730554+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      {
+        "id":"8e88e2f8-673b-4704-ba53-0cb0840fb985",
+        "name":"Original Brownie",
+        "description":"100",
+        "images":[
+          "f49b056015dce1ce186b788e834a1fb2"
+        ],
+        "thc":20,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "disabled":false,
+        "created_at":"2023-03-31T10:25:29.507858+00:00",
+        "updated_at":"2023-04-15T19:00:18.73291+00:00"
+      }
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"Thananya Pechmedeam",
+        "avatar":"33d2e97579bddb6629b6463becb31e0d",
+        "content":"",
+        "review_date":"2023-02-23T05:25:03.13+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102351472842795990828?hl=en-US"
+      },
+      {
+        "author":"Chanakarn Jermsiri",
+        "avatar":"6e534ec3370451ec3cc4346d16a5bc7b",
+        "content":"",
+        "review_date":"2023-02-25T07:13:16.948+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103621990736535130952?hl=en-US"
+      },
+      {
+        "author":"Bow Bow",
+        "avatar":"45026b19eab38f1a32d5031a5acae675",
+        "content":"Nice one",
+        "review_date":"2023-02-28T04:37:13.057+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103681902539548851319?hl=en-US"
+      },
+      {
+        "author":"Nunnaros Jermsiri",
+        "avatar":"fccd1e6d16db6d4e21d992de9118de96",
+        "content":"High quality product",
+        "review_date":"2023-02-28T00:48:50.603+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103794814442888150103?hl=en-US"
+      },
+      {
+        "author":"Boo aung",
+        "avatar":"40d16ed6adb3732ded74ed5ac082fb82",
+        "content":"High AF",
+        "review_date":"2023-02-28T04:33:33.936+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107847419036960895935?hl=en-US"
+      },
+      {
+        "author":"Chayakorn Thongnoi",
+        "avatar":"925040f116af84a1d69ea68d472be78e",
+        "content":"นั่งเล่นชิวมาก\n\n(Translated by Google)\nsitting very chill",
+        "review_date":"2023-04-05T12:50:03.417+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112703840553097402776?hl=en-US"
+      },
+      {
+        "author":"Thanaphat Wijitchot",
+        "avatar":"8387f80b4dbabbe4ce183b8905ff20b2",
+        "content":"Good vibes, Good place, Great food.",
+        "review_date":"2023-04-10T02:07:36.536+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113587253451027803519?hl=en-US"
+      },
+      {
+        "author":"Chsnalit Jermsiri",
+        "avatar":"c2418ccd612067dc3ef02cda3eef5e62",
+        "content":"",
+        "review_date":"2023-02-25T07:18:46.108+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113616731303018946416?hl=en-US"
+      },
+      {
+        "author":"Patchara Santisathaworn",
+        "avatar":"f3dc8d03e4c23024c5db14737364cfeb",
+        "content":"Very good vibe and nice merchant 👍🏻",
+        "review_date":"2023-04-10T01:48:05.309+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113656413636971939555?hl=en-US"
+      },
+      {
+        "author":"Napat Sriprathum",
+        "avatar":"0b6d9b8fa5bb835335d1ffb5dad21a63",
+        "content":"Great cafe with good snacks. Very good vibe!",
+        "review_date":"2023-02-28T03:39:49.915+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114317787879094979399?hl=en-US"
+      },
+      {
+        "author":"Yothin 62",
+        "avatar":"55498161246c8e163e51d48b3f7611e0",
+        "content":"Good tripping here",
+        "review_date":"2023-02-28T09:45:15.864+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114735391266220227582?hl=en-US"
+      },
+      {
+        "author":"JaAe JSR",
+        "avatar":"c82e384896fa0b2b21b136f61b568fd3",
+        "content":"คนขายน่ารัก บรรยากาศดี\n\n(Translated by Google)\nNice seller, nice atmosphere.",
+        "review_date":"2023-02-23T05:32:21.054+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115064408029213445945?hl=en-US"
+      },
+      {
+        "author":"Pongsakon Pankudrua",
+        "avatar":"1e6f6404b940d4c3a70d528bc42823b6",
+        "content":"Good place for everyone who need a good experience about weed",
+        "review_date":"2023-04-10T14:53:30.04+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115169002265830650718?hl=en-US"
+      },
+      {
+        "author":"Ramie",
+        "avatar":"9f8988908d81db2d40807071cbfd89d1",
+        "content":"ดีมากกกก แม่ค้าใจดี เริดๆๆๆ\n\n(Translated by Google)\nVery good. The seller is very kind.",
+        "review_date":"2023-02-23T05:29:26.463+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/116016291951166797643?hl=en-US"
+      },
+      {
+        "author":"Ravipol Pechmedeam",
+        "avatar":"f505852b1b7fa29df9c0ce7820c33088",
+        "content":"",
+        "review_date":"2023-02-23T06:16:48.685+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/116455624999539287761?hl=en-US"
+      },
+      {
+        "author":"Christ Wora",
+        "avatar":"f858c1e02d9696fd92e267300959ce64",
+        "content":"ของดี ราคาดี แนะนำตัว candy ส่วนของหวานก็ ไอศครีมโฮมเมด รสโยเกิร์ต น้ำผึ้ง เข้ากันดีสุดๆ\n\n(Translated by Google)\nGood stuff, good price, recommend the candy. Homemade ice cream, yoghurt and honey flavor, perfect combination",
+        "review_date":"2023-04-10T02:09:31.195+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117379341914888765960?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":80
+        },
+        "count":16
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.3212478982702398,
+        "dispensary":{
+          "id":"6f3d1eb8-8b13-4dc6-8ac3-0692d79362f4",
+          "city":"Bangkok",
+          "name":"BigBuds Factory จำหน่ายกัญชาทางการแพทย์ 24 ชม.",
+          "types":[
+            
+          ],
+          "lat":13.8382411,
+          "lng":100.5821354,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"8db96b605aa7b3b07f15c759732b293e",
+          "has_products":false,
+          "address":"1546, Block Space 34, แขวง เสนานิคม เขตจตุจักร กรุงเทพมหานคร 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.4032627907494831,
+        "dispensary":{
+          "id":"146871ef-8eda-41b5-a161-dacb670d23f4",
+          "city":"Bangkok",
+          "name":"Yummy Quinn",
+          "types":[
+            
+          ],
+          "lat":13.8348548,
+          "lng":100.5824726,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"d4e53da809c153a1aa7ffc1a37b94226",
+          "has_products":false,
+          "address":"126 9 ซอย พหลโยธิน 32 เสนานิคม Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.8451471884123055,
+        "dispensary":{
+          "id":"034cb254-0759-4ccb-999e-b3927fb976af",
+          "city":"Bangkok",
+          "name":"บริษัท คัมชา จำกัด",
+          "types":[
+            
+          ],
+          "lat":13.8413704,
+          "lng":100.5917587,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":14
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"14996d3109465c39940d91ec4c02e9b7",
+          "has_products":false,
+          "address":"32 อาคารเคเอ็ม Thanon Prasert-Manukitch, Khwaeng Chorakhe Bua, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.2985390254292701,
+        "dispensary":{
+          "id":"9b30d2dc-ffa0-4f50-afc8-432ed5d6b14b",
+          "city":"Bangkok",
+          "name":"Exotic Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.8401516,
+          "lng":100.5732986,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":150
+              },
+              "count":30
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":150
+              },
+              "count":30
+            }
+          },
+          "image":"275a880f63520eb7a2b2ec5f9a32a6c8",
+          "has_products":false,
+          "address":"19, 54 ซอย งามวงศ์วาน 60 Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.3001472163515855,
+        "dispensary":{
+          "id":"95799329-097a-43f5-a2ea-032d69e34921",
+          "city":"Bangkok",
+          "name":"Exotic Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.8401641,
+          "lng":100.5732863,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":145
+              },
+              "count":29
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":145
+              },
+              "count":29
+            }
+          },
+          "image":"7628f581cabc2dfb103f10a070336e85",
+          "has_products":false,
+          "address":"19/54, 60 soi ngamwongwan, แขวง ลาดยาว เขตจตุจักร กรุงเทพมหานคร 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.3262759614666817,
+        "dispensary":{
+          "id":"758a4b21-eecf-4819-9ca1-146fe154a6e9",
+          "city":"Bangkok",
+          "name":"Cann-ya",
+          "types":[
+            "Cafe",
+            "Dispensary",
+            "Club",
+            "Bar"
+          ],
+          "lat":13.8333865,
+          "lng":100.5734888,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":80
+              },
+              "count":16
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":80
+              },
+              "count":16
+            }
+          },
+          "image":"b26ad17dcba29cc7be137e19546198f2",
+          "has_products":true,
+          "address":"6 50 Sana Nikhom 1 Soi 3, จันทร์เกษม จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.333930770879863,
+        "dispensary":{
+          "id":"51a6d674-7075-4882-b535-dff17cc82ebb",
+          "city":"Bangkok",
+          "name":"RollLoft.Kasetsart",
+          "types":[
+            "Dispensary",
+            "Cafe",
+            "Restaurant",
+            "Delivery"
+          ],
+          "lat":13.8332739,
+          "lng":100.5734564,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"5f68e80214b0dfab170a265913f4fb6b",
+          "has_products":false,
+          "address":"2308 17 Phahonyothin Road, Khwaeng Chan Kasem, จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.5446429483707094,
+        "dispensary":{
+          "id":"73359f43-45db-4e46-8098-2068003aa008",
+          "city":"Bangkok",
+          "name":"M.Y.Cannabis",
+          "types":[
+            
+          ],
+          "lat":13.8236339,
+          "lng":100.5856382,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":105
+              },
+              "count":21
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":105
+              },
+              "count":21
+            }
+          },
+          "image":"ce569fc4900b761b427132fe58098149",
+          "has_products":false,
+          "address":"15/285 วังหินเพลส ห้อง 119 Soi Ratchadaphisek 36 Yaek 9-3-2, จันทรเกษม จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.552216584083409,
+        "dispensary":{
+          "id":"ddd5a513-c483-4cb7-8d08-747a64237b62",
+          "city":"Bangkok",
+          "name":"PIGCOLOSHOP",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":13.8329236,
+          "lng":100.5714368,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":65
+              },
+              "count":13
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":65
+              },
+              "count":13
+            }
+          },
+          "image":"98f7bb0b42c78ffd5e3cf58498bab771",
+          "has_products":false,
+          "address":"1873/27 ริมถนนด้านหน้า เสนาเซ็นเตอร์ Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.6403493179036162,
+        "dispensary":{
+          "id":"2cabdd19-1a79-4268-a191-58ed679ea939",
+          "city":"Bangkok",
+          "name":"Amsterdam Plug",
+          "types":[
+            
+          ],
+          "lat":13.834398,
+          "lng":100.599865,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"111/739 First Home Moo 3, Soi Ruam Mit Pattana, Bangkhen, Tareang, 10220 Bangkok, Bangkhen, กรุงเทพมหานคร 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.66447770455308,
+        "dispensary":{
+          "id":"823b08fb-4eca-42a4-90c4-abcecb813f86",
+          "city":"Bangkok",
+          "name":"The Green",
+          "types":[
+            
+          ],
+          "lat":13.8422183,
+          "lng":100.5703797,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"8610f994212a47bfc797bca6393f7f07",
+          "has_products":false,
+          "address":"B11, 89 Soi Ngam Wong Wan 52, Lane 1, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.66447770455308,
+        "dispensary":{
+          "id":"08d92a66-349c-4dc6-990c-e53e808220da",
+          "city":"Bangkok",
+          "name":"Green 9",
+          "types":[
+            
+          ],
+          "lat":13.8422183,
+          "lng":100.5703797,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"B11, 89 Soi Ngam Wong Wan 52, Lane 1, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.7443451808562558,
+        "dispensary":{
+          "id":"16320569-0030-42d0-8fa7-2f9bd14f50a9",
+          "city":"Bangkok",
+          "name":"Greenery Haus",
+          "types":[
+            
+          ],
+          "lat":13.852356,
+          "lng":100.5797886,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"db4ee4252f9167790577152a7e4abbbb",
+          "has_products":false,
+          "address":"52 129 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.8373179272003788,
+        "dispensary":{
+          "id":"6365602f-4e49-42f1-bbbe-ddc642ed7633",
+          "city":"Bangkok",
+          "name":"High Heal Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.8539723,
+          "lng":100.5865003,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"540f044f832082c15cf4998ed195673a",
+          "has_products":false,
+          "address":"52/4 ถ.พหลฯ, Sena Nikhom, Chatuchak, Bangkok 10900, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.8498242354752743,
+        "dispensary":{
+          "id":"4858c1ec-4a00-43f9-82ed-4ed52392a9d5",
+          "city":"Bangkok",
+          "name":"ร้านหอมกัญ",
+          "types":[
+            
+          ],
+          "lat":13.8243579,
+          "lng":100.574526,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "image":"512ed06ed2f4a54ad182233f8b4ebfec",
+          "has_products":false,
+          "address":"9 36 Soi Amon Ratchada, จันทรเกษม Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

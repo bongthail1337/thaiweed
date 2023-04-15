@@ -1,0 +1,709 @@
+{
+    "id":"58f6442d-0a2f-426b-b26f-3ed505983040",
+    "lat": "13.833905",
+    "lng": "100.6377708",
+    "city":"Bangkok",
+    "name":"ร้านขายกัญชา Kryptonite Cannabis Store",
+    "type":null,
+    "business_images":[
+      "2dd9202f9949ab4c968584877c0e677c",
+      "0fb8a48dc92cb9acec8649b5ed869138",
+      "48b2a1347b9053b9471b0e3e2e6a3123",
+      "f5e5bb7bb80461bd251d5e55ce75cc4c"
+    ],
+    "google_images":[
+      
+    ],
+    "status":"approved",
+    "website":"http://facebook.com/Kryptonite.stores",
+    "phone":"+66 96 883 1241",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1100"
+        },
+        "close":{
+          "day":1,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1100"
+        },
+        "close":{
+          "day":2,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1100"
+        },
+        "close":{
+          "day":3,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1100"
+        },
+        "close":{
+          "day":4,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1100"
+        },
+        "close":{
+          "day":5,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1100"
+        },
+        "close":{
+          "day":6,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1100"
+        },
+        "close":{
+          "day":0,
+          "time":"0000"
+        }
+      }
+    ],
+    "line":"@kryptonite.store",
+    "google_url":"https://maps.google.com/?cid=18313790722965205608",
+    "place_id":"PuVW51cYzjWwUGREnUViknTaW_5",
+    "facebook":"http://facebook.com/Kryptonite.stores",
+    "description":"Good Quality and Wholesaler & Retail",
+    "products_flowers":[
+      {
+        "id":"cdc5b647-393d-4825-bf25-303b251c4950",
+        "name":"Excotic Grade",
+        "description":"Good Quality",
+        "images":[
+          "92f3a06df9e9c7427e42e0378d556de5"
+        ],
+        "thc":27,
+        "cbd":0,
+        "sativa":0,
+        "indica":100,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2023-03-30T09:57:46.686158+00:00",
+        "updated_at":"2023-04-15T22:00:14.542883+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"PM Pimar",
+        "avatar":"ea25b246aef400201d35a5cf0c0e9e9b",
+        "content":"ยังไม่เคยลองเลย แต่ที่ร้านให้คำแนะนำดีมากค่ะ\n\n(Translated by Google)\nHaven't tried it yet But at the shop, the advice is very good.",
+        "review_date":"2023-04-01T14:00:13.505+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102669695532381486956?hl=en-US"
+      },
+      {
+        "author":"Mark chanon",
+        "avatar":"ba215ca33ee7cb0124029936ef5ea8af",
+        "content":"ร้านดีมากครับพนักงานเป็นกันเองน่ารักมากราคาดี\n\n(Translated by Google)\nVery good shop, friendly staff, very cute, good price.",
+        "review_date":"2023-03-15T13:11:25.996+00:00",
+        "rating":5,
+        "images":[
+          "37af5e7c48afb7fd2e33ea5a134b4d15"
+        ],
+        "url":"https://www.google.com/maps/contrib/108622108043856921027?hl=en-US"
+      },
+      {
+        "author":"Godskull Tattoo Studio",
+        "avatar":"1c3c1b84a9b2c64c7bc839cba8620e54",
+        "content":"",
+        "review_date":"2023-04-01T19:33:36.744+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108663245934649020780?hl=en-US"
+      },
+      {
+        "author":"kritsada kacharak",
+        "avatar":"6029dd49ef2ec5fb238876817ec592fe",
+        "content":"🫰🏻🫰🏻",
+        "review_date":"2023-04-01T13:57:06.186+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117069044305327655186?hl=en-US"
+      },
+      {
+        "author":"TaE NRKz",
+        "avatar":"68c2544b7c40ce05d2caf0658d17ec12",
+        "content":"ราคาดีมากเลยครับ👍🏻\n\n(Translated by Google)\nVery good price 👍🏻",
+        "review_date":"2023-03-01T08:29:04.006+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117424719008500997266?hl=en-US"
+      },
+      {
+        "author":"Vitinya wattanaratkomtorn",
+        "avatar":"a15100f9c072347bd8c1694fc7a69492",
+        "content":"👍🏻👍🏻",
+        "review_date":"2023-04-02T06:05:53.015+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117530508947892205138?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":30
+        },
+        "count":6
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.02351643876186695,
+        "dispensary":{
+          "id":"7353a085-90f9-4b10-8d84-03dcdb3cf3cb",
+          "city":"Bangkok",
+          "name":"ร้านขายกัญชา Kryptonite Cannabis Store",
+          "types":[
+            
+          ],
+          "lat":13.8339119,
+          "lng":100.6377717,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "image":"37af5e7c48afb7fd2e33ea5a134b4d15",
+          "has_products":false,
+          "address":"49/63 หมู่ที่ 12, ถนนนวลจันทร์, แขวงคลองกุ่ม Khwaeng Nuanchan, Khet Bueng Kum, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.587138933213823,
+        "dispensary":{
+          "id":"47726c64-ae2e-4095-8141-91e917f783b9",
+          "city":"Bangkok",
+          "name":"Dr.Highthai Café : Cannabis society / ดร.ไฮไทย คาเฟ่",
+          "types":[
+            "Dispensary",
+            "Cafe",
+            "Wholesaler",
+            "Grower"
+          ],
+          "lat":13.83428,
+          "lng":100.6324724,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "image":"9881981ca6feb4e94ce02bcafaf5abee",
+          "has_products":true,
+          "address":"Tungthong Place, 888 Pradit Manutham Rd, Khwaeng Nuanchan, Khet Bueng Kum, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.7445180790297262,
+        "dispensary":{
+          "id":"91a55e8d-d5cd-4a1a-9be1-80e490667812",
+          "city":"Bangkok",
+          "name":"Daddy Dope",
+          "types":[
+            
+          ],
+          "lat":13.8277426,
+          "lng":100.6409697,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"432, 1 ซอย นวลจันทร์ 38/1 Khwaeng Nuanchan, Khet Bueng Kum, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.7550136014047205,
+        "dispensary":{
+          "id":"38eaa63d-5865-4711-b21c-8d7261f6bca0",
+          "city":"Bangkok",
+          "name":"RUNFARM CANNABIS THAILAND",
+          "types":[
+            
+          ],
+          "lat":13.8403231,
+          "lng":100.6395475,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":76
+              },
+              "count":16
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":76
+              },
+              "count":16
+            }
+          },
+          "image":"3d428fa54229aec13a1547af20e672fa",
+          "has_products":false,
+          "address":"Soi Rarm Intra 40, Khwaeng Nuanchan, Khet Bueng Kum, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.0178093878286274,
+        "dispensary":{
+          "id":"cd3367d1-fb99-4806-8e47-941d9c430dd4",
+          "city":"Bangkok",
+          "name":"War Room Ekamai-Ramintra",
+          "types":[
+            
+          ],
+          "lat":13.828659,
+          "lng":100.630032,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":519
+              },
+              "count":104
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":519
+              },
+              "count":104
+            }
+          },
+          "image":"c5977b4439b8cec25920cb7b9f851dc9",
+          "has_products":false,
+          "address":"889 ซอย ประเสริฐมนูกิจ 33 Bueng Kum, Bangkok 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.2965182191519227,
+        "dispensary":{
+          "id":"c9a60660-d34d-411f-b982-c0ecd6085d5f",
+          "city":"Bangkok",
+          "name":"LIMITEDKING CAFE",
+          "types":[
+            
+          ],
+          "lat":13.8255654,
+          "lng":100.6293068,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":98
+              },
+              "count":22
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"293cca67cb0bb6a6f353b8b9a18b0e19",
+          "has_products":false,
+          "address":"Soi Prasert Manutakit 33, Khwaeng Nuanchan, Khet Bueng Kum, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.44623925284103,
+        "dispensary":{
+          "id":"dc4cb8f8-7c21-4deb-9a2d-e2c96c53fe9f",
+          "city":"Bangkok",
+          "name":"กัญ-พัน-เมี่ยง",
+          "types":[
+            
+          ],
+          "lat":13.8465998,
+          "lng":100.6398081,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"f8fef78cb0ada69b31407612923ebe06",
+          "has_products":false,
+          "address":"ตลาดนัดเลียบด่วนรามอินทรา ห้อง13 โซนใหม่ 2 ชั้น ท่าแร้ง Khwaeng Tha Raeng, Khet Bang Khen, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.5062451467351077,
+        "dispensary":{
+          "id":"1ec047a1-5e83-4926-b2a2-00a6de666d43",
+          "city":"Bangkok",
+          "name":"ร้านกัญชา Smilegan&Koht-high",
+          "types":[
+            
+          ],
+          "lat":13.826245,
+          "lng":100.6262526,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "image":"4297c2a92cd44f4ca0d9da0e77fbadeb",
+          "has_products":false,
+          "address":"Lat Phrao, Bangkok 10310, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.9033698013684528,
+        "dispensary":{
+          "id":"8608cbfa-7ccd-4292-ad76-ce57bcb49e7d",
+          "city":"Bangkok",
+          "name":"Herb Treasure Co.,Ltd.",
+          "types":[
+            
+          ],
+          "lat":13.8166114,
+          "lng":100.6378567,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"adcbd8208c86e774fcf4d1b1c8c69e6c",
+          "has_products":false,
+          "address":"288/45 Nirvana@WORK, ถ. ประเสริฐมนูกิจ แขวง นวมินทร์ เขต บึงกุ่ม กรุงเทพมหานคร 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.9095642891154276,
+        "dispensary":{
+          "id":"80268f90-514e-4d60-882f-c176c8e13bdc",
+          "city":"Bangkok",
+          "name":"Green High",
+          "types":[
+            
+          ],
+          "lat":13.8508509,
+          "lng":100.6392431,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "has_products":false,
+          "address":"159 ลาดพร้าว Khwaeng Tha Raeng, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.9927719884046537,
+        "dispensary":{
+          "id":"8733b04b-5d0a-461c-ae11-01b624859330",
+          "city":"Bangkok",
+          "name":"SUPERWEED BKK",
+          "types":[
+            
+          ],
+          "lat":13.8516475,
+          "lng":100.6382028,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "has_products":false,
+          "address":"113 Ram Inthra Rd, ท่าแร้ง Khet Bang Khen, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.0513040581043613,
+        "dispensary":{
+          "id":"ebbab81b-d13e-49ab-93da-0b82705c20be",
+          "city":"Bangkok",
+          "name":"Green House Thailand",
+          "types":[
+            
+          ],
+          "lat":13.8173674,
+          "lng":100.6466571,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"18319a35f12f018940ff31ae90f15039",
+          "has_products":false,
+          "address":"46, 202 Nuan Chan Rd, Khwaeng Nuanchan, Khet Bueng Kum, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.078916924982101,
+        "dispensary":{
+          "id":"b0a2fe3a-4d33-4b1f-8d8e-b702db00e445",
+          "city":"Bangkok",
+          "name":"Candy store - กัญชาออร์แกนิค",
+          "types":[
+            
+          ],
+          "lat":13.8501729,
+          "lng":100.6287187,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "has_products":false,
+          "address":"1 Soi Rarm Intra 14, Lane 5-2, Khwaeng Tha Raeng, Khet Bang Khen, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.086672057593675,
+        "dispensary":{
+          "id":"196081ed-e2d7-45e1-a37a-dd26d86b2b77",
+          "city":"Bangkok",
+          "name":"Candy store - กัญชาออร์แกนิค",
+          "types":[
+            "Delivery",
+            "Cafe"
+          ],
+          "lat":13.8502544,
+          "lng":100.628723,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "image":"00dfa26ff0e6046f37ff3ff46c39942f",
+          "has_products":false,
+          "address":"1 Rarm Intra 14 Alley, Lane 5-2, Tha Raeng, Bang Khen, Bangkok 10230, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.1374649513392048,
+        "dispensary":{
+          "id":"9d7b5808-574e-4606-9beb-4a079134375d",
+          "city":"Bangkok",
+          "name":"จุดแวะเติม byหลังตลาด",
+          "types":[
+            "Bar"
+          ],
+          "lat":13.8358325,
+          "lng":100.6575588,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"4cd0d8ebb662cbb735e5d89380b0fe89",
+          "has_products":true,
+          "address":"89 ซอย นวมินทร์ 163 แขวงรามอินทรา เขตคันนายาว รามอินทรา คันนายาว Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

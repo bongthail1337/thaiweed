@@ -1,0 +1,2930 @@
+{
+    "id":"5b220f73-efd9-440d-a522-da985b6eac5d",
+    "lat":"7.9060143",
+    "lng":"98.3015393",
+    "city":"Phuket",
+    "name":"Cannabis Premium Weed shop Le Versace",
+    "type":null,
+    "business_images":[
+      "b70f7d9a6b6f5d2c751ed30d7906dd16",
+      "2b21f0b3bcd2e66f49e734ca4ce45462",
+      "a32abbcb684d5c30baec2438ba738847",
+      "f64c8533947f61b4c29b2da49687ef02",
+      "81707b514db5c35c162943a1186b39f6"
+    ],
+    "google_images":[
+      "32d6cb17d7b4feec599a6aeab6ed6411",
+      "6c4ab0204b9821192daf8607dbf6e8d9",
+      "22771f80e37f38c6b94297c86d2f5a50",
+      "772e3f8129acfd7f4a4309435f493e74",
+      "cc69f9f82f2a4d5f98ce854566dc9ab3",
+      "07a3132c9b5ecbbe3ea275f213cccfd2",
+      "91c1fefcac30288228e19518e8545bca",
+      "d2df1ea648bb58052c0c792645cd6aeb",
+      "c4e282a8f77b11b950be16258841650d",
+      "1b6f82b3b64a7941dacde60043296b1e"
+    ],
+    "status":"approved",
+    "website":"https://www.facebook.com/profile.php?id=100086532062220",
+    "phone":"+66 81 380 1347",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"0800"
+        },
+        "close":{
+          "day":0,
+          "time":"2300"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"0830"
+        },
+        "close":{
+          "day":1,
+          "time":"2300"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"0830"
+        },
+        "close":{
+          "day":2,
+          "time":"2300"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"0830"
+        },
+        "close":{
+          "day":3,
+          "time":"2300"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"0830"
+        },
+        "close":{
+          "day":4,
+          "time":"2300"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"0830"
+        },
+        "close":{
+          "day":5,
+          "time":"2300"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"0830"
+        },
+        "close":{
+          "day":6,
+          "time":"2300"
+        }
+      }
+    ],
+    "line":"https://line.me/ti/p/w5p33SLpXW",
+    "google_url":"https://maps.google.com/?cid=572186906667194781",
+    "place_id":"PuVWeIJZjlb9HQNEaExUksKD3Np",
+    "facebook":"https://www.facebook.com/profile.php?id=100086532062220",
+    "description":"Premium Weed selection and best rooftop for enjoying the moments 😎😍☀️🙏💯",
+    "products_flowers":[
+      {
+        "id":"f70e1bb8-e860-47e6-a57d-feb5b380d8e8",
+        "name":"Green gelato",
+        "description":"Great strain grow bio no chemicals ",
+        "images":[
+          "76177a15cf8768f8b25b5645a822990b"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2022-11-22T01:25:47.760372+00:00",
+        "updated_at":"2023-04-06T20:00:03.314344+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"George Anastasiadis",
+        "avatar":"79d0066dcc68a168ba572f5f87bb891b",
+        "content":"The best shop in Phuket",
+        "review_date":"2022-11-04T03:05:23.75+00:00",
+        "rating":5,
+        "images":[
+          "ceb04f87a3a9a66318225b3762289c07",
+          "ef2d2c8f8cff8348579d424ff50627f8"
+        ],
+        "url":"https://www.google.com/maps/contrib/100440383065610542609?hl=en-US"
+      },
+      {
+        "author":"Georges Dufresne",
+        "avatar":"19c37b270fc83c55b407a1269c2ec74e",
+        "content":"Best quality and a lot of strains\nGreat sunset sea view\nWorth a visit",
+        "review_date":"2023-02-11T06:22:30.976+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100509327547856005672?hl=en-US"
+      },
+      {
+        "author":"ธเนศวร ทองคง",
+        "avatar":"3a48ac55305c639e3661ce10f2dba239",
+        "content":"Nice view nice sunset 😻 everyone have to come here for see 🙂",
+        "review_date":"2022-10-30T11:42:53.631+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100556492890889706795?hl=en-US"
+      },
+      {
+        "author":"Pro\\\\Vision (AIV)",
+        "avatar":"712aeefc84641b414ba4939525c29c57",
+        "content":"This is a nice and real place where you can find a lot of cool weed(local and import) and you can smoke it on the best roof top on the whole phuket",
+        "review_date":"2022-10-29T09:03:18.599+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100702718155314078634?hl=en-US"
+      },
+      {
+        "author":"Arno De Bok",
+        "avatar":"ac68c07371a0e899200365d3eff6abd9",
+        "content":"Great views great highs great food",
+        "review_date":"2022-11-14T08:36:25.423+00:00",
+        "rating":5,
+        "images":[
+          "61550a944df02cef6ae00d0abfcde631"
+        ],
+        "url":"https://www.google.com/maps/contrib/100864024218162019044?hl=en-US"
+      },
+      {
+        "author":"Amarnath De",
+        "avatar":"d997007385897c137be6ff2c4d0a67e9",
+        "content":"If you visit phuket and want to experience movie style view with food after getting high then this place is the best.  Full value for money. The only downside is you need to climb a steep road in order to get there. But its worth it.",
+        "review_date":"2022-11-03T09:19:55.751+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100866120622795568161?hl=en-US"
+      },
+      {
+        "author":"Nick Spitz",
+        "avatar":"c1acde708ea2c59ca0a076cec74388c7",
+        "content":"Really cool spot with a great view. Staff very friendly and accommodating. Product is really good too.",
+        "review_date":"2022-11-13T00:46:55.628+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100914516475991645022?hl=en-US"
+      },
+      {
+        "author":"Brett Scallan",
+        "avatar":"aab1f2a187949e5d2dc3bebbec99ff44",
+        "content":"5 stars. What a great spot for sunset. Amazing service too.. go check it out",
+        "review_date":"2022-11-26T12:18:48.77+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100935221823921326308?hl=en-US"
+      },
+      {
+        "author":"meng red rock Deli Chip",
+        "avatar":"52e905b6e6abadfa0c5e68c17dd2b0fe",
+        "content":"",
+        "review_date":"2022-12-19T03:44:37.167+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101216576892338152073?hl=en-US"
+      },
+      {
+        "author":"Unyaphat Hooker",
+        "avatar":"29a4fee824173035bc7cd97ffe45bcf7",
+        "content":"บรรยากาศดีวิวสวยมาก เหมาะกับการมานั่งดูพระอาทิตย์ตกดินตอนเย็น\n\n(Translated by Google)\nGood atmosphere, very nice view suitable for sitting and watching the sunset in the evening",
+        "review_date":"2022-11-19T13:04:38.514+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101231042836917844090?hl=en-US"
+      },
+      {
+        "author":"Madeleine Ruby",
+        "avatar":"898220973e2a1457d76b82ee7b530ed6",
+        "content":"Bliss view, great service super cool to do. Joe is a legend!!",
+        "review_date":"2022-11-11T09:03:57.868+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101528800304628124490?hl=en-US"
+      },
+      {
+        "author":"sak saky",
+        "avatar":"4d8bf64ab2d5407fbb25482974ec0640",
+        "content":"One of the best weed shop on the rooftop beautiful view .. I would recommend to try at once at least.",
+        "review_date":"2022-10-09T11:21:56.704+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101694153322391665410?hl=en-US"
+      },
+      {
+        "author":"G g",
+        "avatar":"5d45a8e7db88d886fd91fb1d287d5837",
+        "content":"Best dispensary iver ever been to in my life 10/10",
+        "review_date":"2022-12-20T02:18:02.652+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101706293952469481214?hl=en-US"
+      },
+      {
+        "author":"Ali Shahbaz",
+        "avatar":"b7621bd056d37830763d382a9af4bbd9",
+        "content":"Great customer service and good stuff recomemded",
+        "review_date":"2022-11-07T11:43:22.639+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102006924062153659588?hl=en-US"
+      },
+      {
+        "author":"Professor Bitmex",
+        "avatar":"02a295965eb1e6ed1b8034a9ef369512",
+        "content":"",
+        "review_date":"2022-12-22T10:30:50.255+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102107370024178479714?hl=en-US"
+      },
+      {
+        "author":"Ayman Mufleh",
+        "avatar":"3120eda0e07d87fe7b650df64cf88d38",
+        "content":"Amazing views, great service, price was very good 👍🏻\n\nThere is lots of nice seating to relax or get some work done ✅\n\n100% recommend this place!! 😊",
+        "review_date":"2023-01-06T04:23:57.671+00:00",
+        "rating":5,
+        "images":[
+          "92730d28826c7deef3f5174a755381f6",
+          "27cd958a9b5e379ecf110e8a3edce084",
+          "32aea5b527a96294e50c0503f71679e2",
+          "7c949eb001443a010163c2b100cfe917",
+          "27bf6255f9db1515c60d877aee452d0a",
+          "06b264d7b59d7dcc8a5a89888ec8f199"
+        ],
+        "url":"https://www.google.com/maps/contrib/102182030982464697952?hl=en-US"
+      },
+      {
+        "author":"Nicola Bernardi",
+        "avatar":"761ba500c4d35104774f0666fc3a233d",
+        "content":"",
+        "review_date":"2022-10-03T05:30:48.555+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102351691615446705444?hl=en-US"
+      },
+      {
+        "author":"Patrick Shonk",
+        "avatar":"68378409fec35a62f9a64b58a5a34d9e",
+        "content":"Conveniently located close to Patong beach. They feature top quality high grade cannabis. Very comfortable buying and consuming experience. Will be back",
+        "review_date":"2022-11-11T07:49:12.643+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102503467775669044840?hl=en-US"
+      },
+      {
+        "author":"Rebecca Wilson",
+        "avatar":"cf6f5c05c96c2ad8a98ddadfcb7614b9",
+        "content":"Even with a storm on the horizon absolutely amazing. Panoramic views of the whole of Patong.",
+        "review_date":"2023-02-19T12:33:02.054+00:00",
+        "rating":5,
+        "images":[
+          "8ea662aecafbf344879a728102c3f3a3"
+        ],
+        "url":"https://www.google.com/maps/contrib/102512459511736956723?hl=en-US"
+      },
+      {
+        "author":"Manliika Panamke",
+        "avatar":"7b5db1f645423829d90b7544669ebdf5",
+        "content":"วัชพืชที่ดีที่สุด  มีดาดฟ้าและเพลิดเพลินไปกับบรรยากาศที่สวยงาม ราคาเหมาะสม\n\n(Translated by Google)\nbest weed Have a deck and enjoy the beautiful setting. Prices are reasonable.",
+        "review_date":"2022-10-07T13:54:55.637+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102657625213118808972?hl=en-US"
+      },
+      {
+        "author":"Louniz N",
+        "avatar":"3b13263c5d7299593cecf96bea8e2708",
+        "content":"(Translated by Google) Super weed I highly recommend super view quality weed super price I bought weed elsewhere at 1200bat per gram not terrible quality laba 850bat I was super happy ✌️✌️✌️😉 I recommend\n\n(Original)\nSuper weed je recommande fort super vue weed de qualités super prix jai acheter de la weed autre part a 1200bat le grammes qualite pas terrible laba 850bat jai ete super content ✌️✌️✌️😉 je recommande",
+        "review_date":"2022-12-08T03:28:16.848+00:00",
+        "rating":5,
+        "images":[
+          "621dd10c81e9f2467fef3b49f352999f"
+        ],
+        "url":"https://www.google.com/maps/contrib/102908571987306119962?hl=en-US"
+      },
+      {
+        "author":"George Hoover",
+        "avatar":"3f2bdc242875bcbec8379cc618d81ff9",
+        "content":"",
+        "review_date":"2022-11-05T04:31:14.719+00:00",
+        "rating":5,
+        "images":[
+          "51559eec20f5f012069cbb6dac93bee0",
+          "e5a53b2b90c08a8a625acebcb638dc97",
+          "b6cee3195fb95da14752c1ba2bca7b5b"
+        ],
+        "url":"https://www.google.com/maps/contrib/103004219369971402680?hl=en-US"
+      },
+      {
+        "author":"Damian",
+        "avatar":"faf3f975b063fb5a06beb0b7b5e181da",
+        "content":"Great experience, super weed.",
+        "review_date":"2022-10-26T06:23:31.611+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103055108535262568137?hl=en-US"
+      },
+      {
+        "author":"ahmad alawadi",
+        "avatar":"a9cd9ba61770c56297473a111cf2e1fd",
+        "content":"Best sea view and Mountain View for smoking and relaxing. 100%",
+        "review_date":"2022-11-07T11:00:55.27+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103269062160036367440?hl=en-US"
+      },
+      {
+        "author":"Алина Алина",
+        "avatar":"9a5568c8b114a9a1a0cab6d5168a9f29",
+        "content":"Very good place, really",
+        "review_date":"2022-11-01T02:52:30.21+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103351015347904274813?hl=en-US"
+      },
+      {
+        "author":"Joakim Bentounsi",
+        "avatar":"548e0b3b9ee309cf791b8a7b12db1655",
+        "content":"",
+        "review_date":"2022-11-18T10:58:42.856+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103487686725217625738?hl=en-US"
+      },
+      {
+        "author":"Le Versace Residence",
+        "avatar":"9693aac57363734220e73b567ce998d6",
+        "content":"Absolutely the best for weed, many varieties and far price\nThe view of Patong Bay to enjoy it 😅\nHURRY up you will love it",
+        "review_date":"2022-11-03T06:13:17.908+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103903308186293573515?hl=en-US"
+      },
+      {
+        "author":"chaiyelim chai",
+        "avatar":"7c9d5a46c9da5f6d3673a1b2f08f8c34",
+        "content":"Nice view 🤩 good I love this 😍",
+        "review_date":"2022-11-01T15:59:48.064+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104068212238647950039?hl=en-US"
+      },
+      {
+        "author":"BAS HOT Z",
+        "avatar":"414b9fa190a2afc6c605eecf1c9c6aa7",
+        "content":"",
+        "review_date":"2022-09-30T09:36:46.807+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104126122696982894880?hl=en-US"
+      },
+      {
+        "author":"Keith Sheldrick",
+        "avatar":"8b3fa67489b9fecbec6e1ea187caba7f",
+        "content":"Unbelievable place Versace restaurant great view recommended to anyone visiting patong",
+        "review_date":"2022-10-30T10:48:14.867+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104160642951859032039?hl=en-US"
+      },
+      {
+        "author":"Harvey Tuck",
+        "avatar":"ab205c1bcc48a291d28acbe13d7b64cc",
+        "content":"Sunset view, good music, food, chill.. has it all!",
+        "review_date":"2022-11-12T03:27:40.797+00:00",
+        "rating":5,
+        "images":[
+          "e63b86de6afda6e9de4fb1b8e6741e6c"
+        ],
+        "url":"https://www.google.com/maps/contrib/104585993184656006801?hl=en-US"
+      },
+      {
+        "author":"Joe Sas",
+        "avatar":"5f7826ae0d94ca85ed9e7a61d8711804",
+        "content":"Great location and love the golden furniture and walks. Great place to hang out and smoke with beautiful view of Patong Beach. Alcohol available if you like to drink",
+        "review_date":"2022-11-07T00:57:41.977+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104628665319259199869?hl=en-US"
+      },
+      {
+        "author":"maddi callaghan",
+        "avatar":"7f3bbc949f2b662ee5fd9ca30a68ef0d",
+        "content":"This place is truely amazing, beautiful views, wonderful staff! Highly recommend!",
+        "review_date":"2022-11-10T10:42:39.96+00:00",
+        "rating":5,
+        "images":[
+          "1b59926655c14d1ee5c700fa57384254",
+          "3f4a47933ff17b5ad9f7664b6349137a"
+        ],
+        "url":"https://www.google.com/maps/contrib/104635762361027248321?hl=en-US"
+      },
+      {
+        "author":"Frank Marzo",
+        "avatar":"f343ce22831fd0cbfaa33961869b2d16",
+        "content":"Honestly I am a very fussy with my smoke and I can’t fault this place awesome strains for awesome prices and you have to check out the rooftop WOW! ☺️❤️ great job!",
+        "review_date":"2022-11-30T11:19:27.779+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104690244630384525866?hl=en-US"
+      },
+      {
+        "author":"Michal Janku",
+        "avatar":"c7bc6f22a303c32b2b878bd8c07d61b0",
+        "content":"Perfect services;) Amazing staff and splendid pick of fresh bio  models",
+        "review_date":"2022-11-24T03:09:14.857+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104715968157258133841?hl=en-US"
+      },
+      {
+        "author":"scott tarry",
+        "avatar":"19ba017e55326e092a633293d4704be6",
+        "content":"Honestly this Is a must if you are in patong and you like a bit of 420. The view makes it even more special. Loved it!",
+        "review_date":"2023-01-22T11:00:28.13+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104805575974703659096?hl=en-US"
+      },
+      {
+        "author":"Joshua Pianta",
+        "avatar":"375e0a02ba20432781dfa9a75fa432bd",
+        "content":"Amazing restruant and bar with amazing views of Patong city and extremely helpful employees",
+        "review_date":"2023-02-09T12:08:19.309+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104960985509608141904?hl=en-US"
+      },
+      {
+        "author":"Alexander Yesipov",
+        "avatar":"0a1edcd71db4929540f63bb5d29a5a7a",
+        "content":"nice place, good weed, great rooftop terrace for watching sunsets",
+        "review_date":"2022-12-21T11:49:39.899+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104988856851026692199?hl=en-US"
+      },
+      {
+        "author":"גילי שליסל",
+        "avatar":"4c2193eda16724861649935a47113a49",
+        "content":"",
+        "review_date":"2022-11-16T05:56:28.113+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105055152196631086124?hl=en-US"
+      },
+      {
+        "author":"camilo montoya",
+        "avatar":"a4acb8366c8042dadb91171d5a15d8ae",
+        "content":"The view is amazing. Walking up the hill to the restaurant is not, haha. So if you any issues Walking get a ride. They have about 20 strains available along with food and drinks. I didn't order any food so I can't recommend anything.",
+        "review_date":"2023-02-11T03:08:29.638+00:00",
+        "rating":5,
+        "images":[
+          "e26952446ada301db0bb6890521975df",
+          "2f8deac94546ffef40f45bdbc0a84346",
+          "5acb56afbad511aeb5c3b0a4ec0346f3",
+          "ab809ea507b6d2740de319e927eb0fe1",
+          "6c93ab3cc6ab769e0a24918ef09950bb",
+          "99b8a939d573920ab6a0feb1589e147d",
+          "efec0b257e68d32ebfe31fd327b17067",
+          "9b0103b9efa780a856e068190a25d2e4",
+          "9ecdc041af9a4f9d868f555e4f8e0d7c",
+          "832712ea54c649dfe55ea8546d1cd10e",
+          "21cf570933e0eb7b41123f741c8c4eca",
+          "59bd80933ae719994890edc1a8d41188",
+          "58b27b9d13f6610c427c566602e5a7bc",
+          "3797596d0944194cf5ed02534ff3d3ce",
+          "62fb365dae9246d4ba580e5d10d1d718",
+          "27e1fe9b872b1aa5e4d100d8b1e85d08",
+          "c4260600783ffc9ba7315e955f481224",
+          "12c248a345c22bb7acadd017d0130098"
+        ],
+        "url":"https://www.google.com/maps/contrib/105064958120670264798?hl=en-US"
+      },
+      {
+        "author":"เด็กใต้ นายฟองเบียร์",
+        "avatar":"364f2d860116c3a4ccf0f7fcb8fb398c",
+        "content":"วิวสวย บรรยากาศดี๊ดี\n\n(Translated by Google)\nNice view, good atmosphere",
+        "review_date":"2022-12-08T16:15:59.96+00:00",
+        "rating":5,
+        "images":[
+          "470f91cf6db055a578fab6862660deca"
+        ],
+        "url":"https://www.google.com/maps/contrib/105209651887988307065?hl=en-US"
+      },
+      {
+        "author":"Алик Мамедов",
+        "avatar":"cd3de48e04b0875d81983a3b9da7ffc5",
+        "content":"Beautiful experience with astonishing view! I was here only in the noon, but bet they have a better atmosphere in the evening.",
+        "review_date":"2022-10-27T07:15:22.04+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105520180607869008577?hl=en-US"
+      },
+      {
+        "author":"KALLAYA SUNGJUN",
+        "avatar":"e4ee55faa3192a402204bb25e3b0f583",
+        "content":"Best price and best view\nDon’t miss to go there first",
+        "review_date":"2022-10-30T07:10:07.009+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105715456562413034398?hl=en-US"
+      },
+      {
+        "author":"Udhav Agarwal",
+        "avatar":"dc9e38bb4b306edd474b2da755e93cca",
+        "content":"Lovely cannabis! Perfect sunset views!",
+        "review_date":"2022-11-09T11:38:33.814+00:00",
+        "rating":5,
+        "images":[
+          "f7371aa77f52447072bbed5a1f042d2d"
+        ],
+        "url":"https://www.google.com/maps/contrib/106107316470445590858?hl=en-US"
+      },
+      {
+        "author":"Yang Boyz",
+        "avatar":"09cfeaf0241f0a3349c04be6677f7d86",
+        "content":"Very beautiful place, nice owner, I like it very much, I recommend it",
+        "review_date":"2022-11-12T13:38:32.579+00:00",
+        "rating":5,
+        "images":[
+          "d139c1cade33e457a9bc97ff9fb88f8e"
+        ],
+        "url":"https://www.google.com/maps/contrib/106134892454516216031?hl=en-US"
+      },
+      {
+        "author":"Fabien Chartier",
+        "avatar":"d77c9622ad82dd5bde3291769fdb03fd",
+        "content":"(Translated by Google) Fantastic place with a great view and the best weed in Phuket\n\n(Original)\nFantastique endroit avec une superbe vue et la meilleure weed de Phuket",
+        "review_date":"2022-12-06T07:42:59.735+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106146678412810370145?hl=en-US"
+      },
+      {
+        "author":"Jonathan Ditren",
+        "avatar":"f4505cbb668e4fb242d553e2a5717765",
+        "content":"Amazing prices and weed quality!",
+        "review_date":"2022-10-26T11:52:51.209+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106212539572068174780?hl=en-US"
+      },
+      {
+        "author":"Sparsh Bansal",
+        "avatar":"2639a027a97deccbf8eb60032ebff1ed",
+        "content":"Lovely sunset and great staff!",
+        "review_date":"2022-11-09T11:00:53.099+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106317930383498963240?hl=en-US"
+      },
+      {
+        "author":"Oscar keohan",
+        "avatar":"2392e9180b07e8a858ce681950a43e88",
+        "content":"Amazing bartender real g and beautiful venue to chill out and smoke",
+        "review_date":"2023-01-04T03:23:50.779+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106466282385019760747?hl=en-US"
+      },
+      {
+        "author":"Arkamaya Group",
+        "avatar":"ac68c07371a0e899200365d3eff6abd9",
+        "content":"Great area and sea view also have balcony",
+        "review_date":"2022-11-21T11:03:24.958+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106476806829545106321?hl=en-US"
+      },
+      {
+        "author":"Ole Olsen",
+        "avatar":"c1b6ae3200bd325edbecf29177b31b3d",
+        "content":"Great view. Recommend the place alot. Friendly staff!",
+        "review_date":"2022-11-07T10:58:15.898+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106575966994670641858?hl=en-US"
+      },
+      {
+        "author":"It",
+        "avatar":"1964c4e8347724ae2e9f0f5c3e405a0b",
+        "content":"",
+        "review_date":"2022-11-16T05:56:05.33+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106782407580979701825?hl=en-US"
+      },
+      {
+        "author":"lee rashkin",
+        "avatar":"7f5e013966d6425111c7ccff5bb7bdbb",
+        "content":"This place is a gem… Go for sunset- thank me later :)",
+        "review_date":"2022-12-14T10:41:00.989+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106936118309794234217?hl=en-US"
+      },
+      {
+        "author":"D L",
+        "avatar":"ab3efc5a2a947b00ffb00b3a2f649ac9",
+        "content":"Wonderful view and very hospitable stuff!",
+        "review_date":"2022-11-21T12:17:49.699+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107512179218275275924?hl=en-US"
+      },
+      {
+        "author":"Maria Surzhikova",
+        "avatar":"8f750ab7319fff86ac08d1920bfc398f",
+        "content":"Highly recommended this place!\nGood weed, and extremely great view on rooftop terrace!",
+        "review_date":"2022-12-21T11:52:38.151+00:00",
+        "rating":5,
+        "images":[
+          "4829692ab17327900c849267331ae0a5",
+          "5f86e6dfa6ccafdb52d0f631dfe01c8b"
+        ],
+        "url":"https://www.google.com/maps/contrib/107724827341776135274?hl=en-US"
+      },
+      {
+        "author":"Nauemol Sangtong",
+        "avatar":"72c3a07a7f64b4694ab151e00eb92659",
+        "content":"Absolutely the best of the best\nGo there first",
+        "review_date":"2022-10-31T08:49:15.519+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107895195731252854474?hl=en-US"
+      },
+      {
+        "author":"Sacky Bike For Rent แอนรถเช่า",
+        "avatar":"34e7851cc62b4889d6f066b9a480ecae",
+        "content":"",
+        "review_date":"2022-10-09T11:23:27.055+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107914003999227814581?hl=en-US"
+      },
+      {
+        "author":"Allen Mitchell",
+        "avatar":"fba0580a097034ade372ad348954aaca",
+        "content":"Great place to chill and have a joint. Wonderful view of Patong Bay. Staff is friendly and food is great also.",
+        "review_date":"2022-10-30T10:46:56.277+00:00",
+        "rating":5,
+        "images":[
+          "5870851f5458192dbeb60aa96beea72c",
+          "5393a565b02ddc02802d679670b171d9"
+        ],
+        "url":"https://www.google.com/maps/contrib/108208805549921820588?hl=en-US"
+      },
+      {
+        "author":"เดชาวัต จิตจํานง",
+        "avatar":"1ab6ded0b8d79cba4f05144909aa7ca7",
+        "content":"วิวสวย บรรยากาศ 10/10 มาภูเก็ตไม่ควรพลาดร้านนี้\n\n(Translated by Google)\nBeautiful view, atmosphere 10/10, come to Phuket, don't miss this restaurant.",
+        "review_date":"2023-01-26T07:23:34.393+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108399329425597093775?hl=en-US"
+      },
+      {
+        "author":"Jonty Tottenham",
+        "avatar":"e947004ac32f54d010fdb2d6ea6b501c",
+        "content":"great place, very helpful",
+        "review_date":"2022-11-15T03:22:41.896+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108621685656909394119?hl=en-US"
+      },
+      {
+        "author":"Villas Patong",
+        "avatar":"e3fa8efe7e446232a4f811cdd75bf336",
+        "content":"Great experience, super weed, amazing view, everything perfect.",
+        "review_date":"2022-10-29T12:43:54.599+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108723418379315258353?hl=en-US"
+      },
+      {
+        "author":"john john",
+        "avatar":"e92cf3de1a6c39b881c4a4440cf31743",
+        "content":"Realy best weed !",
+        "review_date":"2022-10-12T13:19:28.012+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108965588061840466840?hl=en-US"
+      },
+      {
+        "author":"Mia Fiat",
+        "avatar":"2d9275e7e4fbe9563529da00a251b4cf",
+        "content":"This good place for real Rasta🤟😎\nThank you",
+        "review_date":"2022-11-02T02:27:03.813+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109003368423176299183?hl=en-US"
+      },
+      {
+        "author":"Darlene Chebotareva",
+        "avatar":"f4314084eeaf2b302bc50bcd6cce676b",
+        "content":"Best shop ever! You get best view of Patong beach any time of the day! Very good cocktails and tasty food! Honestly once you have been here  you never want to go anywhere else! A must visit!",
+        "review_date":"2022-11-20T02:49:39.847+00:00",
+        "rating":5,
+        "images":[
+          "653c529ea1d8a76a4e095a41e59fbd0f"
+        ],
+        "url":"https://www.google.com/maps/contrib/109320524589307946744?hl=en-US"
+      },
+      {
+        "author":"Rahil Shah",
+        "avatar":"a7625e7968eb3869619a5ed6510fd962",
+        "content":"Best place in Patong beach. Don’t miss this place.",
+        "review_date":"2022-12-06T07:41:08.898+00:00",
+        "rating":5,
+        "images":[
+          "cdea8d3b35a4c5e3e4aee7deda7e59d9"
+        ],
+        "url":"https://www.google.com/maps/contrib/109481910057337997118?hl=en-US"
+      },
+      {
+        "author":"Austen Hahn",
+        "avatar":"3f0146e956651513b708813a07937b5a",
+        "content":"Enjoy a beautiful view on plush comfortable seats, good prices and friendly people. Great place to smoke and chill. 👍",
+        "review_date":"2022-10-26T05:23:27.362+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109534853865316711530?hl=en-US"
+      },
+      {
+        "author":"james harries",
+        "avatar":"bcec0a44b15e647d212daa4bc2ce996d",
+        "content":"Amazing place, views and the best service ever!!!!!",
+        "review_date":"2022-11-23T01:31:24.308+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109730018795844312934?hl=en-US"
+      },
+      {
+        "author":"Saisuda Amonpon",
+        "avatar":"553314c57d973ae786705408c2f7205f",
+        "content":"Conveniently located close to Patong 💕💕",
+        "review_date":"2022-11-11T13:42:22.783+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109825385242100569933?hl=en-US"
+      },
+      {
+        "author":"İbrahim Mıhçıoğlu",
+        "avatar":"a5ab83a0e9ff63edbc2617568c058c96",
+        "content":"What a beautiful place with Versace concept and amazing view ⚜️\nWe just discovered here for work on computer, they have quite enough menu. Workers are friendly. If you want to chill 🍀 or work 💻 OR BOTH 🤩 this place is so good.\nWe met with owner, he is so kind and professional🙏🏻 I will come here again for dinner 👌🏻",
+        "review_date":"2023-01-02T11:26:13.623+00:00",
+        "rating":5,
+        "images":[
+          "1dbe6d615d114fa40ce200d6d070e69f",
+          "ce1b8553d1a419f799905fc3ff4fd5ef",
+          "6fc2beffdb06e3f777ecaa683a42bab8",
+          "02b827784df84289901dec307860191c",
+          "c0a06590d0a4a06554d66c5542c67d37",
+          "110434fcc461aa07e5c495f47a6a50e1",
+          "9fd338da7e4f9f1b062deb969dd67696"
+        ],
+        "url":"https://www.google.com/maps/contrib/109854396827652737323?hl=en-US"
+      },
+      {
+        "author":"Gregory Lehmann",
+        "avatar":"c65eafc953ae36f0af46a253c89a327a",
+        "content":"(Translated by Google) Good view and good weed and nice staff\n\n(Original)\nGute aussicht und gutes weed und nettes personal",
+        "review_date":"2022-11-20T07:20:30.486+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109893421560723626787?hl=en-US"
+      },
+      {
+        "author":"Moin Moin",
+        "avatar":"037d3b700cbc318890ccc90f719870d4",
+        "content":"Great Spot to smoke  a good one.\nReally nice staff ;)",
+        "review_date":"2022-11-16T11:14:41.409+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109982672373980908810?hl=en-US"
+      },
+      {
+        "author":"jakob versch",
+        "avatar":"3efd7781e86c7da6f99c50ff0b957e1a",
+        "content":"",
+        "review_date":"2022-12-24T02:32:32.397+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110766722353045618787?hl=en-US"
+      },
+      {
+        "author":"sukanya noowong",
+        "avatar":"63c15a7e986d928575c8cc629d4e2626",
+        "content":"Absolutely stunning weed and the best view to chill\nExcellent price quality\nStart at 550 baht for premium weed❤️",
+        "review_date":"2022-12-19T06:59:01.182+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110801568044224273512?hl=en-US"
+      },
+      {
+        "author":"cyma44",
+        "avatar":"869708dc2f768dca8e0fc6492f6e88ba",
+        "content":"(Translated by Google) Great product!! I recommend\n\n(Original)\nExcellent produit !! Je recommande",
+        "review_date":"2022-10-30T07:21:13.024+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110919637534217082899?hl=en-US"
+      },
+      {
+        "author":"mark q3",
+        "avatar":"9f7e2ddb523cbf3bd6d0b385e0f5df46",
+        "content":"hq cannabis for a reasonable price",
+        "review_date":"2022-10-07T12:21:05.567+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/111042597636084754840?hl=en-US"
+      },
+      {
+        "author":"Patric Godfrey",
+        "avatar":"0ff6824aec02b45248cf197587dbf27c",
+        "content":"An amazing place with a great view! Definitely come and enjoy a joint and a drink!! The owner joe is lovely and will look after you ☺️ 100% recommended",
+        "review_date":"2022-11-11T09:05:08.671+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/111202456088184048364?hl=en-US"
+      },
+      {
+        "author":"Martin Meier",
+        "avatar":"167192367482e280116f3be70757a102",
+        "content":"Location nice , prices to high for the quality",
+        "review_date":"2022-12-07T04:36:29.308+00:00",
+        "rating":4,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/111628532514263632259?hl=en-US"
+      },
+      {
+        "author":"manatchanok treeaudom",
+        "avatar":"800dca92527adaa77b37718b6f57b63c",
+        "content":"บรรยากาศร้านคือดีมาก วิวสวยสุด\n\n(Translated by Google)\nThe atmosphere of the shop is very good, the view is the most beautiful.",
+        "review_date":"2023-01-26T07:15:15.18+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/111875415729528879896?hl=en-US"
+      },
+      {
+        "author":"Roman Lambret",
+        "avatar":"7fb63c63668141502c52d03548e8e52d",
+        "content":"The best weed shop in Phatong",
+        "review_date":"2022-11-04T06:52:46.272+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/111980276382479816565?hl=en-US"
+      },
+      {
+        "author":"korn",
+        "avatar":"d94832899570fcb89a55a230c40fd995",
+        "content":"",
+        "review_date":"2022-09-29T13:39:34.293+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112008284289769394637?hl=en-US"
+      },
+      {
+        "author":"Eric Meylan",
+        "avatar":"3314ebdfd52f6f64abb953c849688735",
+        "content":"(Translated by Google) Best qualities\nAnd the awesome view\n\n(Original)\nMeilleures qualités\nEt la vue impressionnante",
+        "review_date":"2023-02-05T12:02:46.122+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112065539803867960931?hl=en-US"
+      },
+      {
+        "author":"Teehanithi Chaelim",
+        "avatar":"8afae55ce22768bda90214f6a4455d54",
+        "content":"วัชพืชที่ดีที่สุด  มีดาดฟ้าและเพลิดเพลินไปกับบรรยากาศที่สวยงาม ราคาเหมาะสม\n\n(Translated by Google)\nbest weed Have a deck and enjoy the beautiful setting. Prices are reasonable.",
+        "review_date":"2022-12-08T16:12:43.172+00:00",
+        "rating":5,
+        "images":[
+          "f04918177e0994f5fcc9e1f5cb6e872d"
+        ],
+        "url":"https://www.google.com/maps/contrib/112322441391871569700?hl=en-US"
+      },
+      {
+        "author":"shin thant aung",
+        "avatar":"ef6010a56f5f5e79321ecff1fd391ebc",
+        "content":"A great place with a gorgeous view to smoke and chill. Reasonable prices for the cannabis compared to the smaller stores.",
+        "review_date":"2022-12-22T10:32:31.352+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112546693062781353825?hl=en-US"
+      },
+      {
+        "author":"kalem rudd",
+        "avatar":"65351daada04d1a23377814a2ab2ea1e",
+        "content":"Lovely view\nOne of the best In Phuket",
+        "review_date":"2022-11-10T10:42:39.064+00:00",
+        "rating":5,
+        "images":[
+          "07f51f5bc1ddfa4848f53702810d6216"
+        ],
+        "url":"https://www.google.com/maps/contrib/112631510359634803954?hl=en-US"
+      },
+      {
+        "author":"Project Drip",
+        "avatar":"e28f7983b1d907812c3b0609eefcb870",
+        "content":"Great place to chill out and have a smoke. Great views and friendly staff.",
+        "review_date":"2022-11-16T05:54:34.656+00:00",
+        "rating":5,
+        "images":[
+          "bad63e55f9df16584cd87d203705b31f"
+        ],
+        "url":"https://www.google.com/maps/contrib/112655808221774977522?hl=en-US"
+      },
+      {
+        "author":"Mr. Lux",
+        "avatar":"292c3d7384eb04ccba7fa916c7fe15fb",
+        "content":"Best place to smoke in patong. Weed is good also with better prices than most. Friendly owner and staff. Definitely recommend coming here during sunset 👌",
+        "review_date":"2022-12-06T21:39:37.27+00:00",
+        "rating":5,
+        "images":[
+          "cc1e26622094fafb8b3f2ab892c2dcc2"
+        ],
+        "url":"https://www.google.com/maps/contrib/113013888443741882055?hl=en-US"
+      },
+      {
+        "author":"Amandeep Singh",
+        "avatar":"af238b3237b16fb7b14d2a9dd0b89976",
+        "content":"Great experience and amazing staff",
+        "review_date":"2022-12-22T08:16:03.101+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113045186693184578373?hl=en-US"
+      },
+      {
+        "author":"Patcharee Boonsom",
+        "avatar":"9a4e6d4d84ac95d2ccd2db8271d95577",
+        "content":"วิวสวย อาหารอร่อยมาก พนักงานน่ารัก\n\n(Translated by Google)\nGreat view, great food lovely staff",
+        "review_date":"2022-10-30T10:52:51.806+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113088396625060830862?hl=en-US"
+      },
+      {
+        "author":"Sittichai Kaewrayab",
+        "avatar":"1cf661c8da73eeac8c2db7420ebaf244",
+        "content":"บรรยากาศร้านดีมากๆ อาหารอร่อย ครับ\n\n(Translated by Google)\nThe atmosphere of the restaurant is very good, the food is delicious.",
+        "review_date":"2023-01-26T07:14:57.219+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113147724497806066037?hl=en-US"
+      },
+      {
+        "author":"CAFE DE PARIS",
+        "avatar":"b5398fd5f9a25e9ba85e39f32a05f111",
+        "content":"Amazing shop and great rooftop to enjoy",
+        "review_date":"2022-09-30T03:51:55.329+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113153718595454884649?hl=en-US"
+      },
+      {
+        "author":"Carlo",
+        "avatar":"499509626f986233285dd42427ea51bf",
+        "content":"Very nice place.....relax  100%",
+        "review_date":"2022-11-22T08:57:51.03+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113390342858823212038?hl=en-US"
+      },
+      {
+        "author":"Kalyan Srinivas",
+        "avatar":"af1c6ac44bd86a3f5fbaadca3a06037d",
+        "content":"Top experience. Great views. Warm owner.",
+        "review_date":"2022-12-01T03:16:29.984+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113970058049961276461?hl=en-US"
+      },
+      {
+        "author":"Алексей Закиров",
+        "avatar":"1642fc92aae78128759a4739e14c001a",
+        "content":"Nice place 🙌",
+        "review_date":"2023-01-07T05:07:59.158+00:00",
+        "rating":5,
+        "images":[
+          "baffd122bd850503be651af2e64a360e"
+        ],
+        "url":"https://www.google.com/maps/contrib/113999091111302086865?hl=en-US"
+      },
+      {
+        "author":"Yoann D. (K4c7u5)",
+        "avatar":"e88497921d9c3e4f76d95958b5772f5b",
+        "content":"Great place to relax! The view is amazing and the weed is perfect",
+        "review_date":"2022-10-01T13:13:06.576+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114353893840996130282?hl=en-US"
+      },
+      {
+        "author":"Deby",
+        "avatar":"7e6dd747612c69ef9c55a57769ad86a3",
+        "content":"The best experience ever, I can only recommend to everyone to try the weed. The staff is amazing 😃",
+        "review_date":"2022-10-09T13:27:02.627+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114411446098376879268?hl=en-US"
+      },
+      {
+        "author":"Jasna Cavaleri",
+        "avatar":"21c072a1f84faea2ed05ac924fa6d675",
+        "content":"(Translated by Google) Superb Weed, excellent advice, top quality price! I recommend this shop to everyone!\n\n(Original)\nSuperbes Weed, excellent conseil, top qualité prix! Je recommande à tous ce shop!",
+        "review_date":"2022-10-30T07:15:17.611+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114459199854920659133?hl=en-US"
+      },
+      {
+        "author":"nui86suchada",
+        "avatar":"e38670945126b7f24a6c596461fe329f",
+        "content":"",
+        "review_date":"2022-09-29T13:30:44.581+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114512096392290090666?hl=en-US"
+      },
+      {
+        "author":"Max Hilbert",
+        "avatar":"c7bc6f22a303c32b2b878bd8c07d61b0",
+        "content":"(Translated by Google) Very nice location and great weed!\nFriendly staff\n\n(Original)\nSehr schöne Lage und super weed!\nFreundliches Personal",
+        "review_date":"2022-11-20T07:21:00.447+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114743408227019530605?hl=en-US"
+      },
+      {
+        "author":"Maria Ryazantseva",
+        "avatar":"f5415cf3390624363bbdf62f42b60626",
+        "content":"(Translated by Google) Good selection of varieties. There are local products and from California. At five o'clock the roof opens where you can spend the sunset.\n\n(Original)\nХороший выбор сортов. Есть местная продукция и из калифорнии. В пять часов открывается крыша, где можно провести закат.",
+        "review_date":"2023-01-16T04:34:37.411+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114757924183683953525?hl=en-US"
+      },
+      {
+        "author":"Metitator Random",
+        "avatar":"d48013834242101926d70b91aa7bb7c8",
+        "content":"What a place.\nYou can fully enjoy the high quality weed and joints in very good price by the owner who is so friendly and professional.\n\nBut the important point is, an amazing view from the rooftop.\n\nWow.",
+        "review_date":"2022-12-08T14:10:52.301+00:00",
+        "rating":5,
+        "images":[
+          "fb2dcdc469ff39ef141c4d1e1ba4c6c4",
+          "a91789024f27753a2c0982b767549538"
+        ],
+        "url":"https://www.google.com/maps/contrib/114762285820670040601?hl=en-US"
+      },
+      {
+        "author":"Nicole Connolly",
+        "avatar":"e19c4b4fc2c64bd64adf7155af9389ff",
+        "content":"Very good place to go with an amazing view. Top quality weed and smoking area. Definitely will be back!",
+        "review_date":"2022-11-16T05:54:48.473+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114900963401046016984?hl=en-US"
+      },
+      {
+        "author":"3ziz Qahtani",
+        "avatar":"5efca4b5fa839cc9e5b4aaf38b345f90",
+        "content":"Great place, they have all what you need. Good stuff",
+        "review_date":"2022-12-02T01:35:17.573+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115380416528746080078?hl=en-US"
+      },
+      {
+        "author":"mael john",
+        "avatar":"b431710947231e08b026f12a2a1346ad",
+        "content":"Great choice , and probably the best view to enjoy smoking a joint at sunset time .",
+        "review_date":"2022-10-04T10:26:38.163+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115548931821092512391?hl=en-US"
+      },
+      {
+        "author":"SERG O",
+        "avatar":"cec44ac5f1faa98fa5c1a112d96d4821",
+        "content":"",
+        "review_date":"2022-11-08T03:35:08.346+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115667888612115905713?hl=en-US"
+      },
+      {
+        "author":"A Simps",
+        "avatar":"203716b56d894a961ab203548cb33b76",
+        "content":"Top quality selection.  No bunk being sold here. Can check each strain under a magnifier and light before purchase. Prices are what you'd expect from a high class top shelf store. Great view to smoke as well. Really impressed.",
+        "review_date":"2022-11-12T11:27:20.385+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115819933781817305439?hl=en-US"
+      },
+      {
+        "author":"kushal reddy",
+        "avatar":"791b6fc28450905ee00e969e38815140",
+        "content":"",
+        "review_date":"2023-01-15T03:57:16.844+00:00",
+        "rating":5,
+        "images":[
+          "f29acfec79a92e5b79aab3740521a3a1"
+        ],
+        "url":"https://www.google.com/maps/contrib/116000007458869890122?hl=en-US"
+      },
+      {
+        "author":"Vivek Singh",
+        "avatar":"3d2aca41ed079cb233ad4ed1620823d7",
+        "content":"Great place, nice choices of weed and great views!",
+        "review_date":"2022-12-22T08:15:42.475+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/116154974693072289798?hl=en-US"
+      },
+      {
+        "author":"Kris Lee",
+        "avatar":"3842db1cd09fcc7b9fd05a12a96124a9",
+        "content":"Me and my wife came to visit Phuket for our first time and thought, why not treat ourselves to a place called Le Versace?! The place did not disappoint! We come from California, so let that mean something! Great customer service and if you get to mingle with Joe you are in good hands. The view is amazing as you can see. Most romantic and coolest honeymoon adventure I could have asked for.\n\nDuck breast and steak was amazing by the way! We were so happy! Thanks again for having us! #versaceVersace",
+        "review_date":"2022-11-01T11:13:10.719+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/116282032133679756333?hl=en-US"
+      },
+      {
+        "author":"Armando Casciana",
+        "avatar":"6da404d7d8efd888d21071413ab1d756",
+        "content":"The best one",
+        "review_date":"2022-12-24T02:46:22.93+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/116321565325799846648?hl=en-US"
+      },
+      {
+        "author":"EMPIRE MUAY THAI KHAO LAK",
+        "avatar":"8184d9c7bea2218c0a3d09f0577b1fda",
+        "content":"",
+        "review_date":"2022-11-05T01:23:17.221+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/116332906126643347912?hl=en-US"
+      },
+      {
+        "author":"Marina Viu",
+        "avatar":"57243c7e9df0b31a197a36f6f35ef857",
+        "content":"Lovely place with an outstanding view and amazing service, we definitely recommend It and we Will certainly be back!",
+        "review_date":"2023-02-01T05:22:11.38+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/116383250445187979534?hl=en-US"
+      },
+      {
+        "author":"Sebastien Rosu",
+        "avatar":"05f12836406698551c28cfba26e4a430",
+        "content":"",
+        "review_date":"2022-10-02T08:24:09.478+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117165522777132556373?hl=en-US"
+      },
+      {
+        "author":"michel bertschy",
+        "avatar":"25e698f0da1b0554c4c1d5d3cbbb20e8",
+        "content":"Best weed and fair price\nBest view and rooftop",
+        "review_date":"2022-09-30T10:52:59.057+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117182010562871926336?hl=en-US"
+      },
+      {
+        "author":"Olanescu Catalin",
+        "avatar":"af13edf6fc25078af852810f87b6767d",
+        "content":"",
+        "review_date":"2023-01-26T05:59:50.351+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117264343410171313229?hl=en-US"
+      },
+      {
+        "author":"Charles Parker",
+        "avatar":"a3e03cb156869c17157515b0a02fd7fc",
+        "content":"I stayed next the Le Versace Restaurant and when I visited the staff and atmosphere was spectacular.  They have wide variety of high quality cannabis and accessories.  I will recommend Le Versace to all my friends and associates when in PATONG.",
+        "review_date":"2022-11-02T08:25:32.175+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117432251436254179598?hl=en-US"
+      },
+      {
+        "author":"Kshitij Sharma",
+        "avatar":"fd34e7ac225ae0e5012d70fdea4b62a8",
+        "content":"Great place, excellent variety and beautiful view",
+        "review_date":"2022-12-22T08:16:02.502+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/118109139352811004432?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":579
+        },
+        "count":116
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.08726095601448686,
+        "dispensary":{
+          "id":"cef358ef-d1c5-40cb-90fa-0fb199b3d816",
+          "city":"Phuket",
+          "name":"Weed Store Patong",
+          "types":[
+            
+          ],
+          "delivery_hours":[
+            
+          ],
+          "opening_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"1200"
+              },
+              "close":{
+                "day":1,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":1,
+                "time":"1200"
+              },
+              "close":{
+                "day":2,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":2,
+                "time":"1200"
+              },
+              "close":{
+                "day":3,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":3,
+                "time":"1200"
+              },
+              "close":{
+                "day":4,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":4,
+                "time":"1200"
+              },
+              "close":{
+                "day":5,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":5,
+                "time":"1200"
+              },
+              "close":{
+                "day":6,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":6,
+                "time":"1200"
+              },
+              "close":{
+                "day":0,
+                "time":"0000"
+              }
+            }
+          ],
+          "lat":7.9053198,
+          "lng":98.30117039999999,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":196
+              },
+              "count":40
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":196
+              },
+              "count":40
+            }
+          },
+          "image":"bc443d8175b21d2d441486ea68d08292",
+          "has_products":false,
+          "address":"67 6 Thanon Phrabarami, Tambon Patong, กะทู้ Chang Wat Phuket 83150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.10081699639897157,
+        "dispensary":{
+          "id":"4e18e131-a5d0-487e-96b6-6a585b0e655c",
+          "city":"Phuket",
+          "name":"Green Room Patong Cannabis Dispensary",
+          "types":[
+            "Dispensary"
+          ],
+          "delivery_hours":[
+            
+          ],
+          "opening_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"1100"
+              },
+              "close":{
+                "day":0,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":1,
+                "time":"1100"
+              },
+              "close":{
+                "day":1,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":2,
+                "time":"1100"
+              },
+              "close":{
+                "day":2,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":3,
+                "time":"1100"
+              },
+              "close":{
+                "day":3,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":4,
+                "time":"1100"
+              },
+              "close":{
+                "day":4,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":5,
+                "time":"1100"
+              },
+              "close":{
+                "day":5,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":6,
+                "time":"1100"
+              },
+              "close":{
+                "day":6,
+                "time":"0000"
+              }
+            }
+          ],
+          "lat":7.9051488,
+          "lng":98.301812,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":1080
+              },
+              "count":216
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":1080
+              },
+              "count":216
+            }
+          },
+          "image":"d35869dd6c9b86f98d7363101a06f22b",
+          "has_products":true,
+          "address":"214 Phrabaramee Rd, Tambon Kathu, Amphoe Kathu, Chang Wat Phuket 83150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.10669487401786225,
+        "dispensary":{
+          "id":"d577bbb0-06f1-4bf5-83eb-5079d763e725",
+          "city":"Phuket",
+          "name":"Caribbean bar",
+          "types":[
+            
+          ],
+          "delivery_hours":[
+            
+          ],
+          "opening_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"1200"
+              },
+              "close":{
+                "day":1,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":1,
+                "time":"1200"
+              },
+              "close":{
+                "day":2,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":2,
+                "time":"1200"
+              },
+              "close":{
+                "day":3,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":3,
+                "time":"1200"
+              },
+              "close":{
+                "day":4,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":4,
+                "time":"1200"
+              },
+              "close":{
+                "day":5,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":5,
+                "time":"1200"
+              },
+              "close":{
+                "day":6,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":6,
+                "time":"1200"
+              },
+              "close":{
+                "day":0,
+                "time":"0000"
+              }
+            }
+          ],
+          "lat":7.905281599999999,
+          "lng":98.3009138,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":173
+              },
+              "count":38
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"b074631fbdbfd3287057eb9e395661eb",
+          "has_products":false,
+          "address":"W842+497, Pa Tong, Kathu District, Phuket 83150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.1882402453122017,
+        "dispensary":{
+          "id":"5008ea7d-0a8d-46a3-8fe6-f44dfa535c47",
+          "city":"Phuket",
+          "name":"420 Phuket Delivery",
+          "types":[
+            "Dispensary",
+            "Cafe",
+            "Delivery"
+          ],
+          "delivery_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"0000"
+              },
+              "close":{
+                "day":1,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":1,
+                "time":"0000"
+              },
+              "close":{
+                "day":2,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":2,
+                "time":"0000"
+              },
+              "close":{
+                "day":3,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":3,
+                "time":"0000"
+              },
+              "close":{
+                "day":4,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":4,
+                "time":"0000"
+              },
+              "close":{
+                "day":5,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":5,
+                "time":"0000"
+              },
+              "close":{
+                "day":6,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":6,
+                "time":"0000"
+              },
+              "close":{
+                "day":0,
+                "time":"0000"
+              }
+            }
+          ],
+          "opening_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"0000"
+              },
+              "close":{
+                "day":1,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":1,
+                "time":"0000"
+              },
+              "close":{
+                "day":2,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":2,
+                "time":"0000"
+              },
+              "close":{
+                "day":3,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":3,
+                "time":"0000"
+              },
+              "close":{
+                "day":4,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":4,
+                "time":"0000"
+              },
+              "close":{
+                "day":5,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":5,
+                "time":"0000"
+              },
+              "close":{
+                "day":6,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":6,
+                "time":"0000"
+              },
+              "close":{
+                "day":0,
+                "time":"0000"
+              }
+            }
+          ],
+          "lat":7.905228600000001,
+          "lng":98.3000254,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":705
+              },
+              "count":142
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":705
+              },
+              "count":142
+            }
+          },
+          "image":"cce95f1ce5746b67c5c21e5f18b56953",
+          "has_products":false,
+          "address":"165 Phrabaramee Rd, Pa Tong, Kathu District, Phuket 83150, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.21288177321757906,
+        "dispensary":{
+          "id":"923e5ef6-12f4-4807-8e0c-dddb91ee5e93",
+          "city":"Phuket",
+          "name":"THC CLUB - Weed Cannabis Store",
+          "types":[
+            
+          ],
+          "delivery_hours":[
+            
+          ],
+          "opening_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"1100"
+              },
+              "close":{
+                "day":1,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":1,
+                "time":"1100"
+              },
+              "close":{
+                "day":2,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":2,
+                "time":"1100"
+              },
+              "close":{
+                "day":3,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":3,
+                "time":"1100"
+              },
+              "close":{
+                "day":4,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":4,
+                "time":"1100"
+              },
+              "close":{
+                "day":5,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":5,
+                "time":"1100"
+              },
+              "close":{
+                "day":6,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":6,
+                "time":"1100"
+              },
+              "close":{
+                "day":0,
+                "time":"0000"
+              }
+            }
+          ],
+          "lat":7.905492199999999,
+          "lng":98.2996797,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":308
+              },
+              "count":63
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":308
+              },
+              "count":63
+            }
+          },
+          "image":"eca72793e6a988fd8fb7a9e6cf469c7f",
+          "has_products":false,
+          "address":"252 Pharabami rd, Tambon Patong, Amphoe Kathu, Chang Wat Phuket 83150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.39354997631135347,
+        "dispensary":{
+          "id":"79e55a39-a1ff-40f7-904f-2f3fd961b75d",
+          "city":"Phuket",
+          "name":"Reggae rimtran bar",
+          "types":[
+            "Dispensary"
+          ],
+          "delivery_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"1000"
+              },
+              "close":{
+                "day":1,
+                "time":"2000"
+              }
+            },
+            {
+              "open":{
+                "day":1,
+                "time":"1000"
+              },
+              "close":{
+                "day":2,
+                "time":"2000"
+              }
+            },
+            {
+              "open":{
+                "day":2,
+                "time":"1000"
+              },
+              "close":{
+                "day":3,
+                "time":"2000"
+              }
+            },
+            {
+              "open":{
+                "day":3,
+                "time":"1000"
+              },
+              "close":{
+                "day":4,
+                "time":"2000"
+              }
+            },
+            {
+              "open":{
+                "day":4,
+                "time":"1000"
+              },
+              "close":{
+                "day":5,
+                "time":"2000"
+              }
+            },
+            {
+              "open":{
+                "day":5,
+                "time":"1000"
+              },
+              "close":{
+                "day":6,
+                "time":"2000"
+              }
+            },
+            {
+              "open":{
+                "day":6,
+                "time":"1000"
+              },
+              "close":{
+                "day":0,
+                "time":"2000"
+              }
+            }
+          ],
+          "opening_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"0000"
+              }
+            }
+          ],
+          "lat":7.9095039,
+          "lng":98.3021359,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":94
+              },
+              "count":19
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":39
+              },
+              "count":8
+            }
+          },
+          "image":"46b7066b1e59290c1d17a2fe43cfcc2f",
+          "has_products":false,
+          "address":"253 ป่า Tambon Patong, Amphoe Kathu, Chang Wat Phuket 83150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.4006707250683041,
+        "dispensary":{
+          "id":"03468485-eb2f-4634-bf8a-31fa5718b7fd",
+          "city":"Phangnga",
+          "name":"ร้านกัญชา",
+          "types":[
+            
+          ],
+          "delivery_hours":[
+            
+          ],
+          "opening_hours":null,
+          "lat":7.9028879,
+          "lng":98.303348,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"89 1 Tambon Patong, กะทู้ Chang Wat Phuket 83000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.4006707250683041,
+        "dispensary":{
+          "id":"ec7c6d7e-890d-46b9-bf85-aff6fefbffd5",
+          "city":"Phangnga",
+          "name":"WEED CAFE",
+          "types":[
+            
+          ],
+          "delivery_hours":[
+            
+          ],
+          "opening_hours":null,
+          "lat":7.9028879,
+          "lng":98.303348,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"89 1 Tambon Patong, กะทู้ Chang Wat Phuket 83000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.48910263249551106,
+        "dispensary":{
+          "id":"b37ba7f4-91e0-4cb7-b105-5ee08887c4a2",
+          "city":"Phuket",
+          "name":"Cannabis Corner",
+          "types":[
+            
+          ],
+          "delivery_hours":[
+            
+          ],
+          "opening_hours":null,
+          "lat":7.908081399999999,
+          "lng":98.2976194,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"Phrabaramee Rd, Pa Tong, Phuket, 83150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.5107884610360816,
+        "dispensary":{
+          "id":"52bf07dd-2e96-45a8-a166-bc18493064ff",
+          "city":"Phuket",
+          "name":"420 Connection Phuket",
+          "types":[
+            
+          ],
+          "delivery_hours":[
+            
+          ],
+          "opening_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"1130"
+              },
+              "close":{
+                "day":1,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":1,
+                "time":"1130"
+              },
+              "close":{
+                "day":2,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":2,
+                "time":"1130"
+              },
+              "close":{
+                "day":3,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":3,
+                "time":"1130"
+              },
+              "close":{
+                "day":4,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":4,
+                "time":"1130"
+              },
+              "close":{
+                "day":5,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":5,
+                "time":"1100"
+              },
+              "close":{
+                "day":6,
+                "time":"0200"
+              }
+            },
+            {
+              "open":{
+                "day":6,
+                "time":"1100"
+              },
+              "close":{
+                "day":0,
+                "time":"0200"
+              }
+            }
+          ],
+          "lat":7.903242400000001,
+          "lng":98.30523749999999,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"8f59c1f94e0927d43a10c28b0b365166",
+          "has_products":false,
+          "address":"240/4 Phang Muang Sai Kor Road, Tambon Patong, Amphoe Kathu, Chang Wat Phuket 83150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.7131535590288678,
+        "dispensary":{
+          "id":"08a1ddc8-b39d-46b1-91b4-d205fba161af",
+          "city":"Phuket",
+          "name":"Signature cannabis shop Patong",
+          "types":[
+            "Cafe",
+            "Club"
+          ],
+          "delivery_hours":[
+            
+          ],
+          "opening_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"1030"
+              },
+              "close":{
+                "day":0,
+                "time":"2330"
+              }
+            },
+            {
+              "open":{
+                "day":1,
+                "time":"1030"
+              },
+              "close":{
+                "day":1,
+                "time":"2330"
+              }
+            },
+            {
+              "open":{
+                "day":2,
+                "time":"1030"
+              },
+              "close":{
+                "day":2,
+                "time":"2330"
+              }
+            },
+            {
+              "open":{
+                "day":3,
+                "time":"1030"
+              },
+              "close":{
+                "day":3,
+                "time":"2330"
+              }
+            },
+            {
+              "open":{
+                "day":4,
+                "time":"1030"
+              },
+              "close":{
+                "day":4,
+                "time":"2330"
+              }
+            },
+            {
+              "open":{
+                "day":5,
+                "time":"1030"
+              },
+              "close":{
+                "day":5,
+                "time":"2330"
+              }
+            },
+            {
+              "open":{
+                "day":6,
+                "time":"1030"
+              },
+              "close":{
+                "day":6,
+                "time":"2330"
+              }
+            }
+          ],
+          "lat":7.899777400000001,
+          "lng":98.3000301,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":49
+              },
+              "count":10
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":49
+              },
+              "count":10
+            }
+          },
+          "image":"e5f5efc9ad5edbaae8afb8daaecffc85",
+          "has_products":false,
+          "address":"108, 110 ถนน ราษฎร์อุทิศ, Tambon Patong, กะทู้, Chang Wat Phuket 83150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.7832356811769379,
+        "dispensary":{
+          "id":"1ae118f4-ca05-41a3-abce-82dabdf6f768",
+          "city":"Phuket",
+          "name":"Organic Weed",
+          "types":[
+            
+          ],
+          "delivery_hours":[
+            
+          ],
+          "opening_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"1300"
+              },
+              "close":{
+                "day":0,
+                "time":"2200"
+              }
+            },
+            {
+              "open":{
+                "day":2,
+                "time":"1300"
+              },
+              "close":{
+                "day":2,
+                "time":"2200"
+              }
+            },
+            {
+              "open":{
+                "day":3,
+                "time":"1300"
+              },
+              "close":{
+                "day":3,
+                "time":"2200"
+              }
+            },
+            {
+              "open":{
+                "day":4,
+                "time":"1300"
+              },
+              "close":{
+                "day":4,
+                "time":"2200"
+              }
+            },
+            {
+              "open":{
+                "day":5,
+                "time":"1300"
+              },
+              "close":{
+                "day":5,
+                "time":"2200"
+              }
+            },
+            {
+              "open":{
+                "day":6,
+                "time":"1300"
+              },
+              "close":{
+                "day":6,
+                "time":"2200"
+              }
+            }
+          ],
+          "lat":7.9015207,
+          "lng":98.30701560000001,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "image":"ca2250b489b95178cef2c96e6401ecd0",
+          "has_products":false,
+          "address":"43 103-105 Thanon Phrabarami, Pa Tong, Phuket, อำเภอกะทู้ ภูเก็ต 83150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.7976828377403546,
+        "dispensary":{
+          "id":"e55f9018-9f81-4d37-a86a-aef8d1520eb9",
+          "city":"Phuket",
+          "name":"Weedland",
+          "types":[
+            
+          ],
+          "delivery_hours":[
+            
+          ],
+          "opening_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"1000"
+              },
+              "close":{
+                "day":1,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":1,
+                "time":"1000"
+              },
+              "close":{
+                "day":2,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":2,
+                "time":"1000"
+              },
+              "close":{
+                "day":3,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":3,
+                "time":"1000"
+              },
+              "close":{
+                "day":4,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":4,
+                "time":"1000"
+              },
+              "close":{
+                "day":5,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":5,
+                "time":"1000"
+              },
+              "close":{
+                "day":6,
+                "time":"0000"
+              }
+            },
+            {
+              "open":{
+                "day":6,
+                "time":"1000"
+              },
+              "close":{
+                "day":0,
+                "time":"0000"
+              }
+            }
+          ],
+          "lat":7.9026459,
+          "lng":98.3079338,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":19
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":19
+              },
+              "count":4
+            }
+          },
+          "image":"dcc8f0d5a942efd3d045ea3ef2060950",
+          "has_products":false,
+          "address":"7 Phrabaramee Rd, Tambon Patong, Amphoe Kathu, ตำบลป่าตอง Patong, ภูเก็ต 83150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.8013743288758055,
+        "dispensary":{
+          "id":"92b99f0d-e65a-4c72-87fa-2a5c23ca0f3a",
+          "city":"Phuket",
+          "name":"CHILLAX",
+          "types":[
+            
+          ],
+          "delivery_hours":[
+            
+          ],
+          "opening_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"1000"
+              },
+              "close":{
+                "day":1,
+                "time":"0200"
+              }
+            },
+            {
+              "open":{
+                "day":1,
+                "time":"1000"
+              },
+              "close":{
+                "day":2,
+                "time":"0200"
+              }
+            },
+            {
+              "open":{
+                "day":2,
+                "time":"1000"
+              },
+              "close":{
+                "day":3,
+                "time":"0200"
+              }
+            },
+            {
+              "open":{
+                "day":3,
+                "time":"1000"
+              },
+              "close":{
+                "day":4,
+                "time":"0200"
+              }
+            },
+            {
+              "open":{
+                "day":4,
+                "time":"1000"
+              },
+              "close":{
+                "day":5,
+                "time":"0200"
+              }
+            },
+            {
+              "open":{
+                "day":5,
+                "time":"1000"
+              },
+              "close":{
+                "day":6,
+                "time":"0200"
+              }
+            },
+            {
+              "open":{
+                "day":6,
+                "time":"1000"
+              },
+              "close":{
+                "day":0,
+                "time":"0200"
+              }
+            }
+          ],
+          "lat":7.902117000000001,
+          "lng":98.3076597,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":55
+              },
+              "count":11
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":55
+              },
+              "count":11
+            }
+          },
+          "image":"4dc1ad2970343568382b4e74c5e13a2b",
+          "has_products":false,
+          "address":"W825+R3V, Phrabaramee Rd, Tambon Patong, Amphoe Kathu, Chang Wat Phuket 83150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.8052419946539019,
+        "dispensary":{
+          "id":"f461daaa-7eb2-4c28-b83a-2333e89ed9b5",
+          "city":"Phuket",
+          "name":"Cannabis Dispensary Smokin' Phantom",
+          "types":[
+            
+          ],
+          "delivery_hours":[
+            
+          ],
+          "opening_hours":[
+            {
+              "open":{
+                "day":0,
+                "time":"1200"
+              },
+              "close":{
+                "day":0,
+                "time":"2100"
+              }
+            },
+            {
+              "open":{
+                "day":1,
+                "time":"1200"
+              },
+              "close":{
+                "day":1,
+                "time":"2100"
+              }
+            },
+            {
+              "open":{
+                "day":3,
+                "time":"1200"
+              },
+              "close":{
+                "day":3,
+                "time":"2100"
+              }
+            },
+            {
+              "open":{
+                "day":4,
+                "time":"1200"
+              },
+              "close":{
+                "day":4,
+                "time":"2100"
+              }
+            },
+            {
+              "open":{
+                "day":5,
+                "time":"1200"
+              },
+              "close":{
+                "day":5,
+                "time":"2100"
+              }
+            },
+            {
+              "open":{
+                "day":6,
+                "time":"1200"
+              },
+              "close":{
+                "day":6,
+                "time":"2100"
+              }
+            }
+          ],
+          "lat":7.898851499999999,
+          "lng":98.3004629,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"aa0d89e3918996fa6c077a94ec251b47",
+          "has_products":false,
+          "address":"89 Ratchauthid 200 Years Kathu, ตำบลป่าตอง อำเภอกะทู้ ภูเก็ต 83150, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }
