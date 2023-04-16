@@ -1,1622 +1,1622 @@
 {
-    "id":"4a478dc1-626b-41fe-969c-baebec22600f",
-    "lat": "48633.107",
-    "lng": "100.5958247",
-    "city":"Bangkok",
-    "name":"สวัสดีคลีนิกเวชกรรม Sawasdee Clinic",
-    "type":null,
-    "business_images":[
-      "0fb4e787fef5dc4d19eda42c80f01ae0",
-      "d9076342595ff4638d851d4538092507",
-      "c29c40d2c873a14583c3fd64b95e4861",
-      "71cb1ee7e430acf034110d5f7c3e5f24",
-      "ef74ed0862b9be39b47f4720049ee58b"
-    ],
-    "google_images":[
-      "2e7e804cc16c6dd2c801cb10249cbb75",
-      "772aab948a886044f44f80a38f235e59",
-      "d21cbede688844782a3c079c511cd42f",
-      "a0f934b8bb1ed21483d19a2cf40e7739",
-      "59d0c5d926064dca6e8f00f5c46b7aab",
-      "5d8a08a6ff572d10aa9f9623fcd17ce2",
-      "41e90186a7c87b8e8e95c0209566bf22",
-      "e247089e576414f3e8234371bddc873a",
-      "f52900c3b2ccf23ce23bff3019dce5c8",
-      "a178c00ea6edad7ce25b5256524bcada"
-    ],
-    "status":"approved",
-    "website":"http://sawasdeeclinic.com/",
-    "phone":"+66 2 972 4013",
-    "opening_hours":[
-      {
-        "open":{
-          "day":0,
-          "time":"0800"
-        },
-        "close":{
-          "day":0,
-          "time":"1730"
-        }
-      },
-      {
-        "open":{
-          "day":1,
-          "time":"0800"
-        },
-        "close":{
-          "day":1,
-          "time":"1730"
-        }
-      },
-      {
-        "open":{
-          "day":2,
-          "time":"0800"
-        },
-        "close":{
-          "day":2,
-          "time":"1730"
-        }
-      },
-      {
-        "open":{
-          "day":3,
-          "time":"0800"
-        },
-        "close":{
-          "day":3,
-          "time":"1730"
-        }
-      },
-      {
-        "open":{
-          "day":4,
-          "time":"0800"
-        },
-        "close":{
-          "day":4,
-          "time":"1730"
-        }
-      },
-      {
-        "open":{
-          "day":5,
-          "time":"0800"
-        },
-        "close":{
-          "day":5,
-          "time":"1730"
-        }
-      },
-      {
-        "open":{
-          "day":6,
-          "time":"0800"
-        },
-        "close":{
-          "day":6,
-          "time":"1730"
-        }
-      }
-    ],
-    "line":"@sawasdeeclinic",
-    "google_url":"https://maps.google.com/?cid=1017030917076997400",
-    "place_id":"PuVWtpQwFfrP5wNETAK0PGf5UD5",
-    "facebook":"http://sawasdeeclinic.com/",
-    "description":"Leading Medical Cannabis-oriented Clinic in Bangkok Thailand.\n\nFound in 1994, We provide a wide range of diagnostic programs and therapies designed prevent the onset of disease and disability with holistic and alternative medicine such as Cannabinoid treatment, Thai herbal medicine, Acupuncture, rejuvenating treatment. \n\nสวัสดีคลีนิกเวชกรรม ด้วยประสบการณ์แพทย์ผู้เชี่ยวชาญเวชศาสตร์ฟื้นฟู แพทย์ผู้เชี่ยวชาญหลากสาขา ผู้นำด้านกัญชาทางการแพทย์และการดูแลผู้ป่วยประคับประคอง ผู้ป่วยมะเร็ง ภูมิคุ้มกันบกพร่อง อาการเสื่อมของระบบประสาทและกล้ามเนื้อ ฯลฯ",
-    "products_flowers":[
-      
-    ],
-    "products_seeds":[
-      
-    ],
-    "products_prerolls":[
-      
-    ],
-    "products_edibles":[
-      
-    ],
-    "products_topicals":[
-      
-    ],
-    "products_gear":[
-      
-    ],
-    "products_misc":[
-      {
-        "id":"9591e383-e4de-4ec4-894d-96437290c790",
-        "name":"Medical Cannabis Tincture",
-        "description":"สารสกัดน้ำมันกัญชาทางการแพทย์ สูตรเฉพาะตามอาการของผู้ป่วย อาทิ THCเด่น CBDเด่น THC:CBD รูปแบบ Full Spectrum เป็นต้น ภายใต้คำแนะนำของแพทย์",
-        "images":[
-          "15f64baf9715d7eeda022f04fe97edba"
-        ],
-        "disabled":false,
-        "created_at":"2022-11-25T17:56:39.201585+00:00",
-        "updated_at":"2023-04-15T22:00:04.311034+00:00"
-      }
-    ],
-    "reviews":[
-      {
-        "author":"สุทธิลักษณ์ อินทรประเสริฐ",
-        "avatar":"e14baf7b47533325285bf2273bab9409",
-        "content":"",
-        "review_date":"2022-12-12T11:48:24.572+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/100033127782831806820?hl=en-US"
-      },
-      {
-        "author":"Satitpong Sunnongmuang",
-        "avatar":"05f12836406698551c28cfba26e4a430",
-        "content":"Good experience with the team and products. Thorough introduction to Cannabis and all the other herbs. Signature Massage is very relieving as well. Thank you Thank you all",
-        "review_date":"2022-11-06T13:22:57.524+00:00",
-        "rating":5,
-        "images":[
-          "9411155e3fcaaa02cbd88501b2e10b07"
-        ],
-        "url":"https://www.google.com/maps/contrib/100341135792118593518?hl=en-US"
-      },
-      {
-        "author":"Pimpisa Chernsirikasem",
-        "avatar":"fae3c5af919bd1fc6e5cf534760211d1",
-        "content":"Amazing experience, their products are really great. The staffs are very professional. 😊😊😊 by far the best cannabis massage oil in the market, for my muscle pain.",
-        "review_date":"2022-12-04T15:26:34.859+00:00",
-        "rating":5,
-        "images":[
-          "a954d1f717640065e4c6a67207fb5f92"
-        ],
-        "url":"https://www.google.com/maps/contrib/100492221997770845460?hl=en-US"
-      },
-      {
-        "author":"SSRU SSRU",
-        "avatar":"553314c57d973ae786705408c2f7205f",
-        "content":"THC for sleep\n\nupdate : I use THC few times a week for sleep and it also helps with my mood and stress during the day. Dosage need to be adjust depends on my condition but so far it works well. sometime I add some CBD to the regimen - Feeling great for the past couple months.",
-        "review_date":"2021-07-14T13:16:00.822+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/100609329773765606934?hl=en-US"
-      },
-      {
-        "author":"ณัชตา ธรรมธนาคม",
-        "avatar":"42c579202b00dbfbe800d8a43aa5040a",
-        "content":"ดีมาก\n\n(Translated by Google)\nvery good",
-        "review_date":"2022-09-02T10:05:50.578+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/100630866297443564766?hl=en-US"
-      },
-      {
-        "author":"Monrada Yamkasikorn",
-        "avatar":"a5a3974759493920285e275c3aad6ce8",
-        "content":"Excellent hospitality\n\nหมอใจดีมากกก\n\n(Translated by Google)\nExcellent hospitality\n\nvery kind doctor",
-        "review_date":"2020-01-15T13:16:55.511+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/100805824089823905282?hl=en-US"
-      },
-      {
-        "author":"Nipapat Worawat",
-        "avatar":"851369372f66f044b2aed4dbd26e667e",
-        "content":"ปรึกษาเรื่องนอนไม่หลับกับคุณหมอจินตนา ทุกวันนี้นอนหลับได้ดีขึ้นช่วงเเรกต้องทานยานอนหลับตอนนี้หลับได้ปกติเเล้วค่ะ ไม่น่าเชื่อกัญชารักษาเราจริงๆค่ะ\n\n(Translated by Google)\nDiscuss insomnia with Dr. Jintana. Today I sleep better. At first I had to take sleeping pills. Now I can sleep normally. It's unbelievable that cannabis really heals us.",
-        "review_date":"2020-10-29T12:20:08.354+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/100987512221351717471?hl=en-US"
-      },
-      {
-        "author":"Thicha Satchavit",
-        "avatar":"c7e9ff05c2b85724cf12c7d940da5cc3",
-        "content":"",
-        "review_date":"2022-11-13T20:38:43.283+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/101074748087081903911?hl=en-US"
-      },
-      {
-        "author":"Sawasdee Clinic สวัสดีคลินิกเวชกรรม",
-        "avatar":"ae55796540e7655abf63b93e479f123a",
-        "content":"",
-        "review_date":"2022-10-22T09:32:57.34+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/101893792917870922992?hl=en-US"
-      },
-      {
-        "author":"Ma Ma",
-        "avatar":"5bd1f8cee6b649b20b01f006204a802e",
-        "content":"",
-        "review_date":"2019-07-23T10:36:21.651+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/101902845521652572109?hl=en-US"
-      },
-      {
-        "author":"Natthasit Yimrim",
-        "avatar":"7ca85f932cbc36838f293d99d363d66c",
-        "content":"",
-        "review_date":"2022-12-08T13:41:44.95+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/102125277346546397427?hl=en-US"
-      },
-      {
-        "author":"ธนัท เรืองทอง",
-        "avatar":"e69d8ff408f0b96d3c36275686deba03",
-        "content":"",
-        "review_date":"2022-12-13T10:36:54.958+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/102248631932548641037?hl=en-US"
-      },
-      {
-        "author":"Pitsanu Supho",
-        "avatar":"11a48f8bbc9677a0bba6c85f6f346e5f",
-        "content":"",
-        "review_date":"2022-11-06T13:36:27.574+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/102811503764557837420?hl=en-US"
-      },
-      {
-        "author":"p n",
-        "avatar":"440270870e3a5322b0b9fc472e0e30d8",
-        "content":"เรามีอาการปวดไปหาหมอมาให้ยามากินไม่หายเเถมเเพงชิบหาย5000บาทเหมือนกับถูกหลอกขอเตือนเลยอย่าไป\n\n(Translated by Google)\nWe have pain to see a doctor to give medicine to eat.",
-        "review_date":"2021-06-20T21:04:14.751+00:00",
-        "rating":1,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/103218638903993294848?hl=en-US"
-      },
-      {
-        "author":"Rusdy Rosli",
-        "avatar":"24c763f0d129ba23862c7e8a1674ff4d",
-        "content":"พนักงานและคุณหมอทุกคนบริการดีมาก และใส่ใจมากๆค่ะ จากที่อาการแย่มาก กินอาหารไม่ได้ อาเจียนตลอด ปวดขา  หลังจากได้น่ำมันกัญชาของสวัสดีคลินิก รู้สึกดีขึ้นแบบผิดตา อารมณ์ดีมาก ขาหายกระตุก ไม่ชา นอนหลับได้ กินอาหารได้ดีขึ้นมากๆ\nขอบคุณทางคุณหมอและทีมงานเจ้าหน้าที่ทุกๆคนค่ะ\nเสริมนิดนึงว่า บรรยากาศของคลินิคก็ดีมากๆด้วย มีความร่มรื่น ต้นไม้เยอะ ไปแล้วสบายใจมากค่ะ\n\n(Translated by Google)\nAll the staff and doctors are very good service. and very attentive from a very bad condition Unable to eat, constantly vomiting, leg pain after taking Sawadee Clinic's cannabis oil. I feel better, my mood is very good, my legs are twitching, I don't feel numb, I can sleep, I eat much better.\nThank you to the doctor and all staff members.\nadd a bit that The atmosphere of the clinic is also very good. There are many shady trees and I feel very comfortable.",
-        "review_date":"2022-01-23T08:53:17.034+00:00",
-        "rating":5,
-        "images":[
-          "3280c57a2325687f727be082c82ad713",
-          "2936e8d0ceb3fcae479c7e8230168cbc",
-          "6d09ded4e0100778040fb77e1ec24650",
-          "664fef92375c986b0e831a8c5badcd8e",
-          "d5228f90fce013f6677d8d96b337f534",
-          "e6b2d50517fe5e7f681c885f575ad959"
-        ],
-        "url":"https://www.google.com/maps/contrib/103267309712599836247?hl=en-US"
-      },
-      {
-        "author":"Paw Lebbaeus",
-        "avatar":"9a4e6d4d84ac95d2ccd2db8271d95577",
-        "content":"ถูกหลอกคุยกับหมอเเค่5นาทีได้ยาสมุนไพรไทยกัญชามากินเป็นเดือนเเล้วอาการก็เหมือนเดิมยาเเพงชิบหายเเละไม่มีเขียนบอกเลยว่าเป็นยาอะไรระวังอันตราย\n\n(Translated by Google)\nBeing deceived, talking to the doctor for only 5 minutes, taking Thai medicinal cannabis pills for a month and the symptoms are the same, the drug is expensive, and there is no written statement telling me what drug it is. Be careful of danger.",
-        "review_date":"2021-06-21T17:23:31.535+00:00",
-        "rating":1,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/103281815338897223110?hl=en-US"
-      },
-      {
-        "author":"sawanya sesura",
-        "avatar":"65ff41952e7f5a11710412d1ad51cf32",
-        "content":"ประทับใจเป็นกันเองทั้งแพทย์และพนักงาน\nไม่อยากกลับเลยอะอยากนวดต่อ สบายคลายเครียด เจ้าหน้าที่สวยทุกคน\n\n(Translated by Google)\nImpressed by the friendly doctors and staff.\nI don't want to go back. I want to continue to massage. relax and relieve stress all beautiful staff",
-        "review_date":"2022-12-07T01:57:13.753+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/103596724670676021701?hl=en-US"
-      },
-      {
-        "author":"Sirawit P.",
-        "avatar":"d15e58771a3c076a06ab7a983a228a99",
-        "content":"เจอคุณหมอด้วยอาการนอนไม่หลับ และปวดหลัง คุณหมอและเจ้าหน้าที่ให้คำแนะนำละเอียดดีมาก ใช้ยามาแล้วหลายเดือนอาการปวดแทบไม่เหลือเลย น้ำมันมีหลายแบบ ใช้แล้วไม่แพ้ ไม่มีผลข้างเคียง\n\n(Translated by Google)\nSaw the doctor with insomnia and back pain. The doctor and staff gave me very detailed advice. I've been using the drug for several months and the pain is almost nonexistent. There are many types of oil. not allergic to use no side effects",
-        "review_date":"2022-01-16T04:21:25.239+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/103690831871344141623?hl=en-US"
-      },
-      {
-        "author":"Gunnar Larsen",
-        "avatar":"e68f9450100a73f299e16fba24777033",
-        "content":"I was there a few days ago. I went there for my PTSD and insomnia, and was told I was given thc drops. But it's not working at all. I been using / growing / making  medical cannabis for 8years, so I know  what I'm talking about. Seems like they say it's thc but it's not, more likely it's CBD, or maybe they just don't know what they give u. actually the oil seems, looks, smell and taste exactly the same as Swiss CBD I was given a few years ago in Switzerland.\nI even try to decarboxyle the oil to but with 0 effect, so it's no chance it can be thc-a in it eather ( thc-a is an inactive thc. To activate it to be working thc as we know it u need fat, heat and some time.\nAnyways Don't waste your money or time here. They just take your money and smile and don't really care what u get.",
-        "review_date":"2020-02-07T18:28:25.416+00:00",
-        "rating":1,
-        "images":[
-          "694711957140ac28f42a93d14673ef12"
-        ],
-        "url":"https://www.google.com/maps/contrib/103907910943311604549?hl=en-US"
-      },
-      {
-        "author":"Purichaya Sangiampong",
-        "avatar":"393fae8c23797cecf5338995194afced",
-        "content":"แนะนำสำหรับคนที่อยากรักษาด้วยกัญชา แล้วชีวิตจะเปลี่ยนไปเลยจ้า\nเคยได้ใช้รักษาตัวเองที่ต่างประเทศ ซื้อเองมาตลอด\nหาที่นี่เพราะมีหมอ ผู้เชี่ยวชาญแนะนำเพื่อความปลอดภัยดีที่สุด\n\n(Translated by Google)\nRecommended for people who want to treat with cannabis. Then life will change.\nUsed to treat myself abroad I always bought myself\nfind here because there is a doctor Expert advice for best safety",
-        "review_date":"2022-10-24T00:58:28.812+00:00",
-        "rating":5,
-        "images":[
-          "eac1cd41df125740cc791e0d71ee6e3f",
-          "53dc4f26e2ea37e444c4de40d211fe61",
-          "f3ae822e009eb34727669252f634957c",
-          "666f91b330d8abe3c85bffc4fd34301d",
-          "fc94ccad191008fa67cf2ba79107b132",
-          "1370d1038f5a63b1cb70cfac76da99e5"
-        ],
-        "url":"https://www.google.com/maps/contrib/103965655644214307557?hl=en-US"
-      },
-      {
-        "author":"kanteera toonla",
-        "avatar":"fcb3d58d5d7e6592fcf1607ac6be5963",
-        "content":"ครั้งที่ 1 ปลายปี 64 พาญาติมารักษามะเร็ง\nมาอีกรอบ 65 มารักษานอนไม่หลับของตัวเอง\nน้ำมันกัญชาของสวัสดี ดีกว่าของที่อื่นมาก ใช้แล้วไม่มึนหัว หลับไปเลย\nสลับกับใช้ยาดม ตอนกลางวัน relax\nสลับใช้บ้างหยุดบ้าง ตามแต่วันไหนนอนไม่หลับ หรือเครียด 😀\nสั่งยาต่อทางไลน์ ส่งเร็วค่ะ ซื้อฝากแนะนำคนอื่นอีกหลายคน\n\n(Translated by Google)\n1st time, at the end of the year 64, brought relatives to treat cancer\nCome again, 65 come to treat my own insomnia.\nSawasdee's Hemp Oil Much better than other places After using it, don't feel dizzy, go to sleep.\nAlternate with using inhalers during the day to relax.\nSwitch some use and stop some. According to the day when I can't sleep or stress 😀\nContinue to order via line. Fast delivery. Buy and recommend to many other people.",
-        "review_date":"2022-10-24T01:26:10.117+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/104375903600340328894?hl=en-US"
-      },
-      {
-        "author":"PPP Gems",
-        "avatar":"fae3c5af919bd1fc6e5cf534760211d1",
-        "content":"the massage oil and pill work very well to kill my pain and aid my sleep at night. again - THC is wonderful.\n\nWonderful team. Thank you very very much for your service.",
-        "review_date":"2020-06-08T16:03:31.851+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/104553998415073508347?hl=en-US"
-      },
-      {
-        "author":"Susanne Erika Erbeck Habiro",
-        "avatar":"7098decd964da960bfda1f89cbd293a7",
-        "content":"",
-        "review_date":"2022-08-30T04:41:43.63+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/104640340272221179745?hl=en-US"
-      },
-      {
-        "author":"Ja Ja",
-        "avatar":"bd787095f2cc4cbfae84575dc68f6fd5",
-        "content":"โทรไปสอบถามข้อมูล คนรับสายพูดไม่ดีมากค่ะ เราถามไปว่ามียา...... ยังไม่ทันบอกเลยว่ายาอะไร ตัดสายเราเลยค่ะ ปล.ถามแค่ 1 คำถาม ยังไม่ได้คุยอะไรเลย ควรปรับปรุงการบริการมากๆค่ะ\n\n*หลังจากรับบริการ คนไข้ปวดเหมือนเดิมหรือมากกว่าเดิม นอนไม่หลับตื่นมากกว่า 10 ครั้ง สอบถามไม่ได้รับคำนำแนะต่อใดๆเลยค่ะ ค่ายาแพงมาก ก่อนไปบอก1-3 พัน แต่ความจริง 9 พันสำหรับ 1 เดือน\n\n(Translated by Google)\nCall for information The person answering the phone doesn't speak very well. We asked if there was a pill...... I didn't even tell you what pills. Just cut off the phone. PS. Asking only 1 question, haven't talked anything yet. Service should be improved a lot.\n\n*After receiving service The patient's pain is the same or more than before. Can't sleep, woke up more than 10 times, did not ask for any further advice. The cost of the drug is very expensive. Before going to tell 1-3 thousand, but the truth is 9 thousand for 1 month.",
-        "review_date":"2019-12-08T09:57:00.567+00:00",
-        "rating":1,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/104799524040707646667?hl=en-US"
-      },
-      {
-        "author":"อุกฤษณ์ ดีสีแก้ว",
-        "avatar":"51cf0c2e9c8d4be0661f27b1f4407bd5",
-        "content":"",
-        "review_date":"2022-12-11T09:51:25.999+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/104950308497199909677?hl=en-US"
-      },
-      {
-        "author":"สิงห์สาคร ไชยคต",
-        "avatar":"51cf0c2e9c8d4be0661f27b1f4407bd5",
-        "content":"",
-        "review_date":"2022-12-12T05:51:56.653+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/104963399143987753498?hl=en-US"
-      },
-      {
-        "author":"เฉลิมชัย สาลี",
-        "avatar":"67698214e31af8b2580e4ec467646621",
-        "content":"",
-        "review_date":"2023-01-04T04:58:18.48+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/105101224021518437535?hl=en-US"
-      },
-      {
-        "author":"ฉัตรชัย ทองพูล",
-        "avatar":"8850b083dda12f31a4c791d42b1bf494",
-        "content":"ผมป่วยเป็นโรคมะเร็ง​มา15ปีผ่าตัดใหญ่มา3ครั้ง/ฉายรังสี60กว่าครั้ง/ให้สารกัมมัน​ต​รังสี​มา​5​ครั้ง​ ให้รังสีครั้งล่าสุดมะเร็งเริ่มดื้อยาผมเจ็บบริเวณใกล้ตับอ่อน​ ก่อนหน้านี้มีญาติ​แนะนำให้ใช้น้ำมันกัญ​ชา​เมื่อ2ปีที่แล้วผมไม่เชื่อว่าจะรักษาให้หายได้จึงไม่ใช้จนหลังให้ยาครั้งหลังสุดอาการไม่ดีขึ้นปวดใกล้บริเวณ​ตับอ่อน​มากจึงตัดสินใจมาลองรักษาน้ำมัน​กัญ​ชา​เริ่มเดือนก.พ65ที่สวัสดี​คลีนิ​ก​เวชกรรม​เหลือเชื่อครับ5วันอาการปวดผมดีขึ้นอย่างเห็นได้ชัดตอนนี้รักษามา4เดือนแล้วอาการภาพรวมดีขึ้นมากการใช้ชีวิตเป็นปกติเลยครับจากเดิมไม่มีความหวังว่าจะหาย​ตอนนี้ผมเริ่มเห็นแสงสว่างว่ามีโอกาสหายแน่นอนครับผมขอขอบพระคุณ​ท่านอาจารย์​จินตนา​ฯและบุคลากร​ของสถาบั​นที่ดูแลเป็นอย่างดีครับ\n\nขอบพระคุณ​ครับ\n\n(Translated by Google)\nI have been suffering from cancer for 15 years, have had 3 major surgeries/ 60+ radiotherapy sessions/ 5 radioactive treatments. The last radiation, the cancer became resistant, the hair hurt near the pancreas​ Previously, relatives suggested using cannabis oil 2 years ago, I didn't believe it could be cured, so I didn't use it until after the last dose, my symptoms didn't improve, my pain was very close to the pancreas. Decided to try cannabis oil treatment, starting in Feb. 65 at Sawasdee Medical Clinic. Incredible. 5 days, my pain has clearly improved. Now I have been treated for 4 months. Overall symptoms are good. More and more life is normal. From the beginning, there was no hope of recovery. Now I start to see the light that there is a chance to recover for sure. I would like to thank Ajarn Jintana and the staff of the institute Take good care\n\nThank you",
-        "review_date":"2022-05-11T08:35:07.088+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/105239287124596972382?hl=en-US"
-      },
-      {
-        "author":"fara basada",
-        "avatar":"b326df60151545131948fbe853ccf6a5",
-        "content":"โชคดีที่ได้มาเจอคุณหมอค่ะ ใครเป็นมะเร็ง มาเลยค่ะ ก่อนอาการจะลามไปไกล\n\n(Translated by Google)\nFortunately, I met Dr. Who has cancer, come before the symptoms spread far.",
-        "review_date":"2022-10-24T08:16:04.806+00:00",
-        "rating":5,
-        "images":[
-          "700249ce3b705316723fc7722c8d2df4"
-        ],
-        "url":"https://www.google.com/maps/contrib/105628445653012722875?hl=en-US"
-      },
-      {
-        "author":"Eldero Health",
-        "avatar":"4e889f16cfd87d2962f491e9de9d78c2",
-        "content":"เอาไปให้คนที่บ้าน คุณแม่ชอบยาดมมากๆ นอนหลับสนิท พอนอนหลับสบายทั้งคืน ตื่นมาก็ไม่มึน ไม่ตื่นระหว่างคืนเลย ช่วยเรื่องการนอนได้ดีมากๆ อยากแชร์ให้คนป่วยทุกคนเปิดใจดู\n\n(Translated by Google)\ntake it to the people at home My mother likes the inhaler very much. Sleep well enough to sleep well all night. wake up not dizzy not waking up during the night at all It helps in sleeping very well. I want to share with everyone who is sick. Open your heart to see.",
-        "review_date":"2022-02-08T17:06:18.744+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/105684903980946346877?hl=en-US"
-      },
-      {
-        "author":"The Pimmm",
-        "avatar":"910732667dcdb2ace18e6091ccad9959",
-        "content":"เจ้าหน้าที่ทุกท่านให้บริการดีเยี่ยม ยิ้มแย้มแจ่มใส ให้ข้อมูลได้ดี ทางแพทย์ให้คำแนะนำดีมาก ใจดี ยานวดใช้ดีกลิ่นหอมดมแล้วรู้สึกผ่อนคลาย\n\n(Translated by Google)\nAll staff provide excellent service. beaming good information The doctor gave very good advice, was kind, the massage was good to use, the smell was good and I felt relaxed.",
-        "review_date":"2022-12-07T01:59:33.468+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/105786542438611569243?hl=en-US"
-      },
-      {
-        "author":"Setthawut Thongmee",
-        "avatar":"9127e625e5720366f6fa005606fbc2ab",
-        "content":"",
-        "review_date":"2022-10-22T10:06:20.867+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/106432506430358043148?hl=en-US"
-      },
-      {
-        "author":"Rasa Kongprasert",
-        "avatar":"0576458e6fe562fb94e31cb152be07a3",
-        "content":"",
-        "review_date":"2022-11-14T00:32:27.501+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/106481980198107760878?hl=en-US"
-      },
-      {
-        "author":"P. Hunter",
-        "avatar":"837788b901b6c4376c5ae10ff7110b5c",
-        "content":"Excellent support from doctor and service\nRecommend for pain relief by CBD\n\nPlus great atmosphere and safe distant consultation area even during covid",
-        "review_date":"2022-01-14T16:20:21.855+00:00",
-        "rating":5,
-        "images":[
-          "c47b2e3ad25cc191899ee553042ed846"
-        ],
-        "url":"https://www.google.com/maps/contrib/106718418220751897570?hl=en-US"
-      },
-      {
-        "author":"jirttawat.sketchup1 123",
-        "avatar":"36342e7e63c042ae1f1e9dbdb28f1aa3",
-        "content":"Relaxing atmosphere. Knowledgeable staff. Overall satisfying experience.",
-        "review_date":"2023-01-22T09:38:57.126+00:00",
-        "rating":5,
-        "images":[
-          "79dfdf3d09763099f24c3d237020d91b",
-          "ab35e00797864754fe877179bbc22ab0"
-        ],
-        "url":"https://www.google.com/maps/contrib/106910245407675310633?hl=en-US"
-      },
-      {
-        "author":"Vega punk",
-        "avatar":"f45c3eaf632fe10a5aca16ee223ea4ec",
-        "content":"I had an excellent experience with them. Nun(Noon?) helped me at every step and they provide online assistance after the appointment. I highly recommend Sawasdee clinic.",
-        "review_date":"2021-08-03T09:52:21.418+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/107004764785700659758?hl=en-US"
-      },
-      {
-        "author":"ศิวกร โกษะสุทธะ",
-        "avatar":"9881d04f3e8d6c3ee933e0b209129cb4",
-        "content":"",
-        "review_date":"2023-02-14T10:45:28.799+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/107318359174274378713?hl=en-US"
-      },
-      {
-        "author":"Antoine Pllx",
-        "avatar":"d0918f9d5755058f2fc41d344d6c8442",
-        "content":"",
-        "review_date":"2019-10-22T05:40:41.579+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/107392931834716491786?hl=en-US"
-      },
-      {
-        "author":"Jdai Kasana",
-        "avatar":"e947004ac32f54d010fdb2d6ea6b501c",
-        "content":"",
-        "review_date":"2019-02-26T22:45:04.335+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/107406135164620744395?hl=en-US"
-      },
-      {
-        "author":"Paullyn Lu",
-        "avatar":"cf4377502b9b46b567e68408a295f75a",
-        "content":"Excellent service by the doctor.\nWent in for my insomnia and chronic inflammation issues and the medicines given+doctors advice helped me stopped my daily sleeping pills +Advil\n\nAlso recommended friend's mom to get treated for her pain from chemo and she was very happy she could eat and sleep again.\nDefinitely recommend 👍🏻👍🏻👍🏻",
-        "review_date":"2022-01-14T11:06:31.04+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/107464714221641646222?hl=en-US"
-      },
-      {
-        "author":"Kwanjira D.",
-        "avatar":"88b7b00bba562fe44e4490a4ff216870",
-        "content":"",
-        "review_date":"2022-11-13T14:50:24.706+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/107628422498153050091?hl=en-US"
-      },
-      {
-        "author":"ณัฐธยาน์ บัวดํา",
-        "avatar":"e69d8ff408f0b96d3c36275686deba03",
-        "content":"",
-        "review_date":"2023-02-14T08:49:08.891+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/107869872634346893030?hl=en-US"
-      },
-      {
-        "author":"Suthacha Ruangves",
-        "avatar":"0780ae2d302f445f2f2189d69f943f9c",
-        "content":"",
-        "review_date":"2022-10-13T06:28:59.385+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/107881655574068218545?hl=en-US"
-      },
-      {
-        "author":"Puping Manorompatrasal",
-        "avatar":"b0b5f2295cdc9450c57ed4ada0c9d4ce",
-        "content":"",
-        "review_date":"2019-06-10T13:44:58.564+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/107974959596426288478?hl=en-US"
-      },
-      {
-        "author":"Dokoo Zaa",
-        "avatar":"2a318218177756e61e4a50676c611815",
-        "content":"ดอก​ส้ม​หล่น​หาย​เจ็บ​กลับมา​ลงสนาม​เป็นตัว​จริง​ใน​ร้าน​ขาย​สินค้า​และ​บริการ​ของเรา​เอง​ได้​แล้ว​ที่นี่​มี​สาระ​ความรู้​รอบตัว​บอร์ด​บริหาร​จัดการ​พื้นที่​จังหวัด​ภาคใต้​ฝั่ง​ตะวันออก​มี​ฝนฟ้า​คะนอง​กระจาย​ร้อยละ​ของ​พื้นที่​ส่วนมาก​บริเวณ​จังหวัด​นครสวรรค์​อุทัยธานี​กาญจนบุรี​และ​ราชบุรี​อุณหภูมิ​สูงสุด​องศาเซลเซียส​สวัสดี​ค่ะ​คุณ​มา​สัมผัส​บรรยากาศ​\n\n(Translated by Google)\nSom Dok fell, recovered from pain, returned to the field as a real person in our own goods and service shop, here is the essence Be aware of the area management board in the southern provinces, east coast, scattered thunderstorms in a percentage of most areas in Nakhon Sawan, Uthai Thani, Kanchanaburi and Ratchaburi, the highest temperature in degrees Celsius. Hello, you come to experience the atmosphere.",
-        "review_date":"2019-06-08T17:07:32.414+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/108010615808730688207?hl=en-US"
-      },
-      {
-        "author":"Napuck Ms",
-        "avatar":"1f0760501a6421bb1df3c8c40dca329f",
-        "content":"",
-        "review_date":"2019-07-13T01:38:32.501+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/108043172906045359724?hl=en-US"
-      },
-      {
-        "author":"NamNam Intaramongkon",
-        "avatar":"c1acde708ea2c59ca0a076cec74388c7",
-        "content":"รู้สึกประทับใจ ได้รับการบริการดีมาก\nอาการภูมิแพ้ดีขึ้น อยากแชร์ค่ะ\n\n(Translated by Google)\nfeel impressed received very good service\nAllergy symptoms are better. I want to share.",
-        "review_date":"2022-12-07T01:57:43.687+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/108055258968897204760?hl=en-US"
-      },
-      {
-        "author":"Janine Lee",
-        "avatar":"b7317e6eac3cb842c6fb0a41313e43fc",
-        "content":"Accredited doctors. Very reasonable price compared to other clinics in Thailand.\n\nJust moved to Thailand this year and I was struggling to get my prescriptions I had back in the states. Had to deal with a lot of far less pleasant, expensive (5 times the price here), scammy clinics around the country before I found the real deal.\nThe doctors, the staff, the experience was 10/10.",
-        "review_date":"2022-10-22T11:38:21.208+00:00",
-        "rating":5,
-        "images":[
-          "d29120624097e0fb2d1b591cd078f8ee"
-        ],
-        "url":"https://www.google.com/maps/contrib/108215950147568596576?hl=en-US"
-      },
-      {
-        "author":"Pratthana Buamadee",
-        "avatar":"fae3c5af919bd1fc6e5cf534760211d1",
-        "content":"",
-        "review_date":"2019-06-11T13:26:54.544+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/108436752858159599046?hl=en-US"
-      },
-      {
-        "author":"Ring Robin",
-        "avatar":"30f89e355fd35736bda37583b73571c8",
-        "content":"*update* Certificate approved by authority.\n\nenglish speaking. great team and professional.\nwas there to seek medical help and get the best service.",
-        "review_date":"2019-12-24T03:36:58.451+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/108688570836733163622?hl=en-US"
-      },
-      {
-        "author":"Sireeras Datejaratsri",
-        "avatar":"4f88dccd001f2af06eda21bc0126930c",
-        "content":"ขอบพระคุณคุณหมอ และเจ้าหน้าที่ค่ะ คลินิกบรรยากาศดีมากๆ\nได้รับคำปรึกษา และ ความช่วยเหลืออย่างดี ตอนนี้สุขภาพแข็งแรงขึ้นมาก แนะนำเพื่อนไปหลายคนประทับใจ\n\n(Translated by Google)\nthank you doctor and staff The clinic atmosphere is very good.\nGet good advice and help. Health is much stronger now. Recommended to many friends. Impressive.",
-        "review_date":"2022-02-06T09:52:06.034+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/108940799884265536418?hl=en-US"
-      },
-      {
-        "author":"sosleep co",
-        "avatar":"65ff41952e7f5a11710412d1ad51cf32",
-        "content":"เจอคุณหมอด้วยอาการนอนไม่หลับ และปวดหลัง คุณหมอและเจ้าหน้าที่ให้คำแนะนำละเอียดดีมาก ใช้ยามาแล้วหลายเดือนอาการปวดแทบไม่เหลือเลย น้ำมันมีหลายแบบ ใช้แล้วไม่แพ้ ไม่มีผลข้างเคียง โดยรวมพอใจมากค่ะ\n\n(Translated by Google)\nMet the doctor with insomnia and back pain. The doctor and the staff gave very detailed advice. I have been using the drug for several months and the pain is almost gone. There are many types of oil. Used and not allergic no side effects Overall, very satisfied.",
-        "review_date":"2022-01-14T10:58:22.609+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/109588846030672625263?hl=en-US"
-      },
-      {
-        "author":"rajchanok wat",
-        "avatar":"6d053e7de94c041bc53dfe797de4917e",
-        "content":"",
-        "review_date":"2022-08-24T03:39:16.193+00:00",
-        "rating":1,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/109942901077989670994?hl=en-US"
-      },
-      {
-        "author":"Patarasak Manorompatrasal",
-        "avatar":"6421946d610ca785b986a4db253cdd53",
-        "content":"",
-        "review_date":"2022-12-07T05:29:34.777+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/110037855936610007420?hl=en-US"
-      },
-      {
-        "author":"Puping Manorompatrasal",
-        "avatar":"856a4c95c6f81ba2d9fa376d9c1de473",
-        "content":"Great Service. Very attentive and caring. Prices are reasonable given the high quality care I receive. 5 stars recommend",
-        "review_date":"2020-08-09T03:06:32.307+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/110175616402553602392?hl=en-US"
-      },
-      {
-        "author":"นางจินตนา มโนรมย์ภัทรสาร",
-        "avatar":"11c04e336358dd5fe1c227e27ff462dc",
-        "content":"คลีนิคมืออาชีพมากๆค่ะ\n\n(Translated by Google)\nThe clinic is very professional.",
-        "review_date":"2022-10-22T10:17:43.884+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/110487046584892801830?hl=en-US"
-      },
-      {
-        "author":"Greg Davinson",
-        "avatar":"c65eafc953ae36f0af46a253c89a327a",
-        "content":"Recommended through friends. Exceptional Service!\n\nHealth professionals and anyone who treat senior patients can benefit from increasing their knowledge of cannabis use among this vulnerable population. For starters, many senior citizens have a preference for more natural pain remediation strategie. Many of them turn to cannabis topicals for hope.\n\nThe endocannabinoid system is a complex system  present in the body that helps regulate homeostasis. It works alongside many other systems, such as the nervous system, to help the body function properly. It  works by using cannabinoids, both naturally-occurring in the body or those taken from cannabis plants, to bind with  cannabinoid receptors, much like a lock and key.\n\nTrusted doctor who care deeply about your conditions and family.",
-        "review_date":"2020-08-31T09:04:45.472+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/110720183822262709861?hl=en-US"
-      },
-      {
-        "author":"panupong apitz",
-        "avatar":"e6876a353dd594dc0e1bd62a0ae65118",
-        "content":"",
-        "review_date":"2022-12-08T13:47:59.172+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/110928392047048344711?hl=en-US"
-      },
-      {
-        "author":"Thongchai Panngoen",
-        "avatar":"beef6234df41e4fbccb4a9e2b055b090",
-        "content":"",
-        "review_date":"2023-01-24T08:59:32.984+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/110996630823561714392?hl=en-US"
-      },
-      {
-        "author":"patarapen m",
-        "avatar":"52ebba144f0114b8d259b7f0cf47dca4",
-        "content":"คำแนะนำโดยแพทย์ เภสัช มีประโยชน์\n\n(Translated by Google)\nAdvice from a doctor, pharmacist, useful",
-        "review_date":"2019-04-01T07:44:26.026+00:00",
-        "rating":5,
-        "images":[
-          "323973c5e388b54c63099885ad29e08e"
-        ],
-        "url":"https://www.google.com/maps/contrib/111489470929693768119?hl=en-US"
-      },
-      {
-        "author":"Kankan Techapai",
-        "avatar":"4eaedb1cfa1289b47bcf9053f4ef448b",
-        "content":"",
-        "review_date":"2021-03-21T02:19:38.356+00:00",
-        "rating":4,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/111579170310492390147?hl=en-US"
-      },
-      {
-        "author":"Ana win",
-        "avatar":"3cd227b302672cc76bbf3c79c8b10f9e",
-        "content":"",
-        "review_date":"2015-07-09T23:12:46.149+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/111638403695127897033?hl=en-US"
-      },
-      {
-        "author":"paw him",
-        "avatar":"b1e1fc23d7d13645a0f3038a0b6b71fb",
-        "content":"ไปครั้งเดียวเเล้วก็เป็นครั้งสุดท้ายหมอให้ยามา5ชนิด5000 บาทใช้เเล้วไม่หายเสียดายเงินเสียดายเวลา.\n\nWasting time and money expensive experience got medicine but doesn't help me at all.\n\n(Translated by Google)\nWent once and it was the last time the doctor gave me 5 kinds of medicine 5000 Baht used and not lost, regret money, regret time.\n\nWasting time and money expensive experience got medicine but doesn't help me at all.",
-        "review_date":"2021-05-21T21:05:50.674+00:00",
-        "rating":1,
-        "images":[
-          "6f21532fe59a37f4f5d6e2d15aa49aa7"
-        ],
-        "url":"https://www.google.com/maps/contrib/111862889314924896493?hl=en-US"
-      },
-      {
-        "author":"Lalida Wongbenjarat",
-        "avatar":"62783c24b80f297e744c86e883921039",
-        "content":"รักษามะเร็งปอด ! ด้วยกัญชา\n\n(Translated by Google)\nCure lung cancer! with cannabis",
-        "review_date":"2022-11-06T15:08:25.263+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/112459907163495251670?hl=en-US"
-      },
-      {
-        "author":"Rung Tangpat",
-        "avatar":"972c1927d3c1c312781710ecfc41e41f",
-        "content":"",
-        "review_date":"2020-02-21T11:41:23.453+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/112596053630697385237?hl=en-US"
-      },
-      {
-        "author":"Pat M.",
-        "avatar":"4ee8dae675453467fa233ca0daf8c3b2",
-        "content":"ขอบคุณคุณหมอที่ช่วยดูแลอย่างดี ตอนนี้อาการดีขึ้นมาก สบายตัวขึ้น หายปวด\nผลดี ตามภาพ\n\n(Translated by Google)\nThank you doctor for taking good care of me. Now my symptoms are much better, I feel better, my pain is gone.\ngood result as pictured",
-        "review_date":"2022-01-16T04:15:19.675+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/112654892189877940158?hl=en-US"
-      },
-      {
-        "author":"Al wee",
-        "avatar":"f40dd53b1fc1d00bf06909c61c764994",
-        "content":"",
-        "review_date":"2019-12-06T19:53:31.589+00:00",
-        "rating":3,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/113491065170625907211?hl=en-US"
-      },
-      {
-        "author":"Pornrapee M.",
-        "avatar":"b0b5f2295cdc9450c57ed4ada0c9d4ce",
-        "content":"",
-        "review_date":"2022-01-14T11:46:02.826+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/113971508049448496416?hl=en-US"
-      },
-      {
-        "author":"Vilairat P",
-        "avatar":"e70be6bab56ccc6659a59d5872eec107",
-        "content":"เป็นคลืนิกสอาด บริการดี แพทย์เอาใจใส่ให้ความรู้ดี ยาที่ใช้คุณภาพดี ร่างกายตอบสนองได้ดีคะ\n\n(Translated by Google)\nIt is a clean clinic, good service, doctors are attentive and knowledgeable. Good quality drugs The body responds well.",
-        "review_date":"2022-12-07T02:01:48.595+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/114035709964743347089?hl=en-US"
-      },
-      {
-        "author":"Chagun Official",
-        "avatar":"cc1ddc9acaa5d8977deed96f39871f95",
-        "content":"ลองหาหมอมาหลายแขนง ไม่เคยหาย จนศึกษสการรักษาด้วยกัญชา มาเจอที่นี่ มีทั้งหมอแผนปัจจุบันและหมอแผนไทย รู้สึกดีขึ้น กินได้นอนหลับสนิทเป็นครั้งแรก พนักงานช่วยเหลือดีมาก สุภาพ ขอบคุณจริงๆ ครับ คุณภาพสมราคา\n\n(Translated by Google)\nTrying to find many kinds of doctors, never recovered until studying cannabis treatment. Found here, both modern and traditional healers, feeling better, eating and sleeping soundly for the first time. The staff are very helpful, polite, thank you very much. Quality is worth the price.",
-        "review_date":"2022-10-22T11:21:38.442+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/114051666137233007804?hl=en-US"
-      },
-      {
-        "author":"Atikhom Phungwat",
-        "avatar":"838b16f7ed0b98c7288bee37a0697b52",
-        "content":"",
-        "review_date":"2019-06-21T23:55:39.732+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/114390408066966013009?hl=en-US"
-      },
-      {
-        "author":"Casey w",
-        "avatar":"4b3435d70e875e654fa12f04176e2532",
-        "content":"",
-        "review_date":"2023-01-03T15:29:34.318+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/114512927266614092828?hl=en-US"
-      },
-      {
-        "author":"Parinyimz",
-        "avatar":"777c8b85656ef88329e1f262e8dc4215",
-        "content":"พาคุณยายมารักษาครั้งที่สอง มาเดือนละครั้ง คุณยายไม่ปวด กินข้าวได้ บริการดีค่ะ\nUpdate:คุณยายเสียไปแล้วค่ะ หลังจากรักษามา5เดือนที่นี่ช่วยได้เยอะ บรรเทาความทรมาน ความเจ็บปวด\n\n(Translated by Google)\nTake Grandma for a second treatment. Come once a month. Grandma doesn't have pain. You can eat. Good service.\nUpdate: Grandma has passed away. After 5 months of treatment here it helps a lot. alleviate pain, pain",
-        "review_date":"2021-09-26T03:46:31.491+00:00",
-        "rating":4,
-        "images":[
-          "e3fbfd907aeeae9faaa1ea44d23e2c04",
-          "4042f03350fad279a2434e174dba160b",
-          "6bb73baca91832376c3ab9d9164c7a74",
-          "4a915d0c1043298e01d0bd6a4c2cef3a"
-        ],
-        "url":"https://www.google.com/maps/contrib/114825192343215649197?hl=en-US"
-      },
-      {
-        "author":"tim book",
-        "avatar":"af2e85e389396201b70a36580a21302a",
-        "content":"Great people and place.",
-        "review_date":"2019-11-12T09:08:10.733+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/114922446975256912361?hl=en-US"
-      },
-      {
-        "author":"pawadee sudcharee",
-        "avatar":"f2ec7742d702fa9c8f417e38d016d3b3",
-        "content":"ยาที่คุณหมอให้มาใช้ดีมาก นอนหลับสบายเช้าตื่นมาสดชื่นลุยงานได้ต่อ น้ำมันนวดใช้ดีมากกๆค่ะ แนะนำ\n\n(Translated by Google)\nThe medicine your doctor gave you is very good. Sleep well in the morning, wake up refreshed and continue to work. Massage oil is very good to use. Recommended.",
-        "review_date":"2022-10-13T05:53:30.483+00:00",
-        "rating":5,
-        "images":[
-          "e192415bdde5e3ec62e5453e9c465ec7"
-        ],
-        "url":"https://www.google.com/maps/contrib/115643718972844164308?hl=en-US"
-      },
-      {
-        "author":"Tony Travels",
-        "avatar":"c90ebf71abdc06dfadf10b45ea7c9017",
-        "content":"I've been using Cannabis in all it's forms for 30 years plus. I went to Sawasdee for chronic pain and inflammation from old sports injuries, insomnia and anxiety. I had been to multiple other clinics in Thailand before - Phuket, Pattaya and Bangkok - so my expectations were low. Other Clinic's products were either crudely produced and overpriced (600% more than Sawasdee at one place) or they were Pharma Grade but Isolates and not a Full-Spectrum (natural) extract and STILL overpriced 4-500% compared with Sawasdee. Regardless, I was blown away by the quality and potency of Sawasdee's oil. I would like to try other products now. Price was also amazing, extremely reasonable. Best products at the best price in my experience but I've only tried their extracts/tinctures/oils. Definitely worth your time.",
-        "review_date":"2022-03-11T05:42:17.126+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/115731781820175317452?hl=en-US"
-      },
-      {
-        "author":"Lalida Wongbenjarat",
-        "avatar":"aa7e67457e299e631d7118a17a327459",
-        "content":"Superb result for stress relief, highly recommended",
-        "review_date":"2022-01-17T11:50:22.328+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/115787710887064791302?hl=en-US"
-      },
-      {
-        "author":"Christian James Nazareth",
-        "avatar":"b3749975f9dda57c5425b60511ffea82",
-        "content":"I had the chance to visit the clinic and it opened my mind in terms of medical cannabis. The doctors are very knowledgeable and they make sure that there is safety and proper care given to patients. Their practice is one that is evidence-based and giving accessible and quality medical cannabis to patients of any kind is something very admirable.",
-        "review_date":"2022-12-09T01:39:18.58+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/115949862383283783427?hl=en-US"
-      },
-      {
-        "author":"Jaruwan Teanmahasatid",
-        "avatar":"84e1383d3c0f32bef339a50aab349932",
-        "content":"",
-        "review_date":"2022-10-22T11:28:11.514+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/116503257351756254472?hl=en-US"
-      },
-      {
-        "author":"iKhaokho Khaokho",
-        "avatar":"4596aced92d7696fb2b80dab7c1db4f6",
-        "content":"เป็นคลินิกกัญชาทางเลือก ที่รักษาโรคแบบใหม่ที่ประสานกับการใช้กัญชาและสมุนไพรไทยที่ไม่มีสารเคมีเผื่อท่านใดอยากมาใช้บริการนะครับ ผมแนะนำว่ามาทดลองได้เลยหาไม่ยากบริการดีคุณหมอ และเจ้าหน้าที่มีความเชี่ยวชาญแนะนำดี\n\n(Translated by Google)\nIt is an alternative cannabis clinic. A new treatment that coordinates with the use of marijuana and Thai herbs without chemicals in case anyone wants to use the service. I recommend that you come and try it. It's not difficult to find. Good service doctor. And the staff has expertise and good advice.",
-        "review_date":"2022-05-05T06:19:07.602+00:00",
-        "rating":5,
-        "images":[
-          "151785d017fd88b37cfcdf25856a296d",
-          "9869fd5575ed75670145defbf7a2bf0d",
-          "f0607b32df10fab94ff3da9ec04467d5",
-          "27da543283e746e1b9494ab4e3c14007",
-          "152e65b25af8aed6bafc57170edcc1a9",
-          "42ab89d5b928a226078365865d73e4c2",
-          "b415db4a3bfc9d3aef3e447a5d385eed",
-          "c5439296443a7f061450649646828d5b",
-          "71b03fee5ae26d691b172981d576609b",
-          "3d7ce257c4901eb588397d0c3432f03f",
-          "55dc2eefeece12ec9ce65e1fdd76c942",
-          "dc7398d7efd276c1d39b665c5d73c507",
-          "ea18cdf6805f581576d93d8adc84b7b9",
-          "d1d0bb26213292bdd4a8223ee2bbcb0b",
-          "242202a7d422ff61af7a78ebcdf2a4ab",
-          "c27fd839f78182aec83b1e44bfd9942a",
-          "98fdf2435b821c10a92313db1daad782",
-          "a126fb870cb567d2018e0c1ecc60b8cf",
-          "d0fe051288bff61180faee5d1da05140"
-        ],
-        "url":"https://www.google.com/maps/contrib/116757072595253834402?hl=en-US"
-      },
-      {
-        "author":"Satitpong Sunnongmuang",
-        "avatar":"0780ae2d302f445f2f2189d69f943f9c",
-        "content":"Thank you for the care and nice massage cannabis treatment for my pain and migraine..\n\nOnline consultation : available\nCar park : available\nEnglish speaking : Available",
-        "review_date":"2023-02-01T09:12:31.462+00:00",
-        "rating":5,
-        "images":[
-          "52f9e16c1f27b1694ee902a06483d034"
-        ],
-        "url":"https://www.google.com/maps/contrib/117102233258769356979?hl=en-US"
-      },
-      {
-        "author":"Chai Re",
-        "avatar":"f704be537db8a60a5b4ffd5e60ab34b4",
-        "content":"",
-        "review_date":"2019-03-27T06:58:50.267+00:00",
-        "rating":4,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/117186778717533903073?hl=en-US"
-      },
-      {
-        "author":"Luxsika Kateburome",
-        "avatar":"2ab10449627509f025e14ade976174f4",
-        "content":"",
-        "review_date":"2022-12-05T00:29:42.194+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/117966202932218823388?hl=en-US"
-      },
-      {
-        "author":"Aruch Sakunee",
-        "avatar":"d9c3fbf2c47ffaa6b3f30f15da8b2c43",
-        "content":"(Translated by Google) I highly recommend this clinic, very professional\n\n(Original)\n特别推荐这家诊所，很专业",
-        "review_date":"2022-12-10T06:25:56.392+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/118013837081175010023?hl=en-US"
-      },
-      {
-        "author":"Toby Brennan",
-        "avatar":"d280803c8c893b87af454b32ddc8d274",
-        "content":"Please do not use Sawasdee for Cbd. The quality is inadequate and contains little to no cbd, which should be unthinkable considering the inflated prices. Do yourself a favour and buy through a legit Cbd seller online as opposed to this fraud ‘clinic’ which quite frankly should be shut down for this scam operation.",
-        "review_date":"2021-06-16T09:21:07.602+00:00",
-        "rating":1,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/118255427000574927453?hl=en-US"
-      },
-      {
-        "author":"นส.สมใจ รักอินทร์",
-        "avatar":"51cf0c2e9c8d4be0661f27b1f4407bd5",
-        "content":"",
-        "review_date":"2021-06-14T10:27:21.768+00:00",
-        "rating":5,
-        "images":[
-          
-        ],
-        "url":"https://www.google.com/maps/contrib/118379786234192119429?hl=en-US"
-      }
-    ],
-    "reviews_aggregate":{
-      "aggregate":{
-        "sum":{
-          "rating":397
-        },
-        "count":86
+  "id":"4a478dc1-626b-41fe-969c-baebec22600f",
+  "lat":"13.8859771",
+  "lng":"100.5957547",
+  "city":"Bangkok",
+  "name":"สวัสดีคลีนิกเวชกรรม Sawasdee Clinic",
+  "type":null,
+  "business_images":[
+    "0fb4e787fef5dc4d19eda42c80f01ae0",
+    "d9076342595ff4638d851d4538092507",
+    "c29c40d2c873a14583c3fd64b95e4861",
+    "71cb1ee7e430acf034110d5f7c3e5f24",
+    "ef74ed0862b9be39b47f4720049ee58b"
+  ],
+  "google_images":[
+    "2e7e804cc16c6dd2c801cb10249cbb75",
+    "772aab948a886044f44f80a38f235e59",
+    "d21cbede688844782a3c079c511cd42f",
+    "a0f934b8bb1ed21483d19a2cf40e7739",
+    "59d0c5d926064dca6e8f00f5c46b7aab",
+    "5d8a08a6ff572d10aa9f9623fcd17ce2",
+    "41e90186a7c87b8e8e95c0209566bf22",
+    "e247089e576414f3e8234371bddc873a",
+    "f52900c3b2ccf23ce23bff3019dce5c8",
+    "a178c00ea6edad7ce25b5256524bcada"
+  ],
+  "status":"approved",
+  "website":"http://sawasdeeclinic.com/",
+  "phone":"+66 2 972 4013",
+  "opening_hours":[
+    {
+      "open":{
+        "day":0,
+        "time":"0800"
+      },
+      "close":{
+        "day":0,
+        "time":"1730"
       }
     },
-    "suggestions":[
-      {
-        "distance":0.7896745884040637,
-        "dispensary":{
-          "id":"ea960b02-bfd1-4ebf-a7ab-6f1439c1caca",
-          "city":"Bangkok",
-          "name":"ร้านลุงกัญ",
-          "types":[
-            "Delivery",
-            "Grower",
-            "Lab"
-          ],
-          "lat":13.8791776,
-          "lng":100.5977498,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":null
-              },
-              "count":0
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":null
-              },
-              "count":0
-            }
-          },
-          "image":"ed6c1cf8253c6bd4a868607b9f6aa66a",
-          "has_products":true,
-          "address":"359 2 ถ. พหลโยธิน Anusawari, Bang Khen, Bangkok 10220, Thailand",
-          "open":false
-        }
+    {
+      "open":{
+        "day":1,
+        "time":"0800"
       },
-      {
-        "distance":0.9527154931976131,
-        "dispensary":{
-          "id":"af650b6a-70ec-4152-abac-e91323d3ac7d",
-          "city":"Bangkok",
-          "name":"กระท่อม kratom หลักสี่",
-          "types":[
-            
-          ],
-          "lat":13.8889759,
-          "lng":100.5875372,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":null
-              },
-              "count":0
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":null
-              },
-              "count":0
-            }
-          },
-          "has_products":false,
-          "address":"VHQQ+H2V, Talat Bang Khen, Lak Si, Bangkok 10210, Thailand",
-          "open":false
-        }
-      },
-      {
-        "distance":1.348109784829626,
-        "dispensary":{
-          "id":"501cb7b0-0dc5-4df4-b635-fcfe676451e1",
-          "city":"Bangkok",
-          "name":"ST Herb Hemp",
-          "types":[
-            
-          ],
-          "lat":13.8893793,
-          "lng":100.6078273,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":300
-              },
-              "count":60
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":300
-              },
-              "count":60
-            }
-          },
-          "image":"f90ab7797c4b27ffe74bfd377e8535df",
-          "has_products":false,
-          "address":"26 Thep Rak Rd, Khwaeng Anusawari, Khet Bang Khen, Krung Thep Maha Nakhon 10220, Thailand",
-          "open":false
-        }
-      },
-      {
-        "distance":1.740295238702076,
-        "dispensary":{
-          "id":"e39cec84-e0ff-4c30-a91d-5a7e28dbd3d2",
-          "city":"Bangkok",
-          "name":"9cannabis",
-          "types":[
-            "Dispensary",
-            "Delivery"
-          ],
-          "lat":13.898615,
-          "lng":100.5862416,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":140
-              },
-              "count":28
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":140
-              },
-              "count":28
-            }
-          },
-          "image":"23ebe4cfcd0202ddc8088dd8cf07979c",
-          "has_products":true,
-          "address":"Kosum Ruam Chai Soi 7, Tungsonghong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
-          "open":false
-        }
-      },
-      {
-        "distance":1.7962344639120682,
-        "dispensary":{
-          "id":"35f97538-26c1-4d96-9b84-19d29204c632",
-          "city":"Bangkok",
-          "name":"BUDDY COOL COFFEE",
-          "types":[
-            
-          ],
-          "lat":13.8707099,
-          "lng":100.5905447,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":null
-              },
-              "count":0
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":null
-              },
-              "count":0
-            }
-          },
-          "image":"eda9f957cdbf7bdf462f7a95e2b0bf0c",
-          "has_products":false,
-          "address":"238 Soi Phahon Yothin 53, Khwaeng Anusawari, Khet Bang Khen, Krung Thep Maha Nakhon 10220, Thailand",
-          "open":false
-        }
-      },
-      {
-        "distance":1.8608107316371116,
-        "dispensary":{
-          "id":"a859af5d-a43a-4268-840e-19e6045661eb",
-          "city":"Bangkok",
-          "name":"CannabisTreeShop",
-          "types":[
-            "Farm"
-          ],
-          "lat":13.9010473,
-          "lng":100.5882198,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":5
-              },
-              "count":1
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":5
-              },
-              "count":1
-            }
-          },
-          "has_products":false,
-          "address":"อ เลขที่ 14 Kosum Ruam Chai Soi 8, ต Khet Don Mueang, Krung Thep Maha Nakhon 10210, Thailand",
-          "open":false
-        }
-      },
-      {
-        "distance":1.8619967719474662,
-        "dispensary":{
-          "id":"2d8a0e2b-c78f-4107-b8e1-872da5e71a6a",
-          "city":"Bangkok",
-          "name":"Sky High Dispensary",
-          "types":[
-            
-          ],
-          "lat":13.8696761,
-          "lng":100.5921123,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":5
-              },
-              "count":1
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":5
-              },
-              "count":1
-            }
-          },
-          "image":"dfea2473703825f04f70f3fd0d998619",
-          "has_products":false,
-          "address":"120 Soi Phahon Yothin 1, Khwaeng Samsen Nai, Khet Phaya Thai, Krung Thep Maha Nakhon 10400, Thailand",
-          "open":false
-        }
-      },
-      {
-        "distance":2.0162353805296225,
-        "dispensary":{
-          "id":"64a65d2d-a524-41c5-a465-6d0d7036623e",
-          "city":"Bangkok",
-          "name":"Mr.highkush",
-          "types":[
-            
-          ],
-          "lat":13.8867989,
-          "lng":100.6144862,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":25
-              },
-              "count":5
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":25
-              },
-              "count":5
-            }
-          },
-          "image":"1edfc25efb48a136cd47283d61a00d43",
-          "has_products":false,
-          "address":"76 Thep Rak Rd, Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
-          "open":false
-        }
-      },
-      {
-        "distance":2.101835849480168,
-        "dispensary":{
-          "id":"116f5a90-b858-4b4c-ab7d-6cae490730ee",
-          "city":"Bangkok",
-          "name":"ร้านกัญชา Dr.feelgood",
-          "types":[
-            
-          ],
-          "lat":13.8894278,
-          "lng":100.6149788,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":40
-              },
-              "count":8
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":40
-              },
-              "count":8
-            }
-          },
-          "image":"7d5f2453aa8a18b10205ed8565c46450",
-          "has_products":false,
-          "address":"บ้านเลขที่ 297/11 ม.4 ตึก ซอย สุขเสมอ, Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
-          "open":true
-        }
-      },
-      {
-        "distance":2.1111815898897905,
-        "dispensary":{
-          "id":"c9b2785f-71f0-474f-a3ef-d640896e9f1a",
-          "city":"Bangkok",
-          "name":"ร้านกัญชา Dr.feelgood",
-          "types":[
-            "Dispensary"
-          ],
-          "lat":13.8894792,
-          "lng":100.6150571,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":40
-              },
-              "count":8
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":40
-              },
-              "count":8
-            }
-          },
-          "image":"7a7a953f836c516845f303dbe345dd49",
-          "has_products":false,
-          "address":"297/11 ม.4 ตึก ซอยพหลโยธิน50แยก11-2-2 แขวงคลองถนน เขตสายไหม คลองถนน สายไหม Krung Thep Maha Nakhon 10220, Thailand",
-          "open":false
-        }
-      },
-      {
-        "distance":2.2472559698345593,
-        "dispensary":{
-          "id":"cca058b3-87a4-4f93-ac55-2e1bd8b63f67",
-          "city":"Bangkok",
-          "name":"ร้านกัญชา cannabis shop (by K.K.Farm)",
-          "types":[
-            
-          ],
-          "lat":13.8806051,
-          "lng":100.6158792,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":null
-              },
-              "count":0
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":null
-              },
-              "count":0
-            }
-          },
-          "has_products":false,
-          "address":"ศุภาลัย พาร์ค วิลล์2 Khwaeng Anusawari, Khet Bang Khen, Krung Thep Maha Nakhon 10220, Thailand",
-          "open":false
-        }
-      },
-      {
-        "distance":2.2880498692665068,
-        "dispensary":{
-          "id":"754574c8-8db8-4a3b-a9b7-fe842b8eff5b",
-          "city":"Bangkok",
-          "name":"กัญเอง - น้ำกัญชาสกัดเพื่อสุขภาพ",
-          "types":[
-            
-          ],
-          "lat":13.8940089,
-          "lng":100.6153626,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":null
-              },
-              "count":0
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":null
-              },
-              "count":0
-            }
-          },
-          "image":"dfae07551a6e647004fe4579405356b0",
-          "has_products":false,
-          "address":"569 11 Soi Phahon Yothin 52, Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
-          "open":false
-        }
-      },
-      {
-        "distance":2.602105755978504,
-        "dispensary":{
-          "id":"1026e2f0-8245-4255-8608-bb54a5a4c460",
-          "city":"Bangkok",
-          "name":"Cannabis Coffee",
-          "types":[
-            
-          ],
-          "lat":13.891146,
-          "lng":100.6193474,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":null
-              },
-              "count":0
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":null
-              },
-              "count":0
-            }
-          },
-          "has_products":false,
-          "address":"1/29 Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
-          "open":false
-        }
-      },
-      {
-        "distance":2.964027354075877,
-        "dispensary":{
-          "id":"2c7d1b66-e2bb-4ace-b39f-c1729885e40d",
-          "city":"Bangkok",
-          "name":"Mr.cannabis og",
-          "types":[
-            
-          ],
-          "lat":13.8832341,
-          "lng":100.6231318,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":40
-              },
-              "count":8
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":40
-              },
-              "count":8
-            }
-          },
-          "image":"7d54d18aeb334bdbb49c48ac66c8c7a1",
-          "has_products":false,
-          "address":"100 Khlong Thanon, Sai Mai, Bangkok 10220, Thailand",
-          "open":false
-        }
-      },
-      {
-        "distance":2.975339539926223,
-        "dispensary":{
-          "id":"9113d78d-3864-4222-91a8-7321a42e5c33",
-          "city":"Bangkok",
-          "name":"SPACE SEED",
-          "types":[
-            
-          ],
-          "lat":13.8852573,
-          "lng":100.6233766,
-          "reviews_aggregate":{
-            "aggregate":{
-              "sum":{
-                "rating":15
-              },
-              "count":3
-            }
-          },
-          "reviews_misc_real":{
-            "aggregate":{
-              "sum":{
-                "rating":15
-              },
-              "count":3
-            }
-          },
-          "image":"2ec174c02d7a26a4b96ca013c677df0c",
-          "has_products":false,
-          "address":"139 117 ซ. พหลโยธิน 52 Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
-          "open":false
-        }
+      "close":{
+        "day":1,
+        "time":"1730"
       }
-    ]
-  }
+    },
+    {
+      "open":{
+        "day":2,
+        "time":"0800"
+      },
+      "close":{
+        "day":2,
+        "time":"1730"
+      }
+    },
+    {
+      "open":{
+        "day":3,
+        "time":"0800"
+      },
+      "close":{
+        "day":3,
+        "time":"1730"
+      }
+    },
+    {
+      "open":{
+        "day":4,
+        "time":"0800"
+      },
+      "close":{
+        "day":4,
+        "time":"1730"
+      }
+    },
+    {
+      "open":{
+        "day":5,
+        "time":"0800"
+      },
+      "close":{
+        "day":5,
+        "time":"1730"
+      }
+    },
+    {
+      "open":{
+        "day":6,
+        "time":"0800"
+      },
+      "close":{
+        "day":6,
+        "time":"1730"
+      }
+    }
+  ],
+  "line":"@sawasdeeclinic",
+  "google_url":"https://maps.google.com/?cid=1017030917076997400",
+  "place_id":"PuVWtpQwFfrP5wNETAK0PGf5UD5",
+  "facebook":"http://sawasdeeclinic.com/",
+  "description":"Leading Medical Cannabis-oriented Clinic in Bangkok Thailand.\n\nFound in 1994, We provide a wide range of diagnostic programs and therapies designed prevent the onset of disease and disability with holistic and alternative medicine such as Cannabinoid treatment, Thai herbal medicine, Acupuncture, rejuvenating treatment. \n\nสวัสดีคลีนิกเวชกรรม ด้วยประสบการณ์แพทย์ผู้เชี่ยวชาญเวชศาสตร์ฟื้นฟู แพทย์ผู้เชี่ยวชาญหลากสาขา ผู้นำด้านกัญชาทางการแพทย์และการดูแลผู้ป่วยประคับประคอง ผู้ป่วยมะเร็ง ภูมิคุ้มกันบกพร่อง อาการเสื่อมของระบบประสาทและกล้ามเนื้อ ฯลฯ",
+  "products_flowers":[
+    
+  ],
+  "products_seeds":[
+    
+  ],
+  "products_prerolls":[
+    
+  ],
+  "products_edibles":[
+    
+  ],
+  "products_topicals":[
+    
+  ],
+  "products_gear":[
+    
+  ],
+  "products_misc":[
+    {
+      "id":"9591e383-e4de-4ec4-894d-96437290c790",
+      "name":"Medical Cannabis Tincture",
+      "description":"สารสกัดน้ำมันกัญชาทางการแพทย์ สูตรเฉพาะตามอาการของผู้ป่วย อาทิ THCเด่น CBDเด่น THC:CBD รูปแบบ Full Spectrum เป็นต้น ภายใต้คำแนะนำของแพทย์",
+      "images":[
+        "15f64baf9715d7eeda022f04fe97edba"
+      ],
+      "disabled":false,
+      "created_at":"2022-11-25T17:56:39.201585+00:00",
+      "updated_at":"2023-04-16T17:00:10.147998+00:00"
+    }
+  ],
+  "reviews":[
+    {
+      "author":"สุทธิลักษณ์ อินทรประเสริฐ",
+      "avatar":"e14baf7b47533325285bf2273bab9409",
+      "content":"",
+      "review_date":"2022-12-12T11:48:24.572+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100033127782831806820?hl=en-US"
+    },
+    {
+      "author":"Satitpong Sunnongmuang",
+      "avatar":"05f12836406698551c28cfba26e4a430",
+      "content":"Good experience with the team and products. Thorough introduction to Cannabis and all the other herbs. Signature Massage is very relieving as well. Thank you Thank you all",
+      "review_date":"2022-11-06T13:22:57.524+00:00",
+      "rating":5,
+      "images":[
+        "9411155e3fcaaa02cbd88501b2e10b07"
+      ],
+      "url":"https://www.google.com/maps/contrib/100341135792118593518?hl=en-US"
+    },
+    {
+      "author":"Pimpisa Chernsirikasem",
+      "avatar":"fae3c5af919bd1fc6e5cf534760211d1",
+      "content":"Amazing experience, their products are really great. The staffs are very professional. 😊😊😊 by far the best cannabis massage oil in the market, for my muscle pain.",
+      "review_date":"2022-12-04T15:26:34.859+00:00",
+      "rating":5,
+      "images":[
+        "a954d1f717640065e4c6a67207fb5f92"
+      ],
+      "url":"https://www.google.com/maps/contrib/100492221997770845460?hl=en-US"
+    },
+    {
+      "author":"SSRU SSRU",
+      "avatar":"553314c57d973ae786705408c2f7205f",
+      "content":"THC for sleep\n\nupdate : I use THC few times a week for sleep and it also helps with my mood and stress during the day. Dosage need to be adjust depends on my condition but so far it works well. sometime I add some CBD to the regimen - Feeling great for the past couple months.",
+      "review_date":"2021-07-14T13:16:00.822+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100609329773765606934?hl=en-US"
+    },
+    {
+      "author":"ณัชตา ธรรมธนาคม",
+      "avatar":"42c579202b00dbfbe800d8a43aa5040a",
+      "content":"ดีมาก\n\n(Translated by Google)\nvery good",
+      "review_date":"2022-09-02T10:05:50.578+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100630866297443564766?hl=en-US"
+    },
+    {
+      "author":"Monrada Yamkasikorn",
+      "avatar":"a5a3974759493920285e275c3aad6ce8",
+      "content":"Excellent hospitality\n\nหมอใจดีมากกก\n\n(Translated by Google)\nExcellent hospitality\n\nvery kind doctor",
+      "review_date":"2020-01-15T13:16:55.511+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100805824089823905282?hl=en-US"
+    },
+    {
+      "author":"Nipapat Worawat",
+      "avatar":"851369372f66f044b2aed4dbd26e667e",
+      "content":"ปรึกษาเรื่องนอนไม่หลับกับคุณหมอจินตนา ทุกวันนี้นอนหลับได้ดีขึ้นช่วงเเรกต้องทานยานอนหลับตอนนี้หลับได้ปกติเเล้วค่ะ ไม่น่าเชื่อกัญชารักษาเราจริงๆค่ะ\n\n(Translated by Google)\nDiscuss insomnia with Dr. Jintana. Today I sleep better. At first I had to take sleeping pills. Now I can sleep normally. It's unbelievable that cannabis really heals us.",
+      "review_date":"2020-10-29T12:20:08.354+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100987512221351717471?hl=en-US"
+    },
+    {
+      "author":"Thicha Satchavit",
+      "avatar":"c7e9ff05c2b85724cf12c7d940da5cc3",
+      "content":"",
+      "review_date":"2022-11-13T20:38:43.283+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101074748087081903911?hl=en-US"
+    },
+    {
+      "author":"Sawasdee Clinic สวัสดีคลินิกเวชกรรม",
+      "avatar":"ae55796540e7655abf63b93e479f123a",
+      "content":"",
+      "review_date":"2022-10-22T09:32:57.34+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101893792917870922992?hl=en-US"
+    },
+    {
+      "author":"Ma Ma",
+      "avatar":"5bd1f8cee6b649b20b01f006204a802e",
+      "content":"",
+      "review_date":"2019-07-23T10:36:21.651+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101902845521652572109?hl=en-US"
+    },
+    {
+      "author":"Natthasit Yimrim",
+      "avatar":"7ca85f932cbc36838f293d99d363d66c",
+      "content":"",
+      "review_date":"2022-12-08T13:41:44.95+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102125277346546397427?hl=en-US"
+    },
+    {
+      "author":"ธนัท เรืองทอง",
+      "avatar":"e69d8ff408f0b96d3c36275686deba03",
+      "content":"",
+      "review_date":"2022-12-13T10:36:54.958+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102248631932548641037?hl=en-US"
+    },
+    {
+      "author":"Pitsanu Supho",
+      "avatar":"11a48f8bbc9677a0bba6c85f6f346e5f",
+      "content":"",
+      "review_date":"2022-11-06T13:36:27.574+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102811503764557837420?hl=en-US"
+    },
+    {
+      "author":"p n",
+      "avatar":"440270870e3a5322b0b9fc472e0e30d8",
+      "content":"เรามีอาการปวดไปหาหมอมาให้ยามากินไม่หายเเถมเเพงชิบหาย5000บาทเหมือนกับถูกหลอกขอเตือนเลยอย่าไป\n\n(Translated by Google)\nWe have pain to see a doctor to give medicine to eat.",
+      "review_date":"2021-06-20T21:04:14.751+00:00",
+      "rating":1,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103218638903993294848?hl=en-US"
+    },
+    {
+      "author":"Rusdy Rosli",
+      "avatar":"24c763f0d129ba23862c7e8a1674ff4d",
+      "content":"พนักงานและคุณหมอทุกคนบริการดีมาก และใส่ใจมากๆค่ะ จากที่อาการแย่มาก กินอาหารไม่ได้ อาเจียนตลอด ปวดขา  หลังจากได้น่ำมันกัญชาของสวัสดีคลินิก รู้สึกดีขึ้นแบบผิดตา อารมณ์ดีมาก ขาหายกระตุก ไม่ชา นอนหลับได้ กินอาหารได้ดีขึ้นมากๆ\nขอบคุณทางคุณหมอและทีมงานเจ้าหน้าที่ทุกๆคนค่ะ\nเสริมนิดนึงว่า บรรยากาศของคลินิคก็ดีมากๆด้วย มีความร่มรื่น ต้นไม้เยอะ ไปแล้วสบายใจมากค่ะ\n\n(Translated by Google)\nAll the staff and doctors are very good service. and very attentive from a very bad condition Unable to eat, constantly vomiting, leg pain after taking Sawadee Clinic's cannabis oil. I feel better, my mood is very good, my legs are twitching, I don't feel numb, I can sleep, I eat much better.\nThank you to the doctor and all staff members.\nadd a bit that The atmosphere of the clinic is also very good. There are many shady trees and I feel very comfortable.",
+      "review_date":"2022-01-23T08:53:17.034+00:00",
+      "rating":5,
+      "images":[
+        "3280c57a2325687f727be082c82ad713",
+        "2936e8d0ceb3fcae479c7e8230168cbc",
+        "6d09ded4e0100778040fb77e1ec24650",
+        "664fef92375c986b0e831a8c5badcd8e",
+        "d5228f90fce013f6677d8d96b337f534",
+        "e6b2d50517fe5e7f681c885f575ad959"
+      ],
+      "url":"https://www.google.com/maps/contrib/103267309712599836247?hl=en-US"
+    },
+    {
+      "author":"Paw Lebbaeus",
+      "avatar":"9a4e6d4d84ac95d2ccd2db8271d95577",
+      "content":"ถูกหลอกคุยกับหมอเเค่5นาทีได้ยาสมุนไพรไทยกัญชามากินเป็นเดือนเเล้วอาการก็เหมือนเดิมยาเเพงชิบหายเเละไม่มีเขียนบอกเลยว่าเป็นยาอะไรระวังอันตราย\n\n(Translated by Google)\nBeing deceived, talking to the doctor for only 5 minutes, taking Thai medicinal cannabis pills for a month and the symptoms are the same, the drug is expensive, and there is no written statement telling me what drug it is. Be careful of danger.",
+      "review_date":"2021-06-21T17:23:31.535+00:00",
+      "rating":1,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103281815338897223110?hl=en-US"
+    },
+    {
+      "author":"sawanya sesura",
+      "avatar":"65ff41952e7f5a11710412d1ad51cf32",
+      "content":"ประทับใจเป็นกันเองทั้งแพทย์และพนักงาน\nไม่อยากกลับเลยอะอยากนวดต่อ สบายคลายเครียด เจ้าหน้าที่สวยทุกคน\n\n(Translated by Google)\nImpressed by the friendly doctors and staff.\nI don't want to go back. I want to continue to massage. relax and relieve stress all beautiful staff",
+      "review_date":"2022-12-07T01:57:13.753+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103596724670676021701?hl=en-US"
+    },
+    {
+      "author":"Sirawit P.",
+      "avatar":"d15e58771a3c076a06ab7a983a228a99",
+      "content":"เจอคุณหมอด้วยอาการนอนไม่หลับ และปวดหลัง คุณหมอและเจ้าหน้าที่ให้คำแนะนำละเอียดดีมาก ใช้ยามาแล้วหลายเดือนอาการปวดแทบไม่เหลือเลย น้ำมันมีหลายแบบ ใช้แล้วไม่แพ้ ไม่มีผลข้างเคียง\n\n(Translated by Google)\nSaw the doctor with insomnia and back pain. The doctor and staff gave me very detailed advice. I've been using the drug for several months and the pain is almost nonexistent. There are many types of oil. not allergic to use no side effects",
+      "review_date":"2022-01-16T04:21:25.239+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103690831871344141623?hl=en-US"
+    },
+    {
+      "author":"Gunnar Larsen",
+      "avatar":"e68f9450100a73f299e16fba24777033",
+      "content":"I was there a few days ago. I went there for my PTSD and insomnia, and was told I was given thc drops. But it's not working at all. I been using / growing / making  medical cannabis for 8years, so I know  what I'm talking about. Seems like they say it's thc but it's not, more likely it's CBD, or maybe they just don't know what they give u. actually the oil seems, looks, smell and taste exactly the same as Swiss CBD I was given a few years ago in Switzerland.\nI even try to decarboxyle the oil to but with 0 effect, so it's no chance it can be thc-a in it eather ( thc-a is an inactive thc. To activate it to be working thc as we know it u need fat, heat and some time.\nAnyways Don't waste your money or time here. They just take your money and smile and don't really care what u get.",
+      "review_date":"2020-02-07T18:28:25.416+00:00",
+      "rating":1,
+      "images":[
+        "694711957140ac28f42a93d14673ef12"
+      ],
+      "url":"https://www.google.com/maps/contrib/103907910943311604549?hl=en-US"
+    },
+    {
+      "author":"Purichaya Sangiampong",
+      "avatar":"393fae8c23797cecf5338995194afced",
+      "content":"แนะนำสำหรับคนที่อยากรักษาด้วยกัญชา แล้วชีวิตจะเปลี่ยนไปเลยจ้า\nเคยได้ใช้รักษาตัวเองที่ต่างประเทศ ซื้อเองมาตลอด\nหาที่นี่เพราะมีหมอ ผู้เชี่ยวชาญแนะนำเพื่อความปลอดภัยดีที่สุด\n\n(Translated by Google)\nRecommended for people who want to treat with cannabis. Then life will change.\nUsed to treat myself abroad I always bought myself\nfind here because there is a doctor Expert advice for best safety",
+      "review_date":"2022-10-24T00:58:28.812+00:00",
+      "rating":5,
+      "images":[
+        "eac1cd41df125740cc791e0d71ee6e3f",
+        "53dc4f26e2ea37e444c4de40d211fe61",
+        "f3ae822e009eb34727669252f634957c",
+        "666f91b330d8abe3c85bffc4fd34301d",
+        "fc94ccad191008fa67cf2ba79107b132",
+        "1370d1038f5a63b1cb70cfac76da99e5"
+      ],
+      "url":"https://www.google.com/maps/contrib/103965655644214307557?hl=en-US"
+    },
+    {
+      "author":"kanteera toonla",
+      "avatar":"fcb3d58d5d7e6592fcf1607ac6be5963",
+      "content":"ครั้งที่ 1 ปลายปี 64 พาญาติมารักษามะเร็ง\nมาอีกรอบ 65 มารักษานอนไม่หลับของตัวเอง\nน้ำมันกัญชาของสวัสดี ดีกว่าของที่อื่นมาก ใช้แล้วไม่มึนหัว หลับไปเลย\nสลับกับใช้ยาดม ตอนกลางวัน relax\nสลับใช้บ้างหยุดบ้าง ตามแต่วันไหนนอนไม่หลับ หรือเครียด 😀\nสั่งยาต่อทางไลน์ ส่งเร็วค่ะ ซื้อฝากแนะนำคนอื่นอีกหลายคน\n\n(Translated by Google)\n1st time, at the end of the year 64, brought relatives to treat cancer\nCome again, 65 come to treat my own insomnia.\nSawasdee's Hemp Oil Much better than other places After using it, don't feel dizzy, go to sleep.\nAlternate with using inhalers during the day to relax.\nSwitch some use and stop some. According to the day when I can't sleep or stress 😀\nContinue to order via line. Fast delivery. Buy and recommend to many other people.",
+      "review_date":"2022-10-24T01:26:10.117+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104375903600340328894?hl=en-US"
+    },
+    {
+      "author":"PPP Gems",
+      "avatar":"fae3c5af919bd1fc6e5cf534760211d1",
+      "content":"the massage oil and pill work very well to kill my pain and aid my sleep at night. again - THC is wonderful.\n\nWonderful team. Thank you very very much for your service.",
+      "review_date":"2020-06-08T16:03:31.851+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104553998415073508347?hl=en-US"
+    },
+    {
+      "author":"Susanne Erika Erbeck Habiro",
+      "avatar":"7098decd964da960bfda1f89cbd293a7",
+      "content":"",
+      "review_date":"2022-08-30T04:41:43.63+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104640340272221179745?hl=en-US"
+    },
+    {
+      "author":"Ja Ja",
+      "avatar":"bd787095f2cc4cbfae84575dc68f6fd5",
+      "content":"โทรไปสอบถามข้อมูล คนรับสายพูดไม่ดีมากค่ะ เราถามไปว่ามียา...... ยังไม่ทันบอกเลยว่ายาอะไร ตัดสายเราเลยค่ะ ปล.ถามแค่ 1 คำถาม ยังไม่ได้คุยอะไรเลย ควรปรับปรุงการบริการมากๆค่ะ\n\n*หลังจากรับบริการ คนไข้ปวดเหมือนเดิมหรือมากกว่าเดิม นอนไม่หลับตื่นมากกว่า 10 ครั้ง สอบถามไม่ได้รับคำนำแนะต่อใดๆเลยค่ะ ค่ายาแพงมาก ก่อนไปบอก1-3 พัน แต่ความจริง 9 พันสำหรับ 1 เดือน\n\n(Translated by Google)\nCall for information The person answering the phone doesn't speak very well. We asked if there was a pill...... I didn't even tell you what pills. Just cut off the phone. PS. Asking only 1 question, haven't talked anything yet. Service should be improved a lot.\n\n*After receiving service The patient's pain is the same or more than before. Can't sleep, woke up more than 10 times, did not ask for any further advice. The cost of the drug is very expensive. Before going to tell 1-3 thousand, but the truth is 9 thousand for 1 month.",
+      "review_date":"2019-12-08T09:57:00.567+00:00",
+      "rating":1,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104799524040707646667?hl=en-US"
+    },
+    {
+      "author":"อุกฤษณ์ ดีสีแก้ว",
+      "avatar":"51cf0c2e9c8d4be0661f27b1f4407bd5",
+      "content":"",
+      "review_date":"2022-12-11T09:51:25.999+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104950308497199909677?hl=en-US"
+    },
+    {
+      "author":"สิงห์สาคร ไชยคต",
+      "avatar":"51cf0c2e9c8d4be0661f27b1f4407bd5",
+      "content":"",
+      "review_date":"2022-12-12T05:51:56.653+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104963399143987753498?hl=en-US"
+    },
+    {
+      "author":"เฉลิมชัย สาลี",
+      "avatar":"67698214e31af8b2580e4ec467646621",
+      "content":"",
+      "review_date":"2023-01-04T04:58:18.48+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105101224021518437535?hl=en-US"
+    },
+    {
+      "author":"ฉัตรชัย ทองพูล",
+      "avatar":"8850b083dda12f31a4c791d42b1bf494",
+      "content":"ผมป่วยเป็นโรคมะเร็ง​มา15ปีผ่าตัดใหญ่มา3ครั้ง/ฉายรังสี60กว่าครั้ง/ให้สารกัมมัน​ต​รังสี​มา​5​ครั้ง​ ให้รังสีครั้งล่าสุดมะเร็งเริ่มดื้อยาผมเจ็บบริเวณใกล้ตับอ่อน​ ก่อนหน้านี้มีญาติ​แนะนำให้ใช้น้ำมันกัญ​ชา​เมื่อ2ปีที่แล้วผมไม่เชื่อว่าจะรักษาให้หายได้จึงไม่ใช้จนหลังให้ยาครั้งหลังสุดอาการไม่ดีขึ้นปวดใกล้บริเวณ​ตับอ่อน​มากจึงตัดสินใจมาลองรักษาน้ำมัน​กัญ​ชา​เริ่มเดือนก.พ65ที่สวัสดี​คลีนิ​ก​เวชกรรม​เหลือเชื่อครับ5วันอาการปวดผมดีขึ้นอย่างเห็นได้ชัดตอนนี้รักษามา4เดือนแล้วอาการภาพรวมดีขึ้นมากการใช้ชีวิตเป็นปกติเลยครับจากเดิมไม่มีความหวังว่าจะหาย​ตอนนี้ผมเริ่มเห็นแสงสว่างว่ามีโอกาสหายแน่นอนครับผมขอขอบพระคุณ​ท่านอาจารย์​จินตนา​ฯและบุคลากร​ของสถาบั​นที่ดูแลเป็นอย่างดีครับ\n\nขอบพระคุณ​ครับ\n\n(Translated by Google)\nI have been suffering from cancer for 15 years, have had 3 major surgeries/ 60+ radiotherapy sessions/ 5 radioactive treatments. The last radiation, the cancer became resistant, the hair hurt near the pancreas​ Previously, relatives suggested using cannabis oil 2 years ago, I didn't believe it could be cured, so I didn't use it until after the last dose, my symptoms didn't improve, my pain was very close to the pancreas. Decided to try cannabis oil treatment, starting in Feb. 65 at Sawasdee Medical Clinic. Incredible. 5 days, my pain has clearly improved. Now I have been treated for 4 months. Overall symptoms are good. More and more life is normal. From the beginning, there was no hope of recovery. Now I start to see the light that there is a chance to recover for sure. I would like to thank Ajarn Jintana and the staff of the institute Take good care\n\nThank you",
+      "review_date":"2022-05-11T08:35:07.088+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105239287124596972382?hl=en-US"
+    },
+    {
+      "author":"fara basada",
+      "avatar":"b326df60151545131948fbe853ccf6a5",
+      "content":"โชคดีที่ได้มาเจอคุณหมอค่ะ ใครเป็นมะเร็ง มาเลยค่ะ ก่อนอาการจะลามไปไกล\n\n(Translated by Google)\nFortunately, I met Dr. Who has cancer, come before the symptoms spread far.",
+      "review_date":"2022-10-24T08:16:04.806+00:00",
+      "rating":5,
+      "images":[
+        "700249ce3b705316723fc7722c8d2df4"
+      ],
+      "url":"https://www.google.com/maps/contrib/105628445653012722875?hl=en-US"
+    },
+    {
+      "author":"Eldero Health",
+      "avatar":"4e889f16cfd87d2962f491e9de9d78c2",
+      "content":"เอาไปให้คนที่บ้าน คุณแม่ชอบยาดมมากๆ นอนหลับสนิท พอนอนหลับสบายทั้งคืน ตื่นมาก็ไม่มึน ไม่ตื่นระหว่างคืนเลย ช่วยเรื่องการนอนได้ดีมากๆ อยากแชร์ให้คนป่วยทุกคนเปิดใจดู\n\n(Translated by Google)\ntake it to the people at home My mother likes the inhaler very much. Sleep well enough to sleep well all night. wake up not dizzy not waking up during the night at all It helps in sleeping very well. I want to share with everyone who is sick. Open your heart to see.",
+      "review_date":"2022-02-08T17:06:18.744+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105684903980946346877?hl=en-US"
+    },
+    {
+      "author":"The Pimmm",
+      "avatar":"910732667dcdb2ace18e6091ccad9959",
+      "content":"เจ้าหน้าที่ทุกท่านให้บริการดีเยี่ยม ยิ้มแย้มแจ่มใส ให้ข้อมูลได้ดี ทางแพทย์ให้คำแนะนำดีมาก ใจดี ยานวดใช้ดีกลิ่นหอมดมแล้วรู้สึกผ่อนคลาย\n\n(Translated by Google)\nAll staff provide excellent service. beaming good information The doctor gave very good advice, was kind, the massage was good to use, the smell was good and I felt relaxed.",
+      "review_date":"2022-12-07T01:59:33.468+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105786542438611569243?hl=en-US"
+    },
+    {
+      "author":"Setthawut Thongmee",
+      "avatar":"9127e625e5720366f6fa005606fbc2ab",
+      "content":"",
+      "review_date":"2022-10-22T10:06:20.867+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106432506430358043148?hl=en-US"
+    },
+    {
+      "author":"Rasa Kongprasert",
+      "avatar":"0576458e6fe562fb94e31cb152be07a3",
+      "content":"",
+      "review_date":"2022-11-14T00:32:27.501+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106481980198107760878?hl=en-US"
+    },
+    {
+      "author":"P. Hunter",
+      "avatar":"837788b901b6c4376c5ae10ff7110b5c",
+      "content":"Excellent support from doctor and service\nRecommend for pain relief by CBD\n\nPlus great atmosphere and safe distant consultation area even during covid",
+      "review_date":"2022-01-14T16:20:21.855+00:00",
+      "rating":5,
+      "images":[
+        "c47b2e3ad25cc191899ee553042ed846"
+      ],
+      "url":"https://www.google.com/maps/contrib/106718418220751897570?hl=en-US"
+    },
+    {
+      "author":"jirttawat.sketchup1 123",
+      "avatar":"36342e7e63c042ae1f1e9dbdb28f1aa3",
+      "content":"Relaxing atmosphere. Knowledgeable staff. Overall satisfying experience.",
+      "review_date":"2023-01-22T09:38:57.126+00:00",
+      "rating":5,
+      "images":[
+        "79dfdf3d09763099f24c3d237020d91b",
+        "ab35e00797864754fe877179bbc22ab0"
+      ],
+      "url":"https://www.google.com/maps/contrib/106910245407675310633?hl=en-US"
+    },
+    {
+      "author":"Vega punk",
+      "avatar":"f45c3eaf632fe10a5aca16ee223ea4ec",
+      "content":"I had an excellent experience with them. Nun(Noon?) helped me at every step and they provide online assistance after the appointment. I highly recommend Sawasdee clinic.",
+      "review_date":"2021-08-03T09:52:21.418+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107004764785700659758?hl=en-US"
+    },
+    {
+      "author":"ศิวกร โกษะสุทธะ",
+      "avatar":"9881d04f3e8d6c3ee933e0b209129cb4",
+      "content":"",
+      "review_date":"2023-02-14T10:45:28.799+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107318359174274378713?hl=en-US"
+    },
+    {
+      "author":"Antoine Pllx",
+      "avatar":"d0918f9d5755058f2fc41d344d6c8442",
+      "content":"",
+      "review_date":"2019-10-22T05:40:41.579+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107392931834716491786?hl=en-US"
+    },
+    {
+      "author":"Jdai Kasana",
+      "avatar":"e947004ac32f54d010fdb2d6ea6b501c",
+      "content":"",
+      "review_date":"2019-02-26T22:45:04.335+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107406135164620744395?hl=en-US"
+    },
+    {
+      "author":"Paullyn Lu",
+      "avatar":"cf4377502b9b46b567e68408a295f75a",
+      "content":"Excellent service by the doctor.\nWent in for my insomnia and chronic inflammation issues and the medicines given+doctors advice helped me stopped my daily sleeping pills +Advil\n\nAlso recommended friend's mom to get treated for her pain from chemo and she was very happy she could eat and sleep again.\nDefinitely recommend 👍🏻👍🏻👍🏻",
+      "review_date":"2022-01-14T11:06:31.04+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107464714221641646222?hl=en-US"
+    },
+    {
+      "author":"Kwanjira D.",
+      "avatar":"88b7b00bba562fe44e4490a4ff216870",
+      "content":"",
+      "review_date":"2022-11-13T14:50:24.706+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107628422498153050091?hl=en-US"
+    },
+    {
+      "author":"ณัฐธยาน์ บัวดํา",
+      "avatar":"e69d8ff408f0b96d3c36275686deba03",
+      "content":"",
+      "review_date":"2023-02-14T08:49:08.891+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107869872634346893030?hl=en-US"
+    },
+    {
+      "author":"Suthacha Ruangves",
+      "avatar":"0780ae2d302f445f2f2189d69f943f9c",
+      "content":"",
+      "review_date":"2022-10-13T06:28:59.385+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107881655574068218545?hl=en-US"
+    },
+    {
+      "author":"Puping Manorompatrasal",
+      "avatar":"b0b5f2295cdc9450c57ed4ada0c9d4ce",
+      "content":"",
+      "review_date":"2019-06-10T13:44:58.564+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107974959596426288478?hl=en-US"
+    },
+    {
+      "author":"Dokoo Zaa",
+      "avatar":"2a318218177756e61e4a50676c611815",
+      "content":"ดอก​ส้ม​หล่น​หาย​เจ็บ​กลับมา​ลงสนาม​เป็นตัว​จริง​ใน​ร้าน​ขาย​สินค้า​และ​บริการ​ของเรา​เอง​ได้​แล้ว​ที่นี่​มี​สาระ​ความรู้​รอบตัว​บอร์ด​บริหาร​จัดการ​พื้นที่​จังหวัด​ภาคใต้​ฝั่ง​ตะวันออก​มี​ฝนฟ้า​คะนอง​กระจาย​ร้อยละ​ของ​พื้นที่​ส่วนมาก​บริเวณ​จังหวัด​นครสวรรค์​อุทัยธานี​กาญจนบุรี​และ​ราชบุรี​อุณหภูมิ​สูงสุด​องศาเซลเซียส​สวัสดี​ค่ะ​คุณ​มา​สัมผัส​บรรยากาศ​\n\n(Translated by Google)\nSom Dok fell, recovered from pain, returned to the field as a real person in our own goods and service shop, here is the essence Be aware of the area management board in the southern provinces, east coast, scattered thunderstorms in a percentage of most areas in Nakhon Sawan, Uthai Thani, Kanchanaburi and Ratchaburi, the highest temperature in degrees Celsius. Hello, you come to experience the atmosphere.",
+      "review_date":"2019-06-08T17:07:32.414+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108010615808730688207?hl=en-US"
+    },
+    {
+      "author":"Napuck Ms",
+      "avatar":"1f0760501a6421bb1df3c8c40dca329f",
+      "content":"",
+      "review_date":"2019-07-13T01:38:32.501+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108043172906045359724?hl=en-US"
+    },
+    {
+      "author":"NamNam Intaramongkon",
+      "avatar":"c1acde708ea2c59ca0a076cec74388c7",
+      "content":"รู้สึกประทับใจ ได้รับการบริการดีมาก\nอาการภูมิแพ้ดีขึ้น อยากแชร์ค่ะ\n\n(Translated by Google)\nfeel impressed received very good service\nAllergy symptoms are better. I want to share.",
+      "review_date":"2022-12-07T01:57:43.687+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108055258968897204760?hl=en-US"
+    },
+    {
+      "author":"Janine Lee",
+      "avatar":"b7317e6eac3cb842c6fb0a41313e43fc",
+      "content":"Accredited doctors. Very reasonable price compared to other clinics in Thailand.\n\nJust moved to Thailand this year and I was struggling to get my prescriptions I had back in the states. Had to deal with a lot of far less pleasant, expensive (5 times the price here), scammy clinics around the country before I found the real deal.\nThe doctors, the staff, the experience was 10/10.",
+      "review_date":"2022-10-22T11:38:21.208+00:00",
+      "rating":5,
+      "images":[
+        "d29120624097e0fb2d1b591cd078f8ee"
+      ],
+      "url":"https://www.google.com/maps/contrib/108215950147568596576?hl=en-US"
+    },
+    {
+      "author":"Pratthana Buamadee",
+      "avatar":"fae3c5af919bd1fc6e5cf534760211d1",
+      "content":"",
+      "review_date":"2019-06-11T13:26:54.544+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108436752858159599046?hl=en-US"
+    },
+    {
+      "author":"Ring Robin",
+      "avatar":"30f89e355fd35736bda37583b73571c8",
+      "content":"*update* Certificate approved by authority.\n\nenglish speaking. great team and professional.\nwas there to seek medical help and get the best service.",
+      "review_date":"2019-12-24T03:36:58.451+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108688570836733163622?hl=en-US"
+    },
+    {
+      "author":"Sireeras Datejaratsri",
+      "avatar":"4f88dccd001f2af06eda21bc0126930c",
+      "content":"ขอบพระคุณคุณหมอ และเจ้าหน้าที่ค่ะ คลินิกบรรยากาศดีมากๆ\nได้รับคำปรึกษา และ ความช่วยเหลืออย่างดี ตอนนี้สุขภาพแข็งแรงขึ้นมาก แนะนำเพื่อนไปหลายคนประทับใจ\n\n(Translated by Google)\nthank you doctor and staff The clinic atmosphere is very good.\nGet good advice and help. Health is much stronger now. Recommended to many friends. Impressive.",
+      "review_date":"2022-02-06T09:52:06.034+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108940799884265536418?hl=en-US"
+    },
+    {
+      "author":"sosleep co",
+      "avatar":"65ff41952e7f5a11710412d1ad51cf32",
+      "content":"เจอคุณหมอด้วยอาการนอนไม่หลับ และปวดหลัง คุณหมอและเจ้าหน้าที่ให้คำแนะนำละเอียดดีมาก ใช้ยามาแล้วหลายเดือนอาการปวดแทบไม่เหลือเลย น้ำมันมีหลายแบบ ใช้แล้วไม่แพ้ ไม่มีผลข้างเคียง โดยรวมพอใจมากค่ะ\n\n(Translated by Google)\nMet the doctor with insomnia and back pain. The doctor and the staff gave very detailed advice. I have been using the drug for several months and the pain is almost gone. There are many types of oil. Used and not allergic no side effects Overall, very satisfied.",
+      "review_date":"2022-01-14T10:58:22.609+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109588846030672625263?hl=en-US"
+    },
+    {
+      "author":"rajchanok wat",
+      "avatar":"6d053e7de94c041bc53dfe797de4917e",
+      "content":"",
+      "review_date":"2022-08-24T03:39:16.193+00:00",
+      "rating":1,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109942901077989670994?hl=en-US"
+    },
+    {
+      "author":"Patarasak Manorompatrasal",
+      "avatar":"6421946d610ca785b986a4db253cdd53",
+      "content":"",
+      "review_date":"2022-12-07T05:29:34.777+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110037855936610007420?hl=en-US"
+    },
+    {
+      "author":"Puping Manorompatrasal",
+      "avatar":"856a4c95c6f81ba2d9fa376d9c1de473",
+      "content":"Great Service. Very attentive and caring. Prices are reasonable given the high quality care I receive. 5 stars recommend",
+      "review_date":"2020-08-09T03:06:32.307+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110175616402553602392?hl=en-US"
+    },
+    {
+      "author":"นางจินตนา มโนรมย์ภัทรสาร",
+      "avatar":"11c04e336358dd5fe1c227e27ff462dc",
+      "content":"คลีนิคมืออาชีพมากๆค่ะ\n\n(Translated by Google)\nThe clinic is very professional.",
+      "review_date":"2022-10-22T10:17:43.884+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110487046584892801830?hl=en-US"
+    },
+    {
+      "author":"Greg Davinson",
+      "avatar":"c65eafc953ae36f0af46a253c89a327a",
+      "content":"Recommended through friends. Exceptional Service!\n\nHealth professionals and anyone who treat senior patients can benefit from increasing their knowledge of cannabis use among this vulnerable population. For starters, many senior citizens have a preference for more natural pain remediation strategie. Many of them turn to cannabis topicals for hope.\n\nThe endocannabinoid system is a complex system  present in the body that helps regulate homeostasis. It works alongside many other systems, such as the nervous system, to help the body function properly. It  works by using cannabinoids, both naturally-occurring in the body or those taken from cannabis plants, to bind with  cannabinoid receptors, much like a lock and key.\n\nTrusted doctor who care deeply about your conditions and family.",
+      "review_date":"2020-08-31T09:04:45.472+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110720183822262709861?hl=en-US"
+    },
+    {
+      "author":"panupong apitz",
+      "avatar":"e6876a353dd594dc0e1bd62a0ae65118",
+      "content":"",
+      "review_date":"2022-12-08T13:47:59.172+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110928392047048344711?hl=en-US"
+    },
+    {
+      "author":"Thongchai Panngoen",
+      "avatar":"beef6234df41e4fbccb4a9e2b055b090",
+      "content":"",
+      "review_date":"2023-01-24T08:59:32.984+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110996630823561714392?hl=en-US"
+    },
+    {
+      "author":"patarapen m",
+      "avatar":"52ebba144f0114b8d259b7f0cf47dca4",
+      "content":"คำแนะนำโดยแพทย์ เภสัช มีประโยชน์\n\n(Translated by Google)\nAdvice from a doctor, pharmacist, useful",
+      "review_date":"2019-04-01T07:44:26.026+00:00",
+      "rating":5,
+      "images":[
+        "323973c5e388b54c63099885ad29e08e"
+      ],
+      "url":"https://www.google.com/maps/contrib/111489470929693768119?hl=en-US"
+    },
+    {
+      "author":"Kankan Techapai",
+      "avatar":"4eaedb1cfa1289b47bcf9053f4ef448b",
+      "content":"",
+      "review_date":"2021-03-21T02:19:38.356+00:00",
+      "rating":4,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111579170310492390147?hl=en-US"
+    },
+    {
+      "author":"Ana win",
+      "avatar":"3cd227b302672cc76bbf3c79c8b10f9e",
+      "content":"",
+      "review_date":"2015-07-09T23:12:46.149+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111638403695127897033?hl=en-US"
+    },
+    {
+      "author":"paw him",
+      "avatar":"b1e1fc23d7d13645a0f3038a0b6b71fb",
+      "content":"ไปครั้งเดียวเเล้วก็เป็นครั้งสุดท้ายหมอให้ยามา5ชนิด5000 บาทใช้เเล้วไม่หายเสียดายเงินเสียดายเวลา.\n\nWasting time and money expensive experience got medicine but doesn't help me at all.\n\n(Translated by Google)\nWent once and it was the last time the doctor gave me 5 kinds of medicine 5000 Baht used and not lost, regret money, regret time.\n\nWasting time and money expensive experience got medicine but doesn't help me at all.",
+      "review_date":"2021-05-21T21:05:50.674+00:00",
+      "rating":1,
+      "images":[
+        "6f21532fe59a37f4f5d6e2d15aa49aa7"
+      ],
+      "url":"https://www.google.com/maps/contrib/111862889314924896493?hl=en-US"
+    },
+    {
+      "author":"Lalida Wongbenjarat",
+      "avatar":"62783c24b80f297e744c86e883921039",
+      "content":"รักษามะเร็งปอด ! ด้วยกัญชา\n\n(Translated by Google)\nCure lung cancer! with cannabis",
+      "review_date":"2022-11-06T15:08:25.263+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112459907163495251670?hl=en-US"
+    },
+    {
+      "author":"Rung Tangpat",
+      "avatar":"972c1927d3c1c312781710ecfc41e41f",
+      "content":"",
+      "review_date":"2020-02-21T11:41:23.453+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112596053630697385237?hl=en-US"
+    },
+    {
+      "author":"Pat M.",
+      "avatar":"4ee8dae675453467fa233ca0daf8c3b2",
+      "content":"ขอบคุณคุณหมอที่ช่วยดูแลอย่างดี ตอนนี้อาการดีขึ้นมาก สบายตัวขึ้น หายปวด\nผลดี ตามภาพ\n\n(Translated by Google)\nThank you doctor for taking good care of me. Now my symptoms are much better, I feel better, my pain is gone.\ngood result as pictured",
+      "review_date":"2022-01-16T04:15:19.675+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112654892189877940158?hl=en-US"
+    },
+    {
+      "author":"Al wee",
+      "avatar":"f40dd53b1fc1d00bf06909c61c764994",
+      "content":"",
+      "review_date":"2019-12-06T19:53:31.589+00:00",
+      "rating":3,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113491065170625907211?hl=en-US"
+    },
+    {
+      "author":"Pornrapee M.",
+      "avatar":"b0b5f2295cdc9450c57ed4ada0c9d4ce",
+      "content":"",
+      "review_date":"2022-01-14T11:46:02.826+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113971508049448496416?hl=en-US"
+    },
+    {
+      "author":"Vilairat P",
+      "avatar":"e70be6bab56ccc6659a59d5872eec107",
+      "content":"เป็นคลืนิกสอาด บริการดี แพทย์เอาใจใส่ให้ความรู้ดี ยาที่ใช้คุณภาพดี ร่างกายตอบสนองได้ดีคะ\n\n(Translated by Google)\nIt is a clean clinic, good service, doctors are attentive and knowledgeable. Good quality drugs The body responds well.",
+      "review_date":"2022-12-07T02:01:48.595+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114035709964743347089?hl=en-US"
+    },
+    {
+      "author":"Chagun Official",
+      "avatar":"cc1ddc9acaa5d8977deed96f39871f95",
+      "content":"ลองหาหมอมาหลายแขนง ไม่เคยหาย จนศึกษสการรักษาด้วยกัญชา มาเจอที่นี่ มีทั้งหมอแผนปัจจุบันและหมอแผนไทย รู้สึกดีขึ้น กินได้นอนหลับสนิทเป็นครั้งแรก พนักงานช่วยเหลือดีมาก สุภาพ ขอบคุณจริงๆ ครับ คุณภาพสมราคา\n\n(Translated by Google)\nTrying to find many kinds of doctors, never recovered until studying cannabis treatment. Found here, both modern and traditional healers, feeling better, eating and sleeping soundly for the first time. The staff are very helpful, polite, thank you very much. Quality is worth the price.",
+      "review_date":"2022-10-22T11:21:38.442+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114051666137233007804?hl=en-US"
+    },
+    {
+      "author":"Atikhom Phungwat",
+      "avatar":"838b16f7ed0b98c7288bee37a0697b52",
+      "content":"",
+      "review_date":"2019-06-21T23:55:39.732+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114390408066966013009?hl=en-US"
+    },
+    {
+      "author":"Casey w",
+      "avatar":"4b3435d70e875e654fa12f04176e2532",
+      "content":"",
+      "review_date":"2023-01-03T15:29:34.318+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114512927266614092828?hl=en-US"
+    },
+    {
+      "author":"Parinyimz",
+      "avatar":"777c8b85656ef88329e1f262e8dc4215",
+      "content":"พาคุณยายมารักษาครั้งที่สอง มาเดือนละครั้ง คุณยายไม่ปวด กินข้าวได้ บริการดีค่ะ\nUpdate:คุณยายเสียไปแล้วค่ะ หลังจากรักษามา5เดือนที่นี่ช่วยได้เยอะ บรรเทาความทรมาน ความเจ็บปวด\n\n(Translated by Google)\nTake Grandma for a second treatment. Come once a month. Grandma doesn't have pain. You can eat. Good service.\nUpdate: Grandma has passed away. After 5 months of treatment here it helps a lot. alleviate pain, pain",
+      "review_date":"2021-09-26T03:46:31.491+00:00",
+      "rating":4,
+      "images":[
+        "e3fbfd907aeeae9faaa1ea44d23e2c04",
+        "4042f03350fad279a2434e174dba160b",
+        "6bb73baca91832376c3ab9d9164c7a74",
+        "4a915d0c1043298e01d0bd6a4c2cef3a"
+      ],
+      "url":"https://www.google.com/maps/contrib/114825192343215649197?hl=en-US"
+    },
+    {
+      "author":"tim book",
+      "avatar":"af2e85e389396201b70a36580a21302a",
+      "content":"Great people and place.",
+      "review_date":"2019-11-12T09:08:10.733+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114922446975256912361?hl=en-US"
+    },
+    {
+      "author":"pawadee sudcharee",
+      "avatar":"f2ec7742d702fa9c8f417e38d016d3b3",
+      "content":"ยาที่คุณหมอให้มาใช้ดีมาก นอนหลับสบายเช้าตื่นมาสดชื่นลุยงานได้ต่อ น้ำมันนวดใช้ดีมากกๆค่ะ แนะนำ\n\n(Translated by Google)\nThe medicine your doctor gave you is very good. Sleep well in the morning, wake up refreshed and continue to work. Massage oil is very good to use. Recommended.",
+      "review_date":"2022-10-13T05:53:30.483+00:00",
+      "rating":5,
+      "images":[
+        "e192415bdde5e3ec62e5453e9c465ec7"
+      ],
+      "url":"https://www.google.com/maps/contrib/115643718972844164308?hl=en-US"
+    },
+    {
+      "author":"Tony Travels",
+      "avatar":"c90ebf71abdc06dfadf10b45ea7c9017",
+      "content":"I've been using Cannabis in all it's forms for 30 years plus. I went to Sawasdee for chronic pain and inflammation from old sports injuries, insomnia and anxiety. I had been to multiple other clinics in Thailand before - Phuket, Pattaya and Bangkok - so my expectations were low. Other Clinic's products were either crudely produced and overpriced (600% more than Sawasdee at one place) or they were Pharma Grade but Isolates and not a Full-Spectrum (natural) extract and STILL overpriced 4-500% compared with Sawasdee. Regardless, I was blown away by the quality and potency of Sawasdee's oil. I would like to try other products now. Price was also amazing, extremely reasonable. Best products at the best price in my experience but I've only tried their extracts/tinctures/oils. Definitely worth your time.",
+      "review_date":"2022-03-11T05:42:17.126+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115731781820175317452?hl=en-US"
+    },
+    {
+      "author":"Lalida Wongbenjarat",
+      "avatar":"aa7e67457e299e631d7118a17a327459",
+      "content":"Superb result for stress relief, highly recommended",
+      "review_date":"2022-01-17T11:50:22.328+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115787710887064791302?hl=en-US"
+    },
+    {
+      "author":"Christian James Nazareth",
+      "avatar":"b3749975f9dda57c5425b60511ffea82",
+      "content":"I had the chance to visit the clinic and it opened my mind in terms of medical cannabis. The doctors are very knowledgeable and they make sure that there is safety and proper care given to patients. Their practice is one that is evidence-based and giving accessible and quality medical cannabis to patients of any kind is something very admirable.",
+      "review_date":"2022-12-09T01:39:18.58+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115949862383283783427?hl=en-US"
+    },
+    {
+      "author":"Jaruwan Teanmahasatid",
+      "avatar":"84e1383d3c0f32bef339a50aab349932",
+      "content":"",
+      "review_date":"2022-10-22T11:28:11.514+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116503257351756254472?hl=en-US"
+    },
+    {
+      "author":"iKhaokho Khaokho",
+      "avatar":"4596aced92d7696fb2b80dab7c1db4f6",
+      "content":"เป็นคลินิกกัญชาทางเลือก ที่รักษาโรคแบบใหม่ที่ประสานกับการใช้กัญชาและสมุนไพรไทยที่ไม่มีสารเคมีเผื่อท่านใดอยากมาใช้บริการนะครับ ผมแนะนำว่ามาทดลองได้เลยหาไม่ยากบริการดีคุณหมอ และเจ้าหน้าที่มีความเชี่ยวชาญแนะนำดี\n\n(Translated by Google)\nIt is an alternative cannabis clinic. A new treatment that coordinates with the use of marijuana and Thai herbs without chemicals in case anyone wants to use the service. I recommend that you come and try it. It's not difficult to find. Good service doctor. And the staff has expertise and good advice.",
+      "review_date":"2022-05-05T06:19:07.602+00:00",
+      "rating":5,
+      "images":[
+        "151785d017fd88b37cfcdf25856a296d",
+        "9869fd5575ed75670145defbf7a2bf0d",
+        "f0607b32df10fab94ff3da9ec04467d5",
+        "27da543283e746e1b9494ab4e3c14007",
+        "152e65b25af8aed6bafc57170edcc1a9",
+        "42ab89d5b928a226078365865d73e4c2",
+        "b415db4a3bfc9d3aef3e447a5d385eed",
+        "c5439296443a7f061450649646828d5b",
+        "71b03fee5ae26d691b172981d576609b",
+        "3d7ce257c4901eb588397d0c3432f03f",
+        "55dc2eefeece12ec9ce65e1fdd76c942",
+        "dc7398d7efd276c1d39b665c5d73c507",
+        "ea18cdf6805f581576d93d8adc84b7b9",
+        "d1d0bb26213292bdd4a8223ee2bbcb0b",
+        "242202a7d422ff61af7a78ebcdf2a4ab",
+        "c27fd839f78182aec83b1e44bfd9942a",
+        "98fdf2435b821c10a92313db1daad782",
+        "a126fb870cb567d2018e0c1ecc60b8cf",
+        "d0fe051288bff61180faee5d1da05140"
+      ],
+      "url":"https://www.google.com/maps/contrib/116757072595253834402?hl=en-US"
+    },
+    {
+      "author":"Satitpong Sunnongmuang",
+      "avatar":"0780ae2d302f445f2f2189d69f943f9c",
+      "content":"Thank you for the care and nice massage cannabis treatment for my pain and migraine..\n\nOnline consultation : available\nCar park : available\nEnglish speaking : Available",
+      "review_date":"2023-02-01T09:12:31.462+00:00",
+      "rating":5,
+      "images":[
+        "52f9e16c1f27b1694ee902a06483d034"
+      ],
+      "url":"https://www.google.com/maps/contrib/117102233258769356979?hl=en-US"
+    },
+    {
+      "author":"Chai Re",
+      "avatar":"f704be537db8a60a5b4ffd5e60ab34b4",
+      "content":"",
+      "review_date":"2019-03-27T06:58:50.267+00:00",
+      "rating":4,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117186778717533903073?hl=en-US"
+    },
+    {
+      "author":"Luxsika Kateburome",
+      "avatar":"2ab10449627509f025e14ade976174f4",
+      "content":"",
+      "review_date":"2022-12-05T00:29:42.194+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117966202932218823388?hl=en-US"
+    },
+    {
+      "author":"Aruch Sakunee",
+      "avatar":"d9c3fbf2c47ffaa6b3f30f15da8b2c43",
+      "content":"(Translated by Google) I highly recommend this clinic, very professional\n\n(Original)\n特别推荐这家诊所，很专业",
+      "review_date":"2022-12-10T06:25:56.392+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/118013837081175010023?hl=en-US"
+    },
+    {
+      "author":"Toby Brennan",
+      "avatar":"d280803c8c893b87af454b32ddc8d274",
+      "content":"Please do not use Sawasdee for Cbd. The quality is inadequate and contains little to no cbd, which should be unthinkable considering the inflated prices. Do yourself a favour and buy through a legit Cbd seller online as opposed to this fraud ‘clinic’ which quite frankly should be shut down for this scam operation.",
+      "review_date":"2021-06-16T09:21:07.602+00:00",
+      "rating":1,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/118255427000574927453?hl=en-US"
+    },
+    {
+      "author":"นส.สมใจ รักอินทร์",
+      "avatar":"51cf0c2e9c8d4be0661f27b1f4407bd5",
+      "content":"",
+      "review_date":"2021-06-14T10:27:21.768+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/118379786234192119429?hl=en-US"
+    }
+  ],
+  "reviews_aggregate":{
+    "aggregate":{
+      "sum":{
+        "rating":397
+      },
+      "count":86
+    }
+  },
+  "suggestions":[
+    {
+      "distance":0.7896745884040637,
+      "dispensary":{
+        "id":"ea960b02-bfd1-4ebf-a7ab-6f1439c1caca",
+        "city":"Bangkok",
+        "name":"ร้านลุงกัญ",
+        "types":[
+          "Delivery",
+          "Grower",
+          "Lab"
+        ],
+        "lat":13.8791776,
+        "lng":100.5977498,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "image":"ed6c1cf8253c6bd4a868607b9f6aa66a",
+        "has_products":true,
+        "address":"359 2 ถ. พหลโยธิน Anusawari, Bang Khen, Bangkok 10220, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.9527154931976131,
+      "dispensary":{
+        "id":"af650b6a-70ec-4152-abac-e91323d3ac7d",
+        "city":"Bangkok",
+        "name":"กระท่อม kratom หลักสี่",
+        "types":[
+          
+        ],
+        "lat":13.8889759,
+        "lng":100.5875372,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"VHQQ+H2V, Talat Bang Khen, Lak Si, Bangkok 10210, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.348109784829626,
+      "dispensary":{
+        "id":"501cb7b0-0dc5-4df4-b635-fcfe676451e1",
+        "city":"Bangkok",
+        "name":"ST Herb Hemp",
+        "types":[
+          
+        ],
+        "lat":13.8893793,
+        "lng":100.6078273,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":300
+            },
+            "count":60
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":300
+            },
+            "count":60
+          }
+        },
+        "image":"f90ab7797c4b27ffe74bfd377e8535df",
+        "has_products":false,
+        "address":"26 Thep Rak Rd, Khwaeng Anusawari, Khet Bang Khen, Krung Thep Maha Nakhon 10220, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.740295238702076,
+      "dispensary":{
+        "id":"e39cec84-e0ff-4c30-a91d-5a7e28dbd3d2",
+        "city":"Bangkok",
+        "name":"9cannabis",
+        "types":[
+          "Dispensary",
+          "Delivery"
+        ],
+        "lat":13.898615,
+        "lng":100.5862416,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":140
+            },
+            "count":28
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":140
+            },
+            "count":28
+          }
+        },
+        "image":"23ebe4cfcd0202ddc8088dd8cf07979c",
+        "has_products":true,
+        "address":"Kosum Ruam Chai Soi 7, Tungsonghong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.7962344639120682,
+      "dispensary":{
+        "id":"35f97538-26c1-4d96-9b84-19d29204c632",
+        "city":"Bangkok",
+        "name":"BUDDY COOL COFFEE",
+        "types":[
+          
+        ],
+        "lat":13.8707099,
+        "lng":100.5905447,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "image":"eda9f957cdbf7bdf462f7a95e2b0bf0c",
+        "has_products":false,
+        "address":"238 Soi Phahon Yothin 53, Khwaeng Anusawari, Khet Bang Khen, Krung Thep Maha Nakhon 10220, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.8608107316371116,
+      "dispensary":{
+        "id":"a859af5d-a43a-4268-840e-19e6045661eb",
+        "city":"Bangkok",
+        "name":"CannabisTreeShop",
+        "types":[
+          "Farm"
+        ],
+        "lat":13.9010473,
+        "lng":100.5882198,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "has_products":false,
+        "address":"อ เลขที่ 14 Kosum Ruam Chai Soi 8, ต Khet Don Mueang, Krung Thep Maha Nakhon 10210, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.8619967719474662,
+      "dispensary":{
+        "id":"2d8a0e2b-c78f-4107-b8e1-872da5e71a6a",
+        "city":"Bangkok",
+        "name":"Sky High Dispensary",
+        "types":[
+          
+        ],
+        "lat":13.8696761,
+        "lng":100.5921123,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "image":"dfea2473703825f04f70f3fd0d998619",
+        "has_products":false,
+        "address":"120 Soi Phahon Yothin 1, Khwaeng Samsen Nai, Khet Phaya Thai, Krung Thep Maha Nakhon 10400, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":2.0162353805296225,
+      "dispensary":{
+        "id":"64a65d2d-a524-41c5-a465-6d0d7036623e",
+        "city":"Bangkok",
+        "name":"Mr.highkush",
+        "types":[
+          
+        ],
+        "lat":13.8867989,
+        "lng":100.6144862,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":25
+            },
+            "count":5
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":25
+            },
+            "count":5
+          }
+        },
+        "image":"1edfc25efb48a136cd47283d61a00d43",
+        "has_products":false,
+        "address":"76 Thep Rak Rd, Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":2.101835849480168,
+      "dispensary":{
+        "id":"116f5a90-b858-4b4c-ab7d-6cae490730ee",
+        "city":"Bangkok",
+        "name":"ร้านกัญชา Dr.feelgood",
+        "types":[
+          
+        ],
+        "lat":13.8894278,
+        "lng":100.6149788,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":40
+            },
+            "count":8
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":40
+            },
+            "count":8
+          }
+        },
+        "image":"7d5f2453aa8a18b10205ed8565c46450",
+        "has_products":false,
+        "address":"บ้านเลขที่ 297/11 ม.4 ตึก ซอย สุขเสมอ, Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+        "open":true
+      }
+    },
+    {
+      "distance":2.1111815898897905,
+      "dispensary":{
+        "id":"c9b2785f-71f0-474f-a3ef-d640896e9f1a",
+        "city":"Bangkok",
+        "name":"ร้านกัญชา Dr.feelgood",
+        "types":[
+          "Dispensary"
+        ],
+        "lat":13.8894792,
+        "lng":100.6150571,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":40
+            },
+            "count":8
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":40
+            },
+            "count":8
+          }
+        },
+        "image":"7a7a953f836c516845f303dbe345dd49",
+        "has_products":false,
+        "address":"297/11 ม.4 ตึก ซอยพหลโยธิน50แยก11-2-2 แขวงคลองถนน เขตสายไหม คลองถนน สายไหม Krung Thep Maha Nakhon 10220, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":2.2472559698345593,
+      "dispensary":{
+        "id":"cca058b3-87a4-4f93-ac55-2e1bd8b63f67",
+        "city":"Bangkok",
+        "name":"ร้านกัญชา cannabis shop (by K.K.Farm)",
+        "types":[
+          
+        ],
+        "lat":13.8806051,
+        "lng":100.6158792,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"ศุภาลัย พาร์ค วิลล์2 Khwaeng Anusawari, Khet Bang Khen, Krung Thep Maha Nakhon 10220, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":2.2880498692665068,
+      "dispensary":{
+        "id":"754574c8-8db8-4a3b-a9b7-fe842b8eff5b",
+        "city":"Bangkok",
+        "name":"กัญเอง - น้ำกัญชาสกัดเพื่อสุขภาพ",
+        "types":[
+          
+        ],
+        "lat":13.8940089,
+        "lng":100.6153626,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "image":"dfae07551a6e647004fe4579405356b0",
+        "has_products":false,
+        "address":"569 11 Soi Phahon Yothin 52, Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":2.602105755978504,
+      "dispensary":{
+        "id":"1026e2f0-8245-4255-8608-bb54a5a4c460",
+        "city":"Bangkok",
+        "name":"Cannabis Coffee",
+        "types":[
+          
+        ],
+        "lat":13.891146,
+        "lng":100.6193474,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"1/29 Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":2.964027354075877,
+      "dispensary":{
+        "id":"2c7d1b66-e2bb-4ace-b39f-c1729885e40d",
+        "city":"Bangkok",
+        "name":"Mr.cannabis og",
+        "types":[
+          
+        ],
+        "lat":13.8832341,
+        "lng":100.6231318,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":40
+            },
+            "count":8
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":40
+            },
+            "count":8
+          }
+        },
+        "image":"7d54d18aeb334bdbb49c48ac66c8c7a1",
+        "has_products":false,
+        "address":"100 Khlong Thanon, Sai Mai, Bangkok 10220, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":2.975339539926223,
+      "dispensary":{
+        "id":"9113d78d-3864-4222-91a8-7321a42e5c33",
+        "city":"Bangkok",
+        "name":"SPACE SEED",
+        "types":[
+          
+        ],
+        "lat":13.8852573,
+        "lng":100.6233766,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":15
+            },
+            "count":3
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":15
+            },
+            "count":3
+          }
+        },
+        "image":"2ec174c02d7a26a4b96ca013c677df0c",
+        "has_products":false,
+        "address":"139 117 ซ. พหลโยธิน 52 Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+        "open":false
+      }
+    }
+  ]
+}

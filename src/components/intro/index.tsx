@@ -7,9 +7,6 @@ import Map, {GeolocateControl, Marker, NavigationControl, Popup, ScaleControl} f
 import {Element} from 'react-scroll';
 
 import Pin from './pin';
-import points from './points.json';
-
-
 
 // import {maxDevice, minDevice, theme} from '../styles';
 // import {Label, Section,Text} from './common';
@@ -18,12 +15,12 @@ const Container = SC.div`
   overflow: hidden;
 `;
 
-export const Intro = props => {
+export const Intro = (props: any) => {
   const [popupInfo, setPopupInfo] = React.useState(null);
-
+  
   const pins = React.useMemo(
     () =>
-      points.map((point) => (
+      (props?.points || []).map((point) => (
         <Marker
           key={`marker-${point.id}`}
           longitude={+point.lng}

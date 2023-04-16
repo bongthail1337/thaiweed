@@ -9,7 +9,7 @@ import {Intro} from '../components';
 import { getAllPoints } from '../libs/api'
 
 type Props = {
-  // Add custom props here
+  points: any;
 };
 
 const HomePage = (_props: InferGetStaticPropsType<typeof getStaticProps>) => {
@@ -54,25 +54,18 @@ const HomePage = (_props: InferGetStaticPropsType<typeof getStaticProps>) => {
         <meta name="twitter:card" content={t('HomePage.SEO.twitter.card')} />
         <meta property="twitter:url" content={t('HomePage.SEO.twitter.url')} />
       </Head>
-      <Intro />
+      <Intro points={_props.points}/>
     </>
   );
 };
 
 export const getStaticProps: GetStaticProps<Props> = async ({locale}) => {
-  const allPoints = getAllPoints([
-    'title',
-    'date',
-    'slug',
-    'author',
-    'coverImage',
-    'excerpt',
-  ]);
-  console.log('index _props::: ', allPoints);
+  const points = getAllPoints();
+
   return {
     props: {
       ...(await serverSideTranslations(locale ?? 'ru', ['common'])),
-      allPoints,
+      points,
     },
   };
 }
