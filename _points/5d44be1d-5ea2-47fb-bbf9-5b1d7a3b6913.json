@@ -1,0 +1,824 @@
+{
+    "id":"5d44be1d-5ea2-47fb-bbf9-5b1d7a3b6913",
+    "lat": "13.8066712",
+    "lng": "100.5119376",
+    "city":"Bangkok",
+    "name":"Backy Buds",
+    "type":null,
+    "business_images":[
+      "ba561c520ba182e0542be4c080e28589",
+      "15d621b4658880021de35ef1d7d3f603",
+      "c285a03a3bc699f6acc9ca0a24cd5676",
+      "90c202020c31222f560cfbfa075bb0c5",
+      "266664197c64d6891a27daff4d3b27a8"
+    ],
+    "google_images":[
+      "1f146c12f567aeed5db2cad6b70cee60",
+      "77b877eca948da0778a3b929bf6e6870",
+      "cd6891bfb9c20db2c9d357b890af768a",
+      "6988710d62f999c081e61fd30cefc423",
+      "fbd3b6963d38fa2e059a24288d74bf37",
+      "112c6d33d2eeadaa02676bd42c80bd4a",
+      "c5509ddc1445cf52d8a9e0282f23a590",
+      "a198baec94fccb6bbc995da96e4fb5b1",
+      "5ab90db99f4b5e5968e4c40ae57bece9",
+      "6f5c53d8543c0a7eecfea6fcbd5b777c"
+    ],
+    "status":"approved",
+    "website":"https://lin.ee/CkimXAy",
+    "phone":"+66 85 531 2201",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1600"
+        },
+        "close":{
+          "day":1,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1700"
+        },
+        "close":{
+          "day":2,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1600"
+        },
+        "close":{
+          "day":3,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1600"
+        },
+        "close":{
+          "day":6,
+          "time":"0100"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1600"
+        },
+        "close":{
+          "day":0,
+          "time":"0000"
+        }
+      }
+    ],
+    "line":"https://lin.ee/CkimXAy",
+    "google_url":"https://maps.google.com/?cid=11719088511370012653",
+    "place_id":"PuVWDolC..Jo5wNE9FrFV-zDbdV",
+    "facebook":"https://www.facebook.com/profile.php?id=100085844632227",
+    "description":"😈Backy Buds😈\n📍หน้าร้านอยู่ ปากซอยจรัญสนิทวงศ์ 95/2\nจำหน่ายช่อดอก พร้อมอุปกรณ์ ครบครัน🌳\nมีบริการส่งด่วนไลน์แมน🛵\nส่งด่วนรวดเร็วทันใจ🚀\n",
+    "products_flowers":[
+      {
+        "id":"a140b410-31ea-4bbf-bbac-df3208ef621e",
+        "name":"Gorilla glue ",
+        "description":"Top 10 indica-dominant strains",
+        "images":[
+          "764ac83638f918ad8f353332ff1e0a0b",
+          "dbf6761d3c27f9849565674996400fe9",
+          "1a5d269c506dddf1afb0a1bba78a0be2",
+          "ac4b5f951bd4a87d30704d5fcc8a0130",
+          "99ba06d6bbec753b4ca7a024ad1b1987",
+          "0cb1bab39369928820ff0dcdf13b1195",
+          "e9f01aa47880913c0dffaf31b07bbc69",
+          "9d4a8ae3028d00672acda32e6eb7c414",
+          "4f4abaefa43264305334abf111367630",
+          "68275f74fe0301503f3a45d52914d967",
+          "c1ced675c0a19cc1eb955ceb0bc03a7f"
+        ],
+        "thc":26,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2022-11-30T12:06:27.877695+00:00",
+        "updated_at":"2023-04-15T22:00:07.702687+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      {
+        "id":"d47d2873-3158-4fcf-85f7-0303d29a8a7f",
+        "name":"อุปกรณ์",
+        "description":"บ้องแก้ว กระดาษโรล ที่บด ครบจบที่เดียว",
+        "images":[
+          "1d623a3299548e3c8bbbd3f268bc62ed",
+          "dddbf412173d118c9ae3f43b52abb5f6",
+          "8c5007f0fc5b4de9c3d9a8a2871e813f",
+          "28a2b65b1d7a23f0d272974de8f4c136",
+          "3dd051ae20f37c2f62407321ada179ad"
+        ],
+        "disabled":false,
+        "created_at":"2022-11-30T12:15:14.836121+00:00",
+        "updated_at":"2023-04-15T22:00:07.709188+00:00"
+      }
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"PROMPONG PROMWONG",
+        "avatar":"9a4e6d4d84ac95d2ccd2db8271d95577",
+        "content":"ของดีครับ งานดี ร้านอวกาศ เจ้าของร้านเทคแคร์ดี แนะนำ✅\n\n(Translated by Google)\nGood stuff. Good work. Space shop. Take care shop owner. Recommended ✅",
+        "review_date":"2022-10-07T16:17:01.866+00:00",
+        "rating":5,
+        "images":[
+          "2a8c12a8fe6b3eb2cd273b13aba2b0b7"
+        ],
+        "url":"https://www.google.com/maps/contrib/100415160065124666290?hl=en-US"
+      },
+      {
+        "author":"First RBT",
+        "avatar":"fa67c1c0efcc0757e7ecc0303e85eeaa",
+        "content":"ร้านบริการดียอดเยี่ยม ของดีครับหอมๆแรงๆ ราคามิตรภาพมากๆในย่านจรัญ ต้องโดนครับ\n\n(Translated by Google)\nExcellent service shop Good stuff, strong smell. The price is very friendly in Charan area. Must be hit.",
+        "review_date":"2022-10-25T10:44:36.843+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101653052222186912925?hl=en-US"
+      },
+      {
+        "author":"POO KUNG",
+        "avatar":"2aa7140e009611bbed9fbc139dd05173",
+        "content":"แจกัญสวยมากเลย บริการดี พ่อค้าเป็นกันเอง\n\n(Translated by Google)\nThe vase is very beautiful, the service is good, the seller is friendly.",
+        "review_date":"2022-10-04T14:47:38.455+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101775489129674075411?hl=en-US"
+      },
+      {
+        "author":"Константин Соловьёв",
+        "avatar":"b9074791ca202d1080296e8a3a2b2850",
+        "content":"(Translated by Google) Great choice and sincerely) 👍\n\n(Original)\nОтличный выбор и душевно ) 👍",
+        "review_date":"2022-11-19T17:12:22.391+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102471800412892840428?hl=en-US"
+      },
+      {
+        "author":"narongsak wisuttipeat",
+        "avatar":"deb8ad9df50050b6dde687b2aecd4aa5",
+        "content":"บริการดี ดอกสวยสมราคาครับ\n\n(Translated by Google)\nGood service, beautiful flowers, reasonable price.",
+        "review_date":"2022-12-03T14:47:31.028+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102572931361279855550?hl=en-US"
+      },
+      {
+        "author":"Preem Nareeart",
+        "avatar":"fd0055282ab50751fecde7b6611101f7",
+        "content":"This shop looks good, the sales people are sincere.",
+        "review_date":"2022-12-03T14:31:05.41+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102577156932608252355?hl=en-US"
+      },
+      {
+        "author":"ต้นหิน Toninho",
+        "avatar":"c4f9aba759b97d9e89ba2d0058099ee6",
+        "content":"ติดต่อได้ช่องทางไหนครับ แอดไลน์ไป กลายเป็นอีกร้านนึงจ้า\n\n(Translated by Google)\nWhich channel can I contact? Add Line to become another shop.",
+        "review_date":"2022-10-08T02:23:15.284+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103860335751439108256?hl=en-US"
+      },
+      {
+        "author":"Kesanee Panyim",
+        "avatar":"e95f9ed202d13bf0e9133e811118a031",
+        "content":"",
+        "review_date":"2022-09-24T04:10:24.927+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105339788688386432229?hl=en-US"
+      },
+      {
+        "author":"assavin boonsoong",
+        "avatar":"9dc0421043923c2994a66812344cd66d",
+        "content":"สินค้าราคาดี สมเหตุสมผล แก้วดูหนา รวมๆแล้วโอเคเลยครับ\n\n(Translated by Google)\nGood product, reasonable price, the glass looks thick, overall it's ok.",
+        "review_date":"2022-10-11T09:52:24.543+00:00",
+        "rating":5,
+        "images":[
+          "1785b58f2b2c26ab01aa290d75701240"
+        ],
+        "url":"https://www.google.com/maps/contrib/105690844816351382928?hl=en-US"
+      },
+      {
+        "author":"bjoern borg",
+        "avatar":"999fa64e27a2e3a64dcac90ebf0c09ef",
+        "content":"was my shop for a month.\nbuy the top shelf and you won't be disappointed\nshop owner is a nice guy!\nwhen you are around give him a try.",
+        "review_date":"2023-04-06T10:07:32.816+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106809377584704802769?hl=en-US"
+      },
+      {
+        "author":"Jakkapan Sricharoean",
+        "avatar":"75f7c3bef6e881d3c67b2ad7208c3715",
+        "content":"งานดอกดีครับ บริการดี\n\n(Translated by Google)\nGood work, good service.",
+        "review_date":"2022-12-03T14:49:14.442+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106897781495700882523?hl=en-US"
+      },
+      {
+        "author":"Ploytawan Boonsoong",
+        "avatar":"bde42b41d937809394f4be3be06353f6",
+        "content":"",
+        "review_date":"2022-11-05T13:53:52.876+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113200775077554108499?hl=en-US"
+      },
+      {
+        "author":"1 panisa J.",
+        "avatar":"b9bea95d938389d841d63b0a5e4a6dd9",
+        "content":"บริการดีพ่อค้าเป็นกันเองมากเลยค่ะ\nราคาดีดอกไม้มีคุณภาพ\n\n(Translated by Google)\nGood service, the seller is very friendly.\ngood price, quality flowers",
+        "review_date":"2022-11-04T11:37:52.209+00:00",
+        "rating":5,
+        "images":[
+          "3a92a750eb8e2f6f433fa63cacee1333"
+        ],
+        "url":"https://www.google.com/maps/contrib/114868431392454453173?hl=en-US"
+      },
+      {
+        "author":"dulywait singkiwiboom",
+        "avatar":"b58e951318554bafff650d433fd8650d",
+        "content":"ของดี บอกต่อครับร้านนนี้แนะนำที่สุดครับ\n\n(Translated by Google)\nGood stuff. Let me tell you. This shop is the most recommended.",
+        "review_date":"2022-10-07T16:13:51.343+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115697417978725136151?hl=en-US"
+      },
+      {
+        "author":"Viroj Pimpa",
+        "avatar":"f4d521f4a30b135516d5eca48bcc2980",
+        "content":"ของดีตั้งแต่OGยันอุปกรณ์ครับร้านนี้\n\n(Translated by Google)\nGood stuff from OG to equipment in this shop.",
+        "review_date":"2022-11-14T12:12:14.688+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117884312056121165957?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":75
+        },
+        "count":15
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.12907995858317844,
+        "dispensary":{
+          "id":"377fbd59-5638-4ecc-b3ea-b58d29e5b1ce",
+          "city":"Bangkok",
+          "name":"ดื่มกัญ ตู้กาแฟอัตโนมัติ",
+          "types":[
+            
+          ],
+          "lat":13.8076733,
+          "lng":100.5113342,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"e70ac1bfffae3b1b15573d51dbe21cb4",
+          "has_products":false,
+          "address":"129 Charan Sanit Wong Rd, Khwaeng Bang Ao, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.1272563728667295,
+        "dispensary":{
+          "id":"b47d89de-4bf9-4554-904f-9ab19dd83e78",
+          "city":"Bangkok",
+          "name":"Happy cannabis shop thailand",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":13.8087201,
+          "lng":100.5221615,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":393
+              },
+              "count":79
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":393
+              },
+              "count":79
+            }
+          },
+          "image":"6c423c0320c2f80c62d36fc489e7dc06",
+          "has_products":false,
+          "address":"Pracha Rat Sai 1 Soi 22, Khwaeng Bang Sue, Khet Bang Sue, Krung Thep Maha Nakhon 10800, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.3014550868705879,
+        "dispensary":{
+          "id":"7df3f3c9-5a8e-46a6-a6b0-07087aea2e47",
+          "city":"Bangkok",
+          "name":"Fenfen Farm จำหน่ายต้นไม้ ดินปลูก มูลไส้เดือน วัสดุปลูก กระถางต้นไม้ ปุ๋ย",
+          "types":[
+            
+          ],
+          "lat":13.8181209,
+          "lng":100.5144377,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":45
+              },
+              "count":9
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":45
+              },
+              "count":9
+            }
+          },
+          "image":"d89cdf6445cc2d595fafe974fafce98f",
+          "has_products":false,
+          "address":"1363 ซอย 8 Khwaeng Wong Sawang, Khet Bang Sue, Krung Thep Maha Nakhon 10800, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.4806992387254756,
+        "dispensary":{
+          "id":"7d11a83c-f563-4402-9700-36720c22d94b",
+          "city":"Bangkok",
+          "name":"STONERCROF CAFE & CANNABIS SHOP",
+          "types":[
+            "Dispensary",
+            "Cafe"
+          ],
+          "lat":13.8166304,
+          "lng":100.5210403,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"27787f8406bf0637b3ce486b90b449f2",
+          "has_products":false,
+          "address":"12 Si Namngoen Alley, Bang Sue, Bangkok 10800, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.4909600771132376,
+        "dispensary":{
+          "id":"c37c3c76-4f27-459d-b582-50eb81dc90d2",
+          "city":"Nonthaburi",
+          "name":"ร้านชงชง น้ำผึ้งแท้",
+          "types":[
+            
+          ],
+          "lat":13.8096535,
+          "lng":100.4984759,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"36a447ec59580f9d21cf0f274572d3ae",
+          "has_products":false,
+          "address":"ซอย12 1 Bang Kruai - Sai Noi Rd, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.6484939894975421,
+        "dispensary":{
+          "id":"0f75ef0e-0561-4a0d-be99-38ea336a6746",
+          "city":"Bangkok",
+          "name":"420 Naturehome by javis",
+          "types":[
+            
+          ],
+          "lat":13.8008052,
+          "lng":100.5259579,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"bd21f960f60a34bc6e8631a53e34cb0b",
+          "has_products":false,
+          "address":"44 24 ซ. ประดู่ Bangkok 10800, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.6484939894975421,
+        "dispensary":{
+          "id":"263a917c-5617-4db6-b545-917859c59598",
+          "city":"Bangkok",
+          "name":"420 Naturehome by javis",
+          "types":[
+            "Delivery"
+          ],
+          "lat":13.8008052,
+          "lng":100.5259579,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"6dff59a354b7d48eca9f21ea9cbb1c11",
+          "has_products":true,
+          "address":"44 24 ซ. ประดู่ Bangkok 10800, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.7799182371852462,
+        "dispensary":{
+          "id":"b2126bfd-4b31-4f9f-8933-3aa05e971df7",
+          "city":"Bangkok",
+          "name":"MAHAGANJA",
+          "types":[
+            "Dispensary",
+            "Delivery",
+            "Wholesaler"
+          ],
+          "lat":13.8220554,
+          "lng":100.5164916,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":65
+              },
+              "count":13
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":65
+              },
+              "count":13
+            }
+          },
+          "image":"d20ea401a089ab022cf2b9fc081849ba",
+          "has_products":true,
+          "address":"RGC8+RHH, Soi Wong Sawang 11, Khwaeng Wong Sawang, Khet Bang Sue, Krung Thep Maha Nakhon 10800, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.234503975492913,
+        "dispensary":{
+          "id":"cc3949ad-40d5-4d2a-8997-9f459cd53879",
+          "city":"Bangkok",
+          "name":"Starup420 Shop",
+          "types":[
+            
+          ],
+          "lat":13.8260916,
+          "lng":100.517256,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"7912df99fef58553af539942acb09dd3",
+          "has_products":false,
+          "address":"316/30 หมู่บ้านสิริพาร์ค1 Soi Wong Sawang 11, Khwaeng Wong Sawang, Khet Bang Sue, Krung Thep Maha Nakhon 10800, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.3385042472871698,
+        "dispensary":{
+          "id":"1c1e9458-1379-4a09-aaf1-950e441d3137",
+          "city":"Nonthaburi",
+          "name":"Delta-7 Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.8275422,
+          "lng":100.5146013,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":70
+              },
+              "count":14
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":70
+              },
+              "count":14
+            }
+          },
+          "image":"64c4d1ae0151d370e47989f0d2783fb7",
+          "has_products":false,
+          "address":"35, 5 Soi Pibulsongkram 22 Yeak 11, Mueang Nonthaburi District, Nonthaburi 11000, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.42679489049909,
+        "dispensary":{
+          "id":"f076641e-12c0-461f-916e-80ce349e97f5",
+          "city":"Bangkok",
+          "name":"Hit Dad Bong",
+          "types":[
+            
+          ],
+          "lat":13.7852285,
+          "lng":100.5077514,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":56
+              },
+              "count":12
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":56
+              },
+              "count":12
+            }
+          },
+          "image":"b2da8160e22f4edbfcfc1a51b9208253",
+          "has_products":false,
+          "address":"155 102 Thanon Nakhon Chaisi Rd, Khwaeng Thanon Nakhon Chai Si, Khet Dusit, Krung Thep Maha Nakhon 10300, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.520858281438843,
+        "dispensary":{
+          "id":"0b17386c-75dc-4108-8d89-4c15a5e8a28c",
+          "city":"Bangkok",
+          "name":"49herb cannabis shop at sanampao",
+          "types":[
+            "Cafe"
+          ],
+          "lat":13.7840171,
+          "lng":100.5110465,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":4
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":4
+              },
+              "count":1
+            }
+          },
+          "image":"b3f03c200a5d2c483c57d5ad38c0a260",
+          "has_products":false,
+          "address":"237 Samsen Rd, ใน, Phaya Thai, Bangkok 10400, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.6037200735555737,
+        "dispensary":{
+          "id":"0da770ab-2536-4e78-80e2-9abdc50363f8",
+          "city":"Bangkok",
+          "name":"ร้านกัญชาตลาดบางซ่อน",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":13.8216146,
+          "lng":100.5305022,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "image":"424d65c22cd1bb20e5529822cfe97fec",
+          "has_products":false,
+          "address":"14/12 ถ.ริมทางรถไฟสายใต้ แขวงบางซื่อ เขตบางซื่อ บางซื่อ Khwaeng Bang Sue, Khet Bang Sue, Krung Thep Maha Nakhon 10800, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.6147792596106427,
+        "dispensary":{
+          "id":"2940a14c-e09f-4bca-b557-77066cd3d280",
+          "city":"Bangkok",
+          "name":"High herb 420",
+          "types":[
+            
+          ],
+          "lat":13.7833477,
+          "lng":100.5150237,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"942/8 นครราชสีมา Thanon Nakhon Chaisi Rd, Khwaeng Thanon Nakhon Chai Si, Khet Dusit, Krung Thep Maha Nakhon 10300, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.631331276112388,
+        "dispensary":{
+          "id":"eca178ed-35fe-477e-800d-a5024f7109ef",
+          "city":"Nonthaburi",
+          "name":"HolyGarage",
+          "types":[
+            
+          ],
+          "lat":13.8294515,
+          "lng":100.5053397,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"c42749443a92fbcc9aa3232614907628",
+          "has_products":false,
+          "address":"กาเดนร์วิล 676 3 ซอย 5 Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

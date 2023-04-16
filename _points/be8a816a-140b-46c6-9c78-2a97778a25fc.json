@@ -1,0 +1,652 @@
+{
+    "id":"be8a816a-140b-46c6-9c78-2a97778a25fc",
+    "lat": "13.9983719",
+    "lng": "100.6931412",
+    "city":"Pathum Thani",
+    "name":"Pink Buds store",
+    "type":null,
+    "business_images":[
+      "130c382e2a6eadef2fb0c3b03ddc1b0c"
+    ],
+    "google_images":[
+      
+    ],
+    "status":"approved",
+    "website":"https://shop.line.me/@221lzvpc",
+    "phone":"+66 92 545 4599",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1000"
+        },
+        "close":{
+          "day":1,
+          "time":"2100"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1000"
+        },
+        "close":{
+          "day":2,
+          "time":"2100"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1000"
+        },
+        "close":{
+          "day":3,
+          "time":"2100"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1000"
+        },
+        "close":{
+          "day":4,
+          "time":"2100"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1000"
+        },
+        "close":{
+          "day":5,
+          "time":"2100"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1000"
+        },
+        "close":{
+          "day":6,
+          "time":"2200"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1000"
+        },
+        "close":{
+          "day":0,
+          "time":"2200"
+        }
+      }
+    ],
+    "line":"https://lin.ee/mH5tliC",
+    "google_url":"https://maps.google.com/?cid=3288776709388612781",
+    "place_id":"PuVWC_5NpcS_UGREeoFiSC5HcP1",
+    "facebook":"https://www.facebook.com/profile.php?id=100088915390844&mibextid=LQQJ4d",
+    "description":" pinkbuds store",
+    "products_flowers":[
+      {
+        "id":"722cfc47-b59a-4bcf-bcde-f50532d78033",
+        "name":"Apple Fritter",
+        "description":"Apple Fritter, a true hybrid weed strain, is known for its powerful and relaxing high. Put out by Lumpy’s Flowers, the Apple Fritter marijuana strain is a reported cross of Sour Apple and Animal Cookies. It's a great hybrid, combining the stone of GSC with the energy of a diesel. Apple Fritter cannabis has a flavor and aroma that come off as sweet and earthy, with a light, cheesy, apple pastry influence.",
+        "images":[
+          "2d341b4df62a32aaf26ce771bd2f92aa"
+        ],
+        "thc":24,
+        "cbd":0,
+        "sativa":100,
+        "indica":0,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2022-12-26T10:59:37.632954+00:00",
+        "updated_at":"2023-04-15T19:00:03.723357+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":null
+        },
+        "count":0
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.3290669222442482,
+        "dispensary":{
+          "id":"067c8b2c-006a-4055-ad4f-b1044d913d16",
+          "city":"Pathum Thani",
+          "name":"ร้านกัญชา high dose (รังสิตคลองสี่)",
+          "types":[
+            "Cafe",
+            "Bar"
+          ],
+          "lat":14.0013949,
+          "lng":100.693296,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "image":"5ce9583c0494fb6d9d11cd125535a1c5",
+          "has_products":false,
+          "address":"C202 บึงยี่โถ่ Tambon Bang Yitho, Amphoe Thanyaburi, Chang Wat Pathum Thani 12130, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.6927793146540663,
+        "dispensary":{
+          "id":"b7b207d6-c45c-42ee-9b68-eb9271afac2b",
+          "city":"Pathum Thani",
+          "name":"Grassstation",
+          "types":[
+            
+          ],
+          "lat":14.0027013,
+          "lng":100.6884585,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":95
+              },
+              "count":19
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":60
+              },
+              "count":12
+            }
+          },
+          "image":"708c8dcc7eeb5589cdbdcfbca359c48f",
+          "has_products":false,
+          "address":"8 69 bungyeetho Tambon Bang Yitho, Amphoe Khlong Luang, Chang Wat Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.6930937830030752,
+        "dispensary":{
+          "id":"ac62cc57-bf06-4bc1-85ad-d9756ebd6665",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชา Grassstation สาขาคลองสี่",
+          "types":[
+            
+          ],
+          "lat":14.0026676,
+          "lng":100.6884222,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"603ba536e5c1c762c0220f0c133de7c2",
+          "has_products":false,
+          "address":"8/69, ตำบล บึงยี่โถ khlong4, ปทุมธานี 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.6932158281070613,
+        "dispensary":{
+          "id":"0820a022-5dba-4be8-9c0c-0a1961ab6cf6",
+          "city":"Chang Wat Pathum Thani",
+          "name":"Grassstation",
+          "types":[
+            "Dispensary",
+            "Cafe",
+            "Club"
+          ],
+          "lat":14.0027029,
+          "lng":100.6884545,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":245
+              },
+              "count":49
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":245
+              },
+              "count":49
+            }
+          },
+          "image":"94547197c73ce8090957d8d2e0f08f00",
+          "has_products":false,
+          "address":"8 69 bungyeetho Tambon Bang Yitho, Amphoe Khlong Luang, Chang Wat Pathum Thani 2130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.6941105538877639,
+        "dispensary":{
+          "id":"2fc793fa-c2e8-47d2-8c62-3df824f7b398",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชา Grassstation สาขาปากซอยคลอง4",
+          "types":[
+            
+          ],
+          "lat":14.002696,
+          "lng":100.6884365,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"8/69 Soi Khlong Si, East, ตำบล บึงยี่โถ อำเภอธัญบุรี ปทุมธานี 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.6942381165502367,
+        "dispensary":{
+          "id":"fcb9fa45-38ce-40cd-a0f5-637b4db14d38",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชา Grassstation สาขาคลอง4",
+          "types":[
+            
+          ],
+          "lat":14.0026931,
+          "lng":100.6884321,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "image":"bf660adff68f5ca25d76336f643d4813",
+          "has_products":false,
+          "address":"8/69, ตำบล บึงยี่โถ อำเภอธัญบุรี ปทุมธานี 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.6992503759345406,
+        "dispensary":{
+          "id":"9834c606-3b2e-4768-b4d2-7219a03f421a",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชา cannbis shop",
+          "types":[
+            
+          ],
+          "lat":14.0028016,
+          "lng":100.688474,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"8 70, Tambon Bang Yitho, Amphoe Thanyaburi, Chang Wat Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.172607523642626,
+        "dispensary":{
+          "id":"d39ca7f7-7cb9-46ef-8a37-32bc030e4b0b",
+          "city":"Pathum Thani",
+          "name":"ชวนภิรมย์คาเฟ่ & Rangsit Weed",
+          "types":[
+            "Cafe",
+            "Grower",
+            "Wholesaler",
+            "Dispensary"
+          ],
+          "lat":13.9818324,
+          "lng":100.6825331,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"c23a2fe4350a918fd678b8660b2dbb12",
+          "has_products":true,
+          "address":"59 75 Tambon Lat Sawai, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12150, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.7132073739351426,
+        "dispensary":{
+          "id":"65cb11d1-aa20-44a6-b989-201f2612c8e0",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชา Grasss Club",
+          "types":[
+            
+          ],
+          "lat":14.0199647,
+          "lng":100.681299,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"9bdb3d343d16f136e1c6ffaf8739731f",
+          "has_products":false,
+          "address":"89/284 หมู่บ้านพลีโน่รังสิตคลองสี่-วงแหวน คลองสี่ Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.7703218184225467,
+        "dispensary":{
+          "id":"2be4e0eb-1916-4460-86ac-deeaf1c1fd0b",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชา Grassstation สาขาหมู่บ้านพลีโน่",
+          "types":[
+            
+          ],
+          "lat":14.019918,
+          "lng":100.6801306,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":255
+              },
+              "count":51
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":255
+              },
+              "count":51
+            }
+          },
+          "image":"60e89086744dbb2c24ce5011f7302baf",
+          "has_products":false,
+          "address":"87/284 Pleno รังสิตคลอง4 - วงแหวน หมู่1, Tambon Khlong Si, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.773993452978903,
+        "dispensary":{
+          "id":"fc7ba2db-b168-451f-889f-c569f4a4ca33",
+          "city":"Pathum Thani",
+          "name":"ร้านกัญชา Grassstation",
+          "types":[
+            
+          ],
+          "lat":14.0198733,
+          "lng":100.6799859,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":125
+              },
+              "count":25
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":125
+              },
+              "count":25
+            }
+          },
+          "image":"f17385b4522ccd6b1ae3d75b6fe32742",
+          "has_products":false,
+          "address":"88/284 Pleno Rangsit KhlongSi-Wongwaen, Khlong Si Subdistrict, อำเภอคลองหลวง ปทุมธานี 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.780928616026416,
+        "dispensary":{
+          "id":"e6684a3b-c347-4a32-be7f-5dfd8c55dc0d",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชา Grassstation",
+          "types":[
+            "Dispensary",
+            "Cafe",
+            "Club",
+            "Wholesaler",
+            "Farm",
+            "Grower"
+          ],
+          "lat":14.0199285,
+          "lng":100.6799558,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":618
+              },
+              "count":124
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":618
+              },
+              "count":124
+            }
+          },
+          "image":"855e51d977c0ab791854bc43fffc47c1",
+          "has_products":false,
+          "address":"Pleno 88/284 พลีโน่รังสิตคลองสี่-วงแหวน คลองสี่ Tambon Khlong Si, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.789641098184525,
+        "dispensary":{
+          "id":"4f5a34a7-4857-4380-87e2-4a7057bc8284",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชาใกล้ฉัน Xweed",
+          "types":[
+            
+          ],
+          "lat":14.0198933,
+          "lng":100.6797386,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "has_products":false,
+          "address":"คลองสี่ 90/284 Pleno รังสิตคลอง 4 - วงแหวน หมู่ 1 คลองสี่ Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.7994391773481264,
+        "dispensary":{
+          "id":"1cdaad10-4caf-4dfb-86f2-2f35463e7631",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชา แก๊สสเตชั่น",
+          "types":[
+            
+          ],
+          "lat":14.0198841,
+          "lng":100.6795488,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"1f755873eeae5619c32ba7704eced832",
+          "has_products":false,
+          "address":"คลองสี่ 86/284 Pleno รังสิตคลอง 4 - วงแหวน หมู่ 1 คลองสี่ Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.980918823713249,
+        "dispensary":{
+          "id":"809c2ac0-978b-4262-a5f7-debe8d57edb3",
+          "city":"Pathum Thani",
+          "name":"Cannabis Culture Camping",
+          "types":[
+            "Cafe",
+            "Grower",
+            "Wholesaler",
+            "Delivery"
+          ],
+          "lat":13.9959238,
+          "lng":100.6656356,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"6bd2c6f0bb8a9ac44262a3fb0ddd712a",
+          "has_products":true,
+          "address":"5 55 Bueng Yitho, Thanyaburi District, Pathum Thani 12130, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

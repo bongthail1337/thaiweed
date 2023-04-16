@@ -1,0 +1,926 @@
+{
+  "id":"1bc11023-3bd3-4f5a-aa6b-64fa7159398f",
+  "lat":"14.0357901",
+  "lng":"100.7090897",
+  "city":"Pathum Thani",
+  "name":"Orgagrow Cannabis Wholesale",
+  "type":null,
+  "business_images":[
+    "bb66beee3dc431d6d09faddd93cd8cab",
+    "5f03b0a41609b011088338297d6f4498",
+    "17604db555dd2a83f344ea76c028606b",
+    "ef1738757ec4eb042ef8d4e1d537304d",
+    "4272bb5be803cf08c70c937ea9e51517",
+    "0213f75b957fa1d46f58bae6d170c8a6",
+    "f3d0f53d37645f95868ddb4dd207708a",
+    "1d67f53906a550ad68bb5b4142c1e0b3",
+    "ec73a6265a3fbfbcd3000120c57aea35",
+    "1982e529abade15466b2203a8a93513d",
+    "c332e69ab3a6199f4ac1052601c00220",
+    "61b228f3a4e1b7a83ccbd88a1befbf40"
+  ],
+  "google_images":[
+    
+  ],
+  "status":"approved",
+  "website":"https://www.facebook.com/Orgagrow",
+  "phone":"0962780127",
+  "opening_hours":[
+    {
+      "open":{
+        "day":0,
+        "time":"1000"
+      },
+      "close":{
+        "day":0,
+        "time":"2000"
+      }
+    },
+    {
+      "open":{
+        "day":1,
+        "time":"1000"
+      },
+      "close":{
+        "day":1,
+        "time":"2000"
+      }
+    },
+    {
+      "open":{
+        "day":2,
+        "time":"1000"
+      },
+      "close":{
+        "day":2,
+        "time":"2000"
+      }
+    },
+    {
+      "open":{
+        "day":3,
+        "time":"1000"
+      },
+      "close":{
+        "day":3,
+        "time":"2000"
+      }
+    },
+    {
+      "open":{
+        "day":4,
+        "time":"1000"
+      },
+      "close":{
+        "day":4,
+        "time":"2000"
+      }
+    },
+    {
+      "open":{
+        "day":5,
+        "time":"1000"
+      },
+      "close":{
+        "day":5,
+        "time":"2000"
+      }
+    },
+    {
+      "open":{
+        "day":6,
+        "time":"0000"
+      },
+      "close":{
+        "day":6,
+        "time":"0000"
+      }
+    }
+  ],
+  "line":"@890culfy",
+  "google_url":"https://maps.google.com/?cid=6514530229344215457",
+  "place_id":"PuVWqlEYzLc_UGREbFToMecPnSb",
+  "facebook":"https://www.facebook.com/Orgagrow",
+  "description":"Wholesale Cannabis THC&CBD, Flower, Biomass & Concentrate : Indoor, Greenhouse or Outdoor Grade",
+  "products_flowers":[
+    {
+      "id":"87b4161f-40fe-40ad-b3bd-9b2bd086df8d",
+      "name":"Gorilla Cookies",
+      "description":"Gorilla Cookies  top shelf ",
+      "images":[
+        "e8837f640159c193de7a7ea6ad90ff20",
+        "e3ca374af457564c67e2dda8109c5c11",
+        "5941e9e87aeb9caa5f6253c250ea818e"
+      ],
+      "thc":21,
+      "cbd":1,
+      "sativa":70,
+      "indica":30,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-21T03:11:06.159159+00:00",
+      "updated_at":"2023-04-16T17:00:23.698053+00:00"
+    },
+    {
+      "id":"e2c8c7f2-7463-4447-bbf4-4cb405fd1b2c",
+      "name":"Banana Hammock R1",
+      "description":"Banana Hammock R1 top shelf",
+      "images":[
+        "a04203c62439059c2102f49c85f151d0",
+        "6a7bc5ee8bc2a9b6db0c5817c1035eb9"
+      ],
+      "thc":25,
+      "cbd":1,
+      "sativa":60,
+      "indica":40,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-21T03:48:45.366837+00:00",
+      "updated_at":"2023-04-16T17:00:23.672462+00:00"
+    },
+    {
+      "id":"20184623-ffc5-4173-9160-b5b31b4fa46e",
+      "name":"Lemon Berry candy OG",
+      "description":"Lemon Berry candy OG  top shelf",
+      "images":[
+        "c269c9374a5674019b6a886df3bde491",
+        "324be61620fcb1f178b168c96c12cf7a",
+        "987f7886e58aa458ac67c958a206b7af"
+      ],
+      "thc":25,
+      "cbd":1,
+      "sativa":60,
+      "indica":40,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-21T04:07:43.535851+00:00",
+      "updated_at":"2023-04-16T17:00:23.6507+00:00"
+    },
+    {
+      "id":"c32d39a2-ac34-42a5-8961-1028bfc39d98",
+      "name":"Member Berry",
+      "description":"Member Berry top shelf",
+      "images":[
+        "52d83221c65017a0def16459fbd0f81f",
+        "2b790ef53fc01c73711afbdd58c56d83",
+        "cc03af21305a57ed1c2d07e3d76812ac"
+      ],
+      "thc":16,
+      "cbd":1,
+      "sativa":30,
+      "indica":70,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-21T04:09:59.71337+00:00",
+      "updated_at":"2023-04-16T17:00:23.647138+00:00"
+    },
+    {
+      "id":"232cf1b0-bc6a-4720-ba0a-f9211ea234a7",
+      "name":"OG Kush ",
+      "description":"OG Kush  top shelf",
+      "images":[
+        "61bbaa6fe01254ebb1c3dce0015d39c2",
+        "d0dd4f5361c85bc6767a876e2bdab1a4",
+        "9a93ecd09010ec3b22aa5c940048710a"
+      ],
+      "thc":20,
+      "cbd":1,
+      "sativa":55,
+      "indica":45,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-21T04:11:53.886553+00:00",
+      "updated_at":"2023-04-16T17:00:23.690511+00:00"
+    },
+    {
+      "id":"cc89d2fb-0ac3-4afe-aec3-d3410ff059cc",
+      "name":"Cali Deli",
+      "description":"Cali Deli Top Shelf",
+      "images":[
+        "167b9f931e9eb5f8fff095a738e818c9",
+        "efdfc273b5c655950588563f788ee668"
+      ],
+      "thc":21,
+      "cbd":1,
+      "sativa":60,
+      "indica":40,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-23T07:07:54.019763+00:00",
+      "updated_at":"2023-04-16T17:00:23.665114+00:00"
+    },
+    {
+      "id":"2c77665a-ea31-4aa9-99c4-6c3e6abe86fa",
+      "name":"Critical Orange Punch",
+      "description":"Critical Orange Punch Top Shelf",
+      "images":[
+        "4d684b2c74e5f3e9e3ff4c9c0323fc84",
+        "3f7e746fb2d9b927f1342f3a5437b35f"
+      ],
+      "thc":21,
+      "cbd":0,
+      "sativa":30,
+      "indica":70,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-23T07:10:25.770272+00:00",
+      "updated_at":"2023-04-16T17:00:23.701855+00:00"
+    },
+    {
+      "id":"23a29e41-0977-498b-916a-fb8014bd420e",
+      "name":"Special Crystal Haze",
+      "description":"Special Crystal Haze Top Shelf",
+      "images":[
+        "07eff8369143e19f1b107202cd825aea",
+        "0b4377829dd1e20c3a24fc3f5466618e",
+        "a807853ef8f5d4c056b7c4b37364bedc"
+      ],
+      "thc":22,
+      "cbd":1,
+      "sativa":70,
+      "indica":30,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-23T07:19:51.015007+00:00",
+      "updated_at":"2023-04-16T17:00:23.679733+00:00"
+    },
+    {
+      "id":"c9553d0f-8972-47e5-9a2b-f7fb97920e62",
+      "name":"Northern Light",
+      "description":"Northern Light",
+      "images":[
+        "a2d9f0372e6c20f1dd28ff5188ebc8ff",
+        "6ba85ba7fef2d736f33431122d67d5b5",
+        "137f45c92d3595848fd74e6370c79c25"
+      ],
+      "thc":18,
+      "cbd":0,
+      "sativa":0,
+      "indica":100,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-23T07:20:45.866692+00:00",
+      "updated_at":"2023-04-16T17:00:23.716578+00:00"
+    },
+    {
+      "id":"c70d77ee-e4be-4898-9827-37a8a623b135",
+      "name":"American Pie",
+      "description":"American Pie",
+      "images":[
+        "aae25cd11edc8830606e928ab873e0cb",
+        "867d54836419d75acd506b4a5283e281"
+      ],
+      "thc":23,
+      "cbd":0,
+      "sativa":60,
+      "indica":40,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-23T07:22:01.760728+00:00",
+      "updated_at":"2023-04-16T17:00:23.694199+00:00"
+    },
+    {
+      "id":"b3d3c684-e752-4cf6-8a6d-47b90d18d4d0",
+      "name":"American Pie (Green House)",
+      "description":"American Pie Top Shelf (Green House)",
+      "images":[
+        "19e03089ffc9df2d6bf7a0bea7b1685e",
+        "867d54836419d75acd506b4a5283e281"
+      ],
+      "thc":23,
+      "cbd":0,
+      "sativa":60,
+      "indica":40,
+      "images_coa":[
+        
+      ],
+      "quality":"AA",
+      "disabled":false,
+      "created_at":"2023-03-23T07:26:49.902407+00:00",
+      "updated_at":"2023-04-16T17:00:23.720226+00:00"
+    }
+  ],
+  "products_seeds":[
+    
+  ],
+  "products_prerolls":[
+    
+  ],
+  "products_edibles":[
+    {
+      "id":"73693015-df35-4d4a-9ee8-22473c4e4074",
+      "name":"CBD Oil Diip Natural Flavor",
+      "description":"CBD Oil 1,000mg Sugar free",
+      "images":[
+        "b598f1b74912fc188099b39b538625e6",
+        "ee2235609ae16dd0b629a31e865275cd",
+        "09ebfb59fa420882dae921126c780318",
+        "a45d1688974580d1daa9c69f2d71c884",
+        "6b631a2c7644970b07c9e604f6fae2ac"
+      ],
+      "thc":0,
+      "cbd":1000,
+      "sativa":50,
+      "indica":50,
+      "images_coa":[
+        
+      ],
+      "disabled":false,
+      "created_at":"2023-03-23T08:07:18.951595+00:00",
+      "updated_at":"2023-04-16T17:00:23.727926+00:00"
+    },
+    {
+      "id":"73a93afc-26cd-4717-aa00-2f95cb3204f7",
+      "name":"CBD Oil Diip Camomile & Honey Flavor",
+      "description":"CBD Oil 1,000mg Camomile & Honey Flavor",
+      "images":[
+        "1d17a26cd84bc16e8ad7a1181b1df3ec",
+        "eea9c49ae9053ae0998baec91309674d",
+        "d219cb77a7607674e787471f830bc21f",
+        "72176a2bf07d4c380821847e8a5b31c4",
+        "4e142883b99241fa1c75a143bb9027a3"
+      ],
+      "thc":0,
+      "cbd":1000,
+      "sativa":50,
+      "indica":50,
+      "images_coa":[
+        
+      ],
+      "disabled":false,
+      "created_at":"2023-03-23T08:09:49.5113+00:00",
+      "updated_at":"2023-04-16T17:00:23.724159+00:00"
+    }
+  ],
+  "products_topicals":[
+    
+  ],
+  "products_gear":[
+    
+  ],
+  "products_misc":[
+    
+  ],
+  "reviews":[
+    {
+      "author":"กฤษฎา วันธงไชย",
+      "avatar":"c4c8bf33ca5609a49fee597444def72f",
+      "content":"",
+      "review_date":"2023-04-02T14:53:52.089+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100844940521886569503?hl=en-US"
+    },
+    {
+      "author":"Mafia marijuana",
+      "avatar":"82355c28dfe53e7ccb17f6472e2169d1",
+      "content":"ของดีมีคุณภาพ ไม่เมาก็เติมเพิ่มค้าบ\n\n(Translated by Google)\ngood quality If you don't get drunk, add more.",
+      "review_date":"2023-03-30T09:04:47.645+00:00",
+      "rating":5,
+      "images":[
+        "c9ccf48f1291fefbfc9a90deb77c27b4"
+      ],
+      "url":"https://www.google.com/maps/contrib/101811430624694280355?hl=en-US"
+    }
+  ],
+  "reviews_aggregate":{
+    "aggregate":{
+      "sum":{
+        "rating":10
+      },
+      "count":2
+    }
+  },
+  "suggestions":[
+    {
+      "distance":2.5217273143571726,
+      "dispensary":{
+        "id":"0c3d1d1f-27e8-4515-81da-59cc5e62b27c",
+        "city":"Pathum Thani",
+        "name":"กัญชาคลอง6",
+        "types":[
+          
+        ],
+        "lat":14.0343306,
+        "lng":100.7324053,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"ซอยอิดเทิน(ซอยสะพานเขียว Tambon Khlong Hok, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+        "open":true
+      }
+    },
+    {
+      "distance":2.5240756613873128,
+      "dispensary":{
+        "id":"65b3c086-6eab-43dd-9083-8fc1dea3e789",
+        "city":"Pathum Thani",
+        "name":"DOOD K.6",
+        "types":[
+          
+        ],
+        "lat":14.0365953,
+        "lng":100.7324559,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"26 4 ถนนเลียบคลองหก Tambon Khlong Hok, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+        "open":true
+      }
+    },
+    {
+      "distance":2.606305157651893,
+      "dispensary":{
+        "id":"806f4a2f-fe3d-4a23-8a23-26f42f552ac6",
+        "city":"Pathum Thani",
+        "name":"PIGCOLOSHOP",
+        "types":[
+          
+        ],
+        "lat":14.0382977,
+        "lng":100.7330907,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":35
+            },
+            "count":7
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":35
+            },
+            "count":7
+          }
+        },
+        "image":"1a3b5e91e26f4f246ec73c7ba013ad9a",
+        "has_products":false,
+        "address":"23 Tambon Khlong Hok, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+        "open":true
+      }
+    },
+    {
+      "distance":2.7013438166297727,
+      "dispensary":{
+        "id":"afe6a707-b840-4131-a6c6-f2b96076ba34",
+        "city":"Pathum Thani",
+        "name":"ร้านGreen Alien",
+        "types":[
+          
+        ],
+        "lat":14.0259961,
+        "lng":100.7320121,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"2PGJ+9RR, Rangsit, Thanyaburi District, Pathum Thani 12110, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":2.7745039477127404,
+      "dispensary":{
+        "id":"4b710dbe-d378-4fcf-80fd-286f418f7823",
+        "city":"Pathum Thani",
+        "name":"ร้านStone farm Cannabis",
+        "types":[
+          
+        ],
+        "lat":14.0451625,
+        "lng":100.7328906,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "image":"9323c2d51967521c720dee01a9f5a108",
+        "has_products":false,
+        "address":"2PWM+356, Khlong Hok, Khlong Luang District, Pathum Thani 12120, Thailand",
+        "open":true
+      }
+    },
+    {
+      "distance":2.807127039445641,
+      "dispensary":{
+        "id":"09405aaa-0085-4b94-aba2-4d3589739505",
+        "city":"Pathum Thani",
+        "name":"HENNEP LAB",
+        "types":[
+          
+        ],
+        "lat":14.0452505,
+        "lng":100.7331802,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"99 134 ม1 Soi Mu Ban Suan Rim Nam, คลองหก Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":3.268786796438213,
+      "dispensary":{
+        "id":"ef0e03a4-9cda-4ccf-83a8-4931bd7a8c05",
+        "city":"Pathum Thani",
+        "name":"GETHIGH HOUSE",
+        "types":[
+          
+        ],
+        "lat":14.0484089,
+        "lng":100.736419,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "image":"c5580d9d1031f68d3651534fcd8294db",
+        "has_products":false,
+        "address":"81/109 หมู่บ้านพฤกษา116 ซอย คลองหกตะวันออก 12 Tambon Khlong Hok, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":3.472139290969732,
+      "dispensary":{
+        "id":"65cb11d1-aa20-44a6-b989-201f2612c8e0",
+        "city":"Pathum Thani",
+        "name":"ร้านขายกัญชา Grasss Club",
+        "types":[
+          
+        ],
+        "lat":14.0199647,
+        "lng":100.681299,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "image":"9bdb3d343d16f136e1c6ffaf8739731f",
+        "has_products":false,
+        "address":"89/284 หมู่บ้านพลีโน่รังสิตคลองสี่-วงแหวน คลองสี่ Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":3.584026440486207,
+      "dispensary":{
+        "id":"2be4e0eb-1916-4460-86ac-deeaf1c1fd0b",
+        "city":"Pathum Thani",
+        "name":"ร้านขายกัญชา Grassstation สาขาหมู่บ้านพลีโน่",
+        "types":[
+          
+        ],
+        "lat":14.019918,
+        "lng":100.6801306,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":255
+            },
+            "count":51
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":255
+            },
+            "count":51
+          }
+        },
+        "image":"60e89086744dbb2c24ce5011f7302baf",
+        "has_products":false,
+        "address":"87/284 Pleno รังสิตคลอง4 - วงแหวน หมู่1, Tambon Khlong Si, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":3.5998963358242295,
+      "dispensary":{
+        "id":"e6684a3b-c347-4a32-be7f-5dfd8c55dc0d",
+        "city":"Pathum Thani",
+        "name":"ร้านขายกัญชา Grassstation",
+        "types":[
+          "Dispensary",
+          "Cafe",
+          "Club",
+          "Wholesaler",
+          "Farm",
+          "Grower"
+        ],
+        "lat":14.0199285,
+        "lng":100.6799558,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":618
+            },
+            "count":124
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":618
+            },
+            "count":124
+          }
+        },
+        "image":"855e51d977c0ab791854bc43fffc47c1",
+        "has_products":false,
+        "address":"Pleno 88/284 พลีโน่รังสิตคลองสี่-วงแหวน คลองสี่ Tambon Khlong Si, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+        "open":true
+      }
+    },
+    {
+      "distance":3.6000678823562344,
+      "dispensary":{
+        "id":"fc7ba2db-b168-451f-889f-c569f4a4ca33",
+        "city":"Pathum Thani",
+        "name":"ร้านกัญชา Grassstation",
+        "types":[
+          
+        ],
+        "lat":14.0198733,
+        "lng":100.6799859,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":125
+            },
+            "count":25
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":125
+            },
+            "count":25
+          }
+        },
+        "image":"f17385b4522ccd6b1ae3d75b6fe32742",
+        "has_products":false,
+        "address":"88/284 Pleno Rangsit KhlongSi-Wongwaen, Khlong Si Subdistrict, อำเภอคลองหลวง ปทุมธานี 12120, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":3.6222633670484288,
+      "dispensary":{
+        "id":"4f5a34a7-4857-4380-87e2-4a7057bc8284",
+        "city":"Pathum Thani",
+        "name":"ร้านขายกัญชาใกล้ฉัน Xweed",
+        "types":[
+          
+        ],
+        "lat":14.0198933,
+        "lng":100.6797386,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "has_products":false,
+        "address":"คลองสี่ 90/284 Pleno รังสิตคลอง 4 - วงแหวน หมู่ 1 คลองสี่ Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":3.640661379771607,
+      "dispensary":{
+        "id":"1cdaad10-4caf-4dfb-86f2-2f35463e7631",
+        "city":"Pathum Thani",
+        "name":"ร้านขายกัญชา แก๊สสเตชั่น",
+        "types":[
+          
+        ],
+        "lat":14.0198841,
+        "lng":100.6795488,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "image":"1f755873eeae5619c32ba7704eced832",
+        "has_products":false,
+        "address":"คลองสี่ 86/284 Pleno รังสิตคลอง 4 - วงแหวน หมู่ 1 คลองสี่ Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":4.158339128887521,
+      "dispensary":{
+        "id":"1fe64bbe-ee57-41cb-8772-d9d09a92e335",
+        "city":"Pathum Thani",
+        "name":"Friend Farm OG",
+        "types":[
+          "Farm",
+          "Delivery",
+          "Grower"
+        ],
+        "lat":14.0383083,
+        "lng":100.6706173,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "image":"7cad5aad7dcd1a3b4d68e31619bf507b",
+        "has_products":true,
+        "address":"บ้านเลขที่40/2766 ซอย28/5 ตำบลคลองสาม ต.คลองสาม Khlong Luang District, Pathum Thani 12120, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":4.1813262837961975,
+      "dispensary":{
+        "id":"067c8b2c-006a-4055-ad4f-b1044d913d16",
+        "city":"Pathum Thani",
+        "name":"ร้านกัญชา high dose (รังสิตคลองสี่)",
+        "types":[
+          "Cafe",
+          "Bar"
+        ],
+        "lat":14.0013949,
+        "lng":100.693296,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":20
+            },
+            "count":4
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":20
+            },
+            "count":4
+          }
+        },
+        "image":"5ce9583c0494fb6d9d11cd125535a1c5",
+        "has_products":false,
+        "address":"C202 บึงยี่โถ่ Tambon Bang Yitho, Amphoe Thanyaburi, Chang Wat Pathum Thani 12130, Thailand",
+        "open":true
+      }
+    }
+  ]
+}

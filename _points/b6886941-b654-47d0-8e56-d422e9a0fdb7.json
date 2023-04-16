@@ -1,0 +1,2007 @@
+{
+  "id":"b6886941-b654-47d0-8e56-d422e9a0fdb7",
+  "lat":"12.912296",
+  "lng":"100.8683956",
+  "city":"Pattaya",
+  "name":"Space Bar Cannabis Weed Marijuanas Dispensaray",
+  "type":null,
+  "business_images":[
+    "4225ae9bbed0a7e332600e43927f6adc",
+    "d9e9daa1b1d027807e12b158a9d11e2e",
+    "5e848179fc8cbfa81c15f8574719c405",
+    "7e3da11f710c9bdc103970866e468247",
+    "9fb4a55802726aa49aaf92a967d9f85e",
+    "5e74a40b4a70ec59d63d377b1410735b",
+    "87d2f47903300297dc76445951e8dc5d"
+  ],
+  "google_images":[
+    "d4a2c0a2f4b2a3fc5e81af31e8e988e5",
+    "4d083bde979205bcab3a41459de67d6b",
+    "28101f818101596eb776b84e85c4f916",
+    "428ebd566a4ca833f728c2c4cf593c25",
+    "d4a2c0a2f4b2a3fc5e81af31e8e988e5",
+    "a6b869bed2d5110dcd106771bd610376"
+  ],
+  "status":"approved",
+  "website":"-",
+  "phone":"+66 92 792 9141",
+  "opening_hours":[
+    {
+      "open":{
+        "day":0,
+        "time":"1000"
+      },
+      "close":{
+        "day":1,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":1,
+        "time":"1000"
+      },
+      "close":{
+        "day":2,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":2,
+        "time":"1000"
+      },
+      "close":{
+        "day":3,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":3,
+        "time":"1000"
+      },
+      "close":{
+        "day":4,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":4,
+        "time":"1000"
+      },
+      "close":{
+        "day":5,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":5,
+        "time":"1000"
+      },
+      "close":{
+        "day":6,
+        "time":"0000"
+      }
+    },
+    {
+      "open":{
+        "day":6,
+        "time":"1000"
+      },
+      "close":{
+        "day":0,
+        "time":"0000"
+      }
+    }
+  ],
+  "line":"-",
+  "google_url":"https://maps.google.com/?cid=13099864760871490809",
+  "place_id":"PuVWQHpvm9dKNwRE-EEaQMtEmYH",
+  "facebook":"https://www.facebook.com/profile.php?id=100087801873889",
+  "description":"Hi wellcome to Space Bar Cannabis !!\nCannabis Store\nWe serve hi quality top shelf\nWe have more then 10 strain.\nOpen Now......!!!!!\nCome and enjoy\nLocation : A cross Aiyara Grand",
+  "products_flowers":[
+    {
+      "id":"c7cb8035-efbb-4a0c-b458-0b8cc01b1e63",
+      "name":"Biscotti Mintz",
+      "description":"Created for the real connoisseurs featuring two of the USA’s premium and most elusive strains. The lab crossed Biscotti; already a world beating 80% Indica dominant specimen with our exclusive and delicious Mintz Phenotype.\n\nThe results were stunning, the Cookies variant x OG Kush parentage provided the incredible potency and a flavour backbone, add the infusion of the creamy smooth Mintz genetics created this Mouth-watering new champion of a strain, a totally unique edition to our catalogue.\n\nBISCOTTI MINTZ™ is predominantly a deep purple plant with trichome production off the scale, during the final day’s leaves display a beautiful array of purples, oranges and greens wrapping the tightly formed bolder shaped dark green buds with bold purple highlights and long orange hairs.\n\nYou will be astounded by its tantalising, lingering tastes, and aromas, kushy flavours with hints of chocolate chip cookies with creamy mint and spice. Distinctive Limonene, Caryophyllene, Eucalyptol terpenes come together to produce exceptionally appetizing aroma.\n\nWith BISCOTTI MINTZ™, discover a highly creative, focused, and relaxing effect with a noticeable and distinct creeping energizing body high.",
+      "images":[
+        "81a9f373246d97637d9fb8f344677dbf"
+      ],
+      "thc":21,
+      "cbd":1,
+      "sativa":20,
+      "indica":80,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2022-12-22T11:49:01.455129+00:00",
+      "updated_at":"2023-04-06T21:00:02.308824+00:00"
+    },
+    {
+      "id":"2dd604f8-8e71-48bd-9bd8-05d6f15a5a7c",
+      "name":"Runtz of eden",
+      "description":"Runtz is an elite, sought-after strain that has been receiving a lot of well-deserved hype. The first time we grew it, the reason for all the hype was obvious. Runtz is absolutely covered in frost with some purple and violet hues mixed in. Runtz was created through a delicious cross of the infamous Zkittlez X Gelato strains. Runtz brings on a delicious fruity flavor with tropical citrus and sour berries with a spicy pineapple aftertaste. Runtz has been tested as high as 29% THC.\n\nWith Runtz of Eden, we were able to obtain the breeder’s cut of Forbidden Fruit that was the loudest purple strain we have ever encountered and crossed it with our prized Runtz cut. Runtz of Eden combines the LOUD sweet, rotten fruit terps with the exotic cookies and fruit and candy terpenes of Runtz. Phenos will produce varying amounts of purple colors.",
+      "images":[
+        "0f21daf70a476d95556ec89b2b8f9005"
+      ],
+      "thc":20,
+      "cbd":0,
+      "sativa":20,
+      "indica":80,
+      "images_coa":[
+        
+      ],
+      "quality":"AA",
+      "disabled":false,
+      "created_at":"2022-12-22T11:50:56.788024+00:00",
+      "updated_at":"2023-04-06T21:00:02.353839+00:00"
+    },
+    {
+      "id":"e0f82a6f-c313-49b4-8ec4-827c5299b531",
+      "name":"Jokerz Candy",
+      "description":"Parents: Gummiez x Grape Gas\nAroma: Grape | Sweet\nFlavour: Sweet and Sour | Diamond\nIn Melted Diamonds, Jokers Candy is an Indica dominant strain crossing Gummiez x Grape Gas! Giving off a slight grape gummy taste, it’s sweetness is not too overpowering with the balanced flavour of diamonds. Enjoy a sweet yet slightly sour strain that obtains the natural diamond aroma!",
+      "images":[
+        "7baaa9630aa99bd60be3df5e193e7f79"
+      ],
+      "thc":27,
+      "cbd":1,
+      "sativa":40,
+      "indica":60,
+      "images_coa":[
+        
+      ],
+      "quality":"AAAA",
+      "disabled":false,
+      "created_at":"2023-01-17T08:27:22.367347+00:00",
+      "updated_at":"2023-04-06T21:00:02.39142+00:00"
+    },
+    {
+      "id":"7373b0ea-432c-4403-8c77-245710f03959",
+      "name":"Slurricane",
+      "description":"Lineage\tDo-Si-Dos x Purple Punch\nFlavors\tSweet,Tropical, Earthy, Herbs, Berry\nSTRAIN INFORMATION\nSlurricane Backstory\n\nSlurricane is an indica dominant hybrid strain, created through a potent cross of the delicious Do-Si-Dos and the gorgeous Purple Punch strains. If you're an indica lover who appreciates a super flavorful smoke and a potent punch of effects, look no further. \n\nSlurricane will totally have you dazed with its delicious combination. This bud packs a super sweet fruity berry flavor accented by spicy tropical fruits and earth upon exhale. The aroma takes a pungent turn, with a spicy earthy overtone that's accented by herbs and berries. The Slurricane high settles in a few minutes after your first delicious exhale, creeping up on the back of your head with tingly effects before suddenly taking hold.",
+      "images":[
+        "88230736090f39a6d872766df17b856d"
+      ],
+      "thc":25,
+      "cbd":1,
+      "sativa":40,
+      "indica":60,
+      "images_coa":[
+        
+      ],
+      "quality":"AAAA",
+      "disabled":false,
+      "created_at":"2023-01-17T08:52:47.257259+00:00",
+      "updated_at":"2023-04-06T21:00:02.305082+00:00"
+    },
+    {
+      "id":"5c24fbbc-9da1-476c-914a-8d2cdf1dc87c",
+      "name":"White Wedding",
+      "description":"Flavors Coffee, Creamy, Nutty, Sweet, Vanilla\n\nWhite Wedding is a hybrid weed strain made from a genetic cross between Wedding Cake and GSC. Bred by MSIKU, White Wedding is 25% THC, making this strain an ideal choice for experienced cannabis consumers. Leafly customers tell us White Wedding effects make them feel happy euphoric and talkative. Medical marijuana patients often choose White Wedding when dealing with symptoms associated with stress, anxiety, and depression. The dominant terpene of this cannabis strain is pinene. White Wedding features an aroma and flavor profile of vanilla, apple, and ammonia. If you’ve smoked, dabbed, or consumed White Wedding, tell us about your experience by leaving a strain review.",
+      "images":[
+        "1bf9df7675ff4bf3b0739c063a8e09db"
+      ],
+      "thc":25,
+      "cbd":0,
+      "sativa":20,
+      "indica":80,
+      "images_coa":[
+        
+      ],
+      "quality":"AAAA",
+      "disabled":false,
+      "created_at":"2023-01-17T09:00:02.045747+00:00",
+      "updated_at":"2023-04-06T21:00:02.321365+00:00"
+    },
+    {
+      "id":"6d0aca09-d2f5-4857-b5e6-4e6d91016720",
+      "name":"Platinum Kush",
+      "description":"Platinum Kush, also known as Platinum OG, is a West Coast staple that first emerged in the early 1990s as a hybrid of Master Kush with the landrace Afghani. Sources speculate that the strain is instead a cross of OG Kush and Afghani, and different varieties with the same name may exist on the market.\n\nAt full maturity, Platinum Kush is a squat, bushy plant with wide, dark leaves and medium-sized buds. Its flower tends to be densely packed, colored with orange hairs and resinous trichomes. Platinum Kush is known for its hardiness, making a suitable crop for either indoor or outdoor growing, even in colder climates. The strain flowers in 8-9 weeks indoors and late September outdoors in the Northern Hemisphere, March in the Southern Hemisphere.",
+      "images":[
+        "9af36a268ea7e74a3b1a885c1ac29b15"
+      ],
+      "thc":20,
+      "cbd":1,
+      "sativa":10,
+      "indica":90,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-01-17T09:11:14.093768+00:00",
+      "updated_at":"2023-04-06T21:00:02.35854+00:00"
+    },
+    {
+      "id":"81360b91-892c-4985-9696-5f44220541db",
+      "name":"Mild x1",
+      "description":"-",
+      "images":[
+        "389eab698979587ee1c99c434034a050"
+      ],
+      "thc":20,
+      "cbd":0,
+      "sativa":20,
+      "indica":80,
+      "images_coa":[
+        
+      ],
+      "quality":"AA",
+      "disabled":false,
+      "created_at":"2023-01-18T09:52:04.194154+00:00",
+      "updated_at":"2023-04-06T21:00:02.328751+00:00"
+    },
+    {
+      "id":"8cc32937-dc87-4c3f-b37e-df035a9ee735",
+      "name":"Platinum Scout V2",
+      "description":"An Indica-dominant hybrid cross of Durban Poison x OG Kush, our unique pheno of Platinum Scout was popped from seeds from Pacific Seed Bank. With dense, bright green buds and robust trichome production, the Platinum Scout strain is a potent cultivar for sufferers of pain and inflammation.\nPHYSICAL EFFECTS\n\nRelaxing, Anti-Inflammatory, Hazy\nFLAVOR\n\nDank, Creamy, Cookies",
+      "images":[
+        "23bbdd537f355f18d9b9e847afdd62a6",
+        "3473c7f8e582f8f1d57f924af695dc8c",
+        "ecf5c11aa77f54636463abea95222c30",
+        "6606ebadd5f335bad4a1882e4be3b3c5"
+      ],
+      "thc":20,
+      "cbd":0,
+      "sativa":0,
+      "indica":100,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-01-18T09:57:31.986247+00:00",
+      "updated_at":"2023-04-06T21:00:02.384309+00:00"
+    },
+    {
+      "id":"7c51d26b-1fb2-4241-b9e7-e386d08561a0",
+      "name":"Kush x Mintz",
+      "description":"Kush Mints, also known as \"Kush Mintz,\" is a hybrid marijuana strain made by crossing Animal Mints with Bubba Kush. The result is a high THC strain with a unique minty taste. Kush Mints provides effects that are uplifting and happy. This strain has a complex flavor profile that tastes like mint and cookies. Growers say Kush Mints grows best when indoors and done hydroponically. Medical marijuana patients choose this strain to help stimulate appetite.",
+      "images":[
+        "c3f6d40142b167ecbff94334957748a9"
+      ],
+      "thc":22,
+      "cbd":1,
+      "sativa":30,
+      "indica":70,
+      "images_coa":[
+        
+      ],
+      "quality":"AA",
+      "disabled":false,
+      "created_at":"2023-02-22T09:30:22.531797+00:00",
+      "updated_at":"2023-04-06T21:00:02.335293+00:00"
+    },
+    {
+      "id":"f75f2e30-d1ed-44f1-b7e1-e3515f058a4a",
+      "name":"91 Octane",
+      "description":"91 Octane Exotic Genetix cannabis seeds is a hybrid birthed from a cross of Biscotti x Scotty 2 Hotty.\n\nBiscotti flowers into small, dense buds marked by dark green and purple foliage with bright orange pistils.\n\nThe striking trichome coverage of this strain gives it top shelf appeal.\n\nWhile you may dismiss its tiny popcorn buds at first glance, these nugs are sticky to the touch.\n\nThis strain tastes like sweet cookies with undertones of diesel, giving you an enjoyable experience that’s great for both mind and body.\n\nThe aroma is earthy and herbal, mixed with fruits, while the taste has hints of sweetness from start to finish.\n\nScotty 2 Hotty  is a hybrid birthed from a cross of Biscotti x Rainbow Chip.\n\nThanks to the Scotty she’s got that weight and density.\n\nThis girl hits that biscotti HARD. Cookie nose, dripping in resin. Flecks of purple starting to come out.\n\nThis strain give heavy gassy luxuriotti vibes as you would expect from another biscotti strain!\n\nSticky triched out buds with beautiful greens purples and oranges throughout the bud.\n\nThe smoke has a smoothness of a Gary Payton with that biscotti funk lightened up by that rainbow chip.\n\n ",
+      "images":[
+        "9a400922edf479446b25821472774c5d",
+        "944d438c3e9f0af7a8a5a758f241d89b"
+      ],
+      "thc":20,
+      "cbd":0,
+      "sativa":30,
+      "indica":70,
+      "images_coa":[
+        
+      ],
+      "quality":"A",
+      "disabled":false,
+      "created_at":"2023-02-22T10:01:16.000954+00:00",
+      "updated_at":"2023-04-06T21:00:02.315005+00:00"
+    },
+    {
+      "id":"49ff28bc-bd8e-4bf3-84f8-c4e30c278801",
+      "name":"Candy Pave",
+      "description":"Eye Candy x Pave\nCompound Genetics",
+      "images":[
+        "79c48fc393183fe0e5f0a5e684f92f1f",
+        "99699d41d0afa4a6220de7890f2d616a"
+      ],
+      "thc":20,
+      "cbd":0,
+      "sativa":30,
+      "indica":70,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-03T09:12:39.654354+00:00",
+      "updated_at":"2023-04-06T21:00:02.373909+00:00"
+    },
+    {
+      "id":"5141fab1-c53d-4a50-bfd6-c9e722fa1040",
+      "name":"Compound Z",
+      "description":"Compound Z is an indica dominant strain with a lineage of Apples & Bananas crossed with White Runtz. You get a gassy, fruity aroma along with a sweet and spicy flavor profile from this delectable strain. Compound Z has a happy, relaxing high that sets into your body, helping to combat chronic pain, stress and anxiety. The perfect strain for consumers who want to take the edge off after a stressful day.",
+      "images":[
+        "300e3aee87044b6d05c085550b0c9eb5",
+        "d2d343de98b5d7ffeff3cca57a0ef691"
+      ],
+      "thc":20,
+      "cbd":0,
+      "sativa":30,
+      "indica":70,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-04T08:35:36.321617+00:00",
+      "updated_at":"2023-04-06T21:00:02.363528+00:00"
+    },
+    {
+      "id":"2fdcb439-0665-4d6b-9978-0df8e0f25174",
+      "name":"Tarts",
+      "description":"Exotic Genetix Tarts\nTarts is a mostly indica variety from Exotic Genetix and can be cultivated indoors (where the plants will need a flowering time of ±60 days) and outdoors. Exotic Genetix' Tarts is a THC dominant variety ",
+      "images":[
+        "433645849b952bd896f8ae69ba6846c4",
+        "aaf8d04c7a8ccba2b380ba5ec2da6bc3"
+      ],
+      "thc":20,
+      "cbd":0,
+      "sativa":40,
+      "indica":60,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-04T08:40:21.651496+00:00",
+      "updated_at":"2023-04-06T21:00:02.342838+00:00"
+    },
+    {
+      "id":"d03680ba-9036-4d45-9721-2f416049b499",
+      "name":"Sweet Cane",
+      "description":"-",
+      "images":[
+        "fe9c9731b39641aef418ccc07eeebe78",
+        "a791f7c9aa277d27c32ef6d45c5336f7"
+      ],
+      "thc":20,
+      "cbd":0,
+      "sativa":40,
+      "indica":60,
+      "images_coa":[
+        
+      ],
+      "quality":"AA",
+      "disabled":false,
+      "created_at":"2023-03-04T08:48:29.93872+00:00",
+      "updated_at":"2023-04-06T21:00:02.380399+00:00"
+    },
+    {
+      "id":"422b9aa2-5e42-4ecc-84cc-f88b1f398bda",
+      "name":"Truffle Cake",
+      "description":"Believed to be a strain born in California Truffle Cake is a slightly Sativa-dominant (60% Sativa/ 40% Indica) hybrid with an appearance much like an OG, and a potency associated with the best OG Kush cuts. However, the strain has an unusual terpene profile as it is almost completely lack odor. The buds of Truffle Cake are pretty dense, large-sized, and feature an enormous coating of crystal trichomes that film the leaves with a silvery-black effect. When cured and burned, this flower gives off a faint hint dank pine. Truffle Cake Cannabis strain is a trufflez group sativa – a daytime strain and a top choice for creative people. Its effects start with a cerebral rush that is felt almost immediately. The strain has a capacity for intense focus and energy. Although Truffle Cake strain is an introspective strain that is useful for brainstorming and problem-solving, it has a high that can be essentially described as perfectly balanced, given its equal head and body effect. Beginners are advised to use in small doses, as the high could be overwhelming, leading to paranoia or increased levels of anxiety. 31% THC",
+      "images":[
+        "b01b024ef2b80a700ea409d373cc3f3d",
+        "c1e2cb1192c673d7520e00807012fa1d"
+      ],
+      "thc":20,
+      "cbd":0,
+      "sativa":40,
+      "indica":60,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2023-03-04T08:54:32.276088+00:00",
+      "updated_at":"2023-04-06T21:00:02.348211+00:00"
+    }
+  ],
+  "products_seeds":[
+    
+  ],
+  "products_prerolls":[
+    
+  ],
+  "products_edibles":[
+    
+  ],
+  "products_topicals":[
+    
+  ],
+  "products_gear":[
+    
+  ],
+  "products_misc":[
+    
+  ],
+  "reviews":[
+    {
+      "author":"Ivan Lichenko",
+      "avatar":"32562d7df2054f80de9a798465e586fb",
+      "content":"(Translated by Google) Excellent quality goods from local producers. They sell at least a half, at least a quarter (which is rare for Pattaya).\nI recommend!\n\n(Original)\nОтличного качества товар от местных производителей. Продают хоть половинку, хоть четвертинку (что для Паттайи - редкость).\nРекомендую!",
+      "review_date":"2023-02-22T07:38:23.136+00:00",
+      "rating":5,
+      "images":[
+        "8e05a4e0ddf776116bacea82e7e23090",
+        "b6ef06c3b14d77519c48379ea09fabaf",
+        "039b96c72d4f7d3c0926729ebf779bee",
+        "e9c2101ce6b2bfe02c9bddebe0316713"
+      ],
+      "url":"https://www.google.com/maps/contrib/100083015909605704992?hl=en-US"
+    },
+    {
+      "author":"บุญศิมา เสือสมิง",
+      "avatar":"129138266eeb0d4bf0eff2732ccc3c7e",
+      "content":"💚💛❤️  กัญชาคุณภาพ ที่นี้เลย\n\n(Translated by Google)\n💚💛❤️ Quality marijuana here",
+      "review_date":"2023-01-11T15:59:51.341+00:00",
+      "rating":5,
+      "images":[
+        "52d0b90011f7385f3d6c9e548fd9e39c"
+      ],
+      "url":"https://www.google.com/maps/contrib/100124411957463675064?hl=en-US"
+    },
+    {
+      "author":"บ่าวภูไท",
+      "avatar":"f5071e4d30a466be6d3b0e6a4c840844",
+      "content":"ร้านสะอาด พนักงานน่ารัก บริการดี แนะนำเลย สายนี้ ถ้ามาพัทยาต้องแวะ\n\n(Translated by Google)\nClean shop, lovely staff, good service, recommend it. If you come to Pattaya, you must stop by this line.",
+      "review_date":"2022-12-28T05:44:04.802+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100615900099971571373?hl=en-US"
+    },
+    {
+      "author":"Zephyr Hearts",
+      "avatar":"f77ee72dc3162fd62e0660297d5c2569",
+      "content":"They have over 20 different strains. All high quality. Also strains from USA available. I'm from Los Angeles and it's impressive to see a shop like this. They have high quality, thick glass bongs with diffused downstems and bubbler ash catchers. They offer grinders, torches, and the bongs are covered with silicone to protect them. They also have rolling trays, papers and joint rollers available for use. It's like being back in Los Angeles in 2010s 😎✌️🤗 Ask for Dream, she's knowledge and friendly 🙏",
+      "review_date":"2023-03-03T16:11:13.123+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101265269205812442216?hl=en-US"
+    },
+    {
+      "author":"walit ortong",
+      "avatar":"387ddbd39c89c94c9836aa4087a9b9cc",
+      "content":"ร้านนี้ดีจริง\nบรรยากาศ\nพนักงานบริการแบบรู้ใจ\nของดีหอมมาก ถูกใจ\nเดียวต้องบอกเพื่อนให้ไปโดน\nพัทยาร้านนี้โดน❤️❤️❤️🫠\n\n(Translated by Google)\nThis shop is really good\natmosphere\nKnowledgeable service staff\nvery good smell like\nYou just have to tell your friends to go get hit.\nPattaya, this shop is hit ❤️❤️❤️🫠",
+      "review_date":"2022-12-26T07:32:12.783+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101329322317906428281?hl=en-US"
+    },
+    {
+      "author":"Worwick11 -",
+      "avatar":"c6073b11899b96ce1dfcd2ec62aa931b",
+      "content":"420 day",
+      "review_date":"2023-03-30T16:22:16.217+00:00",
+      "rating":5,
+      "images":[
+        "c5b356c21e0e01afaf965040e4a32ccc",
+        "efd3a91d9052d2ac030f5c5690172dde",
+        "7a6152662e188272088a30477b30b6ed",
+        "40e2b486becac9814b88f3984fa8a56c"
+      ],
+      "url":"https://www.google.com/maps/contrib/101652660894859728619?hl=en-US"
+    },
+    {
+      "author":"P i t t a y a Mama",
+      "avatar":"2dd7d04047b0d7d8f4fe85d64f2982d2",
+      "content":"ตัวที่ให้ลองคือดีจัดเลยครับ\n\n(Translated by Google)\nThe one that you try is very good.",
+      "review_date":"2023-02-01T04:56:20.076+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102323335379727768024?hl=en-US"
+    },
+    {
+      "author":"Wimolpan Tokangpul",
+      "avatar":"954aeecaaf07dd9842a8d03c935883fa",
+      "content":"",
+      "review_date":"2023-03-30T16:20:49.684+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102324821243795431673?hl=en-US"
+    },
+    {
+      "author":"Dylan Rawlinson",
+      "avatar":"3ee9efc091f2a5a4dbc767a0e90090f6",
+      "content":"Great selection, nice dense indicas",
+      "review_date":"2023-04-04T14:37:20.633+00:00",
+      "rating":5,
+      "images":[
+        "cfc31129314ac0999363967a0aad5102"
+      ],
+      "url":"https://www.google.com/maps/contrib/102441184499579241009?hl=en-US"
+    },
+    {
+      "author":"Monstar Muzik",
+      "avatar":"037d3b700cbc318890ccc90f719870d4",
+      "content":"Best Cannabis bar in Pattaya!!  Maybe the world.\nBest Cannabis !!\nBest Prices !!\nBest Service!!",
+      "review_date":"2023-01-27T07:09:58.209+00:00",
+      "rating":5,
+      "images":[
+        "dffaa494a68361d19906a737bc6aa031",
+        "f4a3da0f12c38828004bfe31c4cd1827",
+        "87e93b858019d0104ba59efed359dcc9",
+        "87fe7451cd3fd5c1cc9e45d7e74634d2",
+        "d43bb0507fb95ca425117c0997a24a7d",
+        "d42c50f684e709bee016e1512339b4d5",
+        "252868e7362a5397926bb1823790f505",
+        "7a2b8e78c04248ec47c03eb57d7894b7",
+        "ccfb1b3a6a87c643aa409fecfe63a624",
+        "a7ff0b629b4a674c4e955001302d2131"
+      ],
+      "url":"https://www.google.com/maps/contrib/103604886149213042387?hl=en-US"
+    },
+    {
+      "author":"SNOWYANN Love",
+      "avatar":"7098decd964da960bfda1f89cbd293a7",
+      "content":"",
+      "review_date":"2023-02-24T09:16:50.808+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103705535130871330300?hl=en-US"
+    },
+    {
+      "author":"Kae Kae kae",
+      "avatar":"cd0d70668d80d1db1b00386b407ac836",
+      "content":"พนักงานบริการเป็นกันเอง ร้านน่าเข้า สินค้ามีคุณภาพ\nดีเยี่ยม  👍👍👍\n\n(Translated by Google)\nFriendly service staff, nice shop, quality products.\nExcellent 👍👍👍",
+      "review_date":"2022-12-18T10:30:17.247+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103769926338918772750?hl=en-US"
+    },
+    {
+      "author":"โปเต้ โปเต้",
+      "avatar":"825ce819c68ec33916c42242171f448b",
+      "content":"",
+      "review_date":"2023-03-29T10:58:31.402+00:00",
+      "rating":5,
+      "images":[
+        "d592dab5cae4c9c0c7fe78b9b13bfb6c"
+      ],
+      "url":"https://www.google.com/maps/contrib/103904186058922299740?hl=en-US"
+    },
+    {
+      "author":"Elvidz Poomwiset",
+      "avatar":"aee7ea6f310b7cb6d9bbcada53f03c84",
+      "content":"ร้านฟิลดีมากครับ มาพัทยาแวะมากันนะครับผม 😁😁\n\n(Translated by Google)\nPhil shop is very good. Come to Pattaya. Let's stop by. 😁😁",
+      "review_date":"2023-03-10T14:27:25.446+00:00",
+      "rating":5,
+      "images":[
+        "5fe5cdc4ccd3dd2427e7a5d3ec1d2f72"
+      ],
+      "url":"https://www.google.com/maps/contrib/104161879775391915340?hl=en-US"
+    },
+    {
+      "author":"Stefan Schneider",
+      "avatar":"7c9343614a19b7d27d1bd7941417ca64",
+      "content":"Best dispensary I've been so far in Thailand. Palm can speak English and really knows what he's talking about. Nice service, nice atmosphere 👍",
+      "review_date":"2023-01-19T21:19:57.639+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104690682530948264717?hl=en-US"
+    },
+    {
+      "author":"Christophe Notargiacomo",
+      "avatar":"d5e3c7b852d42910f93059fac21d7d43",
+      "content":"",
+      "review_date":"2023-02-14T11:24:12.756+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105070237295272345825?hl=en-US"
+    },
+    {
+      "author":"Sarinee Kaewlam",
+      "avatar":"4f484c43800315a697671092cb29d8fd",
+      "content":"อากาศดี\n\n(Translated by Google)\ngood weather",
+      "review_date":"2022-12-19T07:03:33.841+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106039569094356462178?hl=en-US"
+    },
+    {
+      "author":"verna eljapa",
+      "avatar":"d7d393a9c0d059c59dce05a546c446c4",
+      "content":"",
+      "review_date":"2023-03-31T13:19:03.14+00:00",
+      "rating":5,
+      "images":[
+        "785687d772623d11876ab53f733d7fed"
+      ],
+      "url":"https://www.google.com/maps/contrib/106284962165845921278?hl=en-US"
+    },
+    {
+      "author":"Антон Лаврухин",
+      "avatar":"ac1de17a2bf2830d84fc17861f89a981",
+      "content":"Best place in city",
+      "review_date":"2023-04-02T08:30:22.954+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106329140901314588908?hl=en-US"
+    },
+    {
+      "author":"Lok Yin",
+      "avatar":"99e2ca299a742b4401292e33eced5dea",
+      "content":"",
+      "review_date":"2023-02-25T09:32:12.344+00:00",
+      "rating":5,
+      "images":[
+        "a05bfe6c3c911ec70fe365b8541fee96"
+      ],
+      "url":"https://www.google.com/maps/contrib/106539529514116365278?hl=en-US"
+    },
+    {
+      "author":"Fergus49",
+      "avatar":"ce5575f9f58baa59160c484d4aed3464",
+      "content":"Thanks a lot❤️ Such a wonderful experience😀😀😀",
+      "review_date":"2023-02-25T09:35:36.051+00:00",
+      "rating":3,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108363824072942827421?hl=en-US"
+    },
+    {
+      "author":"Tato",
+      "avatar":"5d74f71ce994e2bf3c7f9aba9e43ed70",
+      "content":"",
+      "review_date":"2023-03-30T08:53:44.577+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109016805487865900902?hl=en-US"
+    },
+    {
+      "author":"ISteely Rs",
+      "avatar":"95c5f66b9b543f7cb54f2fdba5ee69b7",
+      "content":"Nice staff and good zaza! 👌",
+      "review_date":"2023-03-08T11:55:20.347+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109280807167901133979?hl=en-US"
+    },
+    {
+      "author":"Коротченко Евгений",
+      "avatar":"2524a54781c846b9b7148a111be81bff",
+      "content":"Friendly staff, nice assortment",
+      "review_date":"2023-02-18T15:42:10.878+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110567787065778073896?hl=en-US"
+    },
+    {
+      "author":"Junior",
+      "avatar":"14ba0df6ac643d48803d7aee3ea23d32",
+      "content":"Good Service, nice talking to the owner, very nice recommendation and quality products too!",
+      "review_date":"2023-01-06T10:31:41.811+00:00",
+      "rating":5,
+      "images":[
+        "eb09866282e4150574ea7110691c8bac"
+      ],
+      "url":"https://www.google.com/maps/contrib/111134279691463208959?hl=en-US"
+    },
+    {
+      "author":"คิดอยู่นาน จะชื่ออะไรดี",
+      "avatar":"3dfbb45b4867101af9af7e61629d2f53",
+      "content":"ร้านบรรยากาศดี พนักงานบริการดีมาก\nต้องกลับไปอีก!!!!\n\n(Translated by Google)\ngood atmosphere The service staff is very good.\nMust go back!!!!",
+      "review_date":"2022-12-19T10:23:32.83+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111213179648569598745?hl=en-US"
+    },
+    {
+      "author":"Pattaya Weed Reviewer",
+      "avatar":"7898c50652b5a87d7e5419c4fb03355b",
+      "content":"Quiet, ultra sensitive atmosphere, peaceful vibe. The marble bar (or was it onyx? I'm not sure, but felt fancy) was a beautiful focal point and added a touch of luxury to the space.\n\nThe staff was incredibly friendly, so is the green stuff they packed. I gotta say there were some rather unique strains that I've never seen before.\n\nTruly enjoyable visit)",
+      "review_date":"2022-12-27T14:02:59.461+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111919342550860413920?hl=en-US"
+    },
+    {
+      "author":"Федор Бондаренко",
+      "avatar":"27ec0c43eb5d711f7ef03fe9ccc10b35",
+      "content":"This is the best coffeeshop in the city!!!",
+      "review_date":"2023-02-12T21:29:13.655+00:00",
+      "rating":5,
+      "images":[
+        "555d356039daa31db9a9c47e9f85cbbb"
+      ],
+      "url":"https://www.google.com/maps/contrib/112133310297854654475?hl=en-US"
+    },
+    {
+      "author":"Алексей Батюков",
+      "avatar":"9951cfb604c0a964e315d7ac141b654e",
+      "content":"(Translated by Google) One of the best shops in terms of price and quality. Constant promotions and discounts, I love this service, the delivery is very fast, they give a present to all beginners, good luck to everyone and successful trips\n\n(Original)\nОдин из лучших шопов по цене и качеству. Постоянные акции и скидки, люблю такой сервис, доставка очень быстрая, всем новичкам презент дают, всем добра и удачных походов",
+      "review_date":"2023-02-18T09:49:29.327+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112364600441866558484?hl=en-US"
+    },
+    {
+      "author":"Wannisa Munsuk",
+      "avatar":"378148d1687aec2f96a4d33f36d3cae7",
+      "content":"",
+      "review_date":"2022-12-24T14:26:00.305+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112921636846781049106?hl=en-US"
+    },
+    {
+      "author":"Фармила Фортануло",
+      "avatar":"d0fad46d544ffb7f8b9372694c056d2e",
+      "content":"",
+      "review_date":"2023-04-04T06:37:20.896+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112955961323673949660?hl=en-US"
+    },
+    {
+      "author":"Юрий Елизаров",
+      "avatar":"5bd69dbca6e292a449fe1bd941460990",
+      "content":"Very good shop!\nEveryone is bound to come in and find something to their liking!",
+      "review_date":"2023-02-26T10:53:08.061+00:00",
+      "rating":5,
+      "images":[
+        "8c4b09a279c00faf7646b51a735ca6b2"
+      ],
+      "url":"https://www.google.com/maps/contrib/113463687799925798399?hl=en-US"
+    },
+    {
+      "author":"soan kervern",
+      "avatar":"06b11c20dde47f8cd863cee6d7bb8287",
+      "content":"Great product, great store, owner knows his way around the green!! I recommend 100%",
+      "review_date":"2023-01-06T09:34:28.122+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114418223982796785332?hl=en-US"
+    },
+    {
+      "author":"Lenderson Eugene",
+      "avatar":"77877e2ebd431cc8d062a875d5c0b1a0",
+      "content":"Straight gasssssss⛽️🍁",
+      "review_date":"2023-03-09T08:42:03.056+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114499989418727030105?hl=en-US"
+    },
+    {
+      "author":"樹寶寶",
+      "avatar":"bbf32a9c07b0fac97734ef1ca51d2031",
+      "content":"GOOD PLACE\nSO CHILL AND FRIENDLY",
+      "review_date":"2023-02-25T09:31:04.429+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114657037032367502537?hl=en-US"
+    },
+    {
+      "author":"Palm",
+      "avatar":"0ff6824aec02b45248cf197587dbf27c",
+      "content":"",
+      "review_date":"2022-12-19T10:00:52.013+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114713780199656412091?hl=en-US"
+    },
+    {
+      "author":"วนิดา แก้วมณีวรรณะ",
+      "avatar":"d9a9854591b486db5e9791c6288629d0",
+      "content":"Hight quality weed !!!\nNice shop",
+      "review_date":"2023-01-05T07:23:42.726+00:00",
+      "rating":5,
+      "images":[
+        "bc47c49777622d546f7e6b9133dc2754",
+        "8b34d19075d8d5e767edb4fdeda8898c",
+        "21c44f6d0dcd48b025112647a3aab3d8",
+        "6abf857044506e0242dec2398013c28e",
+        "807bbc6030831acb807650bf12a706b0",
+        "e7c1670e3da42994d41e3d849a6084be"
+      ],
+      "url":"https://www.google.com/maps/contrib/115153287450893032703?hl=en-US"
+    },
+    {
+      "author":"Chili Poon",
+      "avatar":"a41652479a103b892aefa764430c3c30",
+      "content":"",
+      "review_date":"2023-02-25T09:30:49.624+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115387694521402809352?hl=en-US"
+    },
+    {
+      "author":"Egor Novikov",
+      "avatar":"0766fca13966cfca0262c3d8ad09f90a",
+      "content":"(Translated by Google) Super. Quality . Sincerity.\n\n(Original)\nСупер . Качество . Душевность.",
+      "review_date":"2023-02-02T14:19:44.78+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115457552421080278870?hl=en-US"
+    },
+    {
+      "author":"N' Nampeung",
+      "avatar":"d54149f9e6a782ab442078e60891e462",
+      "content":"กลิ่นดีมากๆเลยคะ ถ้ามีโอกาสมาเที่ยวพัทยาจะมาแวะอีกนะค่ะ😋\n\n(Translated by Google)\nIt smells very good. If there is a chance to visit Pattaya, will come to visit again. 😋",
+      "review_date":"2022-12-20T10:06:56.034+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116038295118466496263?hl=en-US"
+    },
+    {
+      "author":"Trey McCoy",
+      "avatar":"0182e775098fadf59387b164492b3d9b",
+      "content":"Came from California on Vacation and this place made the my whole trip perfect🔥 Great flower and even better service, couldn’t ask for more 5 stars all the way!!!",
+      "review_date":"2023-01-22T03:27:17.419+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116050127225203596702?hl=en-US"
+    },
+    {
+      "author":"Tewza chokchai",
+      "avatar":"0182e775098fadf59387b164492b3d9b",
+      "content":"🤩",
+      "review_date":"2022-12-21T12:44:13.627+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/118130761798888520736?hl=en-US"
+    },
+    {
+      "author":"นฤนาท นาคพงษ์",
+      "avatar":"ce48fd5750c53d3e5dafa1147dafff5d",
+      "content":"Very good place..!!!",
+      "review_date":"2022-12-17T12:02:54.54+00:00",
+      "rating":5,
+      "images":[
+        "015640c8f200769a82e20cfdb666b073",
+        "26676241127dcd6d37827b16a180b40d",
+        "d58c5a077aaca6abe2aefcf191038b19"
+      ],
+      "url":"https://www.google.com/maps/contrib/118190879195841461833?hl=en-US"
+    },
+    {
+      "author":"Maksim Bytka",
+      "avatar":"42fff921d06059d13a8509a4ff5f677e",
+      "content":"Best place in Pattaya",
+      "review_date":"2023-04-03T15:49:50.081+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/118191269974477749368?hl=en-US"
+    }
+  ],
+  "reviews_aggregate":{
+    "aggregate":{
+      "sum":{
+        "rating":218
+      },
+      "count":44
+    }
+  },
+  "suggestions":[
+    {
+      "distance":0.17597734824699898,
+      "dispensary":{
+        "id":"44178298-1abb-46e7-8860-54bca7e78731",
+        "city":"Pattaya",
+        "name":"Kowloon White House Dispensary",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":12.9106301,
+        "lng":100.8686286,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":35
+            },
+            "count":7
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":35
+            },
+            "count":7
+          }
+        },
+        "image":"7c90e5079477a277f75e019bd2b50bc0",
+        "has_products":false,
+        "address":"333, 36 Thap Phraya 12, Nongprue Sub-District, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.23774797774183393,
+      "dispensary":{
+        "id":"531f797e-c83e-4ee3-aedb-e682d850f795",
+        "city":"Pattaya",
+        "name":"BlueFarmTec",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0900"
+            },
+            "close":{
+              "day":0,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"0900"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"0900"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"0900"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"0900"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"0900"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"0900"
+            },
+            "close":{
+              "day":6,
+              "time":"2300"
+            }
+          }
+        ],
+        "lat":12.9101595,
+        "lng":100.8677819,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":20
+            },
+            "count":4
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":20
+            },
+            "count":4
+          }
+        },
+        "has_products":false,
+        "address":"354 16 หนองปรือ Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.4119799004716911,
+      "dispensary":{
+        "id":"17ccaf11-4b46-4175-ab01-c3d7926381f1",
+        "city":"Pattaya",
+        "name":"Sayhigh Cannabis Shop",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":12.9148043,
+        "lng":100.8711381,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":95
+            },
+            "count":19
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":95
+            },
+            "count":19
+          }
+        },
+        "image":"9cce9b5381d74b91a00fea81c1b374bc",
+        "has_products":false,
+        "address":"162 243 หมู่ 10 Thanon Thap Phraya, หนองปรือ Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.49671234290227634,
+      "dispensary":{
+        "id":"926ace1c-9a2d-40a1-b8da-3da75faf9527",
+        "city":"Pattaya",
+        "name":"The Old Weed Man Ephesus",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          
+        ],
+        "lat":12.9093125,
+        "lng":100.8649375,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":95
+            },
+            "count":19
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":95
+            },
+            "count":19
+          }
+        },
+        "image":"6111bfa4e932b97e30a3a574ef7da3bc",
+        "has_products":false,
+        "address":"WV57+PX5, Thap Phraya 12, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.5311829046449767,
+      "dispensary":{
+        "id":"33694661-f46a-4cdd-9b2f-681ebae62746",
+        "city":"Pattaya",
+        "name":"Greasy eyes cannabis",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":12.9093226,
+        "lng":100.864522,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":33
+            },
+            "count":7
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":33
+            },
+            "count":7
+          }
+        },
+        "image":"0b5cc2b55c4f11fbefe75073a49c5200",
+        "has_products":false,
+        "address":"354 Chon Buri, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.6592705596101015,
+      "dispensary":{
+        "id":"0eb91dae-6767-492a-8d6b-158852a2d606",
+        "city":"Pattaya",
+        "name":"MOONROCK",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":12.9151292,
+        "lng":100.8631439,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":15
+            },
+            "count":3
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":15
+            },
+            "count":3
+          }
+        },
+        "image":"1ad89f15fb12ace03d0c76cf96b5982a",
+        "has_products":false,
+        "address":"352 952 Soi Phra Tam Nak 4, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.7540780368318091,
+      "dispensary":{
+        "id":"c01d77cd-a07b-453b-b2c9-6a4092284170",
+        "city":"Pattaya",
+        "name":"The Old Weed Man Reserve",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":1,
+              "time":"0000"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":12.9183218,
+        "lng":100.8714293,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":29
+            },
+            "count":6
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":4
+            },
+            "count":1
+          }
+        },
+        "image":"72a54d1b948ecf1d5a9f897aa1e3923e",
+        "has_products":false,
+        "address":"144, 34 Moo 10, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.7990488467120637,
+      "dispensary":{
+        "id":"91096395-c8e8-40dd-a1c8-f187b1e6cdc3",
+        "city":"Pattaya",
+        "name":"พลังดอกPowerplant Pattaya Cannabis Weed Shop",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1200"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1200"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1200"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1200"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1200"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1200"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1200"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":12.9095618,
+        "lng":100.8615761,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":70
+            },
+            "count":14
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":70
+            },
+            "count":14
+          }
+        },
+        "image":"aaafb357d02fc78e3f7405d4f4501b1e",
+        "has_products":false,
+        "address":"374/2 Shop2B Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.8795018329511807,
+      "dispensary":{
+        "id":"0726ce93-f192-4b43-8df0-820ccc52f714",
+        "city":"Pattaya",
+        "name":"Merry Jane’s Pattaya",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":12.9043808,
+        "lng":100.8696481,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "image":"264dcf088c0659b413b4ac5fbf100710",
+        "has_products":false,
+        "address":"315, 150 Moo12 Thanon Thep Prasit, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.8938365580979732,
+      "dispensary":{
+        "id":"e54d2549-c48e-4171-bc16-2a353ced044f",
+        "city":"Pattaya",
+        "name":"COFFEESHOP AMSTERDAM 2",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0200"
+            }
+          }
+        ],
+        "lat":12.9194757,
+        "lng":100.8719423,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":95
+            },
+            "count":19
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":95
+            },
+            "count":19
+          }
+        },
+        "image":"089320490fce327287be705c1f48a0ea",
+        "has_products":false,
+        "address":"146, 107 Thappraya Rd, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.9173300481502098,
+      "dispensary":{
+        "id":"7088955d-d7f7-4263-b94f-0b9c4db6c322",
+        "city":"Pattaya",
+        "name":"La Choza pratumnak",
+        "types":[
+          "Dispensary",
+          "Bar",
+          "Delivery"
+        ],
+        "delivery_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"1100"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0830"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"0830"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"0830"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"0830"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"0830"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"0830"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"0830"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":12.9105321,
+        "lng":100.8601445,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":59
+            },
+            "count":15
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":59
+            },
+            "count":15
+          }
+        },
+        "image":"35e529c013440fb791782d5e2cbcb50c",
+        "has_products":true,
+        "address":"352, 330 330 soi 5, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.9242755221689352,
+      "dispensary":{
+        "id":"7ae7c97c-dbd1-44af-9d98-0b3be52603b4",
+        "city":"Pattaya",
+        "name":"sensimilia medicanna",
+        "types":[
+          "Dispensary",
+          "Cafe"
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"2330"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"2330"
+            }
+          }
+        ],
+        "lat":12.9054659,
+        "lng":100.8734307,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "image":"41417a6424d967abe22d3906ec1cdf89",
+        "has_products":false,
+        "address":"315 Thanon Thep Prasit, pattaya jomtien, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.9477108599166778,
+      "dispensary":{
+        "id":"b061e5bd-f91d-43dc-907b-fd8f5802158c",
+        "city":"Pattaya",
+        "name":"Hightimes coffee shop pratamnak",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":12.9106151,
+        "lng":100.8598419,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":30
+            },
+            "count":6
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":30
+            },
+            "count":6
+          }
+        },
+        "has_products":false,
+        "address":"352 332 Phra Tam Nak 5, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.9675660679449541,
+      "dispensary":{
+        "id":"af3553fe-f4d4-4860-840c-85139028fff7",
+        "city":"Pattaya",
+        "name":"Treez On Deck Dispensery",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":12.9199601,
+        "lng":100.8643919,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"378/6 moo 12 pratamnak kasetsin soi 1, Chonburi bang lamug, เมืองพัทยา อำเภอบางละมุง ชลบุรี 20150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.0094866244330711,
+      "dispensary":{
+        "id":"10c78581-ce76-4162-8958-d7364e4e178a",
+        "city":"Pattaya",
+        "name":"The Liber Farm - Cannabis Dispensery",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":12.9057973,
+        "lng":100.8750351,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":405
+            },
+            "count":81
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":405
+            },
+            "count":81
+          }
+        },
+        "image":"a8156dab7781a47a81409b8e25cb4097",
+        "has_products":false,
+        "address":"Thanon Thep Prasit, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+        "open":false
+      }
+    }
+  ]
+}

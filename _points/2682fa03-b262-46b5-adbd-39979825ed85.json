@@ -1,0 +1,2142 @@
+{
+  "id":"2682fa03-b262-46b5-adbd-39979825ed85",
+  "lat":"7.8951148",
+  "lng":"98.2963915",
+  "city":"Phuket",
+  "name":"Young Stoner Life | Cannabis/Weed Dispensary | Patong Phuket Thailand",
+  "type":null,
+  "business_images":[
+    "36d8a3c8c497b4cf2dfd5943357bd3a1",
+    "8498043b48f695c1d8eaa34e2d17ff8e",
+    "3cd3a4d1d3faa75c4b37ce148fa9b551"
+  ],
+  "google_images":[
+    "6dab6de4164f954f0e3b2e165d346d42",
+    "e149f4dc1d26e856f2327161dfe493db",
+    "66f91bd373424db2160376e4fc21e105",
+    "aa81d990abf2ac287952dc5dc6ef74d7",
+    "c46bb3c5e138ebb050952d6196bda639",
+    "eba989f4fad7500a1dbdc5cc69357b74",
+    "bd6e07d7fe73e36d7234c93d685bcf69",
+    "8c824e5f0f0ffe8e992731c2b5d83eb2",
+    "33b9d2823f3ed1a227badadf140d9d9d",
+    "67089e9131006bc04f709ccd3d46e7e4"
+  ],
+  "status":"approved",
+  "website":"https://instagram.com/youngstonerlife_phuket?igshid=YmMyMTA2M2Y=",
+  "phone":"+66 61 110 6599",
+  "opening_hours":[
+    {
+      "open":{
+        "day":0,
+        "time":"1400"
+      },
+      "close":{
+        "day":1,
+        "time":"0100"
+      }
+    },
+    {
+      "open":{
+        "day":1,
+        "time":"1400"
+      },
+      "close":{
+        "day":2,
+        "time":"0100"
+      }
+    },
+    {
+      "open":{
+        "day":2,
+        "time":"1400"
+      },
+      "close":{
+        "day":3,
+        "time":"0100"
+      }
+    },
+    {
+      "open":{
+        "day":3,
+        "time":"1400"
+      },
+      "close":{
+        "day":4,
+        "time":"0100"
+      }
+    },
+    {
+      "open":{
+        "day":4,
+        "time":"1400"
+      },
+      "close":{
+        "day":5,
+        "time":"0100"
+      }
+    },
+    {
+      "open":{
+        "day":5,
+        "time":"1400"
+      },
+      "close":{
+        "day":6,
+        "time":"0100"
+      }
+    },
+    {
+      "open":{
+        "day":6,
+        "time":"1400"
+      },
+      "close":{
+        "day":0,
+        "time":"0100"
+      }
+    }
+  ],
+  "line":"@basti_collins",
+  "google_url":"https://maps.google.com/?cid=3254927342792671894",
+  "place_id":"PuVWSoyTtgH9HQNEytYqEPmGXl1",
+  "facebook":"Don’t have ",
+  "description":"Cannabis dispensary located in Patong, Phuket, Thailand. We specialise in bringing our costumers the highest, cleanest and tastiest buds. We offer cannabis from California and Canada, as well as the best grown weed in Thailand. Come check us out, you will not be disappointed.",
+  "products_flowers":[
+    {
+      "id":"75713abc-4be6-4ab4-853d-bd4827ae1021",
+      "name":"Amnesia Haze ",
+      "description":"Sativa  - Dutch genetics ",
+      "images":[
+        "06cb87749a22f27987777d313b21b29e"
+      ],
+      "thc":20,
+      "cbd":0,
+      "sativa":70,
+      "indica":30,
+      "images_coa":[
+        
+      ],
+      "quality":"AAA",
+      "disabled":false,
+      "created_at":"2022-12-31T06:59:42.731371+00:00",
+      "updated_at":"2023-04-06T20:00:14.940454+00:00"
+    }
+  ],
+  "products_seeds":[
+    
+  ],
+  "products_prerolls":[
+    
+  ],
+  "products_edibles":[
+    
+  ],
+  "products_topicals":[
+    
+  ],
+  "products_gear":[
+    
+  ],
+  "products_misc":[
+    
+  ],
+  "reviews":[
+    {
+      "author":"Thu Tun",
+      "avatar":"54fdc6354056905705538276e43adaf3",
+      "content":"recommended to all my friends & family. Great vibes",
+      "review_date":"2022-12-10T13:47:29.52+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100053182533831463538?hl=en-US"
+    },
+    {
+      "author":"pyroftw1234",
+      "avatar":"a432c05d7ab7c3ef659157cff405b143",
+      "content":"PS4 inside, super high quality buds with nice decor. Definitely coming back!",
+      "review_date":"2022-11-16T12:30:00.88+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100483430908378337227?hl=en-US"
+    },
+    {
+      "author":"מעיין בנאי",
+      "avatar":"a0c9d1cc92a448c705bf9d003dc96cd5",
+      "content":"Great place recommended!",
+      "review_date":"2023-02-12T17:21:53.26+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100505386310944297144?hl=en-US"
+    },
+    {
+      "author":"JackCornelissen",
+      "avatar":"d9f27df75da05b71c342c7f8f4eafb31",
+      "content":"Best quality weed I have tried in Phuket, the owner and staff are amazing. Really recommend this place!",
+      "review_date":"2022-11-14T04:39:50.018+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100597595967905625990?hl=en-US"
+    },
+    {
+      "author":"Sayed Reda",
+      "avatar":"30f4ff15433ec2edfc2df11677e4abb5",
+      "content":"",
+      "review_date":"2023-03-14T18:20:56.5+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100722652486384384209?hl=en-US"
+    },
+    {
+      "author":"אריאל הללי",
+      "avatar":"461f72955f2a4b918cd81b858b98b3be",
+      "content":"If you're looking for the best buds in Patong, look no further than YSL. The quality is unmatched, and the staff is always happy to help you find exactly what you're looking for. Highly recommended!",
+      "review_date":"2023-03-13T19:16:34.033+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101237016205318810090?hl=en-US"
+    },
+    {
+      "author":"נעמה סלע",
+      "avatar":"72eb4c49cb73239ee6094d97ddf546b0",
+      "content":"Great place,very nice prices and good vibe!",
+      "review_date":"2023-02-11T20:43:25.793+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101247665496300233580?hl=en-US"
+    },
+    {
+      "author":"Daniel Sarai",
+      "avatar":"6ae564b2fbd10299abe7fb1a0e9bcb12",
+      "content":"Best bud in Phuket!! Great experience! Good vibes and friendly staff. Thank you YSL team!!!",
+      "review_date":"2022-12-11T17:47:01.995+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101273763704544192371?hl=en-US"
+    },
+    {
+      "author":"Alfoussen SOUANE",
+      "avatar":"283e62d304217d092a8d7f80f67e78ea",
+      "content":"1. High quality bud is truly known in this shop\n2. Original and cozy vibe\n3. Friendly and well guiding staff\n\nCan hardly ask for more…",
+      "review_date":"2022-12-07T14:10:59.244+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101611615417869679562?hl=en-US"
+    },
+    {
+      "author":"New Age Videos",
+      "avatar":"83ac017101790dfc1d038b46847e547a",
+      "content":"Friendliest weed shop in Patong 💋 #1 receptionist",
+      "review_date":"2023-03-20T06:05:26.858+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101674246208925660439?hl=en-US"
+    },
+    {
+      "author":"חני סולומון",
+      "avatar":"23d1dfa991c28ac91c8d688a55771b1b",
+      "content":"",
+      "review_date":"2023-02-19T11:00:23.362+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102231855253989286798?hl=en-US"
+    },
+    {
+      "author":"Sumon Sumon",
+      "avatar":"7c79a1430ad1b63909fd37c6aefc045c",
+      "content":"Me & my sister came for vacation in phuket a week ago, we had one mission and it's try all the cannabis shops in phuket as we can in 1 week.\n\nThere is no doubt that YSL it's the winner",
+      "review_date":"2023-02-13T17:10:27.923+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102620318925392305714?hl=en-US"
+    },
+    {
+      "author":"Shab Uddin",
+      "avatar":"4115b31305e72f2c7c4a8e1041193859",
+      "content":"was in vacation with my family in phuket, and happy I find this place!\n\none of them best, thank you :)",
+      "review_date":"2023-02-13T17:06:06.5+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102638673031461990039?hl=en-US"
+    },
+    {
+      "author":"ALKAWTHER MEDIA BH",
+      "avatar":"ac68c07371a0e899200365d3eff6abd9",
+      "content":"I visited the Cannabis shop and was blown away by the quality of their products. The buds were of the highest quality and tasted amazing. The staff were friendly and knowledgeable and made my visit truly enjoyable. I highly recommend YSL!!!",
+      "review_date":"2023-03-14T18:25:01.203+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102739972399615093183?hl=en-US"
+    },
+    {
+      "author":"Christion Bordeux",
+      "avatar":"9b9435088808db19478603b3c27f4cc9",
+      "content":"Top notch strains and cosy 🤙",
+      "review_date":"2022-11-05T10:50:09.178+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103043750941711297127?hl=en-US"
+    },
+    {
+      "author":"Huss Hadi",
+      "avatar":"3d535df65c56a03e7e321ece1f7fd4b5",
+      "content":"I had an unbelievable experience at YSL. Everything about the place exceeded my expectations. The quality  and variety of strains were by far one of the best I've tried in Thailand, combine that with the atmosphere and energy of the shop -> a real recipe for a 5 star review. Inside the shop it is very spacious, great interior design as well as a PS5 to play some video games and chill. The staff and service were very nice and welcoming. Definitely will go back again.",
+      "review_date":"2023-01-08T10:47:59.957+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104075851910869716129?hl=en-US"
+    },
+    {
+      "author":"Mst Rumana Khatun Mst Rumana khatun",
+      "avatar":"8bd0e34922fd14c5e9b7d825f071ef4a",
+      "content":"Looking for a cool and relaxed place to hang out? Look no further than this awesome shop with good vibes and a chill zone. You can count on me to recommend it to all my friends!",
+      "review_date":"2023-02-15T14:43:11.232+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104101179893019692929?hl=en-US"
+    },
+    {
+      "author":"שירלי מימוני",
+      "avatar":"01e0679644a5241e83b69a7b7279829e",
+      "content":"(Translated by Google) Highly recommend! Great owner and great atmosphere\n\n(Original)\nממליצה בחום! אחלה בעלים ואחלה של אווירה",
+      "review_date":"2023-02-15T14:46:16.802+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104456266440567401046?hl=en-US"
+    },
+    {
+      "author":"Luuk Gijsbers",
+      "avatar":"343703ea0bafbbdd5e1e471ac96c88cc",
+      "content":"Very nice shop where you can chill well and super friendly staff!",
+      "review_date":"2022-11-24T12:14:21.891+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104890258367405708871?hl=en-US"
+    },
+    {
+      "author":"Leticia Kobena",
+      "avatar":"c88049820c395f8de0a31c641a56f365",
+      "content":"Nice store! the owner very friendly and there is a very good vibe inside.\n\nfor sure I'll back",
+      "review_date":"2023-02-12T17:19:48.668+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104943075207285553043?hl=en-US"
+    },
+    {
+      "author":"Yaseen Moussa",
+      "avatar":"bae66bd39c41d790c8b2acabc3b699f8",
+      "content":"Best weed i have tried in Thailand. Service is very nice and prices are good. Im gonna go there any time i need weed",
+      "review_date":"2022-11-13T02:48:21.792+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105548407733403690622?hl=en-US"
+    },
+    {
+      "author":"שירי סיבוני",
+      "avatar":"b2eed71985dca90c0c22e004c5931575",
+      "content":"(Translated by Google) The place is right on the path of the Kee hotel, a great place and the owner is a man of life, worth a visit!\n\n(Original)\nהמקום נמצא בדיוק בשביל של המלון the kee , אחלה של מקום והבעלים גבר של החיים , שווה ביקור!",
+      "review_date":"2023-02-15T14:52:09.61+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105779773091947694922?hl=en-US"
+    },
+    {
+      "author":"WEEDMAN Thailand",
+      "avatar":"e70a875da28a80311ea9a0044197e762",
+      "content":"ของดีสมราคาบางตัวก็หายากมาก คุณภาพดีมาก Good Strain Rare Strain Good Price Good Weed In Phuket\n\n(Translated by Google)\nGood items at reasonable prices, some of which are very hard to find, very good quality Good Strain Rare Strain Good Price Good Weed In Phuket",
+      "review_date":"2022-12-04T12:10:46.433+00:00",
+      "rating":5,
+      "images":[
+        "55cb42f8802706cbbf3802d35dab7763",
+        "55c710358ec39b2a60b89d7e20e84176"
+      ],
+      "url":"https://www.google.com/maps/contrib/105999042234599448145?hl=en-US"
+    },
+    {
+      "author":"Malang Bawa",
+      "avatar":"f69ac0dfd6a1fe76dbc4bcdefb1b8b67",
+      "content":"If you're in Phuket, you absolutely must come here - the flower is fantastic and the customer service is great",
+      "review_date":"2023-02-15T14:39:48.221+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106369881322183327766?hl=en-US"
+    },
+    {
+      "author":"Ivan Šincek",
+      "avatar":"9cf726d3ff2cd2ae8aa82f72e0a53e18",
+      "content":"Their stuff is high grade and they really know their stuff. Won't overcharge you for being a foreigner.",
+      "review_date":"2022-12-12T03:48:36.544+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106383518032224340114?hl=en-US"
+    },
+    {
+      "author":"Euan Palmer",
+      "avatar":"480d1e7a173802214c118443b6b67778",
+      "content":"Some of the best smoke in the whole of thailand if not the world 👀\n\nAmazing prices and the most friendly staff 🤝\n\nIf your not smoking here your not smoking at all 💯",
+      "review_date":"2022-12-07T13:32:11.149+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106832496686753743466?hl=en-US"
+    },
+    {
+      "author":"Cedric Maldonado",
+      "avatar":"eefc8fa5df7b3a80fa1435915c1d6a67",
+      "content":"So far the best quality weed in whole Thailand!!",
+      "review_date":"2022-12-11T11:10:05.214+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106945940009824736821?hl=en-US"
+    },
+    {
+      "author":"safet sabic",
+      "avatar":"0bafa145384af61ec0b619b9bdb924b8",
+      "content":"Good quality and great service ! I would recommend for sure, very nice owner.",
+      "review_date":"2022-11-28T16:09:02.306+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107431216344620453518?hl=en-US"
+    },
+    {
+      "author":"Avi Nahmani",
+      "avatar":"ac68c07371a0e899200365d3eff6abd9",
+      "content":"great place, one of the best I've had the chance to try in thailand, now I'm in bangkok and still think about YSL weed hahaah",
+      "review_date":"2023-02-12T17:48:22.807+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107609431033625657760?hl=en-US"
+    },
+    {
+      "author":"Calvin Say Kwee Heng",
+      "avatar":"bfc1822697f218b497a993b670b54609",
+      "content":"Top notch buds. Tried 5 different strains and my personal fav was the RS11 and white Tahoe cookies . friendly staff , cool vibes, thugz mansion #westside . Hope we have a chance one day to play a round of golf. Good luck in future endeavours.",
+      "review_date":"2022-12-10T17:48:31.764+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107805807916326334014?hl=en-US"
+    },
+    {
+      "author":"ליעד מאירי",
+      "avatar":"6ec6075cdffb3b57ce2d70fd10696088",
+      "content":"I had an incredible experience at this shop! The staff was incredibly knowledgeable and helpful, and the buds they recommended were absolutely amazing. Five stars!",
+      "review_date":"2023-03-13T19:09:18.901+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107915905244854513644?hl=en-US"
+    },
+    {
+      "author":"Michael Nohe",
+      "avatar":"7ac246ef5ece95bb57ee40e341b1c63c",
+      "content":"Nice start up with high quality buds, couches and a nice vibe",
+      "review_date":"2022-11-10T04:27:36.413+00:00",
+      "rating":5,
+      "images":[
+        "ebba18a56bc936951aab07ff0130e536"
+      ],
+      "url":"https://www.google.com/maps/contrib/107939181907362493510?hl=en-US"
+    },
+    {
+      "author":"Da_Bentch",
+      "avatar":"56cdc1f72f615563bb5ae1ec463e02b2",
+      "content":"High quality grade buds, variety of choices, best prices. The shop looks really nice and clean. I recommend everyone to go there. Thank you for the amazing service !",
+      "review_date":"2022-11-08T15:45:17.202+00:00",
+      "rating":5,
+      "images":[
+        "149f4fd435f8ae6cf3149a6ebfe8f4b3"
+      ],
+      "url":"https://www.google.com/maps/contrib/107983401786446029831?hl=en-US"
+    },
+    {
+      "author":"nisim ohana",
+      "avatar":"ca4a0a6e3de1c89d57defa873d6a60d4",
+      "content":"If you haven't visited this place yet, you are missing out on the best weed in all of Phuket!\n\nAs someone who smokes in his country often, YSL's weed is one of the best I've ever smoked in my life!",
+      "review_date":"2023-02-11T20:39:12.237+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108026124107802410421?hl=en-US"
+    },
+    {
+      "author":"קרן אוחיון",
+      "avatar":"75cd0177f1c379ef70dd274cf5f8c83c",
+      "content":"The store near \"The Kee\" hotel.\n\nGood stuff, kindly and nice owner.\n\n100% pure and good buds\n\nI wish I could give them 10 starts and not only 5 hahaha",
+      "review_date":"2023-02-19T10:38:48.848+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108108647672231385073?hl=en-US"
+    },
+    {
+      "author":"Ty Lenn",
+      "avatar":"173d82c93c3af9899851feb46bb2bd66",
+      "content":"I will definitely be back on my next trip to Thailand!!",
+      "review_date":"2023-03-13T19:26:09.721+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108136932860772697561?hl=en-US"
+    },
+    {
+      "author":"ty lanez",
+      "avatar":"d06cc79aae0a717c0d078ec71328a004",
+      "content":"YSL,  is the best weed shop I’ve been in phuket. YSL weed is amazing, different ranges of quality weed with big buds, prices are very fair too. I would definitely recommend going to YSL. I would like to also mention that the YSL provides a very chill spot for you to smoke your weed, watch and play ps4, with amazing staff providing great hospitality. I’ll will be visiting again very shortly ;)  10/10 weed shop!",
+      "review_date":"2022-11-08T15:47:54.828+00:00",
+      "rating":5,
+      "images":[
+        "391c3bec6d5882c8187af20f85a4c5e7"
+      ],
+      "url":"https://www.google.com/maps/contrib/108282664544867311929?hl=en-US"
+    },
+    {
+      "author":"שמחה פולטיגר",
+      "avatar":"00d6fd4e5e12f628a054e0e398e6acf1",
+      "content":"I've tried a lot of weed shop in Thailand, but this one is by far the best.",
+      "review_date":"2023-03-13T19:23:21.18+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108385941046116022264?hl=en-US"
+    },
+    {
+      "author":"Kamel Stefano",
+      "avatar":"cd0d70668d80d1db1b00386b407ac836",
+      "content":"Really nice and modern shop , high quality weed and great service!!!\nMac 1 really highly recommended 🔥",
+      "review_date":"2022-11-09T14:37:00.068+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108507972719171462678?hl=en-US"
+    },
+    {
+      "author":"jean philippe deroo",
+      "avatar":"e28ede5433ee1ec5ec191215859aef55",
+      "content":"Nice and chill place, some of the best stuff in Phuket.",
+      "review_date":"2022-11-16T03:13:17.81+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108676321757155828663?hl=en-US"
+    },
+    {
+      "author":"John Charles",
+      "avatar":"edc9b138c2162d6c8cbe8384f1d62870",
+      "content":"Bud was very high quality, experience unlike any other would recommend, especially if you love cannabis.",
+      "review_date":"2022-11-08T14:26:58.836+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108769663041257569010?hl=en-US"
+    },
+    {
+      "author":"leonardo pustetto",
+      "avatar":"f5f23f6814a6c6bc13ab9ee49980628e",
+      "content":"Simply the best! Amazing flower, customer service elite, The owner is great, knows what the people want and delivers!",
+      "review_date":"2022-12-01T19:22:58.824+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109439913204758525515?hl=en-US"
+    },
+    {
+      "author":"Orel Tetruashvili",
+      "avatar":"771ca8c9a17dc07e98827823670315a6",
+      "content":"White Tahoe cookies is probably the best strain I have ever smoked. Extremely good buds. Highly recommended",
+      "review_date":"2022-11-19T16:56:23.456+00:00",
+      "rating":5,
+      "images":[
+        "4ccbbf594604afbefe3820d0456088e6"
+      ],
+      "url":"https://www.google.com/maps/contrib/110120247950706175842?hl=en-US"
+    },
+    {
+      "author":"Tijn Janssen",
+      "avatar":"0182e775098fadf59387b164492b3d9b",
+      "content":"Top quality and service!",
+      "review_date":"2023-01-22T13:54:59.024+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110433730872169779478?hl=en-US"
+    },
+    {
+      "author":"Filip Strom",
+      "avatar":"58407d87ef41e8c4ca066f5bee37875f",
+      "content":"Super quality bud🔥super nice interior and the owner is super chill, definitely coming back here.",
+      "review_date":"2022-11-05T19:07:34.428+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110472305474362652027?hl=en-US"
+    },
+    {
+      "author":"Shivam S",
+      "avatar":"189cb06e7def5fec6b597518996f7bf2",
+      "content":"Great selection of top shelf high quality bud + super chilled out smoking area with great music and speakers. Highly recommend!\n\nLocation: in case maps aren’t clear, YSL is located up one set of stairs across the street from New Delhi Darbar restaurant.",
+      "review_date":"2022-11-23T11:58:02.099+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110527806092557154519?hl=en-US"
+    },
+    {
+      "author":"Taymour Barghash",
+      "avatar":"d18e5d514aabe51dc05309b914be41e6",
+      "content":"Best shop in the country. Very professional and friendly staff. Prices are very fair compared to other shops. Definitely worth a visit!!",
+      "review_date":"2022-11-13T20:16:25.761+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111001632389304451971?hl=en-US"
+    },
+    {
+      "author":"John Chapman",
+      "avatar":"78da71f9888b5b52db301c0e0988b051",
+      "content":"A friendly place to go find top shelf weed from California and comfortable sofas to chill on. The  only place I found with a PS5 to play FIFA 23. They sell Backwoods and have bongs for use and to sell. A highlight of my holiday.",
+      "review_date":"2023-01-14T08:57:08.68+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111009271706177469896?hl=en-US"
+    },
+    {
+      "author":"Om Karm",
+      "avatar":"a61d09426c32f09922d59c332070b70b",
+      "content":"great place, fair prices  and very nice owner!",
+      "review_date":"2023-02-13T17:13:25.913+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111267125562364699583?hl=en-US"
+    },
+    {
+      "author":"Proton P",
+      "avatar":"2dd7d04047b0d7d8f4fe85d64f2982d2",
+      "content":"Great experience.  We were recommended good cannabis and had a clean and honest experience.  This place is a good choice for first time. Highly recommend orange crush for first experience.\n\nEdit- Well treated on repeat visits. Great communication and rundown of properties.  Diverse knowledge base. 🤟",
+      "review_date":"2023-03-02T12:29:13.49+00:00",
+      "rating":5,
+      "images":[
+        "fafe35bcca1d25ed6d6764f09443b1e3",
+        "3a88029648ad29260e11220c05640ac1"
+      ],
+      "url":"https://www.google.com/maps/contrib/111723007847541314802?hl=en-US"
+    },
+    {
+      "author":"Faruqe Islam",
+      "avatar":"77af7bc77ed590301e3e74d151d51324",
+      "content":"I was in  Amsterdam and California in those place should be the best weed.\n\nbut when I tasted the buds in ysl I was surprised (in a good way😊), Thailand definitely a place for smoking lovers!",
+      "review_date":"2023-02-13T17:20:18.949+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112144301129813468048?hl=en-US"
+    },
+    {
+      "author":"Kénan L'Hostis",
+      "avatar":"39546209aa0ac424b483c0a90e59202a",
+      "content":"For me best coffeeshop of Patong.\n- very good quality of weed\n- lots of different varieties\n- good price\n- you can find street food just downstairs\nBut above all a very good mood, you feel like at home in this shop !\nI recommend !!",
+      "review_date":"2022-12-06T03:54:24.594+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112455800331826008319?hl=en-US"
+    },
+    {
+      "author":"Doctor Jarvee",
+      "avatar":"aa6c2ef99b988245570ff6dd1dbb0b41",
+      "content":"Highly recommend, the owner is really nice and the place with a crazy vibe is just chilling",
+      "review_date":"2023-02-12T17:22:47.134+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112584440262845407343?hl=en-US"
+    },
+    {
+      "author":"Rabe Ashiru",
+      "avatar":"abb99e653dcd6120c980dff390315b6f",
+      "content":"Nice and chill place, one of the best I ever visit in phuket.",
+      "review_date":"2023-02-11T20:57:29.6+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113026549124386518913?hl=en-US"
+    },
+    {
+      "author":"Eiman Nekr",
+      "avatar":"8062e9205cc6ff671977d6b6695dcf9e",
+      "content":"Very nice quality flower, professional and friendly staff. Low prices compared to other shops! 10/10 would recommend to everyone. Definitely coming back",
+      "review_date":"2022-11-06T14:31:36.584+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113239689591520902182?hl=en-US"
+    },
+    {
+      "author":"Anvar Kalimoullin",
+      "avatar":"84afa83d5d5192e6252213f5aa7899a3",
+      "content":"Weed quality same level as California and Amsterdam 10/10. Beautiful shop located 2 minutes from Bangla road. Very friendly and professional team!\nI will definitely come back. Thank you guys!\nAnvar",
+      "review_date":"2022-11-28T10:41:27.339+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113550494006091923310?hl=en-US"
+    },
+    {
+      "author":"ניסים אוחנה",
+      "avatar":"8949f9b32b7ca60606a7f2215215ce9d",
+      "content":"The best quality place in Phuket by far!\n\nThe owner is so nice\nAnd probably the best weed I've smoked in all of Thailand",
+      "review_date":"2023-02-11T20:36:36.681+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113646923484898502318?hl=en-US"
+    },
+    {
+      "author":"Deborah Lanino",
+      "avatar":"154d7838087009d0766cb7abe7f5a6cd",
+      "content":"I have found the best vibe in Phuket at this location.\n\nFIFA games, good quality weed, and great people❤️",
+      "review_date":"2023-02-11T20:54:11.004+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114228675499056779791?hl=en-US"
+    },
+    {
+      "author":"Joel Birrer",
+      "avatar":"375e0a02ba20432781dfa9a75fa432bd",
+      "content":"Best weed I ever smoked. Interior is super nice with the Playstation, and the couches are extremely comfortable. Must visit for every stoner. 11/10 recommend",
+      "review_date":"2022-11-23T15:40:17.525+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114483058003887219593?hl=en-US"
+    },
+    {
+      "author":"אורנה חיימוביץ",
+      "avatar":"8ec9749b19d411eeb6aafc0f4a9cb7cf",
+      "content":"(Translated by Google) Highly recommend!!\nThe owner is a prince! The place near our hotel the kee\nEvery day my husband and I would go in there\n\n(Original)\nממליצה בחום!!\nהבעלים נסיך! המקום ליד המלון שלנו  the kee\nכל יום אני ובעלי היינו נכנסים לשם",
+      "review_date":"2023-02-13T16:43:11.706+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114484589898277882255?hl=en-US"
+    },
+    {
+      "author":"Bennett Marquez",
+      "avatar":"b36c65ef5dda216d45cc736975e2845d",
+      "content":"Great bud. Great vibe. Would highly suggest coming here!",
+      "review_date":"2022-11-10T19:43:33.224+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114491782547847500078?hl=en-US"
+    },
+    {
+      "author":"aigul t",
+      "avatar":"2c5288d2ca8c961f62380afefbd91309",
+      "content":"I've tried a lot of coffee shops in Phuket, and honestly, this is the only one that met my expectations.\n\nThe owner is from the Netherlands, so he knows a thing or two about the quality of flowers/buds.\n\nThe place is conveniently located near the bangla and the main street of Patong Beach.\n\nIf you're tired of all the crazy clubs and bars on phuket or you just smoke high-quality weed, there's no doubt that it's worth visiting Bastian's store.",
+      "review_date":"2023-02-19T10:46:18.973+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114500661957574004567?hl=en-US"
+    },
+    {
+      "author":"Idan Givon",
+      "avatar":"14a782644b90833979d292744ff31f78",
+      "content":"Fantastic shop. The owner is warm and inviting. Excellent selection and will answer your questions. You can hang out, relax and enjoy the product/people. Great vibe.",
+      "review_date":"2023-02-28T14:50:21.086+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114593833197457109438?hl=en-US"
+    },
+    {
+      "author":"Marion Marquez",
+      "avatar":"49010132e6b9493d16ba2e767748587c",
+      "content":"I like it, very good place!",
+      "review_date":"2023-02-12T17:37:30.418+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115113905185526475605?hl=en-US"
+    },
+    {
+      "author":"Felix Møller Warmedal",
+      "avatar":"f34e220db4a84d7238f8ca05659388cb",
+      "content":"Great vibe, great weed 10/10 would recommend🤙",
+      "review_date":"2022-11-14T10:33:42.075+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115287382458591995832?hl=en-US"
+    },
+    {
+      "author":"Daniel Lean",
+      "avatar":"265f30bd49d71729f9ac875e0a3156a4",
+      "content":"Great place! great buds! I wish I could give them 10 stars instead 5 hahaha",
+      "review_date":"2023-03-14T18:17:44.099+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115923605098160859407?hl=en-US"
+    },
+    {
+      "author":"Albert Karuzski",
+      "avatar":"b0bda493c11db71c8d8d28ecf62bda53",
+      "content":"",
+      "review_date":"2022-11-20T14:28:55.184+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116362305950215358488?hl=en-US"
+    },
+    {
+      "author":"Dany Moretz",
+      "avatar":"ba8611d8449d1ed1c87b2eb2c10fb814",
+      "content":"Best buds for the best prices in Thailand, had the best experience there! Respect!",
+      "review_date":"2022-12-20T14:34:18.009+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116812001103529713954?hl=en-US"
+    },
+    {
+      "author":"Sen Ex",
+      "avatar":"e848f871388b97fd6f3626af489dd7ed",
+      "content":"",
+      "review_date":"2022-12-19T18:28:43.799+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116925718287649271630?hl=en-US"
+    },
+    {
+      "author":"SexyVaazR",
+      "avatar":"dc2917c939ceed78ca0e454c54d5a9c5",
+      "content":"Best one around here.",
+      "review_date":"2022-12-21T16:02:42.496+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117031724019603415672?hl=en-US"
+    },
+    {
+      "author":"Branko van der Vorst",
+      "avatar":"8190f3edad083c2e322a2c7b7aa07d66",
+      "content":"",
+      "review_date":"2022-11-30T12:23:57.966+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117196171994976050274?hl=en-US"
+    },
+    {
+      "author":"Adam Endalllahhhiii",
+      "avatar":"66b378844e1acafdea35316a09936793",
+      "content":"I will definitely be back for future purchases.",
+      "review_date":"2023-02-13T16:31:07.035+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117216736029130053382?hl=en-US"
+    },
+    {
+      "author":"Beau Coenraad",
+      "avatar":"cb90efd45641c52681b8fa521af4c2b6",
+      "content":"Really nice hangout area where you can play video games and chill with your mates. Highest quality weed for a great price. Highly recommend!",
+      "review_date":"2022-11-10T18:55:47.872+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117433633892914787591?hl=en-US"
+    },
+    {
+      "author":"Билимбек Оралхан",
+      "avatar":"613f7b019e921d85617bb74e5e1b32b4",
+      "content":"",
+      "review_date":"2023-02-19T11:02:08.989+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117540549441815497071?hl=en-US"
+    },
+    {
+      "author":"מרינה קוסטולסקי",
+      "avatar":"1dafed808555bd18543071a3c0001bad",
+      "content":"Great place, nice vibes!\n\nI like that they have PS5 inside the store.\nSmoke + gaming it's the best combine ever",
+      "review_date":"2023-02-19T10:35:02.526+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117880306300413050262?hl=en-US"
+    },
+    {
+      "author":"Mohammad Babul",
+      "avatar":"639c09562467784ccdfc4f4ab499be47",
+      "content":"The shop is really nice and clean!\nThe owner super friendly and there is a great buds:)",
+      "review_date":"2023-02-15T14:35:39.199+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117972705969349700595?hl=en-US"
+    },
+    {
+      "author":"נועם שפריר",
+      "avatar":"bd61bee8ca9f513659cc113f4dd358e3",
+      "content":"\"I stayed at The Kee Hotel, which is located just a 2-minute walk from the store.\nEvery morning, I would visit the store and purchase weed from them. The quality of the product was truly excellent and the prices were fair",
+      "review_date":"2023-02-11T20:47:23.296+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/118006700213688043780?hl=en-US"
+    }
+  ],
+  "reviews_aggregate":{
+    "aggregate":{
+      "sum":{
+        "rating":385
+      },
+      "count":77
+    }
+  },
+  "suggestions":[
+    {
+      "distance":0.045623307528336446,
+      "dispensary":{
+        "id":"2e20e855-f389-4f12-938e-0f329afba9ec",
+        "city":"Phuket",
+        "name":"Magic Gallery",
+        "types":[
+          "Bar",
+          "Cafe"
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1200"
+            },
+            "close":{
+              "day":1,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1200"
+            },
+            "close":{
+              "day":2,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1200"
+            },
+            "close":{
+              "day":3,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1200"
+            },
+            "close":{
+              "day":4,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1200"
+            },
+            "close":{
+              "day":5,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1200"
+            },
+            "close":{
+              "day":6,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1200"
+            },
+            "close":{
+              "day":0,
+              "time":"0300"
+            }
+          }
+        ],
+        "lat":7.895161799999999,
+        "lng":98.29598,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":50
+            },
+            "count":10
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":50
+            },
+            "count":10
+          }
+        },
+        "image":"3c43cf709df71cc09e9854f6ce34cc85",
+        "has_products":false,
+        "address":"148 Thanon Thawewong, Tambon Patong, Amphoe Kathu, Chang Wat Phuket 83150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.0463148570563381,
+      "dispensary":{
+        "id":"ae2bee16-8938-4468-8838-84b95de9feb8",
+        "city":"Phuket",
+        "name":"WEED ZONE",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":7.8952987,
+        "lng":98.2960142,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":4
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":4
+            },
+            "count":1
+          }
+        },
+        "has_products":false,
+        "address":"99 Tambon Kathu, Amphoe Kathu, Chang Wat Phuket 83150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.06258773542957952,
+      "dispensary":{
+        "id":"1181b640-7518-490f-8ca4-3db62f3dd548",
+        "city":"Phuket",
+        "name":"Coffee​ &​ Kush​s phuket​ 2",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":7.8956661,
+        "lng":98.2962769,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "image":"764316ed4f095910e4e57851328292d0",
+        "has_products":false,
+        "address":"160 Thawewong Rd, Pa Tong, Kathu District, Phuket 83150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.06831938640187117,
+      "dispensary":{
+        "id":"5bd1e01b-e553-4725-b804-9271f3e45b7d",
+        "city":"Phuket",
+        "name":"Cosmos High",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":7.8946882,
+        "lng":98.2968379,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"V7VW+RQG, Pa Tong, Kathu District, Phuket 83150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.08878007832903392,
+      "dispensary":{
+        "id":"433753db-44a9-423e-a0f9-31c4aa773c7e",
+        "city":"Phuket",
+        "name":"High Cloud (Patong)",
+        "types":[
+          "Dispensary",
+          "Clinic"
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1200"
+            },
+            "close":{
+              "day":0,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1200"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1200"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1200"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1200"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1200"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1200"
+            },
+            "close":{
+              "day":6,
+              "time":"2300"
+            }
+          }
+        ],
+        "lat":7.894543799999998,
+        "lng":98.29695489999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":653
+            },
+            "count":131
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":653
+            },
+            "count":131
+          }
+        },
+        "image":"f8c419497b85efbc302e8dffb24ca1cb",
+        "has_products":false,
+        "address":"152/1 อาคารพลาซ่า The Kee Resort (ชั้น2 Thanon Thawewong, Tambon Kathu, Amphoe Kathu, Chang Wat Phuket 83150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.09609841995318574,
+      "dispensary":{
+        "id":"b0b1d6b3-1b51-4a38-aa35-052ecc2a686a",
+        "city":"Phuket",
+        "name":"Cosmos Weed shop Patong",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":7.8944964,
+        "lng":98.297001,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"เดอะคีร์พลาซ่า Tambon Patong, กะทู้ Chang Wat Phuket 83150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.1058952926949912,
+      "dispensary":{
+        "id":"ef767be1-4cd5-493a-9316-9e67a7c40742",
+        "city":"Phuket",
+        "name":"Northlight Weed",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1100"
+            },
+            "close":{
+              "day":0,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1100"
+            },
+            "close":{
+              "day":1,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1100"
+            },
+            "close":{
+              "day":2,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1100"
+            },
+            "close":{
+              "day":3,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1100"
+            },
+            "close":{
+              "day":4,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1100"
+            },
+            "close":{
+              "day":5,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1100"
+            },
+            "close":{
+              "day":6,
+              "time":"2200"
+            }
+          }
+        ],
+        "lat":7.894916599999998,
+        "lng":98.2954511,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "has_products":false,
+        "address":"33/1 Patong Beach Road Pa Tong, Chang Wat, อำเภอกะทู้ ภูเก็ต 83150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.13726827015436965,
+      "dispensary":{
+        "id":"9858514b-ecaf-48eb-a202-4d039888e9b2",
+        "city":"Phangnga",
+        "name":"Puff Puff Phuket (Delivery Cannabis)",
+        "types":[
+          "Club",
+          "Dispensary",
+          "Delivery",
+          "Cafe"
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0000"
+            }
+          }
+        ],
+        "lat":7.8938949,
+        "lng":98.2962005,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":513
+            },
+            "count":105
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":513
+            },
+            "count":105
+          }
+        },
+        "image":"e909b8d022812c0353d3648f5c49f23e",
+        "has_products":false,
+        "address":"54 ถนนบางลา Pa Tong, Kathu District, Phuket 83000, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.16130847286995564,
+      "dispensary":{
+        "id":"33e8f5e9-0f2e-43fd-8220-8216c61e1a1b",
+        "city":"Phuket",
+        "name":"Dr.Cannabis",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":7.8961957,
+        "lng":98.2954147,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":74
+            },
+            "count":15
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":74
+            },
+            "count":15
+          }
+        },
+        "image":"b4b9fd100fcd9343f9aea6c609f55fc6",
+        "has_products":false,
+        "address":"ถ.ผังเมืองสาย ก, Pa Tong, กระทู้, Phuket 83150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.16203572425109397,
+      "dispensary":{
+        "id":"2cdaf254-e0ae-44f9-b354-0909061e4bdb",
+        "city":"Phuket",
+        "name":"Canabis Heaven",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0200"
+            }
+          }
+        ],
+        "lat":7.893904399999999,
+        "lng":98.29557229999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":52
+            },
+            "count":11
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":52
+            },
+            "count":11
+          }
+        },
+        "image":"6d5e4d3728519a968b3d79a8d792d27d",
+        "has_products":false,
+        "address":"ซอย Bangla Rd, Tambon Patong, กระทู้ Chang Wat Phuket 83150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.16231260167641723,
+      "dispensary":{
+        "id":"26acfd82-ef27-477f-9ed5-09c93bc7fd07",
+        "city":"Phuket",
+        "name":"Cannabis Heaven Patong",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0200"
+            }
+          }
+        ],
+        "lat":7.893902000000001,
+        "lng":98.2955714,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":20
+            },
+            "count":4
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":20
+            },
+            "count":4
+          }
+        },
+        "image":"7fdcf9a48ed6566d293da4fdf95d9abc",
+        "has_products":false,
+        "address":"Cannabis Heaven 10 Soi Thanon Bangla, Tambon Patong, Amphoe Kathu, Chang Wat Phuket 83120, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.16938501688517965,
+      "dispensary":{
+        "id":"2fe8e733-c249-4d5f-934c-2a18f5d1e360",
+        "city":"Phuket",
+        "name":"Cannabis Store Phuket",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1700"
+            },
+            "close":{
+              "day":1,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1700"
+            },
+            "close":{
+              "day":2,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1700"
+            },
+            "close":{
+              "day":3,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1700"
+            },
+            "close":{
+              "day":4,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1700"
+            },
+            "close":{
+              "day":5,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1700"
+            },
+            "close":{
+              "day":6,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1700"
+            },
+            "close":{
+              "day":0,
+              "time":"0300"
+            }
+          }
+        ],
+        "lat":7.893604799999999,
+        "lng":98.29659439999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":5
+            },
+            "count":1
+          }
+        },
+        "has_products":false,
+        "address":"ถนนบางลา Pa Tong, Kathu District, Phuket 83150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.170856778828543,
+      "dispensary":{
+        "id":"66b13ff7-b39f-4993-9ab7-38bedc428831",
+        "city":"Phuket",
+        "name":"Heroes Bar",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0900"
+            },
+            "close":{
+              "day":1,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"0900"
+            },
+            "close":{
+              "day":2,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"0900"
+            },
+            "close":{
+              "day":3,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"0900"
+            },
+            "close":{
+              "day":4,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"0900"
+            },
+            "close":{
+              "day":5,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"0900"
+            },
+            "close":{
+              "day":6,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"0900"
+            },
+            "close":{
+              "day":0,
+              "time":"0300"
+            }
+          }
+        ],
+        "lat":7.893581,
+        "lng":98.29648429999999,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":484
+            },
+            "count":113
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":55
+            },
+            "count":12
+          }
+        },
+        "image":"3f52e2ce3a2c02cbc726862c60e80ce2",
+        "has_products":false,
+        "address":"V7VW+CHQ, Pa Tong, Kathu District, Phuket 83150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.17128988188266864,
+      "dispensary":{
+        "id":"5089ef3b-b5da-4568-ab72-2e3548be3ef2",
+        "city":"Phuket",
+        "name":"Pinki Monkey Cannabis - Bangla Store",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1800"
+            },
+            "close":{
+              "day":1,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1800"
+            },
+            "close":{
+              "day":2,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1800"
+            },
+            "close":{
+              "day":3,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1800"
+            },
+            "close":{
+              "day":4,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1800"
+            },
+            "close":{
+              "day":5,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1800"
+            },
+            "close":{
+              "day":6,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1800"
+            },
+            "close":{
+              "day":0,
+              "time":"0200"
+            }
+          }
+        ],
+        "lat":7.8936544,
+        "lng":98.2968863,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":40
+            },
+            "count":8
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":40
+            },
+            "count":8
+          }
+        },
+        "image":"8766027c9810d27c3cdb3ca69ca9597a",
+        "has_products":false,
+        "address":"Sea Dragon, 23/1 Soi, Tambon Patong, Phuket, Chang Wat Phuket 83150, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.17152469048877203,
+      "dispensary":{
+        "id":"1286e74a-251d-4e2f-9fb0-d14b5874517f",
+        "city":"Phuket",
+        "name":"Happy Cannabis",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":7.893922099999997,
+        "lng":98.2954039,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":22
+            },
+            "count":9
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":22
+            },
+            "count":9
+          }
+        },
+        "image":"d17ee233495aa6ff9446ffa159d42d65",
+        "has_products":false,
+        "address":"112 Thanon Thawewong, Tambon Patong, Amphoe Kathu, Chang Wat Phuket 83150, Thailand",
+        "open":false
+      }
+    }
+  ]
+}

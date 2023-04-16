@@ -1,0 +1,2357 @@
+{
+  "id":"716ba216-c3eb-4a81-8731-91a07cadd206",
+  "lat":"9.5118795",
+  "lng":"100.0547824",
+  "city":"Surat Thani",
+  "name":"Koh Weed 420",
+  "type":null,
+  "business_images":[
+    "6c99efd5b18d81b023ba44a4d9ad6863",
+    "00879750842af1e3c659aa60a1fa5f7b",
+    "85df0f4b170d9c0de67fadf3c39f3592",
+    "cc815d28210004bd0e2c37e82b3c8872",
+    "f9db042351acfb69d93b1f31895c48de"
+  ],
+  "google_images":[
+    "f7b73bf86cb82e5b77943f00963e7e38",
+    "744c2905b5760316fcbd87dc5fdc576e",
+    "15f31ce00de7e7d2c12d277ea74454be",
+    "53d05dcf70bef419282838f1f15fcda5",
+    "b9e7c7986399bf58dd076fe3f84ac8db"
+  ],
+  "status":"approved",
+  "website":"http://koh.weed/",
+  "phone":"+66 65 678 4277",
+  "opening_hours":[
+    {
+      "open":{
+        "day":0,
+        "time":"0900"
+      },
+      "close":{
+        "day":1,
+        "time":"0200"
+      }
+    },
+    {
+      "open":{
+        "day":1,
+        "time":"0900"
+      },
+      "close":{
+        "day":2,
+        "time":"0200"
+      }
+    },
+    {
+      "open":{
+        "day":2,
+        "time":"0900"
+      },
+      "close":{
+        "day":3,
+        "time":"0200"
+      }
+    },
+    {
+      "open":{
+        "day":3,
+        "time":"0900"
+      },
+      "close":{
+        "day":4,
+        "time":"0200"
+      }
+    },
+    {
+      "open":{
+        "day":4,
+        "time":"0900"
+      },
+      "close":{
+        "day":5,
+        "time":"0200"
+      }
+    },
+    {
+      "open":{
+        "day":5,
+        "time":"0900"
+      },
+      "close":{
+        "day":6,
+        "time":"0200"
+      }
+    },
+    {
+      "open":{
+        "day":6,
+        "time":"0900"
+      },
+      "close":{
+        "day":0,
+        "time":"0200"
+      }
+    }
+  ],
+  "line":"ar555en",
+  "google_url":"https://maps.google.com/?cid=15326637125333400729",
+  "place_id":"PuVWn8Y2IZQkIQNEzomC3RVaf7D",
+  "facebook":"https://facebook.com/kohweed",
+  "description":"Koh Weed 420 cannabis store\nEstablished in 2022",
+  "products_flowers":[
+    
+  ],
+  "products_seeds":[
+    
+  ],
+  "products_prerolls":[
+    
+  ],
+  "products_edibles":[
+    {
+      "id":"ff245b02-7321-41ff-be3e-6f40f1cf11c3",
+      "name":"Stoneo 120MG Indica",
+      "description":"Stoneo imported cookies. High potent. 120 mg.",
+      "images":[
+        "bfc457c94cef937793194ca2ff6b68fd"
+      ],
+      "thc":120,
+      "cbd":0,
+      "sativa":0,
+      "indica":100,
+      "images_coa":[
+        
+      ],
+      "disabled":false,
+      "created_at":"2023-03-15T10:01:36.203369+00:00",
+      "updated_at":"2023-04-06T21:00:11.366205+00:00"
+    },
+    {
+      "id":"8064ab97-1a0b-48c9-8c43-71282d70a34e",
+      "name":"Stoneo 120MG Sativa",
+      "description":"Stoneo imported cookies. High potent. 120 mg.",
+      "images":[
+        "58356891a3db2055b176120280cb0d32"
+      ],
+      "thc":120,
+      "cbd":0,
+      "sativa":100,
+      "indica":0,
+      "images_coa":[
+        
+      ],
+      "disabled":false,
+      "created_at":"2023-03-15T10:05:43.819946+00:00",
+      "updated_at":"2023-04-06T21:00:11.374506+00:00"
+    },
+    {
+      "id":"f9090e3c-dfda-4408-9384-eeb63daec203",
+      "name":"Jelly bears",
+      "description":"Jelly bears THC infused. High potent. 120 mg.",
+      "images":[
+        "83664844184c773f4abf67d42d526023"
+      ],
+      "thc":120,
+      "cbd":0,
+      "sativa":50,
+      "indica":50,
+      "images_coa":[
+        
+      ],
+      "disabled":false,
+      "created_at":"2023-03-15T10:11:13.71813+00:00",
+      "updated_at":"2023-04-06T21:00:11.371105+00:00"
+    }
+  ],
+  "products_topicals":[
+    {
+      "id":"bebf98f1-0241-443e-8c9c-b5bba74407e8",
+      "name":"Bong cleaner",
+      "description":"Bong cleaner for your favorite smoking device",
+      "images":[
+        "d094e28b57a47e5a7cb9ff380b9262b7"
+      ],
+      "thc":0,
+      "cbd":0,
+      "images_coa":[
+        
+      ],
+      "disabled":false,
+      "created_at":"2023-03-15T10:08:44.282371+00:00",
+      "updated_at":"2023-04-06T21:00:11.382495+00:00"
+    }
+  ],
+  "products_gear":[
+    {
+      "id":"429f4469-c626-430d-a512-6b9d43cb8044",
+      "name":"Quartz glass bong head",
+      "description":"Quartz glass head for dabbing. Heat resistance up to 1000°",
+      "images":[
+        "5fa04018d9dac4ac1e605fe1203997d3"
+      ],
+      "disabled":false,
+      "created_at":"2023-03-15T10:03:44.243682+00:00",
+      "updated_at":"2023-04-06T21:00:11.378428+00:00"
+    }
+  ],
+  "products_misc":[
+    
+  ],
+  "reviews":[
+    {
+      "author":"Sunny Sunuwar",
+      "avatar":"0780ae2d302f445f2f2189d69f943f9c",
+      "content":"Highly recommend, top quality stuff and nice area to relax. Staff were very friendly and helpful too.",
+      "review_date":"2022-12-24T13:23:25.697+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/100443096542163106805?hl=en-US"
+    },
+    {
+      "author":"Ruaan Strydom",
+      "avatar":"85d9b04597c52c1b34632351f2b1d2eb",
+      "content":"Best quality and supreme customer service! Would recommend this dispensary to anyone visiting Koh Samui 🙌",
+      "review_date":"2022-12-31T08:29:24.594+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101130906289594809442?hl=en-US"
+    },
+    {
+      "author":"Maxim Shtoda",
+      "avatar":"159df177b96dbb5801809a6d61715716",
+      "content":"(Translated by Google) Boys are real guys!\n\n(Original)\nПацаны ваще ребята!",
+      "review_date":"2023-02-01T13:15:01.887+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/101834392274790312896?hl=en-US"
+    },
+    {
+      "author":"יאיר יחזקאל",
+      "avatar":"8e7e0f106f5eea45957b2174901ea08b",
+      "content":"Best coffee shop in koh samui🤩🤩🤩🤩🤩good price’s and Lovely people🫶🏻",
+      "review_date":"2022-12-14T10:38:06.116+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102221979412558077082?hl=en-US"
+    },
+    {
+      "author":"אולה מסז'ניק",
+      "avatar":"13ed97719977e3a457fc84df1f4607cf",
+      "content":"Recommend with love ❤️\n☘️☘️☘️☘️☘️☘️☘️☘️",
+      "review_date":"2022-12-14T10:39:22.362+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102534980304982467300?hl=en-US"
+    },
+    {
+      "author":"Павел Абрамович",
+      "avatar":"e0492425c40b2456630708a3ec663a51",
+      "content":"(Translated by Google) The best weed on the island, top ten service and the pina colada is just magical\n\n(Original)\nЛучшая трава на острове, сервис на десятку и пинаколада просто волшебная",
+      "review_date":"2023-03-15T10:53:18.445+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102569017047599907173?hl=en-US"
+    },
+    {
+      "author":"Kristina Ashurov",
+      "avatar":"e3f0cba8f9b3f4ac8d2df7c7de26ee4c",
+      "content":"The best place\n💚🌈🍀\n\nTry the cookies🍪",
+      "review_date":"2022-12-14T10:39:27.622+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/102892003958470670885?hl=en-US"
+    },
+    {
+      "author":"Tarik Zawia",
+      "avatar":"d069c9f28aa2ba0356a78aabcc8fdafd",
+      "content":"Very friendly staff and overall great offering! Highly recommend",
+      "review_date":"2022-12-22T06:34:19.433+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103142985688357130217?hl=en-US"
+    },
+    {
+      "author":"Alexander Black",
+      "avatar":"9f128aba2afcce86fbfc97fb30fc21ac",
+      "content":"The Best Weed in Samui!)))",
+      "review_date":"2023-01-20T14:05:23.514+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103150706014797604409?hl=en-US"
+    },
+    {
+      "author":"Akshit Batra",
+      "avatar":"112fb5e8a77526c96d63b5e8e17051c4",
+      "content":"It’s a pretty good place to buy premium quality weed and variety of accessories with good ambience",
+      "review_date":"2023-01-07T17:41:06.304+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/103293088181525775690?hl=en-US"
+    },
+    {
+      "author":"Alexander Rosell",
+      "avatar":"861399c378776b1b61495c63fa64579c",
+      "content":"Good quality and very friendly staff. Also have PlayStation if u wanna play games.",
+      "review_date":"2022-12-18T08:52:27.724+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104128284416506483725?hl=en-US"
+    },
+    {
+      "author":"RUTHLESS ACADEMY",
+      "avatar":"3cde099c9b2be7232ec00d7d70b34508",
+      "content":"Good shop, much of choice and polite stuff, recommended!",
+      "review_date":"2022-12-13T15:01:41.919+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104254391739872395380?hl=en-US"
+    },
+    {
+      "author":"Uy Lexine",
+      "avatar":"67ad0160c8af799c27887367e8b15185",
+      "content":"",
+      "review_date":"2022-12-23T07:48:50.822+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/104624289462671408986?hl=en-US"
+    },
+    {
+      "author":"Максим Горбацевич",
+      "avatar":"c2d6faea6fc2e87f9b026af6b05d6fda",
+      "content":"(Translated by Google) I'm just delighted!\nQuality, service\nEveryone will show, explain, I recommend moonrock\n\n(Original)\nЯ просто в восторге !\nКачество , сервис\nВсе покажут, объяснят , рекомендую moonrock",
+      "review_date":"2022-12-28T05:05:16.638+00:00",
+      "rating":5,
+      "images":[
+        "684afbec6ec2ed35dff4d8334c0693fd"
+      ],
+      "url":"https://www.google.com/maps/contrib/104686815536115832313?hl=en-US"
+    },
+    {
+      "author":"Panche",
+      "avatar":"991805f2c3ac57183c9248798184d31b",
+      "content":"(Translated by Google) Top place🔥 guys know their stuff 🤍\n\n(Original)\nТоп место🔥 парни знают своё дело 🤍",
+      "review_date":"2022-12-13T12:49:51.673+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105028971197137954988?hl=en-US"
+    },
+    {
+      "author":"Dmitrii Surs",
+      "avatar":"aa6c2ef99b988245570ff6dd1dbb0b41",
+      "content":"Best staff on island 🎇",
+      "review_date":"2023-03-22T17:52:18.815+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105516621333334076856?hl=en-US"
+    },
+    {
+      "author":"אסי אלמיו",
+      "avatar":"4115a16b7f83f8346ffecef314183244",
+      "content":"You have to pay a visit.\nGreat vibe and some great stuff!!🔥",
+      "review_date":"2022-12-22T15:05:50.93+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/105838799578884549558?hl=en-US"
+    },
+    {
+      "author":"Александр Гутов",
+      "avatar":"9f128aba2afcce86fbfc97fb30fc21ac",
+      "content":"(Translated by Google) Very cool guys)\nThey twist from the heart, a very cozy store)\nI advise)\nThey speak Russian and English)\n\n(Original)\nОчень крутые ребята)\nОт души крутят, очень уютный магазин)\nСоветую)\nГоворят на русском и английском)",
+      "review_date":"2022-12-29T07:25:35.972+00:00",
+      "rating":5,
+      "images":[
+        "acaa5098711ecea856361950bf023419",
+        "091885557d3f1395ca233f404d448e77",
+        "1cce4606e7774f814f3c75ef8dfbabcd"
+      ],
+      "url":"https://www.google.com/maps/contrib/106185413277625159670?hl=en-US"
+    },
+    {
+      "author":"Georgia M",
+      "avatar":"8e2ff652dca1fef6927ea1116269ec36",
+      "content":"Great customer service, helped me find what i was looking for. Good selection of top shelf weed, will be returning. Pretty cool place would definitely recommend :)",
+      "review_date":"2022-12-22T14:26:16.279+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/106969113641988121070?hl=en-US"
+    },
+    {
+      "author":"TRB pokerCamp",
+      "avatar":"4685eb721d8349a40cfea356b567b5b5",
+      "content":"(Translated by Google) A cool place, the best stuff on Koh Samui (and I tried a lot of places) except for the grass there is hash.\nIn the evenings, the Russian-speaking community gathers and plays playstation, for the music a separate respect. Guys TOP\n\n(Original)\nКрутое место, самый лучший стаф на самуи (а пробовал я много где) кроме травы есть гаш.\nПо вечерам собирается русскоговорящие комьюнити и играют в плейстейшен, за музыку отдельный респект. Ребята ТОП",
+      "review_date":"2023-01-12T02:36:38.145+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107223380040600209456?hl=en-US"
+    },
+    {
+      "author":"Julia Firsova",
+      "avatar":"c7f8bf151c1abe1b75c562b7ab92c5dd",
+      "content":"(Translated by Google) Top establishment, best quality, friendly staff, cozy interior, my recommendation😊\n\n(Original)\nЗаведение топ, лучшее качество, приветливый персонал, уютный интерьер, мой рекомендасьон😊",
+      "review_date":"2023-01-12T02:42:48.898+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107644929262791976283?hl=en-US"
+    },
+    {
+      "author":"павел толкачёв",
+      "avatar":"a1590b9c03fcbd0e4f9ec892bf0d4df0",
+      "content":"(Translated by Google) Very cool coffeeshop. There are a lot of choices, and wax, and hashish and cones for every taste) I advise!\n\n(Original)\nОчень крутой кофешоп. Выбора очень много , и вакса, и гашишь и шишки на любой вкус) советую !",
+      "review_date":"2022-12-13T14:26:44.275+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/107792737663704663771?hl=en-US"
+    },
+    {
+      "author":"Petr Shchepetin",
+      "avatar":"6e2179bdf5b8f8654fa67f44801c615f",
+      "content":"Best coffeshop I've ever seen. Also acid farang friendly. Sweet chill vibes. Get Highly Recommended.",
+      "review_date":"2022-12-13T13:22:05.563+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/108378482722582711292?hl=en-US"
+    },
+    {
+      "author":"W Snow",
+      "avatar":"dfd4cdea971020180fa4f6ecbf9f7d40",
+      "content":"What a calm and kind place to be. Warm hearted folk behind the counter are happy to let me chat about, look through and smell the delightful scents of their excellent collection of nugs. Thank you for your pleasant service and wonderful hospitality, great gentlemen! Until the next, I shall see you soon! xx",
+      "review_date":"2022-12-31T08:33:24.429+00:00",
+      "rating":5,
+      "images":[
+        "b0bf3c6692adf2f36e180d99c65c5648"
+      ],
+      "url":"https://www.google.com/maps/contrib/108542293248355571937?hl=en-US"
+    },
+    {
+      "author":"Елена Макарова",
+      "avatar":"12aa306b1b9c724c3de9ecdc31861a68",
+      "content":"(Translated by Google) Great atmosphere, great variety to choose from. You can sit outside, there are very comfortable chairs and fans work!\n\n(Original)\nКлассная атмосфера,большой выбор разных сортов. Можно сесть  на улице, там очень удобные кресла и работают вентиляторы!",
+      "review_date":"2022-12-15T08:21:21.283+00:00",
+      "rating":5,
+      "images":[
+        "8d72fd3021161367d641f5ec329784e9"
+      ],
+      "url":"https://www.google.com/maps/contrib/108788855271826245408?hl=en-US"
+    },
+    {
+      "author":"Rory Klaver",
+      "avatar":"fbeb43a9938b19764cac7b10e0eae1ba",
+      "content":"Best weed in town",
+      "review_date":"2022-12-16T15:14:30.531+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109015759033350996217?hl=en-US"
+    },
+    {
+      "author":"Sadeddine Aitichou",
+      "avatar":"189cb06e7def5fec6b597518996f7bf2",
+      "content":"Best place go and chill out, i’ve been around to find exactly this. Speak english and has a ps5 wit 5 controlers. Very nice interior 2",
+      "review_date":"2022-12-15T14:04:29.941+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109112989888569674958?hl=en-US"
+    },
+    {
+      "author":"Соня Бабичева",
+      "avatar":"7a7c6990835d6adc9637793ecff191a5",
+      "content":"Really vibe place with nice stuff and cool guys! Highly recommend for everyone!",
+      "review_date":"2022-12-27T09:11:22.111+00:00",
+      "rating":5,
+      "images":[
+        "837614972caa6b0193641cdc2ee34a53",
+        "dbffc48b2d81521485ba900e8d1cb2ee",
+        "16ad5b80e7177df3347b2ba9db70e28b"
+      ],
+      "url":"https://www.google.com/maps/contrib/109119851681333159186?hl=en-US"
+    },
+    {
+      "author":"Юлия Юрина",
+      "avatar":"4dbf94f7639519d77696b5dbaebca9ba",
+      "content":"(Translated by Google) Great place, good selection, nice owners and atmosphere :) Hayley recommend\n\n(Original)\nОтличное место, хороший выбор, приятные владельцы и атмосфера :) Хайли рекомменд",
+      "review_date":"2022-12-24T11:08:32.556+00:00",
+      "rating":5,
+      "images":[
+        "907f8ba5e5d9c6d98e07e30db50e3ce9",
+        "b4d67157bcddd08c8fe6e2362e7310b7",
+        "0405aee14e3f946f70cb849b6f619d5f"
+      ],
+      "url":"https://www.google.com/maps/contrib/109453949704191847522?hl=en-US"
+    },
+    {
+      "author":"Deart Aw",
+      "avatar":"5be97cc4498096f8a021f4f7b03b9fca",
+      "content":"Good weed good people I'm skinny Dee I love this place.. 🍻",
+      "review_date":"2023-01-02T06:10:11.682+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/109561628980204775003?hl=en-US"
+    },
+    {
+      "author":"Ivan O",
+      "avatar":"192512a85597f3c301ab891feb809e41",
+      "content":"Nice Russian stuff, good service!",
+      "review_date":"2022-12-31T03:41:06.206+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110181613113040531515?hl=en-US"
+    },
+    {
+      "author":"Dalen",
+      "avatar":"eb72df154fe6c55e23df61703f587462",
+      "content":"Very good product and good personal !",
+      "review_date":"2022-12-22T07:40:26.312+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110185099944414911762?hl=en-US"
+    },
+    {
+      "author":"Kate Sacks",
+      "avatar":"a4f567be92838be2af07407e0c3b08c1",
+      "content":"1010 product and 1010 customer service, couldn’t recommend enough 🤪",
+      "review_date":"2022-12-14T16:27:46.299+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110407564196676032797?hl=en-US"
+    },
+    {
+      "author":"Zorikto Tsydenzhabovich Badmatsyrenov",
+      "avatar":"705f9eba97d5807d8c261c402c0ebf16",
+      "content":"Really wonderful place!)💖",
+      "review_date":"2022-12-13T15:03:45.924+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/110891633818365138198?hl=en-US"
+    },
+    {
+      "author":"Abu Nahar",
+      "avatar":"12cfa19de60a66b2279b682043dbb017",
+      "content":"Went here late night for some strong Sativa. I forgot what I got it was but was defo potent a gram for 900baht. However that wasn't the highlight. The boss man offered me some THC wax, that was 80% THC, he lit up a bong and prepped the temp on it, I started to inhale as he dropped a small piece of wax in. Ladies and gentlemen, you can smoke 10 joints of the most potent Cali strains in a row and it won't get you half as lit as that one toke of that wax was. It was an experience and I did not pay for it. What a guy. Had to recommend!",
+      "review_date":"2023-03-07T04:57:04.424+00:00",
+      "rating":5,
+      "images":[
+        "49578fbcc2b8e4f6337f154fc0c08737",
+        "b0cb6515db9c091ea93ad3a931361337"
+      ],
+      "url":"https://www.google.com/maps/contrib/111075439612560433244?hl=en-US"
+    },
+    {
+      "author":"Никита Сидоров",
+      "avatar":"1efe6a6640f42eae9c046291207c5b0b",
+      "content":"(Translated by Google) Gorgeous, cozy place\nA lot of selected top stuff! Definitely recommend) the guys are cool!\n\n(Original)\nШикарное, уютное место)\nОчень много отборного топ стафа! Определено рекомендую) ребята крутые!",
+      "review_date":"2023-01-23T03:11:55.776+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111201680425510516961?hl=en-US"
+    },
+    {
+      "author":"Justin Re",
+      "avatar":"59ed00773e5d9ce7e9c83e7266846a2a",
+      "content":"Super friendly service and knowledgeable Bud Tender. Thanks so much for all the help. I’m sure we will see you again!",
+      "review_date":"2022-12-27T08:54:45.219+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/111663434212928963493?hl=en-US"
+    },
+    {
+      "author":"Max Kaimakov",
+      "avatar":"444bffe35d1315fb497bb42d59d10670",
+      "content":"Nice shop. Wonderfrut skunk. Tasty smell.",
+      "review_date":"2022-12-24T21:58:01.616+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112460097457054051009?hl=en-US"
+    },
+    {
+      "author":"Ali Louhichi (LOUHICHI4LIFE)",
+      "avatar":"444b09c12db769532c74d13838075bd1",
+      "content":"Great place to come and smoke and to chill. It has a lovely outdoors/patio area with bean bags and chairs and an indoors area with a ps5 and a psp. The console has a larger list of games for you to choose from.\n\nThe shopkeepers/owners are extremely likeable, very easy to talk to and the weed is great!",
+      "review_date":"2022-12-24T13:23:34.136+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/112787861258851970743?hl=en-US"
+    },
+    {
+      "author":"Karolis Grimalauskas",
+      "avatar":"ee9e6c6f69b9f38e7385d7564f462fbd",
+      "content":"Great place to chill, tons of good kush to choose from.",
+      "review_date":"2022-12-29T06:11:11.874+00:00",
+      "rating":5,
+      "images":[
+        "640a492b0f14685676eeccaf19a6ce4d"
+      ],
+      "url":"https://www.google.com/maps/contrib/112997464673386617472?hl=en-US"
+    },
+    {
+      "author":"Марина Шилина",
+      "avatar":"83b6be3c8baa70186515cf344258edb0",
+      "content":"(Translated by Google) Ahpmzhmzhs\nAhahaha ha ha\nVery funny\nWaaappphaese\nAaaaa\n\nAhahaha\nI really like it here 🙏🏼 thank you\n\n(Original)\nАхпмжмжс\nАхпхаха ха хааа\nОчень смешно\nВааапппхаэсэ\nАаааа\n\nАхахаха\nМне очень тут нравится 🙏🏼спасибооооооо",
+      "review_date":"2023-01-06T15:46:42.101+00:00",
+      "rating":5,
+      "images":[
+        "c3a4608150550c89fad916668b39bc36"
+      ],
+      "url":"https://www.google.com/maps/contrib/113298799062639363241?hl=en-US"
+    },
+    {
+      "author":"Artur Akopyan",
+      "avatar":"a0b541958ee4a706768918eac5ebd6c3",
+      "content":"(Translated by Google) Cool place with Russian-speaking rebates, everything was explained very clearly and very cool staff! Highly recommend\n\n(Original)\nКлевое место с русскоговорящими ребатами, очень четко все разъяснили и очень классный стафф! Очень советую",
+      "review_date":"2023-01-25T15:08:35.751+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/113484881701280364772?hl=en-US"
+    },
+    {
+      "author":"Анастасия Волкова",
+      "avatar":"b7621bd056d37830763d382a9af4bbd9",
+      "content":"(Translated by Google) Cool place ☘️\nReal professionals work, easy to communicate in Russian and English\nIt's strange that my review is the first 🤔\n\n(Original)\nКрутое заведение ☘️\nРаботают настоящие профессионалы, легко общаются на русском и английском языках\nСтранно, что мой отзыв первый 🤔",
+      "review_date":"2022-12-13T10:57:14.424+00:00",
+      "rating":5,
+      "images":[
+        "a23dbe22d0362061e26a12342706854d"
+      ],
+      "url":"https://www.google.com/maps/contrib/113580902096520949153?hl=en-US"
+    },
+    {
+      "author":"Say My Name",
+      "avatar":"508c873fd5c26bc776686a8a74d306cc",
+      "content":"(Translated by Google) Everything was cool, good location, great service 🫡🤝🤝\n\n(Original)\nВсе было круто, хорошее расположение, отличный сервис 🫡🤝🤝",
+      "review_date":"2022-12-13T15:40:33.564+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114000874327298546507?hl=en-US"
+    },
+    {
+      "author":"J H",
+      "avatar":"197dd426e435f29a05ad32c59d2cbbd2",
+      "content":"10/10 shop good vibes very friendly environment  best shop from koh samui to Bangkok   Can’t recommend this shop enough",
+      "review_date":"2023-01-06T08:03:49.888+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114119114961561882188?hl=en-US"
+    },
+    {
+      "author":"karen warren",
+      "avatar":"066f0e88384789c807eba56a9383f6b3",
+      "content":"Best place to be for edibles",
+      "review_date":"2022-12-29T13:25:31.214+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114170205406338649096?hl=en-US"
+    },
+    {
+      "author":"Ма Паника",
+      "avatar":"662ca5ca03bb11cc4a1c25bf458d88e4",
+      "content":"(Translated by Google) I was waiting for him to buy wax🤤🤤 was satisfied) cool area in front of the entrance) you can exhale🌬️✊🏻👄\n\n(Original)\nЖдала пока он купит вакса🤤🤤 остался довольный) классная зона перед входом) можно выдохнуть🌬️✊🏻👄",
+      "review_date":"2022-12-13T15:13:31.67+00:00",
+      "rating":5,
+      "images":[
+        "f52490503761488b41626a27a50af620"
+      ],
+      "url":"https://www.google.com/maps/contrib/114551965495532869827?hl=en-US"
+    },
+    {
+      "author":"Angelar Lekovic",
+      "avatar":"f7a02f213ebe36f48820a8b028ec437d",
+      "content":"Best selection in Samui, and the focus on customer service is unmatched. 100% recommend!!",
+      "review_date":"2022-12-24T22:02:16.287+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/114559979519396587260?hl=en-US"
+    },
+    {
+      "author":"Lobert Inconito",
+      "avatar":"aa7e67457e299e631d7118a17a327459",
+      "content":"Great vibe, nice people, good prices and fun conversations!",
+      "review_date":"2023-01-12T15:28:57.932+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115028942095644639830?hl=en-US"
+    },
+    {
+      "author":"Kimo Berynato",
+      "avatar":"1ad032816d1bbf351685bc6b48d35614",
+      "content":"Very nice place for relaxing. Boss and employees are very friendly and generous. They give good advice for the products. The product also has very good quality.",
+      "review_date":"2023-01-12T15:14:49.273+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115095391186313305947?hl=en-US"
+    },
+    {
+      "author":"noname",
+      "avatar":"f131aef8d5c08b4d5d3b94d48f6f11df",
+      "content":"The best weed and vaxes on the island. Highly recommended",
+      "review_date":"2022-12-15T08:11:25.701+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/115132321096122035913?hl=en-US"
+    },
+    {
+      "author":"Антон Усачев",
+      "avatar":"a005d9f8cc9b0a811fa75f913623f180",
+      "content":"(Translated by Google) It's just delight!\nThe choice of varieties is amazing, we go here for wax and ride in ps5\n\n(Original)\nЭто просто , восторг !\nВыбор сортов , поражает , ездим сюда за ваксой и по катать в ps5",
+      "review_date":"2022-12-13T12:17:05.676+00:00",
+      "rating":5,
+      "images":[
+        "ff628c306a3939d94e6e98eb67cc30c0"
+      ],
+      "url":"https://www.google.com/maps/contrib/115458109181322896745?hl=en-US"
+    },
+    {
+      "author":"Тюнинг 23",
+      "avatar":"60b2cc46ef28b4e330cf997ec3d43557",
+      "content":"(Translated by Google) Guys top) I recommend to everyone) the audience is normal. Goods topchik, there is ps4 creative at the maximum) workers are all 🫶\n\n(Original)\nРебята топ ) рекомендую всем ) публика норм . Товар топчик , есть ps4 креатив на максимуме ) работники все 🫶",
+      "review_date":"2023-02-20T15:18:43.366+00:00",
+      "rating":5,
+      "images":[
+        "25b40fe8f93d2e9f83af189c38783f3e",
+        "aa0653a651019c5d419295647b709382"
+      ],
+      "url":"https://www.google.com/maps/contrib/115460616122334673811?hl=en-US"
+    },
+    {
+      "author":"Robin Österlund",
+      "avatar":"d9a9982b77923514ec6dc0e97a16e220",
+      "content":"Great Customer Service and a nice looking place!  Good collection of different strains and i felt very welcomed, I will 100% return",
+      "review_date":"2023-01-20T20:17:59.186+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116164555230012203521?hl=en-US"
+    },
+    {
+      "author":"Сергей Еркаев",
+      "avatar":"f381d6b8ec70e208bce52e0afc4f9406",
+      "content":"Damn, finally I found a perfect place after visiting almost every shop on the island! Crazy style with some street vibes, it's number 1 for sure",
+      "review_date":"2023-01-03T20:13:53.606+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116393790350352807960?hl=en-US"
+    },
+    {
+      "author":"Антон Мороз",
+      "avatar":"b0bda493c11db71c8d8d28ecf62bda53",
+      "content":"(Translated by Google) There are beauties\n\n(Original)\nЖе есть красавчики",
+      "review_date":"2023-01-24T19:32:27.115+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116557775966303773604?hl=en-US"
+    },
+    {
+      "author":"Jeni Simmons",
+      "avatar":"34a6ad24f12d6cbcbe86a4be8fce6d47",
+      "content":"Quality bud with quality service! Best place I've been to in koh samui, staff are very welcoming, giving recommendations on what strains would suit your taste. High-ly recommend coming here",
+      "review_date":"2022-12-22T15:05:22.147+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/116714529377515316137?hl=en-US"
+    },
+    {
+      "author":"Артем Дьяченко",
+      "avatar":"ac68c07371a0e899200365d3eff6abd9",
+      "content":"(Translated by Google) Nice shop, nice staff.\nThere is a Vodnik and a curling iron 5\n\n(Original)\nNice shop, nice staff.\nЕсть Водник и плойка 5",
+      "review_date":"2022-12-13T14:28:33.114+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117668283929625561965?hl=en-US"
+    },
+    {
+      "author":"milana lunarskaya",
+      "avatar":"d4480d8602700fd0f812e4d155cb53b4",
+      "content":"(Translated by Google) The place where Jah lives\nVery comfortable, great guys. They recommended an excellent sativa, bad mood as it never happened ;)\n\n(Original)\nМесто где обитает Джа\nОчень уютно , ребята классные . Порекомендовали отличную сативу, плохого настроения как не бывало ;)",
+      "review_date":"2022-12-18T08:07:07.24+00:00",
+      "rating":5,
+      "images":[
+        
+      ],
+      "url":"https://www.google.com/maps/contrib/117978046250782862405?hl=en-US"
+    },
+    {
+      "author":"Александра Карпенко",
+      "avatar":"112fb5e8a77526c96d63b5e8e17051c4",
+      "content":"(Translated by Google) The best place, if you want to have a delicious smoke, then you are here !!!\n\n(Original)\nЛучшее место , если хотите вкусно курнуть то вам сюда !!!",
+      "review_date":"2022-12-21T12:29:32.254+00:00",
+      "rating":5,
+      "images":[
+        "b2c99d3acfd1d72c4342c3b8f94217e3",
+        "36813b7adcd19ead762560a4a2421d6e"
+      ],
+      "url":"https://www.google.com/maps/contrib/118158256890265008992?hl=en-US"
+    },
+    {
+      "author":"даня кк",
+      "avatar":"1e978cbcf67ffda4fa71557f04b51d5f",
+      "content":"Good place if you want to try some good staff.",
+      "review_date":"2022-12-27T09:12:29.638+00:00",
+      "rating":5,
+      "images":[
+        "df7787d18719a0cf0f9a143161ea1c5e",
+        "e44b4b6e6ed265b1ed6e2a9d68be3661",
+        "d8192f9ceb0d426479fe8d95f029492d"
+      ],
+      "url":"https://www.google.com/maps/contrib/118408998547696770452?hl=en-US"
+    }
+  ],
+  "reviews_aggregate":{
+    "aggregate":{
+      "sum":{
+        "rating":305
+      },
+      "count":61
+    }
+  },
+  "suggestions":[
+    {
+      "distance":0.306530661458652,
+      "dispensary":{
+        "id":"03cbec75-e741-42af-8084-b8f695859ff5",
+        "city":"Surat Thani",
+        "name":"The Herbalist",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":9.514405,
+        "lng":100.0559029,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "image":"21e0ff3b3444be67b10aeb34ad97f319",
+        "has_products":false,
+        "address":"162, 123 Chaweng Beach Rd, Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.34061957915093993,
+      "dispensary":{
+        "id":"f84783ec-f751-435d-8b93-9a500bdef7d3",
+        "city":"Surat Thani",
+        "name":"Smoky @ Chaweng Noi",
+        "types":[
+          "Dispensary"
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1400"
+            },
+            "close":{
+              "day":0,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1400"
+            },
+            "close":{
+              "day":1,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1400"
+            },
+            "close":{
+              "day":2,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1400"
+            },
+            "close":{
+              "day":3,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1400"
+            },
+            "close":{
+              "day":4,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1400"
+            },
+            "close":{
+              "day":5,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1400"
+            },
+            "close":{
+              "day":6,
+              "time":"2200"
+            }
+          }
+        ],
+        "lat":9.511452900000002,
+        "lng":100.0517067,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "image":"ac3b1391a7c4860485f9d8c710108e25",
+        "has_products":false,
+        "address":"63/2 63 Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.3564243016393179,
+      "dispensary":{
+        "id":"feaa2b3e-5a24-4214-986b-c427ead7cafe",
+        "city":"Surat Thani",
+        "name":"Rolllofttenderloin",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1100"
+            },
+            "close":{
+              "day":1,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1100"
+            },
+            "close":{
+              "day":2,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1100"
+            },
+            "close":{
+              "day":3,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1100"
+            },
+            "close":{
+              "day":4,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1100"
+            },
+            "close":{
+              "day":5,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1100"
+            },
+            "close":{
+              "day":6,
+              "time":"0300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1100"
+            },
+            "close":{
+              "day":0,
+              "time":"0300"
+            }
+          }
+        ],
+        "lat":9.5149049,
+        "lng":100.0558562,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":175
+            },
+            "count":35
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":175
+            },
+            "count":35
+          }
+        },
+        "image":"64383a39dd14d981674bee17af5ce6ed",
+        "has_products":false,
+        "address":"167, 25 Chaweng Beach Rd, Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.4192664120270635,
+      "dispensary":{
+        "id":"d2e0d1bb-a336-4a32-8e2f-0a7e07cddd18",
+        "city":"Surat Thani",
+        "name":"Pirates Bar",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1200"
+            },
+            "close":{
+              "day":1,
+              "time":"0230"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1200"
+            },
+            "close":{
+              "day":2,
+              "time":"0230"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1200"
+            },
+            "close":{
+              "day":3,
+              "time":"0230"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1200"
+            },
+            "close":{
+              "day":4,
+              "time":"0230"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1200"
+            },
+            "close":{
+              "day":5,
+              "time":"0230"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1200"
+            },
+            "close":{
+              "day":6,
+              "time":"0230"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1200"
+            },
+            "close":{
+              "day":0,
+              "time":"0230"
+            }
+          }
+        ],
+        "lat":9.515589699999998,
+        "lng":100.0554637,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":97
+            },
+            "count":20
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":33
+            },
+            "count":7
+          }
+        },
+        "image":"6f3facdc85865382189b382632ad61ee",
+        "has_products":false,
+        "address":"G384+65P, Unnamed Road, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.4935227579152709,
+      "dispensary":{
+        "id":"2afea194-3a0e-4b84-9046-26e541a1dd43",
+        "city":"Surat Thani",
+        "name":"Cannabis Cafe & Barber Shop",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0800"
+            },
+            "close":{
+              "day":0,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"0800"
+            },
+            "close":{
+              "day":1,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"0800"
+            },
+            "close":{
+              "day":2,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"0800"
+            },
+            "close":{
+              "day":3,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"0800"
+            },
+            "close":{
+              "day":4,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"0800"
+            },
+            "close":{
+              "day":5,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"0800"
+            },
+            "close":{
+              "day":6,
+              "time":"2200"
+            }
+          }
+        ],
+        "lat":9.5077181,
+        "lng":100.0532176,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":15
+            },
+            "count":3
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":15
+            },
+            "count":3
+          }
+        },
+        "image":"c99cbe421ae31961812c62ccaf206f05",
+        "has_products":false,
+        "address":"64 Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.7329588916025622,
+      "dispensary":{
+        "id":"8cb1c520-ef4a-4246-a611-e7cecf49f197",
+        "city":"Surat Thani",
+        "name":"Rasta Bar",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1600"
+            },
+            "close":{
+              "day":1,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1600"
+            },
+            "close":{
+              "day":2,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1600"
+            },
+            "close":{
+              "day":3,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1600"
+            },
+            "close":{
+              "day":4,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1600"
+            },
+            "close":{
+              "day":5,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1600"
+            },
+            "close":{
+              "day":6,
+              "time":"0200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1600"
+            },
+            "close":{
+              "day":0,
+              "time":"0200"
+            }
+          }
+        ],
+        "lat":9.518288,
+        "lng":100.056347,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":660
+            },
+            "count":146
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":111
+            },
+            "count":23
+          }
+        },
+        "image":"08a8e345f7d243aa259d7c6d1cc19521",
+        "has_products":false,
+        "address":"37/2 ถนนคนเดินเฉวง Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.8367248493695992,
+      "dispensary":{
+        "id":"884ec5c3-2911-4fef-ba59-6a30be31dc0c",
+        "city":"Surat Thani",
+        "name":"To The Moon",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":null,
+        "lat":9.5191837,
+        "lng":100.0566165,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":150
+            },
+            "count":30
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":150
+            },
+            "count":30
+          }
+        },
+        "image":"14a9b75ddd14aff1b23ae20d1eacc087",
+        "has_products":false,
+        "address":"45, 88 village no.3, Bo Put, Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":0.8863214071669758,
+      "dispensary":{
+        "id":"1d2e38b9-4560-44ff-9653-38bb47addb95",
+        "city":"Surat Thani",
+        "name":"Weweed 420",
+        "types":[
+          "Cafe"
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"2300"
+            }
+          }
+        ],
+        "lat":9.5196005,
+        "lng":100.0567902,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":10
+            },
+            "count":2
+          }
+        },
+        "image":"ff4cd3bfbcc738224a29ad19cad092b3",
+        "has_products":true,
+        "address":"45/41, ตำบล บ่อผุด อำเภอเกาะสมุย สุราษฎร์ธานี 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.0308471547278437,
+      "dispensary":{
+        "id":"89ab6d8b-dda8-4f26-b351-f4bbe162ff76",
+        "city":"Surat Thani",
+        "name":"Ann's Bud Tending",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":1,
+              "time":"1200"
+            },
+            "close":{
+              "day":1,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1200"
+            },
+            "close":{
+              "day":2,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1200"
+            },
+            "close":{
+              "day":3,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1200"
+            },
+            "close":{
+              "day":4,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1200"
+            },
+            "close":{
+              "day":5,
+              "time":"2300"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1200"
+            },
+            "close":{
+              "day":6,
+              "time":"2300"
+            }
+          }
+        ],
+        "lat":9.519052,
+        "lng":100.0488268,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":45
+            },
+            "count":9
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":45
+            },
+            "count":9
+          }
+        },
+        "image":"72484c367bad7e7e6acdfe7c5012834d",
+        "has_products":false,
+        "address":"9|6, Maduawan, ตำบล บ่อผุด Koh Phangan, สุราษฎร์ธานี 84280, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.1448528838840153,
+      "dispensary":{
+        "id":"b683bda9-0c9b-4e97-a030-dcae47c03125",
+        "city":"Surat Thani",
+        "name":"Stoners Samui",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"0130"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"0130"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"0130"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"0130"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"0130"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"0130"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"0130"
+            }
+          }
+        ],
+        "lat":9.5217873,
+        "lng":100.0576217,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":1442
+            },
+            "count":289
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":1442
+            },
+            "count":289
+          }
+        },
+        "image":"697b76f2fb5568ae7cc2d1465190e127",
+        "has_products":false,
+        "address":"17 48 บ่อผุด Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.174895940258349,
+      "dispensary":{
+        "id":"2f3bd1cc-01dc-40cc-9b6a-85755209c4f5",
+        "city":"Surat Thani",
+        "name":"Dons",
+        "types":[
+          "Dispensary",
+          "Cafe",
+          "Bar",
+          "Wholesaler",
+          "Farm",
+          "Delivery",
+          "Lab"
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"0930"
+            },
+            "close":{
+              "day":0,
+              "time":"2330"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"0930"
+            },
+            "close":{
+              "day":1,
+              "time":"2330"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"0930"
+            },
+            "close":{
+              "day":2,
+              "time":"2330"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"0930"
+            },
+            "close":{
+              "day":3,
+              "time":"2330"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"0930"
+            },
+            "close":{
+              "day":4,
+              "time":"2330"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"0930"
+            },
+            "close":{
+              "day":5,
+              "time":"2330"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"0930"
+            },
+            "close":{
+              "day":6,
+              "time":"2330"
+            }
+          }
+        ],
+        "lat":9.522127600000001,
+        "lng":100.057391,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":317
+            },
+            "count":65
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":317
+            },
+            "count":65
+          }
+        },
+        "image":"de99c12dbab298f4e6543e9d73081090",
+        "has_products":false,
+        "address":"39, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.1990492389188463,
+      "dispensary":{
+        "id":"ea1ba5f6-929b-45a6-851b-d42fb0bf53ce",
+        "city":"Surat Thani",
+        "name":"Munchies Cannabis Store - Delivery Chaweng",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1100"
+            },
+            "close":{
+              "day":0,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1100"
+            },
+            "close":{
+              "day":1,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1100"
+            },
+            "close":{
+              "day":2,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1100"
+            },
+            "close":{
+              "day":3,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1100"
+            },
+            "close":{
+              "day":4,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1100"
+            },
+            "close":{
+              "day":5,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1100"
+            },
+            "close":{
+              "day":6,
+              "time":"2200"
+            }
+          }
+        ],
+        "lat":9.5207205,
+        "lng":100.0485224,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "image":"11f665db87ffa49b00401adab4876d5d",
+        "has_products":false,
+        "address":"109/44_45 Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.2192751875644543,
+      "dispensary":{
+        "id":"b11f39f9-33f9-424b-9441-3be05a409686",
+        "city":"Surat Thani",
+        "name":"Cafe-Bis",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"2000"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"2000"
+            }
+          }
+        ],
+        "lat":9.5214682,
+        "lng":100.0493891,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"111, 58 Moo6, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.2457588884310913,
+      "dispensary":{
+        "id":"0e0fbd68-2193-4c4a-abcf-71982d4b8e23",
+        "city":"Surat Thani",
+        "name":"Amsterdam Cafe",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"2200"
+            }
+          }
+        ],
+        "lat":9.522684,
+        "lng":100.0577866,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":null
+            },
+            "count":0
+          }
+        },
+        "has_products":false,
+        "address":"30 Chaweng Beach Rd, Ko Samui District, Surat Thani 84320, Thailand",
+        "open":false
+      }
+    },
+    {
+      "distance":1.2505841683885015,
+      "dispensary":{
+        "id":"b8c674af-7073-4ec4-98dd-3dc1da825efc",
+        "city":"Surat Thani",
+        "name":"Amsterdam Cafe - Cannabis Chaweng - Bophut - Coffee Koh Samui",
+        "types":[
+          
+        ],
+        "delivery_hours":[
+          
+        ],
+        "opening_hours":[
+          {
+            "open":{
+              "day":0,
+              "time":"1000"
+            },
+            "close":{
+              "day":0,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":1,
+              "time":"1000"
+            },
+            "close":{
+              "day":1,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":2,
+              "time":"1000"
+            },
+            "close":{
+              "day":2,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":3,
+              "time":"1000"
+            },
+            "close":{
+              "day":3,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":4,
+              "time":"1000"
+            },
+            "close":{
+              "day":4,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":5,
+              "time":"1000"
+            },
+            "close":{
+              "day":5,
+              "time":"2200"
+            }
+          },
+          {
+            "open":{
+              "day":6,
+              "time":"1000"
+            },
+            "close":{
+              "day":6,
+              "time":"2200"
+            }
+          }
+        ],
+        "lat":9.522696199999999,
+        "lng":100.0579058,
+        "reviews_aggregate":{
+          "aggregate":{
+            "sum":{
+              "rating":114
+            },
+            "count":23
+          }
+        },
+        "reviews_misc_real":{
+          "aggregate":{
+            "sum":{
+              "rating":114
+            },
+            "count":23
+          }
+        },
+        "image":"69b03b52efc7416361ef6197bd9a3b33",
+        "has_products":false,
+        "address":"Chaweng Road 155/29, ตำบล บ่อผุด อำเภอเกาะสมุย สุราษฎร์ธานี 84320, Thailand",
+        "open":false
+      }
+    }
+  ]
+}

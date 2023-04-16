@@ -1,0 +1,865 @@
+{
+    "id":"1f627544-1127-43ef-84e1-cbc6a335b794",
+    "lat": "13.7909051",
+    "lng": "100.7029786",
+    "city":"Bangkok",
+    "name":"OG Station Cannabis Weed Shop 大麻 マリファナ Marijana ช่อดอกกัญชา สายเขียว",
+    "type":null,
+    "business_images":[
+      "677e677f15a94f9dc3a717a3e5806a31",
+      "cff139591088fbd2474149a73569cebb"
+    ],
+    "google_images":[
+      "b24d517cf5db40a38b634851e4a342bf",
+      "c2d3a727b855fe4047138209bc6c8bef",
+      "b0edce526b6598ef85d593df9c7e71bc"
+    ],
+    "status":"approved",
+    "website":"https://shop.line.me/@661ahosi",
+    "phone":"+66 63 845 1141",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1200"
+        },
+        "close":{
+          "day":1,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1200"
+        },
+        "close":{
+          "day":2,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1200"
+        },
+        "close":{
+          "day":3,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1200"
+        },
+        "close":{
+          "day":4,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1200"
+        },
+        "close":{
+          "day":5,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1200"
+        },
+        "close":{
+          "day":6,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1200"
+        },
+        "close":{
+          "day":0,
+          "time":"0000"
+        }
+      }
+    ],
+    "line":"@661ahosi",
+    "google_url":"https://maps.google.com/?cid=6972291142907773279",
+    "place_id":"PuVWL5N2S3MwUGREK3Trv7dAjzN",
+    "facebook":"https://www.facebook.com/OG.Station420?mibextid=LQQJ4d",
+    "description":"ผลิตภัณฑ์ออแกรนิคถูกต้องตามกฏหมาย ราคาเป็นมิตร",
+    "products_flowers":[
+      {
+        "id":"201d87ed-c83d-4806-b49b-f198cf491864",
+        "name":"Mimosa Cake",
+        "description":"จากค่าย fastbuds ปลูกเอง ห้องแอร์24ชั่วโมง ปุ๋ยAN",
+        "images":[
+          "89d5aa9e5dadc62ab24f37423af1c5ae"
+        ],
+        "thc":22,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2023-01-13T19:48:40.735094+00:00",
+        "updated_at":"2023-04-15T19:00:14.775121+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      {
+        "id":"5ae750ac-b979-462e-8ef9-e284925e039a",
+        "name":"บ้องแก้วหลายขนาดหลายราคาหลายไซด์",
+        "description":"มีหลายขนาดหลายราคาเริ่มตั้งแต่600บาทขึ้นไป",
+        "images":[
+          "b0bceb6967b94b3986fcf57995771486"
+        ],
+        "disabled":false,
+        "created_at":"2023-01-13T19:55:54.946235+00:00",
+        "updated_at":"2023-04-15T19:00:14.778816+00:00"
+      }
+    ],
+    "products_misc":[
+      {
+        "id":"701e2bf6-c6f4-4e38-8f5c-2d562e6a7246",
+        "name":"ต้นไม้สายพันธุ์นอก,บ้องแก้ว,อุปกรณ์สำหรับกัญชา",
+        "description":"มีสายพันธุ์ต่างๆมากมาย สนใจแอดไลน์สอบถาม",
+        "images":[
+          "2877f0673da28cc8fa034a814ea0de2f"
+        ],
+        "disabled":false,
+        "created_at":"2023-01-13T19:53:58.47737+00:00",
+        "updated_at":"2023-04-15T19:00:14.784256+00:00"
+      }
+    ],
+    "reviews":[
+      {
+        "author":"กีรติ ถาแม่วาง",
+        "avatar":"6d9dc0c0cb9af980336d7ad0e4fd8e48",
+        "content":"ร้านดีครับ ราคาดีมีให้เลือกเยอะ\n\n(Translated by Google)\nGood shop, good prices, lots of choices.",
+        "review_date":"2023-02-20T16:29:40.569+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100228012033394651222?hl=en-US"
+      },
+      {
+        "author":"phong phun",
+        "avatar":"60e46125542995022091e8ddb4234890",
+        "content":"🍀🔥",
+        "review_date":"2023-01-12T13:14:18.249+00:00",
+        "rating":5,
+        "images":[
+          "6aeeeefad82895687e373491aa0235cf"
+        ],
+        "url":"https://www.google.com/maps/contrib/101881491581149598762?hl=en-US"
+      },
+      {
+        "author":"Waris Jaiyen",
+        "avatar":"858ec00394d06293bf6e5e9831202558",
+        "content":"",
+        "review_date":"2023-02-16T17:27:04.113+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101971160458939800933?hl=en-US"
+      },
+      {
+        "author":"Watthanaphong Thawonphat",
+        "avatar":"08827ccfd1a7e88e6b9c5e3947dd59d5",
+        "content":"ร้านที่ถูกที่สุดย่านรามคำแหง\n💯💯💚💚💚\n\n(Translated by Google)\nCheapest shop in Ramkhamhaeng area.\n💯💯💚💚💚",
+        "review_date":"2023-03-02T04:47:20.715+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103031363117192830055?hl=en-US"
+      },
+      {
+        "author":"CopperDick",
+        "avatar":"b2bbcf69f6eb2f28c8c0d0428fd12bf8",
+        "content":"ห่วย\n\n(Translated by Google)\nbad",
+        "review_date":"2023-01-13T14:04:32.622+00:00",
+        "rating":1,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103569686521145387302?hl=en-US"
+      },
+      {
+        "author":"Bussaraporn Buafueangklin",
+        "avatar":"a80acafd019f49c14a8573acb294e8f2",
+        "content":"ราคาถูกมากกว่าร้านอื่น บริการดี\nไม่ต้องไปไหนแล้วแนะนำเลยค่ะร้านนี้\nOG STATION\n\n(Translated by Google)\nCheaper than other stores, good service.\nYou don't have to go anywhere and recommend this shop.\nOG STATION",
+        "review_date":"2023-01-12T11:54:36.534+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104581971254001580610?hl=en-US"
+      },
+      {
+        "author":"PUYPAPER",
+        "avatar":"bb0e5c16d6865d2562d85b9f1e859688",
+        "content":"บริการดีเป็นกันเองมากค่ะ\n\n(Translated by Google)\nGood service, very friendly.",
+        "review_date":"2023-04-02T12:26:59.81+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105292911561751588944?hl=en-US"
+      },
+      {
+        "author":"Armand",
+        "avatar":"d86e3c1ba21a794c1ee3d200df06a701",
+        "content":"The cheapest prices I got in bangkok, and products were good. Employee was friendly and there was a large choice.",
+        "review_date":"2023-04-07T09:33:07.858+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107205987511134040987?hl=en-US"
+      },
+      {
+        "author":"อยุวัฒน์ ทัศนัย",
+        "avatar":"78b555d2fcd9ba81a9b66a3822c3d50d",
+        "content":"ราคาถูกมากครับ ท็อปราคา390บาทเอง\n\n(Translated by Google)\nVery cheap Top price 390 baht only.",
+        "review_date":"2023-01-12T12:26:12.365+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107332266568058912829?hl=en-US"
+      },
+      {
+        "author":"Pisupong Leungamornnara",
+        "avatar":"5e4370067815bfd564972273d898d47f",
+        "content":"",
+        "review_date":"2023-02-17T15:02:28.871+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108080806011377259875?hl=en-US"
+      },
+      {
+        "author":"นางสาว ภัธทิรา บุญถนอมจิต 64_0385",
+        "avatar":"eba35ed397f75379bc4009856600c9cf",
+        "content":"",
+        "review_date":"2023-04-02T12:27:33.559+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108416154119352097571?hl=en-US"
+      },
+      {
+        "author":"Toonnn Seramoy",
+        "avatar":"011a14d44fd81a1103a8716a7e7359f2",
+        "content":"(Translated by Google) D mac\n\n(Original)\nD mak",
+        "review_date":"2023-01-23T15:38:26.105+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109195204721765309230?hl=en-US"
+      },
+      {
+        "author":"Piyawat Tohkeng",
+        "avatar":"9a4e6d4d84ac95d2ccd2db8271d95577",
+        "content":"ราคาถูก ของมีคุณภาพ\n\n(Translated by Google)\ncheap price quality",
+        "review_date":"2023-01-12T12:59:14.56+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109446680835069728703?hl=en-US"
+      },
+      {
+        "author":"นายฐิติทัตน์ นิพนธ์พิทยา",
+        "avatar":"53c60ee8d827c07ca6976d16e429c351",
+        "content":"บริการดีมากครับ\n\n(Translated by Google)\nVery good service",
+        "review_date":"2023-02-17T11:29:07.093+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109661597401450850463?hl=en-US"
+      },
+      {
+        "author":"Test Sarun",
+        "avatar":"fca753de4869b38bcdcb509a79d19c25",
+        "content":"Inexpensive like other stores I like this restaurant\n\n￼",
+        "review_date":"2023-01-13T10:56:45.523+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109764099923812894439?hl=en-US"
+      },
+      {
+        "author":"สิริธาดาวิเศษ ก้อย",
+        "avatar":"b7a838d8bfc734d353fe59bf95752f27",
+        "content":"งานดี ราคาโดน 🥳🥳\n\n(Translated by Google)\nGood work, cheap price 🥳🥳",
+        "review_date":"2023-02-15T08:42:24.696+00:00",
+        "rating":5,
+        "images":[
+          "1c30aa47cfe99a79205b658965fe08a8"
+        ],
+        "url":"https://www.google.com/maps/contrib/111714528942603928989?hl=en-US"
+      },
+      {
+        "author":"ฺBlaxk Star",
+        "avatar":"12604426ef28a8ba68d507eacbdcd1a7",
+        "content":"ทางร้านแนะนำดีมากๆครับ ราคาดี มีบริการมวนให้ด้วย ครบจบ พร้อมสูบ แนะนำครับ👍\n\n(Translated by Google)\nThe shop is very recommended. Good price. There is a service to roll for you. Complete. Ready to smoke. I recommend it. 👍",
+        "review_date":"2023-03-02T14:38:59.974+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115610437183153210751?hl=en-US"
+      },
+      {
+        "author":"ឆាយ ចាន់ពិសាល Pisal chhay",
+        "avatar":"0d86742a37b20e5a393d1eb40704af87",
+        "content":"Good quality, best service and I recommend y’all this place",
+        "review_date":"2023-02-21T09:20:40.244+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/118257344690556049877?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":86
+        },
+        "count":18
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.5915054829924744,
+        "dispensary":{
+          "id":"abd0ec69-70ca-492a-b6d6-a858b022f77a",
+          "city":"Bangkok",
+          "name":"CaptainGanja",
+          "types":[
+            
+          ],
+          "lat":13.7867951,
+          "lng":100.706456,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"194/17, ratpattana, เขตสะพานสูง กรุงเทพมหานคร 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.9381670292902738,
+        "dispensary":{
+          "id":"1a84b7f1-7fcf-4fde-a14d-bf9c56b72db2",
+          "city":"Bangkok",
+          "name":"Herbal Tavern - Cannabis & Herbs Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.7870083,
+          "lng":100.6952732,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":135
+              },
+              "count":27
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":135
+              },
+              "count":27
+            }
+          },
+          "image":"552da8b86f008b01bb1210160e59a439",
+          "has_products":false,
+          "address":"7, 34 Ramkhamhaeng Rd, Rat Phatthana, Saphan Sung, Bangkok 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.2550447238952287,
+        "dispensary":{
+          "id":"135ed7d4-5e27-40c9-965d-ee0b1c0a268b",
+          "city":"Bangkok",
+          "name":"Stoner Galaxy (พวกกั๊น พวกกัญ)",
+          "types":[
+            
+          ],
+          "lat":13.7956927,
+          "lng":100.6924539,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "image":"d0b257439229e9bb3dc0f1b00c82adf2",
+          "has_products":false,
+          "address":"260 1 Seri Thai Rd, Khan Na Yao, Bangkok 10230, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.2612655203714978,
+        "dispensary":{
+          "id":"4fc8fef3-f1c4-4b61-8701-bac13ab4f698",
+          "city":"Bangkok",
+          "name":"SeriKush Cannabis Shop",
+          "types":[
+            
+          ],
+          "lat":13.7956505,
+          "lng":100.6923702,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "image":"72b3591330a4a6de66a7ddb3ddb03e3e",
+          "has_products":false,
+          "address":"บ้านเลขที่ 270 คันนายาว Khet Khan Na Yao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.4087229161513866,
+        "dispensary":{
+          "id":"f6f3b68d-5155-46fd-88f3-c09bd3c68c97",
+          "city":"Bangkok",
+          "name":"KRATOM-กาท่อม",
+          "types":[
+            
+          ],
+          "lat":13.7996683,
+          "lng":100.6935576,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"244aa6451a256eefb69b383e0366d672",
+          "has_products":false,
+          "address":"288 Ketsara Classic Home, Krung Thep Maha Nakhon, จังหวัด กรุงเทพมหานคร 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.7626680140705562,
+        "dispensary":{
+          "id":"587df392-9ce8-4c15-960d-8868271066dd",
+          "city":"Bangkok",
+          "name":"บริษัท สยามกัญญา จำกัด",
+          "types":[
+            
+          ],
+          "lat":13.8009395,
+          "lng":100.6903422,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":9
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"ae56135db73e675b6fac002ddb93f7d0",
+          "has_products":false,
+          "address":"260 Thanon Suan Sayam, Khwaeng Khan Na Yao, Khet Khan Na Yao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.264251120361707,
+        "dispensary":{
+          "id":"07a60f3e-b583-45eb-bf13-3731caa09624",
+          "city":"Bangkok",
+          "name":"คาเฟ่ ชากัญฯ ถ.เคหะร่มเกล้า",
+          "types":[
+            
+          ],
+          "lat":13.7715086,
+          "lng":100.709361,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"bf426ba7966968747ff6bd80faa3f2d0",
+          "has_products":false,
+          "address":"40/7 Thanon Kheha Rom Klao, Khwaeng Saphan Sung, Khet Saphan Sung, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.474592103483153,
+        "dispensary":{
+          "id":"455ef65f-7416-4f6a-8d53-4920e7285cfa",
+          "city":"Bangkok",
+          "name":"Happy High",
+          "types":[
+            "Dispensary",
+            "Wholesaler"
+          ],
+          "lat":13.7707681,
+          "lng":100.7127339,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":246
+              },
+              "count":50
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":246
+              },
+              "count":50
+            }
+          },
+          "image":"fbaac1fbcc25044df77ce96582ce9438",
+          "has_products":true,
+          "address":"24/10 Thanon Kheha Rom Klao, Rat Phatthana, Khet Saphan Sung, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.48471514271833,
+        "dispensary":{
+          "id":"736ea9a9-65f3-4702-a462-6a1103b38438",
+          "city":"Bangkok",
+          "name":"กันหลง กัญชาคาเฟ่",
+          "types":[
+            
+          ],
+          "lat":13.7705317,
+          "lng":100.7124294,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"99f429701eee1341ed95d983fe3de6b3",
+          "has_products":false,
+          "address":"หน้าพิชญรีสอร์ท Thanon Kheha Rom Klao, Rat Phatthana, Khet Saphan Sung, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.5239448393071777,
+        "dispensary":{
+          "id":"dfdaabd1-48b5-44d6-8bab-ffd94c23c2d7",
+          "city":"Bangkok",
+          "name":"Captain Ganja",
+          "types":[
+            
+          ],
+          "lat":13.7682069,
+          "lng":100.703072,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"275, 5 Thanon Rat Phatthana, Rat Phatthana, Khet Saphan Sung, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.5305045915832025,
+        "dispensary":{
+          "id":"85e61715-4a4e-4e91-8d65-e55158c0c197",
+          "city":"Bangkok",
+          "name":"CaptainGanja X Ultimate Gym",
+          "types":[
+            
+          ],
+          "lat":13.7681488,
+          "lng":100.7032063,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"275, 2 Thanon Rat Phatthana, Rat Phatthana, Khet Saphan Sung, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.694109499837242,
+        "dispensary":{
+          "id":"8e439de9-e84d-4ade-91b7-a52dacd35c70",
+          "city":"Bangkok",
+          "name":"ร้านขายกัญชาวัชพืชสุดสัปดาห์",
+          "types":[
+            "Farm",
+            "Dispensary",
+            "Delivery",
+            "Club",
+            "Clinic",
+            "Grower",
+            "Cafe",
+            "Restaurant"
+          ],
+          "lat":13.7804823,
+          "lng":100.6804576,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"5b0bd37511fc75acd207c69a077f19e6",
+          "has_products":true,
+          "address":"หน้าเซว่น ปาก Soi Rung Kit, Khwaeng Saphan Sung, Khet Saphan Sung, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.6944894892229616,
+        "dispensary":{
+          "id":"89cf5ddc-4382-4a6d-a431-fbebe6276376",
+          "city":"Bangkok",
+          "name":"กัญชาคาเฟ่ ราม 141",
+          "types":[
+            
+          ],
+          "lat":13.7809248,
+          "lng":100.6802422,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":4
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"4d79d909777babfd7a4eb4aa748e346f",
+          "has_products":false,
+          "address":"Ramkhamhaeng Rd, Khwaeng Saphan Sung, Khet Saphan Sung, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.8461514032929798,
+        "dispensary":{
+          "id":"08865a44-7c77-4ac6-839b-6d82a3d58879",
+          "city":"Bangkok",
+          "name":"ใจแลกใจ กัญเสรี",
+          "types":[
+            
+          ],
+          "lat":13.7791415,
+          "lng":100.6795717,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "has_products":false,
+          "address":"3 เข้ามา200เมตร อยู่ซ้ายมือ 2 Soi Ramkhamhaeng 118, Khwaeng Saphan Sung, Khet Saphan Sung, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.9902562572474425,
+        "dispensary":{
+          "id":"65e29cb6-962c-4cd3-9019-a819ec9bcfba",
+          "city":"Bangkok",
+          "name":"Lighthouse Centre",
+          "types":[
+            "Clinic"
+          ],
+          "lat":13.7687697,
+          "lng":100.687255,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":70
+              },
+              "count":14
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "image":"0f0a147141655d7a6fb8b8cd0cdafbe4",
+          "has_products":false,
+          "address":"118 ถนน รามคำแหง Khwaeng Saphan Sung, Khet Saphan Sung, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

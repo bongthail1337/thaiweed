@@ -1,0 +1,632 @@
+{
+    "id":"7a32d376-1752-468b-952c-614bff6f6fb8",
+    "lat": "13.9848271",
+    "lng": "100.5481272",
+    "city":"Pathum Thani",
+    "name":"JF Cannabis",
+    "type":null,
+    "business_images":[
+      "36546823d5fae1f42bcc14da62e64701"
+    ],
+    "google_images":[
+      "b8026019d184c6068c1287d012829ea9"
+    ],
+    "status":"approved",
+    "website":"-",
+    "phone":"+66 80 282 1014",
+    "opening_hours":[
+      {
+        "open":{
+          "day":1,
+          "time":"0900"
+        },
+        "close":{
+          "day":1,
+          "time":"1700"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"0900"
+        },
+        "close":{
+          "day":2,
+          "time":"1700"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"0900"
+        },
+        "close":{
+          "day":3,
+          "time":"1700"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"0900"
+        },
+        "close":{
+          "day":4,
+          "time":"1700"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"0900"
+        },
+        "close":{
+          "day":5,
+          "time":"1700"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"0900"
+        },
+        "close":{
+          "day":6,
+          "time":"1700"
+        }
+      }
+    ],
+    "line":"-",
+    "google_url":"https://maps.google.com/?cid=16401285837060952471",
+    "place_id":"PuVWI0yO4ZlO5wNEy7TcZMVFarZ",
+    "facebook":"-",
+    "description":"JF Cannabis กำลังยื่นขออนุญาตจําหน่ายกัญชา ของกรมแพทย์แผนไทยและการแพทย์ทางเลือก สสจ.ปทุมธานี",
+    "products_flowers":[
+      {
+        "id":"69cee075-3b34-4f29-b364-20f148517439",
+        "name":"Banana blaze ",
+        "description":"Ducth passion ",
+        "images":[
+          "ee22d42b8464975d0178e0c8540d5a94"
+        ],
+        "thc":28,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2022-12-15T11:07:56.860437+00:00",
+        "updated_at":"2023-04-15T22:00:03.913051+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":null
+        },
+        "count":0
+      }
+    },
+    "suggestions":[
+      {
+        "distance":3.5175924518308936,
+        "dispensary":{
+          "id":"53875332-f3eb-4358-843e-f5838b40bbb7",
+          "city":"Pathum Thani",
+          "name":"กัญชาใบกระท่อม",
+          "types":[
+            
+          ],
+          "lat":13.9912299,
+          "lng":100.5161771,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":14
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":4
+              },
+              "count":1
+            }
+          },
+          "image":"291aa727b3f903c700c741800962add4",
+          "has_products":false,
+          "address":"130 27 Tambon Bang Dua, Amphoe Mueang Pathum Thani, Chang Wat Pathum Thani 12000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":3.5388908696351753,
+        "dispensary":{
+          "id":"a5a00d48-f037-4b74-9da7-d890321f14b2",
+          "city":"Pathum Thani",
+          "name":"JokerBuds747",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":13.9950395,
+          "lng":100.5170384,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"1ca0df1cc6a4afc55d9b1ae3e67b532f",
+          "has_products":true,
+          "address":"ถนนกรุงเทพ-ปทุมฯ, Tambon Bang Luang, Amphoe Mueang Pathum Thani, Chang Wat Pathum Thani 12000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":3.9990990558158197,
+        "dispensary":{
+          "id":"4760d55e-081f-43a5-b345-fe80b08e7c93",
+          "city":"Pathum Thani",
+          "name":"Growup. dispensary",
+          "types":[
+            
+          ],
+          "lat":13.9599523,
+          "lng":100.5748666,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"72563d06bde5fe67ea7e5c14b8ada4dc",
+          "has_products":false,
+          "address":"52 200/5 หมู่ 7 ซอย ตำบล หลักหก Tambon Lak Hok, Amphoe Mueang Pathum Thani, Chang Wat Pathum Thani 12000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":4.038568352829144,
+        "dispensary":{
+          "id":"4dcc29bf-e6e3-4699-8055-902dca6b0eab",
+          "city":"Pathum Thani",
+          "name":"Stoner.TH",
+          "types":[
+            "Dispensary",
+            "Farm",
+            "Delivery"
+          ],
+          "lat":14.0156115,
+          "lng":100.5282331,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"6d7d72a2d9a78e9bc58202902cbd2cf0",
+          "has_products":true,
+          "address":"31 11 บ้านใหม่ Tambon Bang Prok, เมือง Chang Wat Pathum Thani 12000, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":4.184622448630516,
+        "dispensary":{
+          "id":"c4012d82-87cc-42dd-8758-87715f3fc713",
+          "city":"Pathum Thani",
+          "name":"Channel Weed Thailand",
+          "types":[
+            
+          ],
+          "lat":13.9605793,
+          "lng":100.5777579,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"52 044 ม.7 ซอย ตำบล หลักหก Tambon Lak Hok, Amphoe Mueang Pathum Thani, Chang Wat Pathum Thani 12000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":4.327102010477391,
+        "dispensary":{
+          "id":"cae89151-2500-4aea-a939-df5954058159",
+          "city":"Chang Wat Pathum Thani",
+          "name":"กิน นม กัญ​ (กัญ​ชง​กัญ​ชา​คาเฟ่)​",
+          "types":[
+            
+          ],
+          "lat":13.9810677,
+          "lng":100.5081899,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"9a382ef252147485d8cc8c4167403c5e",
+          "has_products":false,
+          "address":"120 64 Chuan Chuen Graden Ville, Tambon Bang Dua, Amphoe Mueang Pathum Thani, Chang Wat Pathum Thani 1200, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":4.847963896503756,
+        "dispensary":{
+          "id":"40b9b150-56d6-419b-aee2-153292cf8597",
+          "city":"Bangkok",
+          "name":"MARANG JIZBO",
+          "types":[
+            
+          ],
+          "lat":13.9473747,
+          "lng":100.5710952,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"179/42 ซอย นาวงประชาพัฒนา 15 Thanon Nawong Pracha Phatthana, Khwaeng Si Kan, Khet Don Mueang, Krung Thep Maha Nakhon 10210, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":5.090984075203133,
+        "dispensary":{
+          "id":"f2d49b68-d14b-4b4f-b83a-38641aae50bd",
+          "city":"Pathum Thani",
+          "name":"Merlin Weed Lab",
+          "types":[
+            
+          ],
+          "lat":13.958168,
+          "lng":100.5097516,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"41e76764a12024869acecb8fa2f30386",
+          "has_products":false,
+          "address":"345 Bangkuwat, ตำบล บางคูวัด อำเภอเมืองปทุมธานี ปทุมธานี 12000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":5.097269515081718,
+        "dispensary":{
+          "id":"9ceb1290-e9a9-4e8d-a856-ebcc0c5ff504",
+          "city":"Pathum Thani",
+          "name":"Hide&High, Weed Club",
+          "types":[
+            
+          ],
+          "lat":13.9625423,
+          "lng":100.5893829,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "image":"4549c3794c16158d9a7a58f5776869c5",
+          "has_products":false,
+          "address":"52 454 Ek Thaksin 7 Rd, Tambon Lak Hok, Amphoe Mueang Pathum Thani, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":5.12811930698399,
+        "dispensary":{
+          "id":"9339c76f-cf07-4918-8e3c-91d91df0ef37",
+          "city":"Pathum Thani",
+          "name":"Channel Weed Store Rangsit | ร้านขายกัญชา รังสิต ปทุม | Cannabis dispensary",
+          "types":[
+            "Cafe",
+            "Dispensary",
+            "Farm",
+            "Delivery",
+            "Grower"
+          ],
+          "lat":13.9635724,
+          "lng":100.5902785,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":130
+              },
+              "count":26
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":130
+              },
+              "count":26
+            }
+          },
+          "image":"44c257df83955ca85bf3ed8742d8663a",
+          "has_products":false,
+          "address":"Ek Thaksin 9 Rd, Tambon Lak Hok, Amphoe Mueang Pathum Thani, Chang Wat Pathum Thani 12000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":5.206606922149277,
+        "dispensary":{
+          "id":"7980a12c-7d6b-4799-9f3c-f35f89748288",
+          "city":"Nonthaburi",
+          "name":"WIPWUP​ Og",
+          "types":[
+            
+          ],
+          "lat":13.9386039,
+          "lng":100.5404332,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":45
+              },
+              "count":9
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":45
+              },
+              "count":9
+            }
+          },
+          "image":"f26d7807ca5abcb3bd0b4e28ff20e8f4",
+          "has_products":false,
+          "address":"72 152 บ้านใหม่ Tambon Ban Mai, Amphoe Pak Kret, Chang Wat Nonthaburi 11120, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":5.2574566051787155,
+        "dispensary":{
+          "id":"4c507656-6ff0-4597-a50b-1ae866240252",
+          "city":"Pathum Thani",
+          "name":"Siam U.S. Group",
+          "types":[
+            
+          ],
+          "lat":14.0193166,
+          "lng":100.5147664,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"27/29, Chao Por Sombun Road, ตำบล หลักหก อำเภอเมืองปทุมธานี ปทุมธานี 12000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":5.2916857489400835,
+        "dispensary":{
+          "id":"acadeec5-3b3c-4a0d-9583-a1cd4f35dc81",
+          "city":"Pathum Thani",
+          "name":"Sweets G2",
+          "types":[
+            
+          ],
+          "lat":13.9645577,
+          "lng":100.5924722,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"27 ถนน เอกทักษิณ Tambon Lak Hok, Amphoe Mueang Pathum Thani, Chang Wat Pathum Thani 12000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":5.305610745542885,
+        "dispensary":{
+          "id":"b5acc1e1-b748-4e2f-a10a-b7913a442d8a",
+          "city":"Pathum Thani",
+          "name":"ยอดมนุษย์กัญชา คาเฟ่",
+          "types":[
+            
+          ],
+          "lat":13.964377,
+          "lng":100.5925269,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"Lak Hok, Mueang Pathum Thani District, Pathum Thani 12000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":5.3152901867598645,
+        "dispensary":{
+          "id":"666761de-4d9c-4b46-9c5c-60dc763f86af",
+          "city":"Pathum Thani",
+          "name":"Weed Connection Muang Ake @ Kamin Kub Puu",
+          "types":[
+            
+          ],
+          "lat":13.9646654,
+          "lng":100.5927657,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"bbf2181686fe724d3bb72ecac44d748f",
+          "has_products":false,
+          "address":"52/021 Tambon Lak Hok, เมือง Chang Wat Pathum Thani 12000, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

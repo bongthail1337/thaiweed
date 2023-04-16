@@ -1,0 +1,759 @@
+{
+    "id":"12f0868a-a5bc-407d-b7ee-675181aa5d7b",
+    "lat": "13.7664023",
+    "lng": "100.5663527",
+    "city":"Bangkok",
+    "name":"KUSH A DEAL",
+    "type":null,
+    "business_images":[
+      "2021b1edfb8729a5d8b4d500fe9e8f78",
+      "9e4d219422efbb2bae85b387588f91b8",
+      "8a5f60648ef50167e76d4d5f5e7402a4"
+    ],
+    "google_images":[
+      "249403e882af7d01bbc689d922bb4be3",
+      "5d601b2e87eb10c1bcd74af8626de29c",
+      "8b2f748f8bb9deea98bc4818d0ef7626",
+      "6d99fcba9089aab2a221331f76d7339d",
+      "11aec9ef17cd2e3a7bd474e6263272db",
+      "91da9437d49008581a3d2fbe7c3b6984",
+      "f1e0be442ab585a405f94da957090a50",
+      "783cb5578db95e4bf865421c3d02f7a9",
+      "30cdd9b9dd03fa2364f1e1e25062d68c",
+      "0a8f07a67a521df5902c0c049bf6c8ae"
+    ],
+    "status":"approved",
+    "website":"https://m.facebook.com/profile.php?id=100063678301451&_rdr",
+    "phone":"+66 95 368 9979",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1200"
+        },
+        "close":{
+          "day":1,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1200"
+        },
+        "close":{
+          "day":4,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1200"
+        },
+        "close":{
+          "day":5,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1200"
+        },
+        "close":{
+          "day":6,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1200"
+        },
+        "close":{
+          "day":0,
+          "time":"0100"
+        }
+      }
+    ],
+    "line":"Meawthai7",
+    "google_url":"https://maps.google.com/?cid=2271056121161702369",
+    "place_id":"PuVWm0Ec3Ors5wNE5qiEqbWcuO3",
+    "facebook":"https://www.facebook.com/profile.php?id=100063678301451&mibextid=LQQJ4d",
+    "description":"Kush a deal weed shop ของเราคัด กัญชา พรีเมี่ยมคุณภาพสูง หลากหลายสายพันธุ์ เกรดสินค้า และประเภท ที่มีคุณภาพสูง และความหลากหลายให้ลูกค้า เรามีหน้าร้านให้ลูกค้า ได้เลือกลองชิม มีบริการส่งในระแวก กลางเมือง ร้านเราตั้งอยู่ในร้าน comma space ลาดพร้าว101 แยก 42 สำหรับใครต้องการความสงบกลางเมืองเพื่อผักผ่อนจิตใจอย่างแท้จริงกับบรรยากาศส่วนตัวพร้อมที่จอดรถสะดวกสบาย และยังมี commaspacr มี บริการครบวงจร สัก ดื่ม กาแฟ หรือจะ คราฟเบียร์ พวกเรายินดีต้อนรับครับ 🤙🏻💚😁",
+    "products_flowers":[
+      
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      {
+        "id":"02130f86-85e8-476c-9d90-37a0dc9974c5",
+        "name":"GTG Piyote gorrila",
+        "description":"เป็นกัญชา สายพันธุ์ มี่ไม่ง่วง เหมาะก่ะคนชอบใช้กลางวัน",
+        "images":[
+          "ecb4c10662bbf4cc9a2f91e6a69c424e"
+        ],
+        "thc":18,
+        "cbd":1,
+        "sativa":60,
+        "indica":40,
+        "images_coa":[
+          "https://cdn.filestackcontent.com/QucX2HxRle1WY5Y0ljIA"
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2022-11-21T07:38:33.985735+00:00",
+        "updated_at":"2023-04-15T22:00:13.694059+00:00"
+      }
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"อนุสรณ์ ก่อแก้ว",
+        "avatar":"9881d04f3e8d6c3ee933e0b209129cb4",
+        "content":"",
+        "review_date":"2022-09-25T11:33:42.777+00:00",
+        "rating":5,
+        "images":[
+          "6547db01802a283732fb4e3a30681d8b",
+          "1ff8a1e8730501ecc332c7c2a41c5904",
+          "5a89f6f97931174beb0e19d335532695"
+        ],
+        "url":"https://www.google.com/maps/contrib/101434357536328717226?hl=en-US"
+      },
+      {
+        "author":"A P",
+        "avatar":"e56a7a38fb95fd1013c82823082a0c26",
+        "content":"A beautiful shop with very friendly staff, great selection of excellent cannabis with varying prices. The chocmint OG smells like chocolate! It was well-dryed and cured, smooth smoke and happy high. Bongs and papers also available. They have a nice outdoor area to relax in also, 10/10! Will return soon for sure!",
+        "review_date":"2022-10-28T15:23:36.743+00:00",
+        "rating":5,
+        "images":[
+          "7133bbd1b9e92707992ca337951de1d5"
+        ],
+        "url":"https://www.google.com/maps/contrib/104302030946422961507?hl=en-US"
+      },
+      {
+        "author":"Oran Ch. (Chang)",
+        "avatar":"8781300e1920c6a8c99cbbe1e7a795f6",
+        "content":"Great service, very Artsy place, lots of variety, upstairs is a small art gallery, drinks, craft beer and Tatoo! Best tattoo artist around this area!",
+        "review_date":"2022-11-04T10:32:30.235+00:00",
+        "rating":5,
+        "images":[
+          "68fadc3e39064e53451e57c4a3d85630",
+          "40b251afe4faffeaaab29c91ce7399eb",
+          "d0f1a6be5aac4cabe4a8800eefc9cd66",
+          "cf16575cad2f34579aa17bffcb62c516"
+        ],
+        "url":"https://www.google.com/maps/contrib/104728471891835155751?hl=en-US"
+      },
+      {
+        "author":"ภาณุพัฒน์ กังวลสุข",
+        "avatar":"8850b083dda12f31a4c791d42b1bf494",
+        "content":"Freaking love this place nice pot mid to exotic grade",
+        "review_date":"2022-10-02T12:18:47.906+00:00",
+        "rating":5,
+        "images":[
+          "5ae62567627ff7ed9f6a9170e508b52f"
+        ],
+        "url":"https://www.google.com/maps/contrib/104798045886163749645?hl=en-US"
+      },
+      {
+        "author":"Kawint Suwanna",
+        "avatar":"a05b14d89014acef74b14b6fc00c5d48",
+        "content":"",
+        "review_date":"2022-10-09T16:09:53.694+00:00",
+        "rating":5,
+        "images":[
+          "82d56d33c9e42a117c60287f2cfc4a54"
+        ],
+        "url":"https://www.google.com/maps/contrib/107565227137273683932?hl=en-US"
+      },
+      {
+        "author":"Kittichai Chokdee",
+        "avatar":"202a53acc5c57c664724df333da8a930",
+        "content":"ดีงามครับ 🏅🏅\n\n(Translated by Google)\nIt's beautiful",
+        "review_date":"2022-10-09T16:32:47.702+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107695120334975434861?hl=en-US"
+      },
+      {
+        "author":"thunnithi pattharapatphong",
+        "avatar":"5b241029f8c58cb94c2803daf43d8cdf",
+        "content":"",
+        "review_date":"2022-09-20T09:32:10.326+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112413416762514698406?hl=en-US"
+      },
+      {
+        "author":"๖๔๐๓๐๐๗๙๑๔ ศราวุธ นิรามัย",
+        "avatar":"480f5224b51b8265a539b42c76244454",
+        "content":"บรรยากาศเป็นกันเอง เหมือนมานั่งชิลเล่นกับเพื่อน ๆ พนักงานจริงใจดี\n\n(Translated by Google)\nfriendly atmosphere Like sitting and chilling with friends. The staff are sincere.",
+        "review_date":"2022-10-09T17:21:49.262+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112434439007284752651?hl=en-US"
+      },
+      {
+        "author":"ปฏิภาณ พันธ์ภูมิ",
+        "avatar":"4781f4dc59096bef6a2eb6dcf0b28655",
+        "content":"",
+        "review_date":"2022-10-10T00:02:09.206+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115394327987631484929?hl=en-US"
+      },
+      {
+        "author":"M. Lee",
+        "avatar":"22a1aa221d3f8cb746aee99e191ae801",
+        "content":"ร้านนี้บรรยากาศดีมากครับ ไม่ผิดหวังแน่นอนครับ\n\n(Translated by Google)\nThis restaurant has a very good atmosphere. You won't be disappointed.",
+        "review_date":"2022-11-18T10:06:24.559+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115436295680132165192?hl=en-US"
+      },
+      {
+        "author":"Merminty",
+        "avatar":"59758eacf2223210a699e9eefcf5f477",
+        "content":"Very good🙃 ร้านสนุกมากค่าา ใครหาที่นั่งชิวแถวลาดพร้าว101 แวะมาร้านนี้ได้เลยย\n\n(Translated by Google)\nVery good🙃 The shop is very fun. Who is looking for a chilling seat around Lat Phrao 101? Come and visit this shop.",
+        "review_date":"2022-10-20T15:16:36.846+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/118151583823719392593?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":55
+        },
+        "count":11
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.4251679631988982,
+        "dispensary":{
+          "id":"f3e76015-4abf-4686-a6eb-357eb4bc5737",
+          "city":"Bangkok",
+          "name":"ร้านกัญชาStation420Bangkok/cannabis/weedshop",
+          "types":[
+            
+          ],
+          "lat":13.7885647,
+          "lng":100.6281685,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":115
+              },
+              "count":23
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":115
+              },
+              "count":23
+            }
+          },
+          "image":"ae9db2381d12cea86b7243f3b4cbb1f9",
+          "has_products":false,
+          "address":"787 101 Soi Lat Phrao 101, Khwaeng Khlong Chaokhunsing, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.49333810785259147,
+        "dispensary":{
+          "id":"9829017c-e7db-4b66-b702-c4a8aa1ae251",
+          "city":"Bangkok",
+          "name":"Green Galaxy THC",
+          "types":[
+            "Cafe",
+            "Grower",
+            "Wholesaler"
+          ],
+          "lat":13.7932243,
+          "lng":100.6273875,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "image":"a79551b268fa5ac2f82134a9863b9bdd",
+          "has_products":true,
+          "address":"1139 15 Soi Lat Phrao 101, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.6866458237242954,
+        "dispensary":{
+          "id":"c0eaa468-e060-4954-b988-e658ed14c5e7",
+          "city":"Bangkok",
+          "name":"The buds station",
+          "types":[
+            
+          ],
+          "lat":13.7847814,
+          "lng":100.6304621,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "image":"6fc079930d57a7d6891434100beeb402",
+          "has_products":false,
+          "address":"192 Soi Lat Phrao 101, Bangkapi, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.7266184286810642,
+        "dispensary":{
+          "id":"4ae71cfa-7c6a-427f-ba91-f5f99ec9d34f",
+          "city":"Bangkok",
+          "name":"FBK Og House",
+          "types":[
+            
+          ],
+          "lat":13.7858561,
+          "lng":100.6355536,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "image":"b22a9dbddceda629d977b6e7bbd31538",
+          "has_products":false,
+          "address":"แอนนาเพลส 568 Soi Lat Phrao 107, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.8553032647175326,
+        "dispensary":{
+          "id":"b04962b7-f919-465f-a659-982bf0f5780e",
+          "city":"Bangkok",
+          "name":"Weed Maker",
+          "types":[
+            
+          ],
+          "lat":13.7850259,
+          "lng":100.6363892,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"542, 3 Soi Lat Phrao 107, Lane 34, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.9442088565647904,
+        "dispensary":{
+          "id":"85712828-e0a9-4c2d-8707-5b6aa9445d41",
+          "city":"Bangkok",
+          "name":"Frisian Green 420",
+          "types":[
+            
+          ],
+          "lat":13.7836066,
+          "lng":100.6357511,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"add794e33de8426ee8025b4423b612e9",
+          "has_products":false,
+          "address":"493 Soi Lat Phrao 107, Lane 23, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.0990390508145647,
+        "dispensary":{
+          "id":"3b3085c9-361e-4eac-960c-25272d48fff8",
+          "city":"Bangkok",
+          "name":"WIMN",
+          "types":[
+            
+          ],
+          "lat":13.7836159,
+          "lng":100.6244086,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"b15f86f9c93e50a6a9cbd279979e2489",
+          "has_products":false,
+          "address":"1329/5-6 คลองจั่น Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.5552142012834007,
+        "dispensary":{
+          "id":"cac7ec69-48b2-4651-8064-4995c1303cb5",
+          "city":"Bangkok",
+          "name":"Puffy Puff Cannabis",
+          "types":[
+            
+          ],
+          "lat":13.7993307,
+          "lng":100.6197868,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"4720dd6fd6c07d3bd745f8c5b8235670",
+          "has_products":false,
+          "address":"25, 2 Soi Lat Phrao 101, Khwaeng Khlong Chaokhunsing, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.6995881206815229,
+        "dispensary":{
+          "id":"0dd589ee-605f-4e78-9a14-d433d0d7238f",
+          "city":"Bangkok",
+          "name":"ร้านกัญชา High-ลีนU.S.A",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":13.779596,
+          "lng":100.6418695,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":40
+              },
+              "count":8
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":40
+              },
+              "count":8
+            }
+          },
+          "image":"fd199c7bff46bc02b3481d979d6f996c",
+          "has_products":true,
+          "address":"Happy Land, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.709525583469328,
+        "dispensary":{
+          "id":"a5c2865c-8fe8-48d9-9b8c-1c155d51379d",
+          "city":"Bangkok",
+          "name":"amsterdam @รัตนบัณฑิตย์",
+          "types":[
+            
+          ],
+          "lat":13.7756661,
+          "lng":100.633377,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"54 Soi Lat Phrao 107, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.7433400585302574,
+        "dispensary":{
+          "id":"397fe5f5-1c6a-4f32-bf7e-6418628ab42b",
+          "city":"Bangkok",
+          "name":"Green Heaven Dispensary",
+          "types":[
+            "Dispensary",
+            "Grower",
+            "Cafe",
+            "Delivery",
+            "Wholesaler"
+          ],
+          "lat":13.7755867,
+          "lng":100.6278428,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":167
+              },
+              "count":34
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":162
+              },
+              "count":33
+            }
+          },
+          "image":"c227fcb7724657df918579b5685be119",
+          "has_products":true,
+          "address":"1/1 อาคารเมแฟร์เพลส ห้อง105 ปาก Soi Lat Phrao 128, Khwaeng Phlabphla, วังทองหลาง Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.8251270448686032,
+        "dispensary":{
+          "id":"5d74cfcd-99db-40aa-9d5d-e8d47748dfda",
+          "city":"Bangkok",
+          "name":"420 วิมานดิน ฟาร์มกัญชา ดอก กิ่งพันธุ์",
+          "types":[
+            
+          ],
+          "lat":13.8055715,
+          "lng":100.6236938,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "has_products":false,
+          "address":"19 หมู่บ้านทาว์นพลัสเอ็กซ์ ลาดพร้าว 67 ซอยโยธินพัฒนา 11 แยก 7 Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.9851767904444737,
+        "dispensary":{
+          "id":"18a2e6de-b888-46f2-8131-c94615b9c81d",
+          "city":"Bangkok",
+          "name":"Lowland Cannabis",
+          "types":[
+            
+          ],
+          "lat":13.7963755,
+          "lng":100.613783,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"eee017f4c1bfbec3ea46b9f13d7117d9",
+          "has_products":false,
+          "address":"210/2 10 Pradit Manutham Rd, Khwaeng Khlong Chaokhunsing, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.184231919321891,
+        "dispensary":{
+          "id":"68e14fc6-fdd4-46fa-9a66-4236fe3b8f98",
+          "city":"Bangkok",
+          "name":"Four Twenty Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.8027159,
+          "lng":100.6151198,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"69/3 ถ. ประดิษฐ์มนูธรรม Bangkok 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.2007533723541983,
+        "dispensary":{
+          "id":"f97af306-1006-416c-bc0e-8179e1d4dd86",
+          "city":"Bangkok",
+          "name":"มาร์กัญนะ",
+          "types":[
+            
+          ],
+          "lat":13.7939277,
+          "lng":100.6111416,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":80
+              },
+              "count":16
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":80
+              },
+              "count":16
+            }
+          },
+          "image":"310dd579876c5ccf5abf702265187b09",
+          "has_products":false,
+          "address":"735 Pradit Manutham Rd, Khwaeng Saphansong, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":true
+        }
+      }
+    ]
+  }

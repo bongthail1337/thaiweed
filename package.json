@@ -29,6 +29,7 @@
     "color": "^4.2.3",
     "cross-env": "^7.0.3",
     "formik": "^2.2.9",
+    "gray-matter": "^4.0.3",
     "i18next": "22.4.14",
     "lodash": "^4.17.21",
     "mailtrap": "^3.0.0",

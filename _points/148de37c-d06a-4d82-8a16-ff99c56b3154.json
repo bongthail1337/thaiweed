@@ -1,0 +1,841 @@
+{
+    "id":"148de37c-d06a-4d82-8a16-ff99c56b3154",
+    "lat": "13.9069074",
+    "lng": "100.5503956",
+    "city":"Nonthaburi",
+    "name":"GLEAM Weed Dispensary",
+    "type":null,
+    "business_images":[
+      "7ac260d1bd087a27c577f58a78cbd3b0",
+      "eba0606f1f882fdc15a9df0a6d08e386"
+    ],
+    "google_images":[
+      "b4a959a336bd96c2d454c13ef71746b8",
+      "9ec9b313f03782c6dfcf358a5861dec4",
+      "e15b41a328cbee5466fda8c659cc59ea",
+      "94337c7694e7e80a36a3ad47ba5bab3d",
+      "7c2f99de257aea92ccfb7d6c43717d72",
+      "ce04974ba543ce43b7b800da4ce5258b",
+      "c57240a6e9a0651f12bb768b153287f7",
+      "8364391b04c21e4fe91084ef8e13c448",
+      "5d44c5a10f255b4f1ce90d6b0b096be0",
+      "7ba61a0bf9390bb62c6e4c0635bab6a1"
+    ],
+    "status":"approved",
+    "website":"https://www.facebook.com/gleam.lifestyle.bar",
+    "phone":"+66 81 498 4498",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"0000"
+        },
+        "close":{
+          "day":1,
+          "time":"0001"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1800"
+        },
+        "close":{
+          "day":2,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1800"
+        },
+        "close":{
+          "day":3,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1800"
+        },
+        "close":{
+          "day":4,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1800"
+        },
+        "close":{
+          "day":5,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1800"
+        },
+        "close":{
+          "day":6,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1800"
+        },
+        "close":{
+          "day":0,
+          "time":"0000"
+        }
+      }
+    ],
+    "line":"@gleam.lifestyle",
+    "google_url":"https://maps.google.com/?cid=8356998777302370798",
+    "place_id":"PuVWr37R2UJQ5wNE9xy9IEjT-aZ",
+    "facebook":"https://www.facebook.com/gleam.lifestyle.bar/",
+    "description":"Weed dispensary in Chaengwattana-Pakkret area. Delivery available. If you have any questions, feel free to call or message us. We're more than happy to help you pick your best buds!",
+    "products_flowers":[
+      {
+        "id":"cad3c22b-7bdf-4571-9e63-7443800aa08e",
+        "name":"OGKB V2.1",
+        "description":"Sleepy \nRelaxed\nHungry",
+        "images":[
+          "7c76373633c33aae606c2fddd9d55965"
+        ],
+        "thc":25,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-01-03T12:52:03.767306+00:00",
+        "updated_at":"2023-04-15T22:00:10.638406+00:00"
+      },
+      {
+        "id":"bab9eced-7700-480c-8ed9-6c9ac8a6e63e",
+        "name":"Thug Roze",
+        "description":"Energetic\nUplift\nSour gasoline",
+        "images":[
+          "c1447163181fa2a61e5d0844b3b3eb54"
+        ],
+        "thc":25,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-01-03T12:53:12.110889+00:00",
+        "updated_at":"2023-04-15T22:00:10.626927+00:00"
+      },
+      {
+        "id":"9241d086-f230-456b-86d7-713f1e3bf2b3",
+        "name":"Orange Velvet Underground",
+        "description":"Relaxed\nFocused\nAroused",
+        "images":[
+          "943887ec8f475f033653f069b5633292"
+        ],
+        "thc":25,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-01-03T12:54:13.885644+00:00",
+        "updated_at":"2023-04-15T22:00:10.618111+00:00"
+      },
+      {
+        "id":"d242a0e1-7a22-48ba-b688-7b60dd734066",
+        "name":"Cookies & Cream",
+        "description":"Happy\nGiggly\nVanilla",
+        "images":[
+          "e0e39757b2c715d36780746d0802acfe"
+        ],
+        "thc":20,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-01-03T12:55:25.095268+00:00",
+        "updated_at":"2023-04-15T22:00:10.621236+00:00"
+      },
+      {
+        "id":"d29f06a3-3f45-4e2c-86ce-de47affb3e41",
+        "name":"Godfather OG",
+        "description":"Relaxed \nHungry\nSleepy",
+        "images":[
+          "78eaa889a1f8d15556e973ec2ae3697c"
+        ],
+        "thc":18,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-01-03T12:56:06.349731+00:00",
+        "updated_at":"2023-04-15T22:00:10.632624+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"Pichamon K",
+        "avatar":"f4819b17d676924d053f0cc17205f723",
+        "content":"10/10 for the vibes and the wines",
+        "review_date":"2022-12-03T13:47:25.289+00:00",
+        "rating":5,
+        "images":[
+          "ae8538c19a87d2c65f131f477d46ffb8",
+          "5a16bd5244a7a0fbdb23ea4c540ca1a2",
+          "27ac84ffed2a81fc2828ca258c33351a",
+          "ef8ce5af7bc06a2d461aa4ffd577806a"
+        ],
+        "url":"https://www.google.com/maps/contrib/102454977961990299242?hl=en-US"
+      },
+      {
+        "author":"Suttaboun Saima",
+        "avatar":"0780ae2d302f445f2f2189d69f943f9c",
+        "content":"Cozy wine and beer bar.",
+        "review_date":"2022-12-01T11:53:19.738+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103545471950918628523?hl=en-US"
+      },
+      {
+        "author":"Supisara Chatrakul Na Ayudhaya",
+        "avatar":"e2e1cfac79bc456d46fe823ec6ae321d",
+        "content":"Great selection of wine, cozy & friendly vibe🍾",
+        "review_date":"2022-12-03T12:07:05.006+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104330303077028419952?hl=en-US"
+      },
+      {
+        "author":"Araya Klaewkla",
+        "avatar":"5b1cf9ddad713b76975f7b059591a8ea",
+        "content":"Nice place to hang out with your friends🤍",
+        "review_date":"2022-12-02T17:22:19.586+00:00",
+        "rating":5,
+        "images":[
+          "66a60161ce8a283e89d2451986c9412a",
+          "2044999f3637e2a86ddf07cad10bd3ed",
+          "1f14788c24e98575e822f064d5193438",
+          "a564ee729faddf37af45da9bbe4d46ec",
+          "d791374850629a6f843ddf0f4f1f8a25",
+          "67168a8bd23b71ce1e8b387c2a7200d3",
+          "873c10292d687b5154bf418f031d278c",
+          "6367f97ca7bb226a9fb7a15be03447c5",
+          "21319ab234a3f20ad810d9b4b235cbd4",
+          "faa775eca2abcb5280eb71f56cd815e3"
+        ],
+        "url":"https://www.google.com/maps/contrib/107797487808320837721?hl=en-US"
+      },
+      {
+        "author":"Kajkanit Sakdisubha",
+        "avatar":"150e14f819907de93a767fb20d59c0e4",
+        "content":"Good food good wine selection good vibe. A hidden gem in the neighborhood. Will return.",
+        "review_date":"2022-12-03T12:09:43.308+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109921130131749419403?hl=en-US"
+      },
+      {
+        "author":"Sunithi Vongpitak",
+        "avatar":"30f4ff15433ec2edfc2df11677e4abb5",
+        "content":"Great vibe, good music",
+        "review_date":"2022-12-03T13:15:11.597+00:00",
+        "rating":5,
+        "images":[
+          "36776c89936d57e3bad4fe75c594040a"
+        ],
+        "url":"https://www.google.com/maps/contrib/112594932983325762218?hl=en-US"
+      },
+      {
+        "author":"Wisalya Boonbandit",
+        "avatar":"83947a2d7bafb4b8e41325c9ccccb4a8",
+        "content":"",
+        "review_date":"2022-12-02T12:31:04.245+00:00",
+        "rating":5,
+        "images":[
+          "6d225cdb0e50adc6ac6a3358670a9a86"
+        ],
+        "url":"https://www.google.com/maps/contrib/112775406296224730914?hl=en-US"
+      },
+      {
+        "author":"Apichaya Kijvit",
+        "avatar":"54da59c84cdaf24996552ba2ab82a877",
+        "content":"Great place for local craft beer and wine with outdoor seatings in the garden. Nice ambient all around.",
+        "review_date":"2022-11-27T17:27:13.514+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113414906813071500138?hl=en-US"
+      },
+      {
+        "author":"Vanvisa Apirattharathan",
+        "avatar":"ef604ca7c787d7fc40b66b628b2eaae3",
+        "content":"อย่างชิลครับ ดีใจมากที่มาเปิดแถวบ้าน ไว้ชวนเพื่อนไปชิลอีกนี่นอนครับ\n\n(Translated by Google)\nAbsolutely chill. I'm so glad that I opened my house Let's invite friends to chill again here. Sleep.",
+        "review_date":"2022-12-02T17:12:00.325+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115987517535254712852?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":45
+        },
+        "count":9
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.2477988192329921,
+        "dispensary":{
+          "id":"428ac50c-38bd-421d-9786-26720d67d8e5",
+          "city":"Nonthaburi",
+          "name":"162 CBD CAFE เมืองทองธานี (ชากัญชา)",
+          "types":[
+            
+          ],
+          "lat":13.9085649,
+          "lng":100.5519302,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"3/35 Condo Popular C2, Soi Mu Ban Mueang Thong Thani Khrongkan Popular Condo, ตำบลบ้านใหม่ อำเภอปากเกร็ด นนทบุรี 11120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.3615219338768783,
+        "dispensary":{
+          "id":"b4740b75-d222-4f85-88ae-80778f6da694",
+          "city":"Nonthaburi",
+          "name":"The World | MUNGTONGTANI",
+          "types":[
+            
+          ],
+          "lat":13.9101203,
+          "lng":100.5498827,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"19 Tower T10 11 Popular Rd, Tambon Ban Mai, Amphoe Pak Kret, Chang Wat Nonthaburi 11120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.6363878970522635,
+        "dispensary":{
+          "id":"0529f9cb-58dd-43f1-ac90-274bcc7f1269",
+          "city":"Nonthaburi",
+          "name":"CBD CLINIC ดูแลร่างกาย รู้จักร่างกายก่อนสายเกินไป",
+          "types":[
+            
+          ],
+          "lat":13.9119526,
+          "lng":100.547612,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"หมู่บ้าน the plant city เลขที่ 92 95 Popular Rd, บางพูด Amphoe Pak Kret, Chang Wat Nonthaburi 11120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.8007967468817216,
+        "dispensary":{
+          "id":"cdfeaa07-37a7-4cd8-ac3b-cb8ac3d4ec8e",
+          "city":"Bangkok",
+          "name":"Big Buds Factory จำหน่ายกัญชาทางการแพทย์ 24 ชม.",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":13.9048429,
+          "lng":100.5575034,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"90e3420c3b2a872248c3fe160229400f",
+          "has_products":false,
+          "address":"2, 39 Chaengwattana14, Tungsonghong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.8700424610073894,
+        "dispensary":{
+          "id":"116668e5-1d62-43a9-8ac5-04026508e52a",
+          "city":"Nonthaburi",
+          "name":"87 Cannabis Shop",
+          "types":[
+            "Cafe",
+            "Dispensary",
+            "Farm"
+          ],
+          "lat":13.9034595,
+          "lng":100.5431597,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"6e08ca70f7d626436505f2404a753496",
+          "has_products":false,
+          "address":"Soi Chaeng Watthana-Pakkret 39, Tambon Khlong Klua, Amphoe Pak Kret, Chang Wat Nonthaburi 11120, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.311041433575432,
+        "dispensary":{
+          "id":"5a3f2640-523f-42df-bed9-07f650cd55ad",
+          "city":"Nonthaburi",
+          "name":"UpperYard เมืองทองธานี",
+          "types":[
+            "Cafe",
+            "Restaurant"
+          ],
+          "lat":13.9134516,
+          "lng":100.5402917,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "image":"4ce4d7818925f2ce6e71cb688479cecd",
+          "has_products":true,
+          "address":"3rd Floor 55/612 Soi B1 SukhothaiAve99 MuangThong Thani, Bangpud, อำเภอปากเกร็ด นนทบุรี 11120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.3324931668588538,
+        "dispensary":{
+          "id":"64a5ff04-69ca-4be0-b141-44767eac7c74",
+          "city":"Nonthaburi",
+          "name":"ร้านกัญชา Cannabis Weed Ganja Shop \"NeatWeed\"",
+          "types":[
+            
+          ],
+          "lat":13.9171651,
+          "lng":100.5440131,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":130
+              },
+              "count":26
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":130
+              },
+              "count":26
+            }
+          },
+          "image":"9fe681e1de3c8eec0904bb92efe01a25",
+          "has_products":false,
+          "address":"92/12 โครงการ The Plant Citi แจ้งวัฒนะ หมู่5 บ้านใหม่ Tambon Ban Mai, Amphoe Pak Kret, Chang Wat Nonthaburi 11120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.3364062442392102,
+        "dispensary":{
+          "id":"f8a2278a-c614-4fb8-b587-a21ac97d579f",
+          "city":"Nonthaburi",
+          "name":"บ้านเพื่อนกัญ420",
+          "types":[
+            
+          ],
+          "lat":13.9128698,
+          "lng":100.539645,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "image":"0cbd72ba306e382fe77fc8ca281f07d5",
+          "has_products":false,
+          "address":"Sukhothai Avenue 99 Tambon Bang Phut, Amphoe Pak Kret, Chang Wat Nonthaburi 11120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.406554414688875,
+        "dispensary":{
+          "id":"f49cb6e4-8e1b-4936-bf56-39d1c571e2b4",
+          "city":"Bangkok",
+          "name":"ร้านเจ้าพ่อกัญชา jaopoganja",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":13.9045868,
+          "lng":100.5632058,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":75
+              },
+              "count":15
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":75
+              },
+              "count":15
+            }
+          },
+          "image":"c5214acd322fa01548061e49150b7b99",
+          "has_products":true,
+          "address":"5/25 Thanon Phing Nakhon, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.4979203289334713,
+        "dispensary":{
+          "id":"7a626af7-f30f-4ffe-9668-19886f0823a2",
+          "city":"Nonthaburi",
+          "name":"Highlife Og",
+          "types":[
+            
+          ],
+          "lat":13.9163077,
+          "lng":100.5404549,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"fe13515e1f6440fbb174bf5e6727a8ba",
+          "has_products":false,
+          "address":"ซอย เมืองทองธานี บ้านใหม่ Amphoe Pak Kret, Chang Wat Nonthaburi 11120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.7794084845415838,
+        "dispensary":{
+          "id":"2cae200b-946e-47da-8e21-1bd4f3b63ec5",
+          "city":"Nonthaburi",
+          "name":"WEED HOUSE",
+          "types":[
+            
+          ],
+          "lat":13.8909189,
+          "lng":100.5497036,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "image":"2de331dbe4b2fca6defecdbf241195e0",
+          "has_products":false,
+          "address":"34/149 ชุมชน, 13 หมู่8 ซอย บางมดแลนด์ ตำบลบางตลาด อำเภอปากเกร็ด นนทบุรี 11120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.7815459192143628,
+        "dispensary":{
+          "id":"cefa47ff-68df-42ab-a6f6-c1f057ec8eb4",
+          "city":"Nonthaburi",
+          "name":"WEED HOUSE",
+          "types":[
+            
+          ],
+          "lat":13.8908987,
+          "lng":100.5497276,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "image":"3f0d06b5c8c2d71f7fe34423f1be4c4a",
+          "has_products":false,
+          "address":"34, 149 หมู่8 Soi Bang Mot Land, Tambon Bang Talat, Amphoe Pak Kret, Chang Wat Nonthaburi 11120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.096012376355091,
+        "dispensary":{
+          "id":"a9e63cca-497d-4fbf-99ea-a01f050ffbfd",
+          "city":"Nonthaburi",
+          "name":"Da hong hua",
+          "types":[
+            "Wholesaler",
+            "Cafe",
+            "Grower",
+            "Delivery"
+          ],
+          "lat":13.9112325,
+          "lng":100.5314944,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"1ba5f7d50ee6e4187f63a6581ac21fac",
+          "has_products":false,
+          "address":"111 Tambon Bang Phut, Amphoe Pak Kret, Chang Wat Nonthaburi 11120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.4326542039039944,
+        "dispensary":{
+          "id":"0db42d96-a22d-45ef-89c7-67c7ddc7ee70",
+          "city":"Bangkok",
+          "name":"ITTICHET HOME STUDIO & WEED",
+          "types":[
+            
+          ],
+          "lat":13.9084597,
+          "lng":100.5728769,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"b607b894621e631bf7703a72e03c5020",
+          "has_products":false,
+          "address":"97 หมูบ้าน 206 โกสุมรวมใจ ซ. 39 Khwaeng Don Mueang, Khet Don Mueang, Krung Thep Maha Nakhon 10210, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.556767251170444,
+        "dispensary":{
+          "id":"08400eb3-377c-48b2-9838-f8d5e07b3a08",
+          "city":"Nonthaburi",
+          "name":"Broccoli Candy TH",
+          "types":[
+            "Dispensary",
+            "Club"
+          ],
+          "lat":13.9288496,
+          "lng":100.5433143,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "image":"95bbd47e0ce4e2c805bf70ba3215cb82",
+          "has_products":false,
+          "address":"ตลาดมะลิเมืองทองธานี บ้านใหม่ Tambon Ban Mai, Amphoe Pak Kret, Chang Wat Nonthaburi 11120, Thailand",
+          "open":true
+        }
+      }
+    ]
+  }

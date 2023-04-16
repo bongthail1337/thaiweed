@@ -1,0 +1,1230 @@
+{
+    "id":"fd373ef4-8718-4339-9905-361dbe8fd580",
+    "lat": "13.8461896",
+    "lng": "100.5425574",
+    "city":"Bangkok",
+    "name":"HIPPY SHARE",
+    "type":null,
+    "business_images":[
+      "a4217927e60cc8b47136783f9357ddc7",
+      "11528091f02383916945357828b70467"
+    ],
+    "google_images":[
+      "46a9144235ecbf30c22b55430ab2f4ed",
+      "8b2e45f6be36d51c7d52fc14b423f1fa",
+      "be4586f2d746f6e13e0e767c4670d43b",
+      "8c318fe9ab8ce32eb9d87beb14f5d931",
+      "3a70ec689aa30cf06782e7f8c2794eba",
+      "43e606d9f7e8a8ec6934bda884805ea8",
+      "36f267ad8e09c02b6b6541bd6dd0d1c1",
+      "0952f66506e83a541c6efea13676ab12",
+      "9648619b953e3f7aaf43479600f91945",
+      "533fdabb132ec745b8512ab824a1f27c"
+    ],
+    "status":"approved",
+    "website":"https://www.facebook.com/profile.php?id=100086736095330",
+    "phone":"+66 97 192 6755",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1100"
+        },
+        "close":{
+          "day":1,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1100"
+        },
+        "close":{
+          "day":2,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1100"
+        },
+        "close":{
+          "day":3,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1100"
+        },
+        "close":{
+          "day":4,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1100"
+        },
+        "close":{
+          "day":5,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1100"
+        },
+        "close":{
+          "day":6,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1100"
+        },
+        "close":{
+          "day":0,
+          "time":"0000"
+        }
+      }
+    ],
+    "line":"lin.ee/nTTHcWd",
+    "google_url":"https://maps.google.com/?cid=3155885591792061082",
+    "place_id":"PuVWClbgM.0q5wNEztdXbwa4llf",
+    "facebook":"https://www.facebook.com/profile.php?id=100086736095330&mibextid=LQQJ4d",
+    "description":"CANNABIS SHOP AND COFFEE CAFE",
+    "products_flowers":[
+      {
+        "id":"0a7bd086-b4d4-4b1c-9a9d-9e8d945bef64",
+        "name":"ANIMAL RUNTZ",
+        "description":"ANIMAL RUNTZ\nHYBRID INDICA THC 30 %\nFEELING: RELAXED, HAPPY, UPLIFTED \nFLAVOR:  VANILLA, SWEET, PINE",
+        "images":[
+          "f914e853830ebd1b4e239932370f6ad5"
+        ],
+        "thc":30,
+        "cbd":1,
+        "sativa":25,
+        "indica":75,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2023-02-25T10:04:22.881452+00:00",
+        "updated_at":"2023-04-15T23:00:14.524337+00:00"
+      },
+      {
+        "id":"8e68c98f-a1fc-4868-be4a-307f4396eeeb",
+        "name":"FRIED ICE CREAM ",
+        "description":"FRIED ICE CREAM \nHYBRID INDICA THC 25 %\nFEELING: RELAXED, CREATIVE, SLEEPY \nFLAVOR: EARTHY, CITRUS, VANILLA ",
+        "images":[
+          "d5cf2743d55f3c24032b999cb7405d88"
+        ],
+        "thc":25,
+        "cbd":1,
+        "sativa":35,
+        "indica":65,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2023-02-25T10:07:39.6804+00:00",
+        "updated_at":"2023-04-15T23:00:14.518422+00:00"
+      },
+      {
+        "id":"adb2bec6-cce3-4e2b-9241-202891a78937",
+        "name":"GARY PAYTON X APPLE BANANA",
+        "description":"GARY PAYTON X APPLE BANANA\nHYBRID INDICA THC 20 %\nFEELING: GIGGLY, TALKATIVE, RELAXED \nFLAVOR: APRICOT, PEPPER, LAVENDER",
+        "images":[
+          "15dc877ad1dee07586be982bb14f7af0"
+        ],
+        "thc":20,
+        "cbd":1,
+        "sativa":35,
+        "indica":65,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-02-25T10:11:34.83807+00:00",
+        "updated_at":"2023-04-15T23:00:14.508653+00:00"
+      },
+      {
+        "id":"e8cf1f1b-2b17-4f68-85aa-f7a9db39f9d1",
+        "name":"MANDARIN SUNSET ",
+        "description":"MANDARIN SUNSET\nINDICA THC 18 %\nFEELING: RELAXED, SLEEPY, HAPPY \nFLAVOR: ORANGE, CITRUS, SKUNK",
+        "images":[
+          "6ec64c38f03f1409fbf36f038f972a4a"
+        ],
+        "thc":18,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-02-25T10:15:04.318703+00:00",
+        "updated_at":"2023-04-15T23:00:14.530442+00:00"
+      },
+      {
+        "id":"5960b31f-569d-4f60-915f-9794d09ccf3a",
+        "name":"CBD CHARLOTTE’S ANGEL",
+        "description":"HAPPY AND SO GOOD FEELING ",
+        "images":[
+          "2eec9c8efa0ce9dc2dd8802cf0b607b8"
+        ],
+        "thc":2,
+        "cbd":15,
+        "sativa":100,
+        "indica":0,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-02-25T10:21:06.216985+00:00",
+        "updated_at":"2023-04-15T23:00:14.512313+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      {
+        "id":"8c0de74a-3419-4e0c-8d35-de4bfaded2c2",
+        "name":"All species in the store !?",
+        "description":"Every cannabis strain in the hippy share shop.  We bring it to make a pre-roll too.",
+        "images":[
+          "94f56f5daf29e5d5967b68c3a5760ab8"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-02-25T10:29:35.54506+00:00",
+        "updated_at":"2023-04-15T23:00:14.603879+00:00"
+      }
+    ],
+    "products_edibles":[
+      {
+        "id":"61c62405-f475-4e10-80a8-78c5a1a06e43",
+        "name":"FULL SPECTRUM CBD OIL",
+        "description":"FULL SPECTRUM CBD OIL 100 MG",
+        "images":[
+          "68ace84b032c82c2e1e6ac529c9ca90f"
+        ],
+        "thc":1,
+        "cbd":100,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "disabled":false,
+        "created_at":"2023-02-25T10:51:09.820281+00:00",
+        "updated_at":"2023-04-15T23:00:14.536787+00:00"
+      },
+      {
+        "id":"41340d6f-ead6-4fa3-9fa6-51b90bd7f833",
+        "name":"FULL SPECTRUM CBD OIL",
+        "description":"FULL SPECTRUM CBD OIL 300 MG",
+        "images":[
+          "cf31576d59586b6960bebeededa37584"
+        ],
+        "thc":1,
+        "cbd":300,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "disabled":false,
+        "created_at":"2023-02-25T10:55:17.883547+00:00",
+        "updated_at":"2023-04-15T23:00:14.54252+00:00"
+      },
+      {
+        "id":"746d3096-8dcb-44cb-af50-814e0b9e33a3",
+        "name":"FULL SPECTRUM CBD OIL",
+        "description":"FULL SPECTRUM CBD OIL 500 MG",
+        "images":[
+          "1b17ac58f69e04200350cffad1f9fe73"
+        ],
+        "thc":1,
+        "cbd":500,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "disabled":false,
+        "created_at":"2023-02-25T10:57:17.312+00:00",
+        "updated_at":"2023-04-15T23:00:14.54871+00:00"
+      }
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      {
+        "id":"cdb0eb8a-79cd-4660-973c-838cd24257c9",
+        "name":"GRINDER DARTH VADER",
+        "description":"Product material: zinc alloy, aluminum alloy\n Product size: 70mm*62mm*88cm\n Product weight: 125g",
+        "images":[
+          "08802138b2de0e7f5722c4d382f29cc8",
+          "e27058dfba319b40383041d4faf0f93a"
+        ],
+        "disabled":false,
+        "created_at":"2023-02-26T10:16:37.0396+00:00",
+        "updated_at":"2023-04-15T23:00:14.555446+00:00"
+      }
+    ],
+    "products_misc":[
+      {
+        "id":"58c2f22d-a75e-4a3b-81db-6126c8757d4b",
+        "name":"DARK COCOA ICE",
+        "description":"Additional options !\n+ Shots 10 ฿\n+ Whipped cream 10 ฿\n+ Spin 5 ฿",
+        "images":[
+          "6412eaae9967bec86b090d39310f08c8"
+        ],
+        "disabled":false,
+        "created_at":"2023-02-25T11:52:11.194634+00:00",
+        "updated_at":"2023-04-15T23:00:14.573231+00:00"
+      },
+      {
+        "id":"864905ca-0c04-4103-9ba2-068bfa395039",
+        "name":"COFFEE IN SHOP",
+        "description":"Additional options !\nAmericano, Cappuccino, Espresso, Macchiato,\nMocha, Latte.\n\n>>> HOT AND ICE <<<\n\n+ Shots 10 ฿\n+ Whipped cream 10 ฿\n+ Spin 5 ฿",
+        "images":[
+          "c554ea75e7b7ae2b319206c4234031e9"
+        ],
+        "disabled":false,
+        "created_at":"2023-02-25T11:58:54.54933+00:00",
+        "updated_at":"2023-04-15T23:00:14.597267+00:00"
+      },
+      {
+        "id":"5c2a28d1-0888-4622-8386-bdc45c1b5845",
+        "name":"HONEY LEMON TEA",
+        "description":"Additional options !\n+ Shots 10 ฿\n+ Whipped cream 10 ฿\n+ Spin 5 ฿",
+        "images":[
+          "834e9458a62622c6626f6e33e9286a50"
+        ],
+        "disabled":false,
+        "created_at":"2023-02-25T12:01:14.505887+00:00",
+        "updated_at":"2023-04-15T23:00:14.579285+00:00"
+      },
+      {
+        "id":"80cc2fda-edea-4181-ad9b-1f61e1033a65",
+        "name":"PINK MILK",
+        "description":"Additional options !\n+ Shots 10 ฿\n+ Whipped cream 10 ฿\n+ Spin 5 ฿",
+        "images":[
+          "ab93bb62947945ea6e04e0c8f15ae42f"
+        ],
+        "disabled":false,
+        "created_at":"2023-02-25T12:04:43.376346+00:00",
+        "updated_at":"2023-04-15T23:00:14.591238+00:00"
+      },
+      {
+        "id":"4b74f8b7-b227-4e5f-8c3d-7806ad4f1c89",
+        "name":"OREO SPIN",
+        "description":"Additional options !\n+ Shots 10 ฿\n+ Whipped cream 10 ฿",
+        "images":[
+          "7e1d2547b4aff25eca84dd6f03e484ae"
+        ],
+        "disabled":false,
+        "created_at":"2023-02-25T12:06:53.22963+00:00",
+        "updated_at":"2023-04-15T23:00:14.561273+00:00"
+      },
+      {
+        "id":"4fab59a4-0d00-4c1a-987c-48061b3cee8b",
+        "name":"PEACH SODA",
+        "description":"Additional options !\n+ Shots 10 ฿\n+ Whipped cream 10 ฿\n+ Spin 5 ฿",
+        "images":[
+          "f9cf037560ad04e4ba7feff9d03aa177"
+        ],
+        "disabled":false,
+        "created_at":"2023-02-25T12:08:22.484337+00:00",
+        "updated_at":"2023-04-15T23:00:14.585248+00:00"
+      },
+      {
+        "id":"04a5cca2-208e-4c4d-9aa5-197b12f1e9aa",
+        "name":"FRENCH FRIES",
+        "description":"FOR CHILL ^^",
+        "images":[
+          "9bcbdad35509e381b194b7ba9430848c"
+        ],
+        "disabled":false,
+        "created_at":"2023-02-25T12:11:02.645556+00:00",
+        "updated_at":"2023-04-15T23:00:14.567103+00:00"
+      }
+    ],
+    "reviews":[
+      {
+        "author":"Arash Nasehi",
+        "avatar":"3ebfea9b283065b53ac6a7affc103539",
+        "content":"",
+        "review_date":"2023-03-14T09:04:04.9+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100104093043996123917?hl=en-US"
+      },
+      {
+        "author":"ทัศนีย์ รัศมิทัต",
+        "avatar":"825ce819c68ec33916c42242171f448b",
+        "content":"กาแฟอร่อยและมีเอกลักษณ์เฉพาะตัว ส่วนโกโก้ก็อร่อยเข็มข้นมากๆ\nที่ร้านมีเมนูอื่นอีกเยอะเลยนะ ใครว่างไปลองชิมกันได้เลย\n\n(Translated by Google)\nDelicious and unique coffee The cocoa is very delicious.\nThere are many other menus at the restaurant. Anyone who is free, go and try it.",
+        "review_date":"2023-01-28T05:35:22.356+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100155942325098264089?hl=en-US"
+      },
+      {
+        "author":"natthaphong khamaiam",
+        "avatar":"d6717d5d68d2a477475d556bff09f5a7",
+        "content":"ของดีเลยครับ สั่งแกร้ปมาส่งที่บ้านบริการไวมากครับ ขนมของที่ร้านก้จัดของดีเลยครับ 🥰🤩เมาตาแตกมากครับผม🫠🤩\n\nThe shop service is very good.  Very fast delivery\n\n(Translated by Google)\nGood stuff. Ordered a grape and delivered to my house. The snacks at the store are well organized. 🥰🤩 I'm very drunk. My eyes are broken. 🫠🤩\n\nThe shop service is very good. Very fast delivery",
+        "review_date":"2023-01-28T17:48:04.726+00:00",
+        "rating":5,
+        "images":[
+          "a652431e09d86f37ac985bf1e3970b8d"
+        ],
+        "url":"https://www.google.com/maps/contrib/100871520663249507187?hl=en-US"
+      },
+      {
+        "author":"S.U. A.D. (SHUT UP AND DEAD)",
+        "avatar":"c69866a290986c4dc7caf79b9101fab2",
+        "content":"ร้านนี้เยี่ยมมากครับบ\n\n(Translated by Google)\nThis shop is great.",
+        "review_date":"2023-03-15T17:52:05.565+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101477829505489352272?hl=en-US"
+      },
+      {
+        "author":"KRAIPOL KHUMDIT",
+        "avatar":"e65c2b2c1ffe46dd034189fa7c56e9a8",
+        "content":"A new cannabis shop opens on Prachachuen Road.\n\ngood service staff\n\nand strange names of cannabis strains !",
+        "review_date":"2022-10-29T11:40:23.892+00:00",
+        "rating":5,
+        "images":[
+          "106c01d6cd4598e5167523991c82f585"
+        ],
+        "url":"https://www.google.com/maps/contrib/102510749955137120204?hl=en-US"
+      },
+      {
+        "author":"KP Liang",
+        "avatar":"2504d46b27ab01ea0a40860f020ab815",
+        "content":"ดีที่สุด เยี่ยมที่สุด แนะนำเลยครับร้านนี้\nHippy share สุดจัดย่านประชาชื่น\n\n(Translated by Google)\nThe best, the best, I recommend this shop.\nHippy share, the best place in Prachachuen area",
+        "review_date":"2023-01-22T19:11:08.966+00:00",
+        "rating":5,
+        "images":[
+          "2bec0650eca2379d807a7f2b48883047"
+        ],
+        "url":"https://www.google.com/maps/contrib/103435515591395352930?hl=en-US"
+      },
+      {
+        "author":"Kraipoom Khumdit",
+        "avatar":"26c9e62a333b8117e3c2d6a10815dc14",
+        "content":"การันตีความเมา\nของคุณภาพ\nบริการทุกระดับประทับใจ\n\n(Translated by Google)\nguarantee of drunkenness\nof quality\nImpressive service at all levels",
+        "review_date":"2022-11-03T17:40:54.961+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104927904353961647511?hl=en-US"
+      },
+      {
+        "author":"amp Cutcha",
+        "avatar":"9dc0421043923c2994a66812344cd66d",
+        "content":"ร้านสวย ของดีมีคุณภาพโครตhighเลยค่ะ  ใกล้บ้านเวิร์คมากค่ะ\n\n(Translated by Google)\nNice shop, good stuff, high quality. Very close to the work house.",
+        "review_date":"2022-10-29T05:27:57.395+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105607956967678941254?hl=en-US"
+      },
+      {
+        "author":"Sittipong Marasry",
+        "avatar":"5ee385bf577e5d224d0d8c633c106ab1",
+        "content":"ร้านดีสบายมากครับ แนะนำดีครับ\n\n(Translated by Google)\nThe shop is very comfortable. I recommend it.",
+        "review_date":"2022-10-31T10:32:07.736+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106896849985231238891?hl=en-US"
+      },
+      {
+        "author":"Cookies Kook",
+        "avatar":"85b55cfd4a312085fb55ca0c9afaa15c",
+        "content":"ชอบมากๆค่ะ ร้านสวย ของเค้าดีจริง! เดี็ยวไปอีกแน่นอน\n\n(Translated by Google)\nI like it very much. The shop is beautiful. Their stuff is really good! will definitely go again",
+        "review_date":"2023-02-01T11:08:02.478+00:00",
+        "rating":5,
+        "images":[
+          "708a4dab22488bb0fc80e3468535c409",
+          "48622df1a65691e22d59cf73163a6927"
+        ],
+        "url":"https://www.google.com/maps/contrib/108005849303093495191?hl=en-US"
+      },
+      {
+        "author":"nu lofttobar",
+        "avatar":"7652cf9c7bb8fcbff683e67124b9d3e9",
+        "content":"บริการที่ร้านดีมากเลยครับซื้อแล้วโลวพันลำให้ฟรีเลย นั่งรอก็มีบริการน้ำมาเสิร์ฟ ใกล้บ้านด้วยครับบ ร้านเปิดเช้ามาก11โมงผมถึงหน้าร้านแล้วครับ555 (พาน้องหมาไปได้ด้วย)\n\n(Translated by Google)\nThe service at the shop is very good. Buy and get a thousand boats for free. Sit and wait, there is a water service to serve. Close to home too The shop opens very early at 11 a.m. I arrived at the front of the shop already, haha. (Bring the dog too.)",
+        "review_date":"2023-01-28T17:48:28.093+00:00",
+        "rating":5,
+        "images":[
+          "c002df760fd9b20c711011a39136ee1d"
+        ],
+        "url":"https://www.google.com/maps/contrib/108196490053772838605?hl=en-US"
+      },
+      {
+        "author":"Grance Thailand",
+        "avatar":"8e2ff652dca1fef6927ea1116269ec36",
+        "content":"คือดีมากกก ทุกคนต้องมาลอง\n\n(Translated by Google)\nIt's very good. Everyone must try.",
+        "review_date":"2023-02-01T10:56:28.928+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108581928870335924772?hl=en-US"
+      },
+      {
+        "author":"Nanthawat Photika",
+        "avatar":"5ea131a1f67768c9d4c7181867891a9b",
+        "content":"บริการดีมากครับ\n\n(Translated by Google)\nVery good service",
+        "review_date":"2023-01-22T17:21:53.81+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109184527419438070097?hl=en-US"
+      },
+      {
+        "author":"Kannaporn Phunkoom",
+        "avatar":"1ad032816d1bbf351685bc6b48d35614",
+        "content":"ชาอร่อยมาก รสชาตดีและคุณภาพเกินราคา ใครผ่านมาย่านประชาชื่นแนะนำว่าต้องจัดคะ\n\n(Translated by Google)\nThe tea is very delicious, good taste and quality over the price. Anyone passing through Prachachuen area would recommend that you have to do it.",
+        "review_date":"2023-01-25T07:25:54.737+00:00",
+        "rating":5,
+        "images":[
+          "0b1b6a4a3d403735970b134171bebbb9"
+        ],
+        "url":"https://www.google.com/maps/contrib/109333232382321975024?hl=en-US"
+      },
+      {
+        "author":"Atinya Imjinda",
+        "avatar":"0d10da721ce4c9f65597d5e5f535900b",
+        "content":"Nice store, they’ve variety cannabis and sweet, chilling smoking room over there. Recommended !!!",
+        "review_date":"2022-11-02T16:36:17.67+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109378895894361119004?hl=en-US"
+      },
+      {
+        "author":"Pond zaa",
+        "avatar":"479344be018c7a19e750810fa456cf1c",
+        "content":"ร้านสวยมากครับมีหลายโซน บริการดีเลยครับ ซื้อแล้วโลวให้ฟรีด้วยครับ นั่งรอก็มีเครื่องดื่มขายด้วยครับ แนะนำโกโก้ เข้มอร่อยเลยครับ\n\n(Translated by Google)\nThe shop is very beautiful. There are many zones. Good service Buy and get low for free too. Sit and wait, there are also drinks for sale. I recommend cocoa, dark and delicious.",
+        "review_date":"2023-01-28T17:58:59.5+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110087194349796758130?hl=en-US"
+      },
+      {
+        "author":"Vivo Vivo",
+        "avatar":"f4d521f4a30b135516d5eca48bcc2980",
+        "content":"เดินเข้าไปในร้านคือบรรยากาศคาเฟ่เลยค่ะเครื่องดื่มโอเคเลยค่ะ โกโก้คือดีเลย เข้มกลมกล่อม ราคาไม่แพงสมกับคุณภาพ แฟนเราบอกคุณภาพของดอกก็ดีเลยค่ะ แฟนเราติดใจร้านนี้ไปแล้วค่ะ\n\n(Translated by Google)\nWalking into the shop is a cafe atmosphere. Drinks are okay. Cocoa is good, dark, mellow, affordable price, worth the quality. My girlfriend says the quality of the flowers is good. Our fans are already in love with this shop.",
+        "review_date":"2023-01-28T18:04:24.819+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/111144292345870198848?hl=en-US"
+      },
+      {
+        "author":"DRTZ ch",
+        "avatar":"15d7b84d872c52083f7376f770ca7e4a",
+        "content":"ร้านค่อนข้างกว้างเลยดูไม่รู้สึกอึดอัด ใครจะมานั่งกินเบียร์ ทำงาน ข้างในเขามีให้พร้อม\n(มีพื้นที่ให้สูบเรียบร้อย เพลงเราสามารถเปิดเองมีมี Smart tv พร้อม บอกเลยว่าได้ฟิวสุดๆ)\nโดยรวมดูดีครับร้านสะอาด\n\n(Translated by Google)\nThe shop is quite wide so it doesn't feel uncomfortable. Who's going to sit and drink beer and work? Inside they're ready.\n(There is a space to smoke. Music, we can play it ourselves, there is a Smart TV ready, I can tell you that it's very fussy)\nOverall looks good, clean shop.",
+        "review_date":"2023-03-25T13:18:16.955+00:00",
+        "rating":4,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/111551547906930547527?hl=en-US"
+      },
+      {
+        "author":"อรรฆภาคย์ โตบุญช่วย",
+        "avatar":"53c60ee8d827c07ca6976d16e429c351",
+        "content":"บรรยากาศดีครับซื้อแต่ร้านนี้ สถานที่ค่อนข้างเหมาะกับการผ่อนคลาย บริการพร้อมสูบ พนักงานเป็นกันเองมากครับ ดูแลให้บริการอย่างดี สินค้ามีคุณภาพมากๆครับ  👍👍\n\n(Translated by Google)\nGood atmosphere. Buy only from this shop. The place is quite suitable for relaxation. ready to smoke service The staff is very friendly. Take good care of the service. The product is very good quality 👍👍",
+        "review_date":"2023-01-25T13:48:56.26+00:00",
+        "rating":5,
+        "images":[
+          "b03a32cf44f45649dba9239311fc4854",
+          "80c96ddffe5ff5611591f83fd2de5f8c",
+          "d326b374b9fae26f100f34f46e62f938"
+        ],
+        "url":"https://www.google.com/maps/contrib/111737647699473176974?hl=en-US"
+      },
+      {
+        "author":"Eksuwan Dear",
+        "avatar":"81756ceccf2650335947c4a4bddd1b88",
+        "content":"ร้านแนะนำดีมากครับ อุปกรณ์ทุกสิ่งมีครบ มีน้ำผลไม้รอเสริฟเผื่อคอแห้ง ราคากันเอง ซื้อเสร็จฝากมวนได้เลย ข้อดีคือใกล้บ้านมาก แนะนำเลยครับร้านนี้ อนาคตจะมีกาแฟสามารถมานั่งที่ร้านชิวๆได้ครับถ้าไม่ดูดกัญ..\n\n(Translated by Google)\nThe shop is very recommended. All equipment is complete. There is fruit juice waiting to be served in case your throat is dry. Friendly price. After you buy it, you can roll it up. The advantage is that it is very close to home. I recommend this shop. In the future, there will be coffee. You can sit and chill at the cafe if you don't smoke marijuana..",
+        "review_date":"2022-12-25T15:54:30.986+00:00",
+        "rating":5,
+        "images":[
+          "b77154c2a53c59b89d4fcd67bb1df300",
+          "39cd4ff3afcb1116133f31b5cb85e487",
+          "8418b5ac8dab953d1482460db2318f51"
+        ],
+        "url":"https://www.google.com/maps/contrib/112403314625416423609?hl=en-US"
+      },
+      {
+        "author":"Lily",
+        "avatar":"8d668f2fd2452456011e4b042e3a93a7",
+        "content":"ร้านบรรยากาศดีมากค่ะ สามารถพาน้องเหมียวเข้าไปได้ด้วย บริการดีเลยค่ะ นั่งปุ๊ปมีน้ำเปล่ามาเสริฟปั๊ป\n\n(Translated by Google)\nThe atmosphere is very good. Able to bring Nong Meow as well Good service Sitting right away, there is water to serve right away.",
+        "review_date":"2023-01-28T17:30:59.159+00:00",
+        "rating":5,
+        "images":[
+          "d07d1d0c8b47a8a863378aed887ce410"
+        ],
+        "url":"https://www.google.com/maps/contrib/112880254704570671589?hl=en-US"
+      },
+      {
+        "author":"Tutnix Zursache",
+        "avatar":"02fe53d047c5bd5649a6e27823cf7d8c",
+        "content":"(Translated by Google) Best coffee shop in the area! Been there twice so far. Reasonable prices and excellent quality! In addition, the edibles are very tasty and strong!\n\n(Original)\nBester Coffeeshop in der Gegend! War bisher zwei Mal da. Vernünftige Preise und hervorragende Qualität! Außerdem sind die edibles sehr lecker und stark!",
+        "review_date":"2023-01-10T10:41:16.706+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112947283657468994025?hl=en-US"
+      },
+      {
+        "author":"thiwa a.",
+        "avatar":"bc162686d36d24f92d6f4f967f77a87d",
+        "content":"หน้าร้านสวยมาก บริการเยี่ยมใกล้บ้านมากอีกด้วยครับ✌️\n\n(Translated by Google)\nThe storefront is very beautiful. Great service, very close to home as well ✌️",
+        "review_date":"2022-10-30T05:16:31.015+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113025347884579322775?hl=en-US"
+      },
+      {
+        "author":"RANG เอง",
+        "avatar":"d507c1a732d13dd3d4520772fdbcd363",
+        "content":"It's a place to enjoy with a various cannabis. If you a new user of cannabis, the staff can provide you with a good advice. Please go and enjoy.",
+        "review_date":"2023-01-28T08:16:20.461+00:00",
+        "rating":5,
+        "images":[
+          "2ffda2d04076c3a32ad18c8af9eea264"
+        ],
+        "url":"https://www.google.com/maps/contrib/113668046358546783721?hl=en-US"
+      },
+      {
+        "author":"Piyalak Manowong",
+        "avatar":"ce290a908d68e340b964dae3a29a394a",
+        "content":"ร้านสวย บริการดีมากคะ ให้คำแนะนำดีการันตีคุณภาพคะ 👍😋\n\n(Translated by Google)\nNice shop, very good service Give good advice, guarantee quality. 👍😋",
+        "review_date":"2023-01-25T07:23:49.462+00:00",
+        "rating":5,
+        "images":[
+          "448c823e26cde62c9e54b72ed6f998da"
+        ],
+        "url":"https://www.google.com/maps/contrib/114337209129887578079?hl=en-US"
+      },
+      {
+        "author":"Jt Jt",
+        "avatar":"298fa24335654bf1c830ed079b3249ef",
+        "content":"โกโก้อร่อยเลยค่ะ เข้มจริง ไม่ขม ชาเขียวก็คล้ายแบรนดัง ต้องกลับมาซ้ำแน่นอนค่ะ\n\n(Translated by Google)\nCocoa is delicious, really dark, not bitter. Green tea is like a famous brand. Definitely have to come back again.",
+        "review_date":"2023-01-28T17:52:12.632+00:00",
+        "rating":5,
+        "images":[
+          "be4809ca113933ad218e2370b00b743f"
+        ],
+        "url":"https://www.google.com/maps/contrib/114401479040977460092?hl=en-US"
+      },
+      {
+        "author":"Bogybig Bigbig",
+        "avatar":"6beec2f6761b745eccf247505825ce02",
+        "content":"ร้านบริการดี การันตีความเมา ของดีๆทั่งนั้นครับ\n\n(Translated by Google)\nGood service shop. Guarantee drunk. Good stuff until then",
+        "review_date":"2023-01-29T11:45:08.9+00:00",
+        "rating":5,
+        "images":[
+          "22a5eeeb7aeee7002e6df2fd149676f5"
+        ],
+        "url":"https://www.google.com/maps/contrib/114520510192667805034?hl=en-US"
+      },
+      {
+        "author":"Supawit Thongsawat",
+        "avatar":"7c79a1430ad1b63909fd37c6aefc045c",
+        "content":"ร้านสะอาด บริการดีคับ\n\n(Translated by Google)\nClean shop, good service",
+        "review_date":"2023-02-01T12:05:47.33+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114816314101240306791?hl=en-US"
+      },
+      {
+        "author":"Narnnarm Thareechit",
+        "avatar":"d0c99f2f0ddcea197feb7c99453439f6",
+        "content":"ของใหม่มากครับบ\n\n(Translated by Google)\nVery new stuff",
+        "review_date":"2022-11-11T14:05:05.375+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115209917568968555103?hl=en-US"
+      },
+      {
+        "author":"อัครชัย เฉลิมปกิตตินันท์",
+        "avatar":"480f5224b51b8265a539b42c76244454",
+        "content":"อร่อยมากครับ ต้องมาซ้ำ\n\n(Translated by Google)\nVery delicious, must come again",
+        "review_date":"2023-01-28T18:21:48.55+00:00",
+        "rating":5,
+        "images":[
+          "a724670440586a2483fda072e4872fec"
+        ],
+        "url":"https://www.google.com/maps/contrib/115490481220159779047?hl=en-US"
+      },
+      {
+        "author":"Mathitiya Khemasatsiri",
+        "avatar":"1f2fc8d826231fb7b520ac2245e3b20c",
+        "content":"ร้านสวยมากกก ของคุณภาพดีค่า\n\n(Translated by Google)\nThe store is very beautiful, the quality is good.",
+        "review_date":"2022-11-03T13:47:11.979+00:00",
+        "rating":5,
+        "images":[
+          "bf3adddeed9281a4ec8f865d12c27bb6",
+          "ff222912faefc83333f3b57357c65356",
+          "8150aab11cce57e7f3db8e6e6e5e4dba"
+        ],
+        "url":"https://www.google.com/maps/contrib/117579136904674234600?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":154
+        },
+        "count":31
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.998051249432602,
+        "dispensary":{
+          "id":"998e82a1-f5f7-4520-a581-24abc0820c90",
+          "city":"Nonthaburi",
+          "name":"Project420 Official",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":13.8549536,
+          "lng":100.54056,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":84
+              },
+              "count":17
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":84
+              },
+              "count":17
+            }
+          },
+          "image":"e762ad73fe05c0440e50ad0809b7ecbe",
+          "has_products":false,
+          "address":"1 Ngamwongwan18/1, ตำบลบางเขน Muang, นนทบุรี 11000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.1082994799280736,
+        "dispensary":{
+          "id":"39292d0b-4ad6-4065-83ce-e3dd356a8093",
+          "city":"Nonthaburi",
+          "name":"Too High",
+          "types":[
+            
+          ],
+          "lat":13.8556562,
+          "lng":100.5393435,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "image":"57c337287873c98bb4c6aee77bb13bba",
+          "has_products":false,
+          "address":"29 Soi Ngamwongwan 18, บางเขน เมือง Chang Wat Nonthaburi 11000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.221185843176403,
+        "dispensary":{
+          "id":"c468bf0f-1e24-47fe-ac23-92b953574157",
+          "city":"Bangkok",
+          "name":"Cannyn Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.8397466,
+          "lng":100.5517158,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"88/167 Thetsaban Songkhro Rd, Ladyao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.4108055096165835,
+        "dispensary":{
+          "id":"6c369ab0-3f5c-4462-8b02-26aac75aad63",
+          "city":"Nonthaburi",
+          "name":"Black Canyon กระทรวงสาธารณสุข",
+          "types":[
+            
+          ],
+          "lat":13.8473643,
+          "lng":100.5295446,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":439
+              },
+              "count":98
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":69
+              },
+              "count":16
+            }
+          },
+          "image":"aa9a2462631a75e0f6e28c8928d6d80e",
+          "has_products":false,
+          "address":"Soi Satharanasuk 1, Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.4183107870229155,
+        "dispensary":{
+          "id":"78e15f8b-8440-48a7-af4b-1bf7e94817ee",
+          "city":"Nonthaburi",
+          "name":"คลีนิคกัญชา อ.เดชาฯ",
+          "types":[
+            
+          ],
+          "lat":13.8480072,
+          "lng":100.529553,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"d550ea6738046e69e0d081a135d60a66",
+          "has_products":false,
+          "address":"RGXH+6R3, Bang Khen, Mueang Nonthaburi District, Nonthaburi 11000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.4191125316624753,
+        "dispensary":{
+          "id":"1dea49df-a5b4-4698-8590-d4b7161439ce",
+          "city":"Nonthaburi",
+          "name":"ศูนย์ส่งเสริมสุขภาพแผนไทย (นนทบุรี)",
+          "types":[
+            
+          ],
+          "lat":13.8479991,
+          "lng":100.5295443,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":48
+              },
+              "count":16
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":7
+              },
+              "count":3
+            }
+          },
+          "image":"0152c2a772f2cbaada198e57da7cc8ad",
+          "has_products":false,
+          "address":"หมู่ 4 ติวานนท์ 88/23, Tambon Talat Kwan, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.4209009475771106,
+        "dispensary":{
+          "id":"0fac7109-54f6-43f9-b646-d63bdb4a119d",
+          "city":"Nonthaburi",
+          "name":"คลินิกกัญชาทางการแพทย์",
+          "types":[
+            
+          ],
+          "lat":13.8478461,
+          "lng":100.529506,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":64
+              },
+              "count":15
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":14
+              },
+              "count":3
+            }
+          },
+          "image":"7c164add55bba81e3028eb4338f58b65",
+          "has_products":false,
+          "address":"RGXH+4RJ, Soi Satharanasuk 1, Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.6513722029255118,
+        "dispensary":{
+          "id":"f31b28ec-35b0-4e36-a3bc-91f7b60a95f5",
+          "city":"Bangkok",
+          "name":"Black Canyon รพ.เกษมราษฎร์ ประชาชื่น",
+          "types":[
+            
+          ],
+          "lat":13.8317952,
+          "lng":100.5387918,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":602
+              },
+              "count":146
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":58
+              },
+              "count":13
+            }
+          },
+          "image":"e3a9169a5079c3e27ef4331692573cc1",
+          "has_products":false,
+          "address":"เลขที่ 950 Thanon Pracha Chuen, Khwaeng Wong Sawang, Khet Bang Sue, Krung Thep Maha Nakhon 10800, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.75832547770541,
+        "dispensary":{
+          "id":"5a10bb24-cf1d-4998-8604-8b7ae6cc6ca6",
+          "city":"Bangkok",
+          "name":"Area 420",
+          "types":[
+            
+          ],
+          "lat":13.8593675,
+          "lng":100.5515581,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"12, 38 Soi Chinnakhet 1/12, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.998120966224063,
+        "dispensary":{
+          "id":"586f1d17-6500-4880-b542-a98808e99ff1",
+          "city":"Bangkok",
+          "name":"StarCat Coffee",
+          "types":[
+            
+          ],
+          "lat":13.85094,
+          "lng":100.560405,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":144
+              },
+              "count":32
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":8
+              },
+              "count":2
+            }
+          },
+          "image":"4db49c64a386f5eaddec189fc857e07b",
+          "has_products":false,
+          "address":"StarCat Building, Ngamwongwan 59, Ladyao, เขตจตุจักร กรุงเทพมหานคร 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.06188333291998,
+        "dispensary":{
+          "id":"ac6315c1-d99d-4120-8fb0-f8074a8db97c",
+          "city":"Bangkok",
+          "name":"คลองประปา คะน้า-บิส",
+          "types":[
+            
+          ],
+          "lat":13.8639743,
+          "lng":100.5479616,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"149 76 Soi Muban Ratchaphruek, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.091902300542617,
+        "dispensary":{
+          "id":"d641b7e0-cf72-45e0-b093-91d7823e9653",
+          "city":"Nonthaburi",
+          "name":"ศูนย์บูรณาการ วิจัยกัญชา CKC",
+          "types":[
+            
+          ],
+          "lat":13.8497138,
+          "lng":100.5235228,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"5f4136cad168284f4d5af981ab96ef4b",
+          "has_products":false,
+          "address":"RGXF+VCJ, Talat Kwan, Mueang Nonthaburi District, Nonthaburi 11000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.2074574732766963,
+        "dispensary":{
+          "id":"7148892d-2595-4572-81a4-295a9aac1b5a",
+          "city":"Bangkok",
+          "name":"Mr.Soba",
+          "types":[
+            "Cafe",
+            "Delivery",
+            "Dispensary"
+          ],
+          "lat":13.8606333,
+          "lng":100.5565833,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"8d7dea82f43a34d89a892ae0a298f2ca",
+          "has_products":true,
+          "address":"31/169 ชั้น 2 ห้อง B1 มีตังมาร์เก็ต Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.3755309530201583,
+        "dispensary":{
+          "id":"661f18c9-9669-47ef-85d7-2ace3f614f09",
+          "city":"Bangkok",
+          "name":"Doobie's Farm Thailand",
+          "types":[
+            
+          ],
+          "lat":13.8322581,
+          "lng":100.5592364,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"4b5880fe2b81170f4ef79e40346a4b79",
+          "has_products":false,
+          "address":"2, 17 Soi Vibhavadi Rangsit 38, Khwaeng Lat Yao, จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.547334279605931,
+        "dispensary":{
+          "id":"5c711599-1e66-4965-831a-4a3ce5fa1eef",
+          "city":"Bangkok",
+          "name":"กัญชา DownFireClub สาขา2 @เตาปูน",
+          "types":[
+            
+          ],
+          "lat":13.8259926,
+          "lng":100.5314212,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "has_products":false,
+          "address":"1866 ซอย กรุงเทพ-นนทบุรี 44 Khwaeng Wong Sawang, Khet Bang Sue, Krung Thep Maha Nakhon 10800, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

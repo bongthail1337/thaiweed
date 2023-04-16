@@ -1,0 +1,885 @@
+{
+    "id":"cd253fb0-86ad-480a-8f24-fa462c6d0b69",
+    "lat": "13.7978189",
+    "lng": "100.6057894",
+    "city":"Bangkok",
+    "name":"Villa Kush",
+    "type":null,
+    "business_images":[
+      "92f753242ce8a7f0a9a5fa6fdf672a73",
+      "32ac01145d850f2a16ab8e64f2f257b8"
+    ],
+    "google_images":[
+      "881cbcc8d469a1aae5ce8b74c38a7dbb",
+      "0c7bea09a5123589d60d5004dcc15b17",
+      "e592c7dc23463050fdc9f32c9b61fb16",
+      "60d703fbbee24d118412e2b24f19428e",
+      "06a1e0a1c08f783b221eb5cd674414d8",
+      "af56fc18fee8166f5d7fec4ae9d869e7",
+      "0d0dfa28807edd92a08bf4424a653f40"
+    ],
+    "status":"approved",
+    "website":"instagram.com/@villakush.official",
+    "phone":"+66 86 100 1102",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"0000"
+        },
+        "close":{
+          "day":1,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1700"
+        },
+        "close":{
+          "day":3,
+          "time":"0200"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1700"
+        },
+        "close":{
+          "day":4,
+          "time":"0200"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1700"
+        },
+        "close":{
+          "day":5,
+          "time":"0200"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1700"
+        },
+        "close":{
+          "day":6,
+          "time":"0200"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1700"
+        },
+        "close":{
+          "day":0,
+          "time":"0200"
+        }
+      }
+    ],
+    "line":"@villakush",
+    "google_url":"https://maps.google.com/?cid=9025307336133054037",
+    "place_id":"PuVWdkmxA9Bq5wNEID9jCwEIDU1",
+    "facebook":"https://www.facebook.com/villakushh",
+    "description":"From well-selected & hand picked to top shelf strains, we provide high quality cannabis flowers directly from our licensed farms and well recognized partners. Located in Ladprao71. 10 mins from Ekamai. ",
+    "products_flowers":[
+      {
+        "id":"7afbac8f-0a55-4ad1-8347-228a32da4518",
+        "name":"LilacDiesel",
+        "description":"ให้ความรู้สึกเติมพลัง มีความสุขคุยสนุกและสดชื่น",
+        "images":[
+          "cd290c828b361611d9e31cfcabf1a00d"
+        ],
+        "thc":22,
+        "cbd":0,
+        "sativa":100,
+        "indica":0,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-14T12:49:27.348119+00:00",
+        "updated_at":"2023-04-15T20:00:07.741885+00:00"
+      },
+      {
+        "id":"5908fdd3-9d7b-408b-88df-b9d4430523f0",
+        "name":"Power",
+        "description":"ให้ความรู้สึกการเติมพลัง สดชื่น คึกคัก เพิ่มพลังเต็มสูบ",
+        "images":[
+          "f8ed9230d4004456f19efe13f29a4fe5"
+        ],
+        "thc":18,
+        "cbd":0,
+        "sativa":100,
+        "indica":0,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-14T12:53:31.589857+00:00",
+        "updated_at":"2023-04-15T20:00:07.748328+00:00"
+      },
+      {
+        "id":"241bbcfd-822d-4fd5-959f-2f5c4dcddb1a",
+        "name":"Sugarcane ",
+        "description":"ทำให่โฟกัส เพิ่มความสดชื่น เข้มข้น คึกคักและแฮปปี้",
+        "images":[
+          "15fff5c7d5694200cc9145baddd93c06"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":100,
+        "indica":0,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-14T12:56:45.546676+00:00",
+        "updated_at":"2023-04-15T20:00:07.755314+00:00"
+      },
+      {
+        "id":"04b28494-20c3-4d3b-84d6-4db065534ee2",
+        "name":"Manzanita",
+        "description":"ไฮบริดสาติว่า ตัวหายากให้ความสดชื่น สายพันธุ์ส่งประกวด\n",
+        "images":[
+          "19616de8354f95ddf363136553313828"
+        ],
+        "thc":20,
+        "cbd":0,
+        "sativa":100,
+        "indica":0,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-14T13:00:32.319707+00:00",
+        "updated_at":"2023-04-15T20:00:07.735272+00:00"
+      },
+      {
+        "id":"5d29b14c-0b38-41a4-9ca6-b79e8836716b",
+        "name":"Sex Buds",
+        "description":"ให้ความรู้สึก สดชื่น คึกคัก และกระตุ้นอารมณ์ทางเพศ",
+        "images":[
+          "d86036c10b0dc0ed69dd5250ec2619a0"
+        ],
+        "thc":15,
+        "cbd":0,
+        "sativa":100,
+        "indica":0,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-14T13:03:10.863052+00:00",
+        "updated_at":"2023-04-15T20:00:07.759676+00:00"
+      },
+      {
+        "id":"86ee573f-99e4-4da7-bbf0-4f6ecf86082c",
+        "name":"MAC",
+        "description":"Top Shelf เหมาะสำหรับปาร์ตี้ สังสรรค์",
+        "images":[
+          "919b9e402418e83a9bef05106a8118f0"
+        ],
+        "thc":22,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-14T13:05:15.126701+00:00",
+        "updated_at":"2023-04-15T20:00:07.731727+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      {
+        "id":"1d9ebd7f-ce9b-4993-b243-8578d6f7470a",
+        "name":"Mimosa evo joint",
+        "description":"รู้สึกสดชื่น โฟกัสและกระปรี้กระเปร่า",
+        "images":[
+          "469515c3b0f58a47e7202abf0133b65d"
+        ],
+        "thc":60,
+        "cbd":0,
+        "sativa":0,
+        "indica":100,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-14T14:02:45.452113+00:00",
+        "updated_at":"2023-04-15T20:00:07.785211+00:00"
+      },
+      {
+        "id":"23fbdabd-fb03-4cde-b849-78352b5fc644",
+        "name":"Purpleรู้สึด widow ",
+        "description":"ทำให้รู้สึกผ่อนคลาย สบาย มีความสุข",
+        "images":[
+          "41f14570d544ab16c08be20f287d81a6"
+        ],
+        "thc":18,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-14T14:05:00.841101+00:00",
+        "updated_at":"2023-04-15T20:00:07.777766+00:00"
+      },
+      {
+        "id":"99d743bd-638e-4cab-9c6c-603c4b753b0c",
+        "name":"Slurricane",
+        "description":"ทำให้รู้สึกคลายเครียด และสบาย ",
+        "images":[
+          "51e828a5d31acef5aa7b9b55bdd893b7"
+        ],
+        "thc":20,
+        "cbd":0,
+        "sativa":0,
+        "indica":100,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-14T14:06:53.616666+00:00",
+        "updated_at":"2023-04-15T20:00:07.781627+00:00"
+      },
+      {
+        "id":"d562582b-348e-4e6b-b2d7-adb90271f5d3",
+        "name":"Godfather",
+        "description":"ช่วยลดความเครียด รู้สึกผ่อนคลาย ",
+        "images":[
+          "744a7dda7a7318fb5dc39f4152e3f25b"
+        ],
+        "thc":18,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-14T14:09:34.830679+00:00",
+        "updated_at":"2023-04-15T20:00:07.77329+00:00"
+      }
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      {
+        "id":"56e0c921-b25c-4bd6-8a9c-a6b9c04e123e",
+        "name":"บ้องสูบแบบพกพา Top Puff ",
+        "description":"บ้องสูบกัญชาแบบพกพาใส่ขวดน้ำ มีหลากหลายสี",
+        "images":[
+          "2107605781e49b1ca15618b804257fa9"
+        ],
+        "disabled":false,
+        "created_at":"2023-03-14T14:18:39.876884+00:00",
+        "updated_at":"2023-04-15T20:00:07.766471+00:00"
+      }
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"Ark Chavanothai",
+        "avatar":"b7621bd056d37830763d382a9af4bbd9",
+        "content":"",
+        "review_date":"2022-11-10T06:38:00.061+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101926176840846345998?hl=en-US"
+      },
+      {
+        "author":"aimaunch",
+        "avatar":"1cb500f320fdd1e1b10a603a5a3153bc",
+        "content":"",
+        "review_date":"2023-02-12T01:37:00.701+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103321478236128373462?hl=en-US"
+      },
+      {
+        "author":"Rachata Withayavaragul",
+        "avatar":"143549c1638e1e63aa596843ee434f7c",
+        "content":"Good quality weed for decent price.",
+        "review_date":"2022-11-17T15:17:03.44+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107290143202656242263?hl=en-US"
+      },
+      {
+        "author":"Chana Sriphanwong",
+        "avatar":"41e736876ef7b0878504aaa6e4b01ed2",
+        "content":"ร้านสวย สายพันธุ์เยอะ ค่ายดังๆ มีฟาร์มเอง\n\n(Translated by Google)\nBeautiful shop, lots of breeds, famous camps, have their own farms.",
+        "review_date":"2022-11-15T14:39:41.377+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107697536461455703948?hl=en-US"
+      },
+      {
+        "author":"Kamonwan Pholwatana",
+        "avatar":"b7328266d83a925d34b40a52bd6ef38d",
+        "content":"เป็นลูกค้าประจำไปแล้ว ราคาดีที่สุด และขอชมว่าร้านสวยมากค่า พนักงานบริการดี สุภาพมาก\n\n(Translated by Google)\nAlready a regular customer, the best price, and I would like to say that the shop is very beautiful. Good service staff, very polite.",
+        "review_date":"2023-03-16T15:10:56.714+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114177829360525445850?hl=en-US"
+      },
+      {
+        "author":"Napat Tabtimthong",
+        "avatar":"cbc49f22e29b903e65ff2ac8f9c6f553",
+        "content":"",
+        "review_date":"2022-11-10T14:23:04.033+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115160691667647967372?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":30
+        },
+        "count":6
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.000946695059941748,
+        "dispensary":{
+          "id":"855baeb6-423a-4ec3-8617-c9e94e3ff98b",
+          "city":"Bangkok",
+          "name":"Villa Kush",
+          "types":[
+            
+          ],
+          "lat":13.797561,
+          "lng":100.6069803,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "image":"82a5ba4598aaffffb08ad07b23d6d1c3",
+          "has_products":false,
+          "address":"43, 58 Soi Lat Phrao 71, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.6004547554204153,
+        "dispensary":{
+          "id":"b7f287ea-08e9-4cfe-8ce1-eeff428f1545",
+          "city":"Bangkok",
+          "name":"มาร์กัญนะ Weed cafe",
+          "types":[
+            
+          ],
+          "lat":13.7939255,
+          "lng":100.6111021,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":120
+              },
+              "count":24
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":120
+              },
+              "count":24
+            }
+          },
+          "image":"10ef76b662840f32bd0ce904cc578966",
+          "has_products":false,
+          "address":"737 วังทองหลาง Bangkok 10310, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.6034579459331989,
+        "dispensary":{
+          "id":"f97af306-1006-416c-bc0e-8179e1d4dd86",
+          "city":"Bangkok",
+          "name":"มาร์กัญนะ",
+          "types":[
+            
+          ],
+          "lat":13.7939277,
+          "lng":100.6111416,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":80
+              },
+              "count":16
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":80
+              },
+              "count":16
+            }
+          },
+          "image":"310dd579876c5ccf5abf702265187b09",
+          "has_products":false,
+          "address":"735 Pradit Manutham Rd, Khwaeng Saphansong, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.7458886760128084,
+        "dispensary":{
+          "id":"18a2e6de-b888-46f2-8131-c94615b9c81d",
+          "city":"Bangkok",
+          "name":"Lowland Cannabis",
+          "types":[
+            
+          ],
+          "lat":13.7963755,
+          "lng":100.613783,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"eee017f4c1bfbec3ea46b9f13d7117d9",
+          "has_products":false,
+          "address":"210/2 10 Pradit Manutham Rd, Khwaeng Khlong Chaokhunsing, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.9020955376983022,
+        "dispensary":{
+          "id":"772b8456-bfd5-49be-9b24-4ae6ff46b54d",
+          "city":"Bangkok",
+          "name":"Green High Premium store BKK",
+          "types":[
+            
+          ],
+          "lat":13.7895423,
+          "lng":100.6083044,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"7e131209b31fd9b7e3c5ed6999bb3988",
+          "has_products":false,
+          "open":false
+        }
+      },
+      {
+        "distance":0.9020955376983022,
+        "dispensary":{
+          "id":"1f3fa78c-9406-4c8a-8e64-377199ccea6e",
+          "city":"Bangkok",
+          "name":"Bigrollgenetic weed store",
+          "types":[
+            
+          ],
+          "lat":13.7895423,
+          "lng":100.6083044,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"edaf0104e3a5e16c7214b50a1126e706",
+          "has_products":false,
+          "address":"109 ติ์1 ซ. สังคมสงเคราะห์10 ลาดพร้าว Lat Phrao, Bangkok 10120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.9676473490440511,
+        "dispensary":{
+          "id":"38c07997-4c5a-4017-bff9-a95601fc0dfc",
+          "city":"Bangkok",
+          "name":"THE HIGH CO.168 Co., Ltd.",
+          "types":[
+            "Delivery",
+            "Farm",
+            "Cafe",
+            "Dispensary",
+            "Wholesaler"
+          ],
+          "lat":13.7896549,
+          "lng":100.6032206,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "image":"a6ea59cfdd437538f8e41c6dd8b33c93",
+          "has_products":true,
+          "address":"2301 วังทองหลาง บางกะปิ Krung Thep Maha Nakhon 10240, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.0495818777454413,
+        "dispensary":{
+          "id":"68e14fc6-fdd4-46fa-9a66-4236fe3b8f98",
+          "city":"Bangkok",
+          "name":"Four Twenty Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.8027159,
+          "lng":100.6151198,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"69/3 ถ. ประดิษฐ์มนูธรรม Bangkok 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.1072217505670419,
+        "dispensary":{
+          "id":"61ce9efe-bde7-4011-85ac-2547fc712068",
+          "city":"Bangkok",
+          "name":"GodBlazed Cannabis Delivery",
+          "types":[
+            
+          ],
+          "lat":13.8042051,
+          "lng":100.6146127,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"69 Pradit Manutham Rd, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.2820237005366086,
+        "dispensary":{
+          "id":"8ccd294d-a067-4d00-8ffe-e136132ea720",
+          "city":"Bangkok",
+          "name":"พรรคเขียว",
+          "types":[
+            
+          ],
+          "lat":13.8049492,
+          "lng":100.6160904,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":422
+              },
+              "count":91
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "image":"d358b0093f1fff5d38449f791e29a640",
+          "has_products":false,
+          "address":"24 Soi Pradit Manutham 15, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.3043508246830546,
+        "dispensary":{
+          "id":"155514ab-ede7-4021-a023-9eb8968d290f",
+          "city":"Bangkok",
+          "name":"162 CBD CAFE สาขา โชคชัย4",
+          "types":[
+            
+          ],
+          "lat":13.8038942,
+          "lng":100.5968211,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":9
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"202 Thanon Lat Phrao Wanghin, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.3966905835302377,
+        "dispensary":{
+          "id":"cac7ec69-48b2-4651-8064-4995c1303cb5",
+          "city":"Bangkok",
+          "name":"Puffy Puff Cannabis",
+          "types":[
+            
+          ],
+          "lat":13.7993307,
+          "lng":100.6197868,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"4720dd6fd6c07d3bd745f8c5b8235670",
+          "has_products":false,
+          "address":"25, 2 Soi Lat Phrao 101, Khwaeng Khlong Chaokhunsing, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.61721244146039,
+        "dispensary":{
+          "id":"2f26b556-4c75-4325-b263-df0f9b09919b",
+          "city":"Bangkok",
+          "name":"Weed Walker",
+          "types":[
+            "Cafe",
+            "Dispensary",
+            "Wholesaler"
+          ],
+          "lat":13.8080154,
+          "lng":100.59658,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":90
+              },
+              "count":18
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":70
+              },
+              "count":14
+            }
+          },
+          "image":"5d9def0adf6057112385f0598a25fcde",
+          "has_products":true,
+          "address":"Weed Planets 298 Thanon Chok Chai 4, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.6329805618154698,
+        "dispensary":{
+          "id":"1acdc458-254f-4100-a859-2bdd2ecf64d4",
+          "city":"Bangkok",
+          "name":"Arijuana โชคชัย4",
+          "types":[
+            
+          ],
+          "lat":13.8081847,
+          "lng":100.5965508,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":60
+              },
+              "count":12
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":60
+              },
+              "count":12
+            }
+          },
+          "image":"a187c25a9f5f47b660dcf24f5e1a4078",
+          "has_products":false,
+          "address":"302 Chok Chai 4 Soi 28, ลาดพร้าว Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.7600790898736935,
+        "dispensary":{
+          "id":"40d1b036-f451-4db2-b4a8-2181f67f1579",
+          "city":"Bangkok",
+          "name":"Nom-Nua โชคชัย 4",
+          "types":[
+            
+          ],
+          "lat":13.8093814,
+          "lng":100.5961518,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":532
+              },
+              "count":130
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":16
+              },
+              "count":5
+            }
+          },
+          "image":"ac6f1c44c86f7ebe28430d3ff64c8456",
+          "has_products":false,
+          "address":"35 11 Thanon Chok Chai 4, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":true
+        }
+      }
+    ]
+  }

@@ -1,0 +1,719 @@
+{
+    "id":"cd12a248-5b08-4f9b-bb82-9992461ccedb",
+    "lat": "14.1470052",
+    "lng": "100.6230431",
+    "city":"Pathum Thani",
+    "name":"420",
+    "type":null,
+    "business_images":[
+      "846260eb3061b1ff3d3c5c2f9f434b91"
+    ],
+    "google_images":[
+      "a90a51d66312fa052bf5e368b27a8ef3",
+      "0e7e43180bee707d7a626d22708d10d2",
+      "a5bc55d4e3c50596355ba0163c0bd5b4",
+      "0e7e43180bee707d7a626d22708d10d2",
+      "27edc39acdbdaa44137ab49f334450f4",
+      "128a86bfae88e757641e2fa049baaaec",
+      "27edc39acdbdaa44137ab49f334450f4",
+      "128a86bfae88e757641e2fa049baaaec",
+      "27edc39acdbdaa44137ab49f334450f4",
+      "128a86bfae88e757641e2fa049baaaec"
+    ],
+    "status":"approved",
+    "website":"https://mrbong-cannabis6.business.site/?utm_source=gmb&utm_medium=referral",
+    "phone":"+66 61 145 2491",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"0900"
+        },
+        "close":{
+          "day":0,
+          "time":"2200"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"0900"
+        },
+        "close":{
+          "day":1,
+          "time":"2200"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"0900"
+        },
+        "close":{
+          "day":2,
+          "time":"2200"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"0900"
+        },
+        "close":{
+          "day":3,
+          "time":"2200"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"0900"
+        },
+        "close":{
+          "day":4,
+          "time":"2200"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"0900"
+        },
+        "close":{
+          "day":5,
+          "time":"2200"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"0900"
+        },
+        "close":{
+          "day":6,
+          "time":"2200"
+        }
+      }
+    ],
+    "line":"https://line.me/ti/g/SOrk7V08bH",
+    "google_url":"https://maps.google.com/?cid=11361502367966483464",
+    "place_id":"PuVWX9yCdaXUUGREPAEzAGHdeW1",
+    "facebook":"https://www.facebook.com/profile.php?id=100083697646832",
+    "description":"จำหน่ายกัญชาและอุปกรณ์สำหรับกัญชา\n***ไม่จำหน่ายให้เยาวชนอายุต่ำกว่า 20 ปี และ สตรีมีครรภ์***\n\nDistributor of cannabis and cannabis equipment\n*** Not for sale to youth under 20 years old and pregnant women ***",
+    "products_flowers":[
+      {
+        "id":"e1fc4db6-d4b3-4532-8453-a778797eea5d",
+        "name":"Green Crack ",
+        "description":"มีรสชาติหวานผลไม้และรสเปรี้ยว ดอกแน่นและเต็มไปด้วยขนสีส้ม พันธุ์นี้มีสาร THC มากถึง 25% ",
+        "images":[
+          "a62f87e8e8f56707adf007d61094dc72"
+        ],
+        "thc":25,
+        "cbd":0,
+        "sativa":100,
+        "indica":0,
+        "images_coa":[
+          
+        ],
+        "quality":"A",
+        "disabled":false,
+        "created_at":"2022-12-01T06:40:18.094526+00:00",
+        "updated_at":"2023-04-15T23:00:04.62525+00:00"
+      },
+      {
+        "id":"de816c6e-d408-45b6-b823-e534ef25bdde",
+        "name":"AK-47",
+        "description":"กลิ่นหอมที่แข็งแกร่งจะถูกปล่อยออกมาซึ่งดีที่สุดเมื่อเทียบกับกลิ่นของรากไม้ เมื่อสูดดมกลิ่นนี้คุณยังได้ลิ้มรสไม้เล็กน้อย",
+        "images":[
+          "0c3d78ce96aa0318a3e57a65c5958fff"
+        ],
+        "thc":17,
+        "cbd":0,
+        "sativa":40,
+        "indica":60,
+        "images_coa":[
+          
+        ],
+        "quality":"B",
+        "disabled":false,
+        "created_at":"2022-12-01T06:51:35.82389+00:00",
+        "updated_at":"2023-04-15T23:00:04.637223+00:00"
+      },
+      {
+        "id":"b8699121-e36e-4e40-94d5-3f1d691ce4dc",
+        "name":"gorilla",
+        "description":"กอริลลาเป็นไฮบริดที่มีพลังอย่างบ้าคลั่งจนกระทั่งเมื่อไม่นานมานี้มีจำหน่ายเฉพาะในสหรัฐฯ ด้วยระดับ THC ที่มีช่วงเวลาที่มากกว่า 25%",
+        "images":[
+          "f6109f970c95107632b6bda63d755be3"
+        ],
+        "thc":27,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"B",
+        "disabled":false,
+        "created_at":"2022-12-01T07:00:09.506434+00:00",
+        "updated_at":"2023-04-15T23:00:04.631069+00:00"
+      },
+      {
+        "id":"0bffa2a8-4921-477b-b7be-c836b781bf4d",
+        "name":"Remedy",
+        "description":"พันธุ์ Remedy เป็นสายพันธุ์ Indica ที่เกิดจากการรวมกันของ Cannatonic และ Afgan Skunk ให้กลิ่นไพน์เลมอนที่เมื่อดมจะชวนให้ผ่อนคลาย มักมีการนำ Remedy ไปใช้เพื่อรักษาอาการชัก ออทิสติก ร่างกายอักเสบ และโรคประสาท",
+        "images":[
+          "dabe25e25b06fb7a580776fac1cff262"
+        ],
+        "thc":1,
+        "cbd":16,
+        "sativa":0,
+        "indica":100,
+        "images_coa":[
+          
+        ],
+        "quality":"A",
+        "disabled":false,
+        "created_at":"2022-12-01T07:03:58.413851+00:00",
+        "updated_at":"2023-04-15T23:00:04.622016+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"Papangkorn Yoddamnoen",
+        "avatar":"bde42b41d937809394f4be3be06353f6",
+        "content":"",
+        "review_date":"2023-03-11T15:03:54.519+00:00",
+        "rating":5,
+        "images":[
+          "f477b1ab9cd6475642c928d75ace402f"
+        ],
+        "url":"https://www.google.com/maps/contrib/106838164584268320384?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":5
+        },
+        "count":1
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.0049475822562862655,
+        "dispensary":{
+          "id":"961e3535-0373-42ce-91a1-f72ee8c669c9",
+          "city":"Phra Nakhon Si Ayutthaya",
+          "name":"MR.BONG_Cannabis Payom Soi 6 พยอม ซอย6",
+          "types":[
+            "Cafe"
+          ],
+          "lat":14.1469816,
+          "lng":100.6230042,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"31/2 พยอม Tambon Phayom, Amphoe Wang Noi, Chang Wat Phra Nakhon Si Ayutthaya 13170, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.2346078034528323,
+        "dispensary":{
+          "id":"ad1e9d7c-5e49-40f7-a169-55867a28b84e",
+          "city":"Phra Nakhon Si Ayutthaya",
+          "name":"ร้าน ยิ้ม ละ 100",
+          "types":[
+            
+          ],
+          "lat":14.1508456,
+          "lng":100.6337868,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"3bfc9bf7f29a53efdd5b91794c624a09",
+          "has_products":false,
+          "address":"ซอย พยอม 21 Tambon Phayom, Amphoe Wang Noi, Chang Wat Phra Nakhon Si Ayutthaya 13180, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.347535632988374,
+        "dispensary":{
+          "id":"99b74d56-d32f-4b9d-8dfc-de5db7e9b7cf",
+          "city":"Loburi",
+          "name":"โรงปลูกกัญชาบ้านบัวชุม",
+          "types":[
+            
+          ],
+          "lat":14.1458656,
+          "lng":100.6106008,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"190 หมู่9 Tambon Bua Chum, Amphoe Chai Badan, Chang Wat Lopburi 15130, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.347535632988374,
+        "dispensary":{
+          "id":"82f3e2ec-a3e5-4379-b94e-15d6d3d06505",
+          "city":"Nakhon Nayok",
+          "name":"กัญชาUzeen Cannabis Lab",
+          "types":[
+            "Cafe",
+            "Farm",
+            "Grower",
+            "Delivery",
+            "Wholesaler",
+            "Lab"
+          ],
+          "lat":14.1458656,
+          "lng":100.6106008,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"c13a05648d0028b39921800df7958449",
+          "has_products":true,
+          "address":"999 หมู่9 Khao Phra, Mueang Nakhon Nayok District, Nakhon Nayok 26000, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.6280254127437588,
+        "dispensary":{
+          "id":"42588d56-e337-4363-8a58-586e3cc12bbf",
+          "city":"Phra Nakhon Si Ayutthaya",
+          "name":"ยอดมนุษย์กัยชาคาเฟ่ สาขา ร้าน THE LAB",
+          "types":[
+            
+          ],
+          "lat":14.1329616,
+          "lng":100.6187735,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"658a4e3262dfecd8cfefe889ba1f6cde",
+          "has_products":false,
+          "address":"113, 93/1 Thanon Phaholyothin Frontage, Tambon Chiang Rak Noi, Amphoe Bang Pa-in, Chang Wat Phra Nakhon Si Ayutthaya 13180, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.1306642764006236,
+        "dispensary":{
+          "id":"f410269f-0b2b-45a0-b73c-1ee6cda37ade",
+          "city":"Phra Nakhon Si Ayutthaya",
+          "name":"ผักเขียวคาเฟ่ ( Green cannabis cafe )",
+          "types":[
+            "Cafe"
+          ],
+          "lat":14.1391482,
+          "lng":100.6050202,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"be1d4f6152c5da2611d28f2615da6f48",
+          "has_products":false,
+          "address":"ถนน สุขาภิบาล 2 Tambon Chiang Rak Noi, Amphoe Bang Pa-in, Chang Wat Phra Nakhon Si Ayutthaya 13180, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.4561020865619945,
+        "dispensary":{
+          "id":"9562211e-48f3-4b04-813c-27abee0e4ab1",
+          "city":"Pathum Thani",
+          "name":"Ghost Weed Navanakhon - โกสวีด นวนคร",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":14.1249982,
+          "lng":100.6249951,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"975cf4e8fc5f97fb304cac4085d96a28",
+          "has_products":true,
+          "address":"62 50 หมู่ 19 Soi Mu Ban Kritsana House Khlong Nueng, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.4633098420034076,
+        "dispensary":{
+          "id":"e750898a-1642-4277-80e5-ecba5b51b6f4",
+          "city":"Pathum Thani",
+          "name":"MR.I.Style สาขาแมนฮัตตั้น",
+          "types":[
+            
+          ],
+          "lat":14.1249115,
+          "lng":100.6247146,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"17 62 หมู่14 Soi Mu Ban Kritsana House Khlong Nueng, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.5288472070966916,
+        "dispensary":{
+          "id":"6bb583a3-ade8-4bd8-9001-574e408f6600",
+          "city":"Pathum Thani",
+          "name":"ร้านกัญแฟ",
+          "types":[
+            
+          ],
+          "lat":14.1253313,
+          "lng":100.6301475,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":21
+              },
+              "count":5
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":1
+              },
+              "count":1
+            }
+          },
+          "image":"2fadb4a0c88c8809bd7f0d0783d0c55f",
+          "has_products":false,
+          "address":"4JGJ+43J, Khlong Nueng, Khlong Luang District, Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":4.883546435917079,
+        "dispensary":{
+          "id":"dfdad218-11aa-4b9a-83e1-68c40304c5e4",
+          "city":"Pathum Thani",
+          "name":"ร้านขายกัญชา ร้านกัญชา คาเฟ่กัญชา กัญชาออแกนิค กัญชา ฟาร์มกัญชา คาเฟ่ Weed Farm Cannabis OG WeedFarm Cafe",
+          "types":[
+            "Cafe"
+          ],
+          "lat":14.1261575,
+          "lng":100.6629056,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":50
+              },
+              "count":10
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":50
+              },
+              "count":10
+            }
+          },
+          "image":"c0ff4983105e5843642a52c4185134df",
+          "has_products":true,
+          "address":"37 331 ต, Khlong Luang District, Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":5.0697244504492085,
+        "dispensary":{
+          "id":"b12743e5-917e-4c0d-bb92-a2a27fd698e0",
+          "city":"Pathum Thani",
+          "name":"Ghost Weed navanakhon - โกสวีด นวนคร",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":14.108136,
+          "lng":100.5984688,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "image":"03c9283a6e6548f52ad26e97f0d59ce1",
+          "has_products":false,
+          "address":"62/50 ซ.19 Thai Thani Soi 24, คลองหนึ่ง Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":5.941008474715015,
+        "dispensary":{
+          "id":"4e3c747b-d110-4684-9aad-66bf125e713a",
+          "city":"Pathum Thani",
+          "name":"บุญเติม Shop By # เสก บุญเติม สายเขียว",
+          "types":[
+            
+          ],
+          "lat":14.1097265,
+          "lng":100.6625114,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"0cf0d4611931766c30d42a5357051044",
+          "has_products":false,
+          "address":"139009200 ซอย 11/23-1 Tambon Khlong Sam, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":6.70850675015347,
+        "dispensary":{
+          "id":"75ef5b58-4dfe-46ca-b490-5e32f2564875",
+          "city":"Pathum Thani",
+          "name":"HOMOBIS cannabis tea house",
+          "types":[
+            
+          ],
+          "lat":14.1008361,
+          "lng":100.6630899,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":60
+              },
+              "count":12
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":60
+              },
+              "count":12
+            }
+          },
+          "image":"0a4a63343902737dfef8e9e720179f75",
+          "has_products":false,
+          "address":"45 ถ. เรียบคลองสาม Tambon Khlong Sam, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":7.007263947335628,
+        "dispensary":{
+          "id":"84b5b34b-e4d6-448c-8aee-83cf7d04fb07",
+          "city":"Pathum Thani",
+          "name":"420 TRUEHAPPINESS",
+          "types":[
+            
+          ],
+          "lat":14.1751128,
+          "lng":100.681213,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "image":"f4bee009cadeed9dd3a5d565e65f8077",
+          "has_products":false,
+          "address":"ม.16 คลองสี่ อำเภอคลองหลวง ปทุมธานี 12120, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":7.018336380052774,
+        "dispensary":{
+          "id":"4c56d8ea-b4c0-4bb9-88cd-31296563ba54",
+          "city":"Pathum Thani",
+          "name":"TWEED ORGANIC",
+          "types":[
+            
+          ],
+          "lat":14.0839113,
+          "lng":100.6212667,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "image":"f5adfa1941e542357c5f20a3fd92d8ae",
+          "has_products":false,
+          "address":"ตลาดไท คลองหนึ่ง Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

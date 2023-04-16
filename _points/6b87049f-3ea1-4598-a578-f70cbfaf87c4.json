@@ -1,0 +1,783 @@
+{
+    "id":"6b87049f-3ea1-4598-a578-f70cbfaf87c4",
+    "lat": "13.949192",
+    "lng": "100.7411175",
+    "city":"Pathum Thani",
+    "name":"420Soulstoned",
+    "type":"dispensary",
+    "business_images":[
+      "f1889fb88f032eaca3fd5728cc0e1bce",
+      "9546d7e8dc06169c3af58a559c345e0c",
+      "4a82e01f4138e1c6fff6f8764c896977"
+    ],
+    "google_images":[
+      "b8c0190fe3e5b7f5831d2408a4865a6f",
+      "f479f7cd9a623690ed155be148714d44",
+      "f13a64f4f4fd37fa019d006d6d8a1f41",
+      "788c30da9d9939c737cf5b43d198d6ca",
+      "0f787b1ca2c97af369fb0d5a2ee61e72",
+      "8e5f7d3b7731dfad53b78eaa979bb4e2",
+      "21422c1917cef35ee5fc294249a69f08",
+      "9ba3484f53f160d05176564af2bc9bb3",
+      "9de8a5f9316f73f127e57cdc13e61a1a",
+      "b108128f90d0ec2037d2c8491d2cfddf"
+    ],
+    "status":"approved",
+    "website":"http://www.420soulstonedthailand.com/",
+    "phone":"+66 82 516 1512",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1200"
+        },
+        "close":{
+          "day":1,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1200"
+        },
+        "close":{
+          "day":2,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1200"
+        },
+        "close":{
+          "day":3,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1200"
+        },
+        "close":{
+          "day":4,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1200"
+        },
+        "close":{
+          "day":5,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1200"
+        },
+        "close":{
+          "day":6,
+          "time":"0000"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1200"
+        },
+        "close":{
+          "day":0,
+          "time":"0000"
+        }
+      }
+    ],
+    "line":"@515cajna",
+    "google_url":"https://maps.google.com/?cid=1650814215974343870",
+    "place_id":"PuVWMsYotZE9UGREigEDqpwr.OL",
+    "facebook":"https://www.facebook.com/SoulStonedHighAgain/",
+    "description":"All about Cannabis online delivery service 24 hr Bkk Thailand",
+    "products_flowers":[
+      {
+        "id":"e143a95a-374f-48cc-944a-167a11e5ed02",
+        "name":"Gummy Bunch USA Import",
+        "description":"Energy for Work in The Morning ",
+        "images":[
+          "392456d802447eaabdfbd1dba54b5301"
+        ],
+        "thc":28,
+        "cbd":0,
+        "sativa":30,
+        "indica":70,
+        "images_coa":[
+          "https://cdn.filestackcontent.com/7pEHsvtRg6XPkZfIZL3g"
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2022-12-13T07:15:12.577695+00:00",
+        "updated_at":"2023-04-15T22:00:07.201921+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      {
+        "id":"04c59336-9bd0-4551-a8ba-3a167ada2146",
+        "name":"420SoulStined Premium RoLL 2022 Joice of Thailand",
+        "description":"For working energy ",
+        "images":[
+          "2cc92620ebd1d209582b283fa17de090",
+          "02a60c84a53ac273491452c7d1e5148d",
+          "87af40f756f457eaff45ba1b856b50cd",
+          "d62c1944c9c198cbc98c9e8283bff6ba"
+        ],
+        "thc":25,
+        "cbd":1,
+        "sativa":35,
+        "indica":65,
+        "images_coa":[
+          "https://cdn.filestackcontent.com/21RgHtTBQTeU9Mc2FfTp"
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2022-12-13T07:09:32.316953+00:00",
+        "updated_at":"2023-04-15T22:00:07.210951+00:00"
+      }
+    ],
+    "products_edibles":[
+      {
+        "id":"d9f08ac3-d615-48a5-975f-328b9b922575",
+        "name":"Super High Space Blondie's ",
+        "description":"For Use before bedtime ",
+        "images":[
+          "0e86fcbbe902d6619fa113aa3c589c42",
+          "1321091ba5ac445691cb95b7f84763ec",
+          "381488bdd925690458bea7db6e1649f4",
+          "5aee1f055ae94d4ef80e308e907a94ae",
+          "b8d732a6d6bb4b506bee749de972ee01"
+        ],
+        "thc":16,
+        "cbd":1,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          "https://cdn.filestackcontent.com/vdLBdKJQla88eB173uFA"
+        ],
+        "disabled":false,
+        "created_at":"2022-12-13T07:00:39.219996+00:00",
+        "updated_at":"2023-04-15T22:00:07.205158+00:00"
+      }
+    ],
+    "products_topicals":[
+      {
+        "id":"159c6455-b1d7-4bd6-b2d6-97613f483a8d",
+        "name":"CBD Ultrasonic Oil For Pod RELX",
+        "description":"For Only RELX POD",
+        "images":[
+          "4ac9b550b741ce824bb28756fca17700"
+        ],
+        "thc":0,
+        "cbd":5,
+        "images_coa":[
+          "https://cdn.filestackcontent.com/ZOtsftQH2GANCDOFQSTA"
+        ],
+        "disabled":false,
+        "created_at":"2022-12-13T07:32:34.223767+00:00",
+        "updated_at":"2023-04-15T22:00:07.213572+00:00"
+      }
+    ],
+    "products_gear":[
+      {
+        "id":"469035de-ed7e-48f1-a681-cb26169f8e52",
+        "name":"Chilling woods",
+        "description":"Best of Woods \n11\"\n13\"",
+        "images":[
+          "e0343db649f78670a42463632bbae915",
+          "2bc04c0592630b874e56f7f29d781f99"
+        ],
+        "disabled":false,
+        "created_at":"2022-12-13T07:28:19.150552+00:00",
+        "updated_at":"2023-04-15T22:00:07.207349+00:00"
+      }
+    ],
+    "products_misc":[
+      {
+        "id":"db53a102-d72d-4434-8569-761c214ff6e6",
+        "name":"Super Soil",
+        "description":"For only cannabis\n1 pack 20 L",
+        "images":[
+          "91bfc95deadcb5c3b2a640ddf29d4a56"
+        ],
+        "disabled":false,
+        "created_at":"2022-12-13T07:29:54.561395+00:00",
+        "updated_at":"2023-04-15T22:00:07.209291+00:00"
+      }
+    ],
+    "reviews":[
+      {
+        "author":"Kristina Adang",
+        "avatar":"202a53acc5c57c664724df333da8a930",
+        "content":"",
+        "review_date":"2022-08-18T08:35:38.396+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104228515868445258854?hl=en-US"
+      },
+      {
+        "author":"ณัชชา พานทอง",
+        "avatar":"09b5562a2aeb46a4013b63970911c739",
+        "content":"best premium top shelft",
+        "review_date":"2022-08-14T08:00:23.752+00:00",
+        "rating":5,
+        "images":[
+          "9b911da8d588fa2bc3b0efa46aa111d0",
+          "99f39920a4666ca5d2540bbd960fba1e",
+          "934c9ce13faded8a416c2266a8284275",
+          "3d52fd17dd43bf2caca3ad1c407928c2"
+        ],
+        "url":"https://www.google.com/maps/contrib/106246003210984969638?hl=en-US"
+      },
+      {
+        "author":"Grittarin Wecharangsee",
+        "avatar":"5e968f24fe21a182ad2d9a07a352b316",
+        "content":"",
+        "review_date":"2022-08-16T04:13:08.239+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109038669168836825084?hl=en-US"
+      },
+      {
+        "author":"Overdose The Film (OVERDOSETATTOO)",
+        "avatar":"7267655407de97f33c8290d67c842bc2",
+        "content":"More than words",
+        "review_date":"2022-07-24T19:31:19.452+00:00",
+        "rating":5,
+        "images":[
+          "9d1e98d113f7b485d0ac250537035282",
+          "19e7509aeb0c142a0fe9f54965edf97e",
+          "5f8bdf76c1f653a63faf931e18980d2d",
+          "1075b29c1d601cff6dbd9fa186747d28",
+          "b44b6468565af855c0975d8921231430",
+          "afddb43b9cf3d59784334bad13c16d22"
+        ],
+        "url":"https://www.google.com/maps/contrib/110140073827331315159?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":20
+        },
+        "count":4
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.9597195794818587,
+        "dispensary":{
+          "id":"f8787e09-52fd-48fc-81d5-b34aae611142",
+          "city":"Pathum Thani",
+          "name":"บริษัท ฟิล กู๊ด แคนนาบิส จำกัด FEEL GOOD CANNABIS CO., LTD.",
+          "types":[
+            
+          ],
+          "lat":13.9421308,
+          "lng":100.7462314,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"1d7cf2896a1cafd3493807c82cfd1fe0",
+          "has_products":false,
+          "address":"45 43 ม.18 ตำบล บึงคำพร้อย Tambon Bueng Kham Phroi, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.4732561867072516,
+        "dispensary":{
+          "id":"5d5f57a1-f209-45e4-bf01-d199f3188169",
+          "city":"Pathum Thani",
+          "name":"Smile Happy Shop",
+          "types":[
+            
+          ],
+          "lat":13.9361068,
+          "lng":100.7389755,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"3efa238677ef47d6aac248102b88c399",
+          "has_products":false,
+          "address":"67 Thanon Lam Luk Ka, Tambon Bueng Kham Phroi, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.8931456735071928,
+        "dispensary":{
+          "id":"d851249a-a84c-464a-b0b5-17a6a2bef7bf",
+          "city":"Pathum Thani",
+          "name":"We Get High Cannabis Store",
+          "types":[
+            
+          ],
+          "lat":13.9650239,
+          "lng":100.7475704,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":50
+              },
+              "count":10
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":50
+              },
+              "count":10
+            }
+          },
+          "image":"61260ec7c649cc6a6429271e18c27497",
+          "has_products":false,
+          "address":"99/10 ตลาดชัชวาล ชั้น2 Tambon Bueng Kham Phroi, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.9739847395842778,
+        "dispensary":{
+          "id":"d3788e19-2fcd-4c89-821e-3b1b737b2f96",
+          "city":"Pathum Thani",
+          "name":"SayHigh @K-Space",
+          "types":[
+            
+          ],
+          "lat":13.9348318,
+          "lng":100.7303635,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":50
+              },
+              "count":10
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":50
+              },
+              "count":10
+            }
+          },
+          "image":"4748183be0b1992cd5657a15735d42ca",
+          "has_products":false,
+          "address":"ตลาดนัดกลางคืน K Space Night Market Thanon Lam Luk Ka, Tambon Bueng Kham Phroi, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12150, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.0881513798555145,
+        "dispensary":{
+          "id":"4f9cc9b1-1793-4574-a418-251fbbb05e84",
+          "city":"Pathum Thani",
+          "name":"Tdกันชา",
+          "types":[
+            
+          ],
+          "lat":13.9678487,
+          "lng":100.7389109,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"cf69ef8ee0e69464bdf1891b1e9311cf",
+          "has_products":false,
+          "address":"35/349 ม.3 ต.บึงคำพร้อย อ.ลำลูกกา Tambon Bueng Kham Phroi, ลำลูกกา Chang Wat Pathum Thani 12150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.7035317250419584,
+        "dispensary":{
+          "id":"fff83db7-d5d4-48f3-923a-a359c3c07697",
+          "city":"Pathum Thani",
+          "name":"Smile Happy Shop",
+          "types":[
+            
+          ],
+          "lat":13.9339717,
+          "lng":100.7215819,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"64 Thanon Lam Luk Ka, Tambon Bueng Kham Phroi, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":3.84548222073658,
+        "dispensary":{
+          "id":"4adb7115-7f2b-43a4-8e84-6f9ab253d52e",
+          "city":"Pathum Thani",
+          "name":"Sky High Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.98337,
+          "lng":100.7356779,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"18, 4 Soi Sudsawas Lieab, Tambon Bueng Kham Phroi, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":4.179397984563159,
+        "dispensary":{
+          "id":"88280123-8d65-4ff7-a840-118b709cfe67",
+          "city":"Pathum Thani",
+          "name":"ม.ฟ้าชมพฤกษ์1",
+          "types":[
+            
+          ],
+          "lat":13.9555672,
+          "lng":100.7792852,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":60
+              },
+              "count":14
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":7
+              },
+              "count":2
+            }
+          },
+          "image":"369b7d505776f92d624f6fbcf695247d",
+          "has_products":false,
+          "address":"89, 420 362, Tambon Lam Luk Ka, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":4.419745949601194,
+        "dispensary":{
+          "id":"7f1ff965-417c-4c2a-8d77-2d9d06bdf857",
+          "city":"Pathum Thani",
+          "name":"ร้านกัญชา Feel Good Cannabis",
+          "types":[
+            
+          ],
+          "lat":13.9207693,
+          "lng":100.7124895,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "image":"125bb02ef24a161952850c0e4d3626dd",
+          "has_products":false,
+          "address":"45 43 Tambon Bueng Kham Phroi, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":6.1205624793035645,
+        "dispensary":{
+          "id":"bfc8d16e-4f57-49db-9e69-4d3a30c0f72c",
+          "city":"Bangkok",
+          "name":"7.00 OG FARM",
+          "types":[
+            "Dispensary",
+            "Farm"
+          ],
+          "lat":13.9273686,
+          "lng":100.689052,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"0f31a37dbf709604ef71df49137f6703",
+          "has_products":false,
+          "address":"99 28 Soi Sai Mai 85, Khwaeng Sai Mai, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":6.186993014299498,
+        "dispensary":{
+          "id":"ff244928-bfff-4072-8b94-565ac1e10621",
+          "city":"Bangkok",
+          "name":"RHA CANNABIS FARM",
+          "types":[
+            
+          ],
+          "lat":13.8937607,
+          "lng":100.7460893,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"8ddea252f9fdb034d0352b6ac5f21a6c",
+          "has_products":false,
+          "address":"42/530 Khwaeng Sam Wa Tawan Ok, Khet Khlong Sam Wa, Krung Thep Maha Nakhon 10510, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":6.22017025433586,
+        "dispensary":{
+          "id":"003a8c8a-4348-4840-af81-5c2e9d553cd7",
+          "city":"Pathum Thani",
+          "name":"SayHigh Rangsit Cannabis Shop - ร้านกัญชาเซย์ไฮรังสิต (ลำลูกกา)",
+          "types":[
+            "Cafe",
+            "Grower",
+            "Club"
+          ],
+          "lat":13.9609825,
+          "lng":100.6847718,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":768
+              },
+              "count":154
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":768
+              },
+              "count":154
+            }
+          },
+          "image":"a796c95476a515a890bb199757ede9c2",
+          "has_products":false,
+          "address":"เลขที่ - หมู่บ้าน ตลาดกลาง XM6M+CM5, Lat Sawai, Lam Luk Ka District, Pathum Thani 12150, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":6.226396089800504,
+        "dispensary":{
+          "id":"56da77b6-92e4-4a9a-a547-f44306ff2ee3",
+          "city":"Pathum Thani",
+          "name":"Weeds Rocks",
+          "types":[
+            
+          ],
+          "lat":14.0051366,
+          "lng":100.7435731,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"80cfdf9638500b2dc3fd69ff02a08725",
+          "has_products":false,
+          "address":"11 77 Tambon Bueng Kham Phroi, Amphoe Lam Luk Ka, Chang Wat Pathum Thani 12150, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":6.235911575098198,
+        "dispensary":{
+          "id":"6878019b-5769-4eca-be63-7500658cf9b4",
+          "city":"Bangkok",
+          "name":"WeediesShop",
+          "types":[
+            
+          ],
+          "lat":13.9014926,
+          "lng":100.7107315,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"46 Soi Thai Raman, Khwaeng Sam Wa Tawan Tok, Khet Khlong Sam Wa, Krung Thep Maha Nakhon 10510, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":6.252252660436024,
+        "dispensary":{
+          "id":"4ef63095-e8ce-44bd-9254-aea45c7a0dec",
+          "city":"Pathum Thani",
+          "name":"SayHigh Rangsit Cannabis Shop - ร้านกัญชาเซย์ไฮรังสิต (ลำลูกกา)",
+          "types":[
+            "Dispensary",
+            "Cafe",
+            "Grower"
+          ],
+          "lat":13.9610069,
+          "lng":100.6844731,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":768
+              },
+              "count":154
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":768
+              },
+              "count":154
+            }
+          },
+          "image":"30cee9d2b556542b251f147605204fb1",
+          "has_products":false,
+          "address":"A11 52 หมู่ 5 ตลาดกลาง รังสิต Lat Sawai, Lam Luk Ka District, Pathum Thani 12150, Thailand",
+          "open":true
+        }
+      }
+    ]
+  }

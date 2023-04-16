@@ -1,0 +1,1127 @@
+{
+    "id":"107f4df9-5231-42ab-8cf5-88e052f146bd",
+    "lat": "13.7919944",
+    "lng": "100.5861111",
+    "city":"Bangkok",
+    "name":"Hi Grower ,BKK",
+    "type":null,
+    "business_images":[
+      "74f3b46aaeebf644b8b4b2f6adcad5ed",
+      "6b328a641c7de1af6682e4a29898cd6d",
+      "6a2290dfb275d37541593728edace020",
+      "d7f4524faf3bb914cb973b5a9a6425cc",
+      "3cd659d824052d9f582591b8d3fe7bc2",
+      "c95ccd7fc1f244461e6dde94e98971af"
+    ],
+    "google_images":[
+      "c71058499984a0ad212d5f1d8e7f8113",
+      "903b0e54cef622163fd58ba283d2a922",
+      "9113a45a7542c2d8566a894794543703",
+      "49692171ef9c057a95e9c1457cc83812",
+      "7e23bad69f0d163bcd0921f9c1c4859a",
+      "59eacd7a5daf55724f2c96581a120b25",
+      "a94f96178dd2710b78af5d713973ce93",
+      "88eda2843c5d0c05f47dd7b556d1d5c6"
+    ],
+    "status":"approved",
+    "website":"https://openlink.co/higrower",
+    "phone":"+66 92 824 6493",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1000"
+        },
+        "close":{
+          "day":1,
+          "time":"2000"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1000"
+        },
+        "close":{
+          "day":2,
+          "time":"2000"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1000"
+        },
+        "close":{
+          "day":3,
+          "time":"2000"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1000"
+        },
+        "close":{
+          "day":4,
+          "time":"2000"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1000"
+        },
+        "close":{
+          "day":5,
+          "time":"2000"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1000"
+        },
+        "close":{
+          "day":6,
+          "time":"2000"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1000"
+        },
+        "close":{
+          "day":0,
+          "time":"2000"
+        }
+      }
+    ],
+    "line":"save729",
+    "google_url":"https://maps.google.com/?cid=16626404469266793965",
+    "place_id":"PuVWE-f.TTzq5wNE9HJqBfoniBL",
+    "facebook":"https://web.facebook.com/panot.koonsombat",
+    "description":"Our family of farms grows artisan craft cannabis with a deep LOVE AND RESPECT for the plant.\n“We use SUSTAINABLE and natural materials from seed to sell.”\n\nHi Grower…เรื่องสมุนไพรไว้ใจผม\n1. We grow our flowers with only ORANIC fertilizer. เราปลูกดอกไม้ด้วยปุ๋ยอินทรีย์เท่านั้น\n2. We never use synthetic PESTICIDES.\nเราไม่เคยใช้ยาฆ่าแมลงสังเคราะห์\n3. We pay our famers a proper living wage.\nเราจ่ายค่าครองชีพที่เหมาะสมให้ชาวนาของเรา\n4. We use natural materials from seed to sale. เราใช้วัสดุจากธรรมชาติตั้งแต่เมล็ดพันธุ์จนถึงการขาย",
+    "products_flowers":[
+      {
+        "id":"961f3e50-548a-4617-be5f-9071ec8ccee8",
+        "name":"Sweat Helmet",
+        "description":"รสชาติ\nยาสูบ ,น้ำมันดีเซล ,สกั้งค์\n\nความรู้สึก\nง่วงนอน ,ผ่อนคลาย ,ตื่นเต้น",
+        "images":[
+          "1f9eb197f47ff95ddecd9027a17f0ab5"
+        ],
+        "thc":21,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-26T14:16:41.165331+00:00",
+        "updated_at":"2023-04-15T22:00:05.315912+00:00"
+      },
+      {
+        "id":"fdf35604-4955-486a-95ab-832c50f22585",
+        "name":"Afghan Skunk",
+        "description":"รสชาติ\nสกั้งค์ ,มิ้นต์ ,เปลือกไม้\nความรู้สึก\nง่วงนอน ,หิว ,ผ่อนคลาย",
+        "images":[
+          "a54c2aaaf62ba8c01fbd32c0031c2748"
+        ],
+        "thc":18,
+        "cbd":0,
+        "sativa":0,
+        "indica":100,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-26T14:50:35.114067+00:00",
+        "updated_at":"2023-04-15T22:00:05.380589+00:00"
+      },
+      {
+        "id":"6fc8273b-c6e6-45b2-a99a-bc027ff8c9ba",
+        "name":"Girl Scaut Cookics",
+        "description":"รสชาติ\nสิ้นสาระแน่ หวาน ฉุน\nความรู้สึก\nหิว มีความสุข หัวเราะ\n",
+        "images":[
+          "b5fd8fc29763ef6cd76058eefdb83bda"
+        ],
+        "thc":19,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-26T15:04:20.181057+00:00",
+        "updated_at":"2023-04-15T22:00:05.34593+00:00"
+      },
+      {
+        "id":"fcc9141c-2ea4-4f58-8cb7-4dfce81eeff6",
+        "name":"King’s Bread",
+        "description":"Flavors : Lemon ,Citus ,Sage\nFeelings : Creative ,Focused ,Energetic",
+        "images":[
+          "099ab49c72657a11698b3249fb0001a1"
+        ],
+        "thc":18,
+        "cbd":0,
+        "sativa":100,
+        "indica":0,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-26T15:10:21.039478+00:00",
+        "updated_at":"2023-04-15T22:00:05.364385+00:00"
+      },
+      {
+        "id":"5985b75f-0532-4b1a-bc69-9cd99197d489",
+        "name":"Oreo king",
+        "description":"รสชาติ\nวนิลา กาแฟ ควันบุหรี่\nความรู้สึก\nหิว ผ่อนคลาย มีความสุข",
+        "images":[
+          "06f0163a2bfef6b0d126cac6f1a877c2"
+        ],
+        "thc":20,
+        "cbd":0,
+        "sativa":0,
+        "indica":100,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-26T15:15:48.887895+00:00",
+        "updated_at":"2023-04-15T22:00:05.301131+00:00"
+      },
+      {
+        "id":"3c0e667b-8cf0-40f9-948d-a776f6dc63a9",
+        "name":"Lemon Jack",
+        "description":"Potential Effects\nร่าเริง ,กระฉับกระเฉง ,เพลิดเพลิน\nFlavors\nกลินเลมอน มิ้นต์ วานิลลา และเปลือกไม้สน",
+        "images":[
+          "9301af92ac5f81e1f7cf02e004197973"
+        ],
+        "thc":16,
+        "cbd":0,
+        "sativa":70,
+        "indica":30,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-26T15:20:12.69625+00:00",
+        "updated_at":"2023-04-15T22:00:05.319157+00:00"
+      },
+      {
+        "id":"5467f2b1-3072-413f-8964-d2e65879dcdc",
+        "name":"OG Kush ",
+        "description":"Potential Effects\nชวนกิน ,มีความสุข ,ผ่อนคลาย\nFlavors\nเปลือกส้ม ,เปลือกไม้สน",
+        "images":[
+          "4325882d67c1094126275f0ecee661b8"
+        ],
+        "thc":23,
+        "cbd":0,
+        "sativa":55,
+        "indica":45,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-26T15:22:53.037329+00:00",
+        "updated_at":"2023-04-15T22:00:05.304445+00:00"
+      },
+      {
+        "id":"2ddd50e0-ec72-4445-8316-e513a2c25b60",
+        "name":"Amnesia Haze",
+        "description":"รสชาติ\nมะนาว , ส้มเปรี้ยว\nความรู้สึก\nกระฉับกระเฉง ,ช่างพูด ,หัวเราะคิกคัก",
+        "images":[
+          "6f8e760491a00269da930a88ced33949"
+        ],
+        "thc":19,
+        "cbd":0,
+        "sativa":100,
+        "indica":0,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-26T15:28:53.812907+00:00",
+        "updated_at":"2023-04-15T22:00:05.351706+00:00"
+      },
+      {
+        "id":"0d30d15e-ef3f-40b8-9659-385a19fbbe7e",
+        "name":"Sugar Candy",
+        "description":"รสชาติ\nลูกอมรสน้ำตาล ,น้ำผึ้ง\nความรู้สึก\nช่างพูด ,หัวเราะคิกคัก ,ตื่นเต้น\n",
+        "images":[
+          "a1aedab7c7baad3f6d48f2f125c8b89f"
+        ],
+        "thc":22,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-26T15:36:18.844813+00:00",
+        "updated_at":"2023-04-15T22:00:05.334529+00:00"
+      }
+    ],
+    "products_seeds":[
+      {
+        "id":"b40cd95e-224c-4a41-bbac-279de6b3fb74",
+        "dispensary_id":"107f4df9-5231-42ab-8cf5-88e052f146bd",
+        "name":"Lemon Jack",
+        "description":"While Lemon Jack has yet to earn the reputation of its father, Jack Herer, this sativa deserves some respect. A potent strain featuring a distinct, chemical-like lemon smell, Lemon Jack has strong psychoactive effects.\n\nPatients who suffer from headaches and fatigue tend to find relief with this strain, though it may not be the best choice for those who suffer from anxiety.",
+        "images":[
+          "346be73b06081cbb1c87505d1b99ace7"
+        ],
+        "thc":18,
+        "cbd":0,
+        "sativa":70,
+        "indica":0,
+        "ruderals":0,
+        "images_coa":[
+          
+        ],
+        "flowering_type":"Feminized",
+        "indoor_yield_min":300,
+        "indoor_yield_max":500,
+        "indoor_height_min":40,
+        "indoor_height_max":80,
+        "outdoor_yield_min":300,
+        "outdoor_yield_max":500,
+        "outdoor_height_min":60,
+        "outdoor_height_max":120,
+        "flowering_time_min":6,
+        "flowering_time_max":7,
+        "harvest_time_min":9,
+        "harvest_time_max":10,
+        "genetic_background":"Jack Herer x Lemon Kush",
+        "effects":[
+          "Energetic",
+          "Focused",
+          "Talkatives"
+        ],
+        "flavors":[
+          "Lemon",
+          "Citrus",
+          "Chemical"
+        ],
+        "climate":"Moderate",
+        "created_at":"2023-03-26T21:24:50.947948+00:00",
+        "updated_at":"2023-04-15T22:00:05.415178+00:00"
+      }
+    ],
+    "products_prerolls":[
+      {
+        "id":"30141a37-0666-4886-a562-d6be236dff00",
+        "name":"Afghan Skunk",
+        "description":"รสชาติ\nสกั้งค์ ,มิ้นต์ ,เปลือกไม้\nความรู้สึก\nง่วงนอน ,หิว ,ผ่อนคลาย\n",
+        "images":[
+          "d0c81feaee94ffbbac51b50bbe036e40"
+        ],
+        "thc":18,
+        "cbd":0,
+        "sativa":30,
+        "indica":70,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-26T15:48:32.050394+00:00",
+        "updated_at":"2023-04-15T22:00:05.471022+00:00"
+      },
+      {
+        "id":"b5165aa1-4548-415e-916d-2d38a2fd32a8",
+        "name":"Girl Scaut Cookics",
+        "description":"สิ้นสาระแน่ หวาน ฉุน\nความรู้สึก\nหิว มีความสุข หัวเราะ",
+        "images":[
+          "b78e4f7efcef2393e994114f1af58331"
+        ],
+        "thc":19,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-26T15:52:14.103198+00:00",
+        "updated_at":"2023-04-15T22:00:05.43173+00:00"
+      },
+      {
+        "id":"0f7c8e99-5fab-4dc9-a0f5-25db31a05078",
+        "name":"King’s Bread",
+        "description":"Flavors : Lemon ,Citus ,Sage\nFeelings : Creative ,Focused ,Energetic\n",
+        "images":[
+          "60a7026e5097bd0e227d7790adabb8ab"
+        ],
+        "thc":18,
+        "cbd":0,
+        "sativa":100,
+        "indica":0,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-26T15:55:32.062472+00:00",
+        "updated_at":"2023-04-15T22:00:05.464539+00:00"
+      },
+      {
+        "id":"ffe009d1-0273-4929-8fdb-5ef6d2d645a1",
+        "name":"Sweat Helmet",
+        "description":"รสชาติ\nยาสูบ ,น้ำมันดีเซล ,สกั้งค์\nความรู้สึก\nง่วงนอน ,ผ่อนคลาย ,ตื่นเต้น",
+        "images":[
+          "51811c0a6fc01f3cb8f91095deb55c06"
+        ],
+        "thc":21,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-26T16:00:56.529252+00:00",
+        "updated_at":"2023-04-15T22:00:05.461191+00:00"
+      },
+      {
+        "id":"2c5cb42b-a7ff-4ffb-8ae9-431b2be41183",
+        "name":"Sugar Candy",
+        "description":"รสชาติ\nลูกอมรสน้ำตาล ,น้ำผึ้ง\nความรู้สึก\nช่างพูด ,หัวเราะคิกคัก ,ตื่นเต้น",
+        "images":[
+          "e5946f65571892769595840d3d19b544"
+        ],
+        "thc":22,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-26T16:05:05.247546+00:00",
+        "updated_at":"2023-04-15T22:00:05.467726+00:00"
+      },
+      {
+        "id":"cc964507-108a-475b-bff2-1deab13e5a42",
+        "name":"Oreo king ",
+        "description":"รสชาติ\nวนิลา กาแฟ ควันบุหรี่\nความรู้สึก\nหิว ผ่อนคลาย มีความสุข",
+        "images":[
+          "9f44e776126c84d72b3c3f055031a2c2"
+        ],
+        "thc":20,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-26T16:07:34.520674+00:00",
+        "updated_at":"2023-04-15T22:00:05.477281+00:00"
+      },
+      {
+        "id":"3e22bc11-06a0-4d0f-8da2-68e968f09c5f",
+        "name":"Lemon Jack",
+        "description":"ร่าเริง ,กระฉับกระเฉง ,เพลิดเพลิน\nFlavors\nกลินเลมอน มิ้นต์ วานิลลา และเปลือกไม้สน",
+        "images":[
+          "a92f2f85dfb695778b25f09a70df4031"
+        ],
+        "thc":16,
+        "cbd":0,
+        "sativa":70,
+        "indica":30,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-03-26T16:09:50.874022+00:00",
+        "updated_at":"2023-04-15T22:00:05.425973+00:00"
+      },
+      {
+        "id":"0f90a73a-798f-4c17-a977-9688a84f76f4",
+        "name":"OG Kush ",
+        "description":"Potential Effects\nชวนกิน ,มีความสุข ,ผ่อนคลาย\nFlavors\nเปลือกส้ม ,เปลือกไม้สน",
+        "images":[
+          "7e2895bd7a1c8a93d5649155ebe429d3"
+        ],
+        "thc":23,
+        "cbd":0,
+        "sativa":55,
+        "indica":45,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-26T16:12:00.982319+00:00",
+        "updated_at":"2023-04-15T22:00:05.440734+00:00"
+      },
+      {
+        "id":"9939dc75-5a5c-4435-978b-bbd73023670c",
+        "name":"Amnesia Haze",
+        "description":"กรสชาติ\nมะนาว , ส้มเปรี้ยว\nความรู้สึก\nกระฉับกระเฉง ,ช่างพูด ,หัวเราะคิกคั",
+        "images":[
+          "e5885634de69fdba2eadb1155f6d5be6"
+        ],
+        "thc":19,
+        "cbd":0,
+        "sativa":100,
+        "indica":0,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-03-26T16:14:30.558754+00:00",
+        "updated_at":"2023-04-15T22:00:05.421545+00:00"
+      }
+    ],
+    "products_edibles":[
+      {
+        "id":"9efaab35-fdd8-4151-a1e6-48f81405a235",
+        "name":"DRIED NATURAL BANANA",
+        "description":"กล้วยตาก 1 แพ็ค\nบรรจุ 3 กล่องเล็ก\nOur family of farms grows artisan craft Banana with a deep LOVE AND RESPECT for the plant.",
+        "images":[
+          "794123652a2eeb8aab2605b8f4345c99"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "disabled":false,
+        "created_at":"2023-03-26T17:06:52.865379+00:00",
+        "updated_at":"2023-04-15T22:00:05.409101+00:00"
+      },
+      {
+        "id":"f167e9c6-236d-45bd-bb9b-298b1bbc6a71",
+        "name":"Dried natural banana",
+        "description":"กล้วยตาก 1 แพ็ค\nบรรจุ 5 กล่องเล็ก\nOur family of farms grows artisan craft Banana with a deep LOVE AND RESPECT for the plant.",
+        "images":[
+          "ccd813bb8659ecd9cac107968ec26926"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "disabled":false,
+        "created_at":"2023-03-26T17:14:07.969527+00:00",
+        "updated_at":"2023-04-15T22:00:05.397679+00:00"
+      },
+      {
+        "id":"cb3f29d6-f33f-49bb-9219-080bedaccfe5",
+        "name":"Hemp root plum wine",
+        "description":"เหล้าบ๋วยรากกัญชา \n\nผลิตภัณฑ์จากชุมชนหนองโป่ง จ.สุพรรณบุรี\nโดยการใช้วัตถุดิบจากธรรมชาติ \nเหล้าจากข้าวโพด\nรากกัญชา\nน้ำผึ้งเดือน5 \nบ๋วยดอง\n\nWe use SUSTAINABLE and natural materials FROM SEED TO SALE.\n\n1. We grow our flowers with only ORANIC fertilizer.\nเราปลูกดอกไม้ด้วยปุ๋ยอินทรีย์เท่านั้น\n2. We never use synthetic PESTICIDES.\nเราไม่เคยใช้ยาฆ่าแมลงสังเคราะห์\n3. We pay our famers a proper living wage.\nเราจ่ายค่าครองชีพที่เหมาะสมให้ชาวนาของเรา\n4. We use natural materials from seed to sale.\nเราใช้วัสดุจากธรรมชาติตั้งแต่เมล็ดพันธุ์จนถึงการขาย",
+        "images":[
+          "78401015631288f2aac0bfa2a59d5a40"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "disabled":false,
+        "created_at":"2023-03-26T17:18:36.272242+00:00",
+        "updated_at":"2023-04-15T22:00:05.40328+00:00"
+      },
+      {
+        "id":"9031ae6c-8ff8-4191-933a-21f0ef92c6c7",
+        "name":"Hemp Root Banana Liquor",
+        "description":"เหล้ากล้วยรากกัญชา \n\nผลิตภัณฑ์จากชุมชนหนองโป่ง จ.สุพรรณบุรี\nโดยการใช้วัตถุดิบจากธรรมชาติ \nเหล้าจากข้าวโพด\nรากกัญชา\nน้ำผึ้งเดือน5 \nกล้วยตากแบบธรรมชาติ\n\nWe use SUSTAINABLE and natural materials FROM SEED TO SALE.\n\n1. We grow our flowers with only ORANIC fertilizer.\nเราปลูกดอกไม้ด้วยปุ๋ยอินทรีย์เท่านั้น\n2. We never use synthetic PESTICIDES.\nเราไม่เคยใช้ยาฆ่าแมลงสังเคราะห์\n3. We pay our famers a proper living wage.\nเราจ่ายค่าครองชีพที่เหมาะสมให้ชาวนาของเรา\n4. We use natural materials from seed to sale.\nเราใช้วัสดุจากธรรมชาติตั้งแต่เมล็ดพันธุ์จนถึงการขาย",
+        "images":[
+          "06de8051b1f67c7073b4b5a10c46404a"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "disabled":false,
+        "created_at":"2023-03-26T17:21:12.987169+00:00",
+        "updated_at":"2023-04-15T22:00:05.38655+00:00"
+      },
+      {
+        "id":"989536aa-c3c8-43b2-a096-4a52097b7d17",
+        "name":"Kief",
+        "description":"Our family of farms grows artisan craft cannabis with a deep LOVE AND RESPECT for the plant. ",
+        "images":[
+          "859b79b79ac7bb1a024ebe941429087b"
+        ],
+        "thc":30,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "disabled":false,
+        "created_at":"2023-03-26T17:23:57.140394+00:00",
+        "updated_at":"2023-04-15T22:00:05.391801+00:00"
+      }
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"Nuttaporn Navy",
+        "avatar":"761ba500c4d35104774f0666fc3a233d",
+        "content":"",
+        "review_date":"2021-06-04T02:21:27.012+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105706789662587412473?hl=en-US"
+      },
+      {
+        "author":"Sirasith Prasitmeeboon",
+        "avatar":"1cf661c8da73eeac8c2db7420ebaf244",
+        "content":"ขอขอบคุณเพจhi stranger สำหรับความทุ่มเทและรูปภาพสวยๆ ทำให้ผมสามารถนำภาพมาต่อยอดทางธุรกิจได้อีกมาก แม้จะเป็นการทำกิจกรรมการกุศลก็ตาม แต่งานก็เต็ม100จริงๆ\n\n(Translated by Google)\nThank you page hi stranger for the dedication and beautiful pictures. Allows me to bring more pictures to expand my business. even if it is a charity activity But the work is really 100 full.",
+        "review_date":"2021-06-25T17:31:08.072+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107789865100434786629?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":10
+        },
+        "count":2
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.7471191142765905,
+        "dispensary":{
+          "id":"5e58bf69-17db-41e1-88d3-c5904f30772e",
+          "city":"Bangkok",
+          "name":"weedbhavadi.bkk",
+          "types":[
+            
+          ],
+          "lat":13.7868131,
+          "lng":100.5817064,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"1/16-17 Samsen Nok, Huai Khwang, Bangkok 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.7731194927101253,
+        "dispensary":{
+          "id":"28bd0159-7482-4fa7-8392-73cab3bd60e1",
+          "city":"Bangkok",
+          "name":"Get High By JONE",
+          "types":[
+            
+          ],
+          "lat":13.7855226,
+          "lng":100.5834945,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"99 Soi 20 Mithuna, Lane 9, Khwaeng Samsen Nok, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.7731258961084176,
+        "dispensary":{
+          "id":"6645614f-1dbb-49f8-9bef-76187859fba5",
+          "city":"Bangkok",
+          "name":"High Jone",
+          "types":[
+            
+          ],
+          "lat":13.7855225,
+          "lng":100.5834946,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"99 Soi 20 Mithuna, Lane 9, Khwaeng Samsen Nok, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.8011507576979203,
+        "dispensary":{
+          "id":"016e5ba5-2603-4d91-af08-a76d6450fbee",
+          "city":"Bangkok",
+          "name":"Weed24hrsกัญชาราคาถูกพร้อมส่ง https://line.me/ti/p/x7kiDJ0hAi",
+          "types":[
+            "Delivery",
+            "Grower"
+          ],
+          "lat":13.7861827,
+          "lng":100.5817262,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"4029525d035200ddb7ac486f05df1e6c",
+          "has_products":false,
+          "address":"11 @tree Samsen Nok, Huai Khwang, Bangkok 10310, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.8178887703547807,
+        "dispensary":{
+          "id":"1cbfd546-8a84-4bb1-9a80-e49356d79f33",
+          "city":"Bangkok",
+          "name":"Treekings OG",
+          "types":[
+            "Cafe",
+            "Delivery"
+          ],
+          "lat":13.7989395,
+          "lng":100.5886055,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "image":"c7571800fb8466e8408a627384092669",
+          "has_products":false,
+          "address":"1737 31 Soi Ruam Chai Thai Yiam, Khwaeng Samsen Nok, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.90623307091492,
+        "dispensary":{
+          "id":"42c35fd4-acb2-4b49-9ee5-3788fea5dba6",
+          "city":"Bangkok",
+          "name":"Trillion Farm (Bangkok) Co.,Ltd.",
+          "types":[
+            "Farm",
+            "Wholesaler",
+            "Grower",
+            "Delivery"
+          ],
+          "lat":13.7863314,
+          "lng":100.5800761,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":62
+              },
+              "count":13
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":62
+              },
+              "count":13
+            }
+          },
+          "image":"19863ed3171b63dd4e8aa1525dabace6",
+          "has_products":false,
+          "address":"229 Hussadisevi, Khwaeng Huai Khwang, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.2211219549857348,
+        "dispensary":{
+          "id":"1eac3566-5ef6-4cb4-b514-1a44a4a21244",
+          "city":"Bangkok",
+          "name":"City Jungle Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.7880254,
+          "lng":100.5755677,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"Room No. 105, 69 Soi Udom Suk, Khwaeng Huai Khwang, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.232838348400641,
+        "dispensary":{
+          "id":"7f8bf480-95eb-4a42-8a6c-849c3ab84277",
+          "city":"Bangkok",
+          "name":"Mr.Cannabis Ratchada",
+          "types":[
+            "Cafe",
+            "Dispensary"
+          ],
+          "lat":13.7892458,
+          "lng":100.5750512,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "image":"7d2ddccddf7bbf6a9e3ce6051e3d7563",
+          "has_products":false,
+          "address":"1298 Soi Udom Suk, Khwaeng Huai Khwang, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.3436546108300491,
+        "dispensary":{
+          "id":"35d0ae12-275f-4d18-8d2b-2da92478cfb3",
+          "city":"Bangkok",
+          "name":"Cannakacha",
+          "types":[
+            
+          ],
+          "lat":13.7845185,
+          "lng":100.5763358,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"238, 30 Soi Ratchadaphisek 18, Khwaeng Huai Khwang, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":1.3709767814275688,
+        "dispensary":{
+          "id":"8616e532-6ab9-4456-bd3f-7662e6900fd3",
+          "city":"Bangkok",
+          "name":"OrganicWeed-Delivery",
+          "types":[
+            "Delivery"
+          ],
+          "lat":13.7853703,
+          "lng":100.5754036,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":371
+              },
+              "count":75
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":371
+              },
+              "count":75
+            }
+          },
+          "image":"c55888ea463e3527945256a2a1b91ad5",
+          "has_products":false,
+          "address":"Organic Weed Khwaeng Samsen Nok, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.4137249956512696,
+        "dispensary":{
+          "id":"0a0df90b-16af-44b7-8ead-195f18f026f8",
+          "city":"Bangkok",
+          "name":"HighBis Cafe",
+          "types":[
+            
+          ],
+          "lat":13.7914462,
+          "lng":100.5730319,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":100
+              },
+              "count":20
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":100
+              },
+              "count":20
+            }
+          },
+          "image":"6ad1afeb07f7c00257384c7080bd17fb",
+          "has_products":false,
+          "address":"259, 259 Soi Sutthiphong 1, Khwaeng Din Daeng, Khet Din Daeng, Krung Thep Maha Nakhon 10400, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.4319256836322602,
+        "dispensary":{
+          "id":"95c3b332-a8c7-46a8-a83f-8a4c9ba6b8e3",
+          "city":"Bangkok",
+          "name":"Sweed love",
+          "types":[
+            
+          ],
+          "lat":13.7872132,
+          "lng":100.5737991,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":51
+              },
+              "count":11
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":51
+              },
+              "count":11
+            }
+          },
+          "image":"ec22437498f95a2cab504cd86aea328c",
+          "has_products":false,
+          "address":"โครงการเดอะกลาสเฮาส์ Soi Ratchadaphisek 17, Khwaeng Din Daeng, Khet Din Daeng, Krung Thep Maha Nakhon 10400, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.4333829865932486,
+        "dispensary":{
+          "id":"bf83035b-def5-4703-93cc-232333c68eda",
+          "city":"Bangkok",
+          "name":"Sweed love",
+          "types":[
+            
+          ],
+          "lat":13.7872175,
+          "lng":100.5737828,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":51
+              },
+              "count":11
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":51
+              },
+              "count":11
+            }
+          },
+          "image":"ec22437498f95a2cab504cd86aea328c",
+          "has_products":false,
+          "address":"Soi Ratchadaphisek 17, Khwaeng Din Daeng, Khet Din Daeng, Krung Thep Maha Nakhon 10400, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.5222703928551349,
+        "dispensary":{
+          "id":"2e620521-07b5-43e5-a8a4-99e592efdfbe",
+          "city":"Bangkok",
+          "name":"WeedandVase",
+          "types":[
+            
+          ],
+          "lat":13.7783112,
+          "lng":100.5865588,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"63, 7 Pracha Rat Bamphen Rd, Khwaeng Samsen Nok, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.535097277299149,
+        "dispensary":{
+          "id":"c51a96f6-f415-4f74-92d6-f03210bf6dbc",
+          "city":"Bangkok",
+          "name":"Cannabis​ OG(กัญชา​ ใบกระท่อม)​",
+          "types":[
+            
+          ],
+          "lat":13.7811172,
+          "lng":100.5773573,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":15
+              },
+              "count":3
+            }
+          },
+          "has_products":false,
+          "address":"585 ห้วยขวาง Huai Khwang, Bangkok 10310, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

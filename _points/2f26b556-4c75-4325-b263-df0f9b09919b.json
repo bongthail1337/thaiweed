@@ -1,0 +1,1033 @@
+{
+    "id":"2f26b556-4c75-4325-b263-df0f9b09919b",
+    "lat": "13.8080315",
+    "lng": "100.5965665",
+    "city":"Bangkok",
+    "name":"Weed Walker",
+    "type":null,
+    "business_images":[
+      "5d9def0adf6057112385f0598a25fcde",
+      "d1425edd4b4794f707e0da399e951b3d"
+    ],
+    "google_images":[
+      "c80aef6da9e8a64cb50713c4aa2894c5",
+      "224c6e85a0bfc6db294c68e1ed08a126",
+      "7690adedb749042ff61f02bad86872ec",
+      "4f860aec9f8a8c8c84f978fe3fe42bcf",
+      "1fbb9ff6bb142c7d278911e8b7673d2f"
+    ],
+    "status":"approved",
+    "website":"https://maps.app.goo.gl/FHNN4RZ21SHBdf9t9",
+    "phone":"+66952899153",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"0900"
+        },
+        "close":{
+          "day":1,
+          "time":"0400"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"0900"
+        },
+        "close":{
+          "day":2,
+          "time":"0400"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"0900"
+        },
+        "close":{
+          "day":3,
+          "time":"0400"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"0900"
+        },
+        "close":{
+          "day":4,
+          "time":"0400"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"0900"
+        },
+        "close":{
+          "day":5,
+          "time":"0400"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"0900"
+        },
+        "close":{
+          "day":6,
+          "time":"0400"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"0900"
+        },
+        "close":{
+          "day":0,
+          "time":"0400"
+        }
+      }
+    ],
+    "line":"@weedwalker",
+    "google_url":"https://maps.google.com/?cid=771363355682481082",
+    "place_id":"PuVWK82Fr1Fs5wNEhvZ4zBWhgNb",
+    "facebook":"https://www.facebook.com/weedwalker.th/",
+    "description":"Cannabis Thai Grower & Canada\nMedical Cannabis From Taratera\n& Demon High (Thai Grower)\nEdible / CBD Oil\n\n* THE PRICE HAVE BEEN TRUE PRICE !!! *\n** MAY THE FORCE BE WITH YOU **\n*** WELCOME TO THAILAND ***\n\n#Lightworker\n\nLine ID : @weedwalker\nWhatapps : +66952899153",
+    "products_flowers":[
+      {
+        "id":"166c109e-46b9-4773-9782-0051ceb9ca4d",
+        "name":"SENSI DAWG",
+        "description":"Rich tropical fruity sweet, earthy medicinal herb and musk of summer rainforest be your royal companion through thick and thin.",
+        "images":[
+          "7f57d26e7396af2b87e8bc9a72c90347"
+        ],
+        "thc":34,
+        "cbd":1,
+        "sativa":70,
+        "indica":30,
+        "images_coa":[
+          "https://cdn.filestackcontent.com/YGBnmX6VTwG39WOWfqxt"
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2023-04-04T17:12:24.550872+00:00",
+        "updated_at":"2023-04-15T20:00:16.600533+00:00"
+      },
+      {
+        "id":"96c6eec0-20dc-4a4a-9532-23761b7a4651",
+        "name":"PAINKILLER",
+        "description":"A secret to any good night sleep start with yhe relaximg wuth floral terpenes of this coveted relative of OG known for its potent alleviating effects.",
+        "images":[
+          "c71fff8dbc84aaec0f72c0fd83a73016"
+        ],
+        "thc":21,
+        "cbd":0,
+        "sativa":30,
+        "indica":70,
+        "images_coa":[
+          "https://cdn.filestackcontent.com/MMEpYbCRRHuvhJ6Qjodv"
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2023-04-04T17:20:11.076649+00:00",
+        "updated_at":"2023-04-15T20:00:16.618859+00:00"
+      },
+      {
+        "id":"f4080ef3-83e2-4fd4-be7a-8efa4c073d28",
+        "name":"OREO COOKIE",
+        "description":"** Exotic From Canada **\nTiming : After Work\nFlavor : Tobacco, Vanilla, Coffee\nEffect : Hungry, Relaxed, Happy\nHelp With : Headche, Paranoid, Anxious",
+        "images":[
+          "394a879f2c3507e0afa2060f95baa0d8"
+        ],
+        "thc":20,
+        "cbd":0,
+        "sativa":30,
+        "indica":70,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-04-04T17:55:38.171352+00:00",
+        "updated_at":"2023-04-15T20:00:16.588421+00:00"
+      },
+      {
+        "id":"a0e18ac1-b372-4cb9-a2ba-fbe35532f88e",
+        "name":"WEDDING CREAMISU",
+        "description":"Unknown",
+        "images":[
+          "4b86e1a60084637b5f4f1fae2d5ee8b7"
+        ],
+        "thc":26,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-04-04T18:06:34.34937+00:00",
+        "updated_at":"2023-04-15T20:00:16.612699+00:00"
+      },
+      {
+        "id":"662b42d8-e192-4300-bfa1-f7613bc74a9b",
+        "name":"ALIEN BREATH",
+        "description":"Best Seller !!!\nFruity Flavor with High Potency.",
+        "images":[
+          "a165a0d1dcfa576762b0024bae80da37"
+        ],
+        "thc":27,
+        "cbd":0,
+        "sativa":65,
+        "indica":35,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-04-04T18:17:58.973642+00:00",
+        "updated_at":"2023-04-15T20:00:16.624841+00:00"
+      },
+      {
+        "id":"50b7d7f2-90bc-43c6-a5c0-a4e84bbfbb8d",
+        "name":"MAC N CHEESE",
+        "description":"The one of Best Seller!\nFor someine who want to be alone.",
+        "images":[
+          "38343bc100a5a543f704a0e5ada3e9e3"
+        ],
+        "thc":26,
+        "cbd":0,
+        "sativa":40,
+        "indica":60,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-04-04T18:20:45.687319+00:00",
+        "updated_at":"2023-04-15T20:00:16.594503+00:00"
+      },
+      {
+        "id":"377f89ce-ace4-44ba-9d65-83b19748970f",
+        "name":"AMG",
+        "description":"The Best one for creative!",
+        "images":[
+          "701ee71b28978bc300a1848e6b1fc36f"
+        ],
+        "thc":27,
+        "cbd":0,
+        "sativa":80,
+        "indica":20,
+        "images_coa":[
+          
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-04-04T18:23:59.692583+00:00",
+        "updated_at":"2023-04-15T20:00:16.584901+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      {
+        "id":"5db78927-74c6-4724-96df-19fc857c564f",
+        "name":"Topshelf 2A (Indoor)",
+        "description":"Made from popcorn of Topshelf",
+        "images":[
+          "1c7e1e4742a7eb6bc2a2ba11025769f3"
+        ],
+        "thc":25,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "quality":"AA",
+        "disabled":false,
+        "created_at":"2023-04-04T18:11:42.94558+00:00",
+        "updated_at":"2023-04-15T20:00:16.655213+00:00"
+      }
+    ],
+    "products_edibles":[
+      {
+        "id":"2d2992b1-5426-445b-8ef9-82e73c475300",
+        "name":"Gummy - Trolli",
+        "description":"For Beginner",
+        "images":[
+          "3c7d0dec9f04d6254d691af594bd2a63"
+        ],
+        "thc":10,
+        "cbd":0,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          
+        ],
+        "disabled":false,
+        "created_at":"2023-04-04T17:36:49.236854+00:00",
+        "updated_at":"2023-04-15T20:00:16.631215+00:00"
+      }
+    ],
+    "products_topicals":[
+      {
+        "id":"7ad2a5c0-f97a-4bb3-82a0-3094774ccba9",
+        "name":"DIIP CBD OIL",
+        "description":"10 dose for 1 pack",
+        "images":[
+          "cdf51e46b9356e7855a7ee028da099fd"
+        ],
+        "thc":0,
+        "cbd":30,
+        "images_coa":[
+          
+        ],
+        "disabled":false,
+        "created_at":"2023-04-04T17:46:04.748851+00:00",
+        "updated_at":"2023-04-15T20:00:16.66723+00:00"
+      }
+    ],
+    "products_gear":[
+      {
+        "id":"a207c8e6-507c-4461-8e18-4d13f091f34a",
+        "name":"BONG - ALIEN EYES",
+        "description":"Good grade quality.",
+        "images":[
+          "f48c47411de1bccf39aca45e79f245e4"
+        ],
+        "disabled":false,
+        "created_at":"2023-04-04T17:32:17.579102+00:00",
+        "updated_at":"2023-04-15T20:00:16.64345+00:00"
+      }
+    ],
+    "products_misc":[
+      {
+        "id":"776f08d7-5e27-4abf-b891-d0c38602aeab",
+        "name":"WEED WALKER T-SHIRT",
+        "description":"AVAILABLE NOW !!!\nS, M, L, XL, XXL",
+        "images":[
+          "6da55919fd948fe576a2bb5a742029ad",
+          "439c4369e2e0c049be98cd7c6527ba75",
+          "2c3a7ab3bf3cad981f0636997a52a793"
+        ],
+        "disabled":false,
+        "created_at":"2023-04-04T17:42:22.943518+00:00",
+        "updated_at":"2023-04-15T20:00:16.649138+00:00"
+      }
+    ],
+    "reviews":[
+      {
+        "author":"Yakuichi Yamaguchi",
+        "avatar":"bef6fd4d92f13c653b6fac4c699dbafc",
+        "content":"Best Marijuana",
+        "review_date":"2023-03-27T13:38:28.922+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102019721746739501399?hl=en-US"
+      },
+      {
+        "author":"Mo pig pink",
+        "avatar":"fde0b49bbd2c23ad93a129699222f004",
+        "content":"",
+        "review_date":"2023-03-27T13:39:35.325+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102271615809902031018?hl=en-US"
+      },
+      {
+        "author":"스마일smindle",
+        "avatar":"075d862dc202bcd42f1dfd792fbc209a",
+        "content":"",
+        "review_date":"2021-02-25T13:03:53.251+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103532452696600793992?hl=en-US"
+      },
+      {
+        "author":"ดาเนียล สมบุญยิ่ง",
+        "avatar":"78b555d2fcd9ba81a9b66a3822c3d50d",
+        "content":"I Love Caesar",
+        "review_date":"2023-03-27T13:42:25.32+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103667761431237797851?hl=en-US"
+      },
+      {
+        "author":"Dream Da",
+        "avatar":"18bdc25a3a05fe59c42dff7b96cd7807",
+        "content":"Nice coffee. Nice cafe.",
+        "review_date":"2023-03-27T13:43:38.28+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105417645109787681353?hl=en-US"
+      },
+      {
+        "author":"ณัฐพล วรรุจิ",
+        "avatar":"825ce819c68ec33916c42242171f448b",
+        "content":"",
+        "review_date":"2023-04-01T05:25:26.726+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106315091761287258116?hl=en-US"
+      },
+      {
+        "author":"Ncckaz",
+        "avatar":"d8d419afc5f3976acd4fa1a28624edac",
+        "content":"Good Weed\nGreat Cannabis Store\nNice for foreigner",
+        "review_date":"2021-02-25T18:37:45.222+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108654240114183619849?hl=en-US"
+      },
+      {
+        "author":"CyberAssets Official",
+        "avatar":"b3000f10db9046ebedeaf75b19e647e4",
+        "content":"Very Nice Cannabis",
+        "review_date":"2023-03-27T13:35:29.076+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108956056052390448917?hl=en-US"
+      },
+      {
+        "author":"S.thanit story",
+        "avatar":"17a486ec38eba931a867104efc37dc99",
+        "content":"บริการดี..ทุกระดับประทับใจ\n\n(Translated by Google)\nGood service..all levels are impressive",
+        "review_date":"2023-04-01T05:27:44.18+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110304824530406951501?hl=en-US"
+      },
+      {
+        "author":"fox riverrun",
+        "avatar":"dc5ca7f01bea1a7990c574e92701a6b4",
+        "content":"",
+        "review_date":"2021-02-25T13:00:05.179+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110907550071031233855?hl=en-US"
+      },
+      {
+        "author":"THEPTAT CHAIMART",
+        "avatar":"ff37ac0c8bf5ea5c62e8871b0fce64e8",
+        "content":"",
+        "review_date":"2023-03-27T13:34:57.467+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112895996255553347034?hl=en-US"
+      },
+      {
+        "author":"สายลม บางเบา",
+        "avatar":"05f80644c94d20e42b8cec6521f099d9",
+        "content":"",
+        "review_date":"2023-04-01T05:26:10.23+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112923276215210681606?hl=en-US"
+      },
+      {
+        "author":"998 topup",
+        "avatar":"5a57d144f7266b50d22eec5b998dae16",
+        "content":"He is MASTER OF CANNABIS",
+        "review_date":"2023-03-27T13:36:26.093+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112923677837790907866?hl=en-US"
+      },
+      {
+        "author":"Livestars Thailand",
+        "avatar":"4b8e0d178d832fd7378d80534c360b03",
+        "content":"Appreciate. Master of Cannabis",
+        "review_date":"2023-03-27T13:41:50.754+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113948476321830414640?hl=en-US"
+      },
+      {
+        "author":"Bee Patcharakajonrot (Bee)",
+        "avatar":"2814be133d125b4481a8d1986623ca67",
+        "content":"",
+        "review_date":"2021-03-02T09:04:00.516+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114718358047438640822?hl=en-US"
+      },
+      {
+        "author":"Theptat Chaimart",
+        "avatar":"a3c105d41a0a511334a8cc7c4ddbf64e",
+        "content":"MAY THE FORCE BE WITH YOU!",
+        "review_date":"2023-03-27T13:40:56.82+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115817333824221954822?hl=en-US"
+      },
+      {
+        "author":"Steve Young",
+        "avatar":"1cf661c8da73eeac8c2db7420ebaf244",
+        "content":"The Best Dispensary in Ladprao",
+        "review_date":"2023-03-27T13:37:37.732+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/116390788455707672896?hl=en-US"
+      },
+      {
+        "author":"Thanapat Apijindakul",
+        "avatar":"ac63511e7521408007bec2615e0c02bb",
+        "content":"May the force be with you.",
+        "review_date":"2023-03-19T20:20:17.115+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/116993706756255194519?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":90
+        },
+        "count":18
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.019087528348560107,
+        "dispensary":{
+          "id":"1acdc458-254f-4100-a859-2bdd2ecf64d4",
+          "city":"Bangkok",
+          "name":"Arijuana โชคชัย4",
+          "types":[
+            
+          ],
+          "lat":13.8081847,
+          "lng":100.5965508,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":60
+              },
+              "count":12
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":60
+              },
+              "count":12
+            }
+          },
+          "image":"a187c25a9f5f47b660dcf24f5e1a4078",
+          "has_products":false,
+          "address":"302 Chok Chai 4 Soi 28, ลาดพร้าว Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.1587739642714226,
+        "dispensary":{
+          "id":"40d1b036-f451-4db2-b4a8-2181f67f1579",
+          "city":"Bangkok",
+          "name":"Nom-Nua โชคชัย 4",
+          "types":[
+            
+          ],
+          "lat":13.8093814,
+          "lng":100.5961518,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":532
+              },
+              "count":130
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":16
+              },
+              "count":5
+            }
+          },
+          "image":"ac6f1c44c86f7ebe28430d3ff64c8456",
+          "has_products":false,
+          "address":"35 11 Thanon Chok Chai 4, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.4589954766372873,
+        "dispensary":{
+          "id":"155514ab-ede7-4021-a023-9eb8968d290f",
+          "city":"Bangkok",
+          "name":"162 CBD CAFE สาขา โชคชัย4",
+          "types":[
+            
+          ],
+          "lat":13.8038942,
+          "lng":100.5968211,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":9
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"202 Thanon Lat Phrao Wanghin, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.0298740454991646,
+        "dispensary":{
+          "id":"930178ef-faf7-4440-83e2-d6285148250c",
+          "city":"Bangkok",
+          "name":"Ganchiva Chokchai 420 Farm",
+          "types":[
+            "Farm",
+            "Wholesaler",
+            "Grower"
+          ],
+          "lat":13.817272,
+          "lng":100.596902,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"babe02384f4edeecd15a7eaa0c2c1066",
+          "has_products":false,
+          "address":"12 Chok Chai 4 Soi 60, Lat Phrao, Bangkok 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.3266468815778554,
+        "dispensary":{
+          "id":"1cbfd546-8a84-4bb1-9a80-e49356d79f33",
+          "city":"Bangkok",
+          "name":"Treekings OG",
+          "types":[
+            "Cafe",
+            "Delivery"
+          ],
+          "lat":13.7989395,
+          "lng":100.5886055,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "image":"c7571800fb8466e8408a627384092669",
+          "has_products":false,
+          "address":"1737 31 Soi Ruam Chai Thai Yiam, Khwaeng Samsen Nok, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.3412819668100302,
+        "dispensary":{
+          "id":"1e0de765-e116-4c36-9a8d-1f5d9c016ef2",
+          "city":"Bangkok",
+          "name":"Zean Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.8193929,
+          "lng":100.5924538,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":20
+              },
+              "count":4
+            }
+          },
+          "image":"dbc200ed7a75da8336e1a7d0aec06096",
+          "has_products":false,
+          "address":"10 Lat Phrao Wang Hin Soi 5 0, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.6163620358989257,
+        "dispensary":{
+          "id":"855baeb6-423a-4ec3-8617-c9e94e3ff98b",
+          "city":"Bangkok",
+          "name":"Villa Kush",
+          "types":[
+            
+          ],
+          "lat":13.797561,
+          "lng":100.6069803,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "image":"82a5ba4598aaffffb08ad07b23d6d1c3",
+          "has_products":false,
+          "address":"43, 58 Soi Lat Phrao 71, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.61721244146039,
+        "dispensary":{
+          "id":"cd253fb0-86ad-480a-8f24-fa462c6d0b69",
+          "city":"Bangkok",
+          "name":"Villa Kush",
+          "types":[
+            "Dispensary",
+            "Cafe",
+            "Bar"
+          ],
+          "lat":13.7975529,
+          "lng":100.606983,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "image":"92f753242ce8a7f0a9a5fa6fdf672a73",
+          "has_products":true,
+          "address":"43 58 Thanon Nak Niwat, แขวง Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.732959571361786,
+        "dispensary":{
+          "id":"9b8c98a9-9403-408a-85bd-224cda20d017",
+          "city":"Bangkok",
+          "name":"WEED AGRITECH CO.,LTD.",
+          "types":[
+            
+          ],
+          "lat":13.8215675,
+          "lng":100.6045053,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"81, 72 Thanon Chok Chai 4, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.8173907126789917,
+        "dispensary":{
+          "id":"5c3b8963-5919-43c6-b953-89c49a3ec9c1",
+          "city":"Bangkok",
+          "name":"Innoleaf plus",
+          "types":[
+            
+          ],
+          "lat":13.8150655,
+          "lng":100.5813955,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"c6acccada6b2025201ccd3c35ef02969",
+          "has_products":false,
+          "address":"32 188 จันทรเกษม Khwaeng Chan Kasem, จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.99277479531572,
+        "dispensary":{
+          "id":"61ce9efe-bde7-4011-85ac-2547fc712068",
+          "city":"Bangkok",
+          "name":"GodBlazed Cannabis Delivery",
+          "types":[
+            
+          ],
+          "lat":13.8042051,
+          "lng":100.6146127,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"69 Pradit Manutham Rd, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.0869029858313812,
+        "dispensary":{
+          "id":"68e14fc6-fdd4-46fa-9a66-4236fe3b8f98",
+          "city":"Bangkok",
+          "name":"Four Twenty Dispensary",
+          "types":[
+            
+          ],
+          "lat":13.8027159,
+          "lng":100.6151198,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"69/3 ถ. ประดิษฐ์มนูธรรม Bangkok 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.100475334838928,
+        "dispensary":{
+          "id":"73359f43-45db-4e46-8098-2068003aa008",
+          "city":"Bangkok",
+          "name":"M.Y.Cannabis",
+          "types":[
+            
+          ],
+          "lat":13.8236339,
+          "lng":100.5856382,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":105
+              },
+              "count":21
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":105
+              },
+              "count":21
+            }
+          },
+          "image":"ce569fc4900b761b427132fe58098149",
+          "has_products":false,
+          "address":"15/285 วังหินเพลส ห้อง 119 Soi Ratchadaphisek 36 Yaek 9-3-2, จันทรเกษม จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":2.109876135693816,
+        "dispensary":{
+          "id":"107f4df9-5231-42ab-8cf5-88e052f146bd",
+          "city":"Bangkok",
+          "name":"Hi Grower ,BKK",
+          "types":[
+            "Farm",
+            "Dispensary",
+            "Grower",
+            "Wholesaler"
+          ],
+          "lat":13.7919944,
+          "lng":100.5861111,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"74f3b46aaeebf644b8b4b2f6adcad5ed",
+          "has_products":true,
+          "address":"80 Soi Watthana Niwet 7, Khwaeng Samsen Nok, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.13418582494689,
+        "dispensary":{
+          "id":"8ccd294d-a067-4d00-8ffe-e136132ea720",
+          "city":"Bangkok",
+          "name":"พรรคเขียว",
+          "types":[
+            
+          ],
+          "lat":13.8049492,
+          "lng":100.6160904,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":422
+              },
+              "count":91
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "image":"d358b0093f1fff5d38449f791e29a640",
+          "has_products":false,
+          "address":"24 Soi Pradit Manutham 15, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

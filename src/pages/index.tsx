@@ -6,9 +6,10 @@ import React from 'react';
 import {Events, scrollSpy} from 'react-scroll';
 
 import {Intro} from '../components';
+import { getAllPoints } from '../libs/api'
 
 type Props = {
-  // Add custom props here
+  points: any;
 };
 
 const HomePage = (_props: InferGetStaticPropsType<typeof getStaticProps>) => {
@@ -53,15 +54,20 @@ const HomePage = (_props: InferGetStaticPropsType<typeof getStaticProps>) => {
         <meta name="twitter:card" content={t('HomePage.SEO.twitter.card')} />
         <meta property="twitter:url" content={t('HomePage.SEO.twitter.url')} />
       </Head>
-      <Intro />
+      <Intro points={_props.points}/>
     </>
   );
 };
 
-export const getStaticProps: GetStaticProps<Props> = async ({locale}) => ({
-  props: {
-    ...(await serverSideTranslations(locale ?? 'ru', ['common'])),
-  },
-});
+export const getStaticProps: GetStaticProps<Props> = async ({locale}) => {
+  const points = getAllPoints();
+
+  return {
+    props: {
+      ...(await serverSideTranslations(locale ?? 'ru', ['common'])),
+      points,
+    },
+  };
+}
 
 export default HomePage;

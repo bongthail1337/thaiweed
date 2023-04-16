@@ -1,0 +1,938 @@
+{
+    "id":"177e31d7-36e0-4675-92cb-c7dba82a8d9d",
+    "lat": "13.8347288",
+    "lng": "100.6615971",
+    "city":"Bangkok",
+    "name":"db-shopweed",
+    "type":null,
+    "business_images":[
+      "35b69a2692eb3a3d59249801a9991bb3"
+    ],
+    "google_images":[
+      "40ce7db934f6cd38ca2bf8f8dceefce5",
+      "a1b6b44368f42e4a9bc453d5d1f0b515"
+    ],
+    "status":"approved",
+    "website":"No",
+    "phone":"+66 82 991 1966",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1800"
+        },
+        "close":{
+          "day":1,
+          "time":"2330"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1800"
+        },
+        "close":{
+          "day":2,
+          "time":"2330"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1800"
+        },
+        "close":{
+          "day":3,
+          "time":"2330"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1800"
+        },
+        "close":{
+          "day":4,
+          "time":"2330"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1800"
+        },
+        "close":{
+          "day":5,
+          "time":"2330"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1800"
+        },
+        "close":{
+          "day":6,
+          "time":"2330"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1800"
+        },
+        "close":{
+          "day":0,
+          "time":"2330"
+        }
+      }
+    ],
+    "line":"0829911966",
+    "google_url":"https://maps.google.com/?cid=10866976766123316060",
+    "place_id":"PuVWHrvlUAkwUGREKOZ1O3gOm2L",
+    "facebook":"https://www.facebook.com/pondz.zamak?mibextid=ZbWKwL",
+    "description":"ยินดีต้อนรับเพื่อนพี่ๆ โอจี ราคาย่อมเยาว์ เข้าถึงง่าย db-shopweed..\n\nWelcome to my friend 😉\n",
+    "products_flowers":[
+      {
+        "id":"93c73898-acfa-4d06-8826-37324a2221d1",
+        "name":"TANGERINE VANILLA ",
+        "description":"Orange/ citrus / vanilla",
+        "images":[
+          "e7352f6638ee03c27c4fdac8e512c57d"
+        ],
+        "thc":24,
+        "cbd":1,
+        "sativa":50,
+        "indica":50,
+        "images_coa":[
+          "https://cdn.filestackcontent.com/7rp4NApnQAWtO7ldW8rO"
+        ],
+        "quality":"AAA",
+        "disabled":false,
+        "created_at":"2023-04-03T13:27:56.902735+00:00",
+        "updated_at":"2023-04-15T22:00:13.94833+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"Arm Konderm",
+        "avatar":"5bd9d6d66f49f5201365e1c3b1e94309",
+        "content":"ของก็ดี มิตรภาพก็ดีมากๆครับ\n\n(Translated by Google)\nThings are good, friendship is very good.",
+        "review_date":"2023-02-27T12:17:03.499+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100463353027421642292?hl=en-US"
+      },
+      {
+        "author":"Supa Nut",
+        "avatar":"508c873fd5c26bc776686a8a74d306cc",
+        "content":"ของดีราคามิตรภาพ😍😍😍\n\n(Translated by Google)\nGood stuff, friendship price 😍😍😍",
+        "review_date":"2023-02-27T07:52:07.092+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100836574507430960750?hl=en-US"
+      },
+      {
+        "author":"ตนุภัทร พัดเอี่ยม",
+        "avatar":"645e6bf1c3839d4ef40ca2cd76bd741b",
+        "content":"ของเขาดีจริงมาลอง แล้วจะรักเอง\n\n(Translated by Google)\nHis stuff is really good, try it and you will love it.",
+        "review_date":"2023-03-08T12:26:15.386+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101115765106845752378?hl=en-US"
+      },
+      {
+        "author":"Vithan Preedakul",
+        "avatar":"714072d66df3f51b6b1ff73bc8c60c2f",
+        "content":"ของดี\n\n(Translated by Google)\ngood stuff",
+        "review_date":"2023-02-27T05:06:02.148+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101266658550806251413?hl=en-US"
+      },
+      {
+        "author":"Kittipat Burarak",
+        "avatar":"b7328266d83a925d34b40a52bd6ef38d",
+        "content":"",
+        "review_date":"2023-02-27T11:22:46.465+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103499859399950650915?hl=en-US"
+      },
+      {
+        "author":"Tavesak phannaphanom",
+        "avatar":"6b478da7facfd79d01128428c2033538",
+        "content":"👍so good ✌️💕",
+        "review_date":"2023-03-17T17:21:22.851+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/103705275671930696514?hl=en-US"
+      },
+      {
+        "author":"Theppad Suriwong",
+        "avatar":"27bab235330a3fb877db92bc94c20a32",
+        "content":"มาแล้วเหลืองครับ🤮\n\n(Translated by Google)\nIt has arrived. Yellow. 🤮",
+        "review_date":"2023-02-28T15:32:47.879+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104301935679035688411?hl=en-US"
+      },
+      {
+        "author":"ชัยเจริญ พันธ์บุบผา",
+        "avatar":"825ce819c68ec33916c42242171f448b",
+        "content":"เจ้าของร้านใจดี ร้านบันญาติกาศดีมากครับ",
+        "review_date":"2023-03-07T12:24:05.516+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104918470838302337714?hl=en-US"
+      },
+      {
+        "author":"Korn .S",
+        "avatar":"e787ac60ce6e82e842a6b1a1c1a27e17",
+        "content":"",
+        "review_date":"2023-03-09T13:17:07.591+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105144616267793452033?hl=en-US"
+      },
+      {
+        "author":"โอม โอม",
+        "avatar":"20a03eb6a0e596a83be351d03e64dcd7",
+        "content":"สถานที่ดีบริการดีครับกัญหอมน้ำหวานครับ\n\n(Translated by Google)\nGood place, good service, sweet marijuana.",
+        "review_date":"2023-02-27T12:55:31.22+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106799850869256146555?hl=en-US"
+      },
+      {
+        "author":"Warawit Baothong",
+        "avatar":"919666ad383c401a8d034ea1977dcaff",
+        "content":"บริการดีมากครับ เป็นกันเองราคามิตรภาพ พี่เจ้าของร้านน่ารักมาก item ก็เมามาก\n\n(Translated by Google)\nVery good service friendly, friendly price The owner of the shop is very cute, the item is very drunk.",
+        "review_date":"2023-03-19T10:01:23.209+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108433405538013619037?hl=en-US"
+      },
+      {
+        "author":"Chatchai Fongphimai",
+        "avatar":"b3000f10db9046ebedeaf75b19e647e4",
+        "content":"ของดีราคาถูก\n\n(Translated by Google)\ncheap good stuff",
+        "review_date":"2023-03-19T10:03:32.532+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109090578733420447630?hl=en-US"
+      },
+      {
+        "author":"Watcharin Ruamchap",
+        "avatar":"c5f02e3fdc0a04c34badc752f70e30e9",
+        "content":"ดีจริงแนะนำ บริการระดับ5ดาวจีงงงงงงง\n\n(Translated by Google)\nReally good, recommend 5 star service",
+        "review_date":"2023-03-08T14:37:08.994+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109535079072484837414?hl=en-US"
+      },
+      {
+        "author":"กรพงศ์ รุ่งทิวาสุวรรณ",
+        "avatar":"51cf0c2e9c8d4be0661f27b1f4407bd5",
+        "content":"ผมนี้ก๊อกแตกเลยครับ\n\n(Translated by Google)\nI have a broken faucet.",
+        "review_date":"2023-03-08T14:36:29.045+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110224674403088725167?hl=en-US"
+      },
+      {
+        "author":"Pimonnat Wannapat",
+        "avatar":"b51a5c510e99761ea6dc09470965badb",
+        "content":"10/10 ของดีจัดเมากลับบ้านไม่ได้\n\n(Translated by Google)\n10/10 Good stuff. I can't get drunk to go home.",
+        "review_date":"2023-03-04T06:51:44.358+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/111754977961304205980?hl=en-US"
+      },
+      {
+        "author":"Phusek Nithi",
+        "avatar":"05cbed0e41408c96d7f6cc69372d1f4a",
+        "content":"มีให้เลือกหลากหลาย ราราย่อมเยา บริการดีเยี่ยม\n\n(Translated by Google)\nThere are many to choose from. Cheap price. Excellent service.",
+        "review_date":"2023-03-09T13:15:12.574+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/111864216279006192442?hl=en-US"
+      },
+      {
+        "author":"ย่าลาลุ้ลอารีฟีน วงษ์สันต์",
+        "avatar":"67698214e31af8b2580e4ec467646621",
+        "content":"ของดีทุกตัวเลยครับ\n\n(Translated by Google)\nAll good things.",
+        "review_date":"2023-04-01T15:57:10.927+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112274951438454261788?hl=en-US"
+      },
+      {
+        "author":"เจษฎา อุ่นอ่อน",
+        "avatar":"11c04e336358dd5fe1c227e27ff462dc",
+        "content":"พี่เขาใจดีๆครับส่งถึงที่\n\n(Translated by Google)\nHe is kind. Send it to the location.",
+        "review_date":"2023-03-27T14:44:43.239+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112642395456843844934?hl=en-US"
+      },
+      {
+        "author":"wiset srisak",
+        "avatar":"5fc446e260a7890cbc7dfbd2c26dbcae",
+        "content":"",
+        "review_date":"2023-02-22T04:08:24.016+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112703242980690209733?hl=en-US"
+      },
+      {
+        "author":"คุณภาคย์ เปรมฤทัย",
+        "avatar":"480f5224b51b8265a539b42c76244454",
+        "content":"The best",
+        "review_date":"2023-02-21T14:50:27.827+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113066104664977756300?hl=en-US"
+      },
+      {
+        "author":"ZepFly",
+        "avatar":"f52e52430eaa0ee7318149632da4a23d",
+        "content":"ร้านบริการดีมากกกกกก\n\n(Translated by Google)\nThe service shop is very good.",
+        "review_date":"2023-03-09T12:34:53.57+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113427766647561855441?hl=en-US"
+      },
+      {
+        "author":"SoHigh 420",
+        "avatar":"da677f40c38a87697f4376d95ace149f",
+        "content":"เขียวๆเหนียวๆติดมือเลยค้าบผมม\n\n(Translated by Google)\nGreen and sticky. Stick to my hand.",
+        "review_date":"2023-03-09T13:23:12.148+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/116520035813786250876?hl=en-US"
+      },
+      {
+        "author":"คมกริช อรุณรัชกิจ",
+        "avatar":"78b555d2fcd9ba81a9b66a3822c3d50d",
+        "content":"สุดยอดเลยครับ\n\n(Translated by Google)\nExcellent",
+        "review_date":"2023-03-08T12:24:24.164+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/116685710079980365356?hl=en-US"
+      },
+      {
+        "author":"Natthagwut Vongsin",
+        "avatar":"967530afb5cf86302922224179fcf978",
+        "content":"ประทับใจครับ ดูแลกันเหมือนเดิม\n\n(Translated by Google)\nImpressed. Take care as usual.",
+        "review_date":"2023-03-08T15:38:41.15+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/116983834580285530746?hl=en-US"
+      },
+      {
+        "author":"Yuttapoom Pamee",
+        "avatar":"1ad13e8b6944fa41962b85cf189ddbd4",
+        "content":"ของดีๆทั้งนั้นนนน\nมาแล้วเมาา\n\n(Translated by Google)\nGood stuff, too.\ncome here drunk",
+        "review_date":"2023-02-28T15:34:09.843+00:00",
+        "rating":5,
+        "images":[
+          "008c09a7a28c55b8b874b9a7ed60f123"
+        ],
+        "url":"https://www.google.com/maps/contrib/117012994365734293837?hl=en-US"
+      },
+      {
+        "author":"คณาธิป สมสวัสดิ์",
+        "avatar":"4d95355230c0131d42123c8d1ad04b19",
+        "content":"",
+        "review_date":"2023-04-06T13:13:03.785+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117273393367190311028?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":130
+        },
+        "count":26
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.2617035816499726,
+        "dispensary":{
+          "id":"8a77f7b9-829f-4659-ae79-e132b1779b39",
+          "city":"Bangkok",
+          "name":"ร้าน​ บังปันกระท่อมซิ่ง กัญชาอัดแท่ง ช่อดอก ติดต่อสอบถามเพิ่มเติมได้ที่ LINE ID: pan112990",
+          "types":[
+            "Cafe",
+            "Wholesaler",
+            "Farm"
+          ],
+          "lat":13.8360675,
+          "lng":100.6596027,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":25
+              },
+              "count":5
+            }
+          },
+          "image":"4a9941de7075124d5adfb6cd27264c38",
+          "has_products":false,
+          "address":"ร้านบังปันกระท่อมซิ่ง ตึกทูบีโฮม Soi Nawamin 163, Khwaeng Ram Inthra, Khet Khan Na Yao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.28107655714605545,
+        "dispensary":{
+          "id":"5f0c8327-cafa-4a19-80f7-c42d5786d6e1",
+          "city":"Bangkok",
+          "name":"ร้าน​ขายกัญชา HighAgain (Weed) & ​(KATOMHUB)​24ชม.",
+          "types":[
+            "Club",
+            "Delivery",
+            "Cafe",
+            "Bar",
+            "Grower",
+            "Farm",
+            "Dispensary"
+          ],
+          "lat":13.836097,
+          "lng":100.6594073,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":276
+              },
+              "count":57
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":276
+              },
+              "count":57
+            }
+          },
+          "image":"f18918db9e0cd400baad791905a7dba2",
+          "has_products":false,
+          "address":"18, 1-4 Soi Nawamin 163, Khwaeng Ram Inthra, Khet Khan Na Yao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.452882121069225,
+        "dispensary":{
+          "id":"9d7b5808-574e-4606-9beb-4a079134375d",
+          "city":"Bangkok",
+          "name":"จุดแวะเติม byหลังตลาด",
+          "types":[
+            "Bar"
+          ],
+          "lat":13.8358325,
+          "lng":100.6575588,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"4cd0d8ebb662cbb735e5d89380b0fe89",
+          "has_products":true,
+          "address":"89 ซอย นวมินทร์ 163 แขวงรามอินทรา เขตคันนายาว รามอินทรา คันนายาว Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.4553546022435682,
+        "dispensary":{
+          "id":"aceeeeab-cc31-4c37-9750-5eb9193f37b5",
+          "city":"Bangkok",
+          "name":"ผู้หลงไหลในสมุนไพร",
+          "types":[
+            
+          ],
+          "lat":13.835919,
+          "lng":100.657561,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"89 Soi Nawamin 163, Khwaeng Ram Inthra, Khet Khan Na Yao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.492297449244545,
+        "dispensary":{
+          "id":"51a33a83-922e-492f-b088-7734f8c0516d",
+          "city":"Bangkok",
+          "name":"Cannabis heavens",
+          "types":[
+            
+          ],
+          "lat":13.8391459,
+          "lng":100.6612821,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"3a8130c54b00747bfaf6dc950505e868",
+          "has_products":false,
+          "address":"30 249 ซ. 39 ถนน รามอินทรา บางเขน Khet Bang Khen, Krung Thep Maha Nakhon 10220, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.5025368653483359,
+        "dispensary":{
+          "id":"cdb47b02-a284-4109-9691-99582d469664",
+          "city":"Bangkok",
+          "name":"Muetrim",
+          "types":[
+            
+          ],
+          "lat":13.8319616,
+          "lng":100.6652762,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":40
+              },
+              "count":8
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":40
+              },
+              "count":8
+            }
+          },
+          "has_products":false,
+          "address":"1 ซ.รามอิรทรา, รามอินทรา 58 แยก 4 Khan Na Yao, Bangkok 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.5133967894145368,
+        "dispensary":{
+          "id":"129f5e45-a470-492b-98c1-6612615cfe73",
+          "city":"Bangkok",
+          "name":"BUDTENDER BOY (Cannabis Dispensary Shop)(ร้านขายกัญชา)(Weed Shop)",
+          "types":[
+            "Dispensary",
+            "Delivery"
+          ],
+          "lat":13.8393461,
+          "lng":100.6615671,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":161
+              },
+              "count":33
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":161
+              },
+              "count":33
+            }
+          },
+          "image":"1f1e1de9d2822c6d14a0f70bf01d86f2",
+          "has_products":true,
+          "address":"Ram Inthra Rd, Khwaeng Ram Inthra, Khet Khan Na Yao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.8071952778149222,
+        "dispensary":{
+          "id":"d430ba53-a993-478e-a205-43ed518a1eb7",
+          "city":"Bangkok",
+          "name":"บริษัท สกายไลน์เมดิคอล จำกัด",
+          "types":[
+            
+          ],
+          "lat":13.8323246,
+          "lng":100.6686506,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"556 Ram Inthra Rd, Khwaeng Ram Inthra, Khet Khan Na Yao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.8975664739743725,
+        "dispensary":{
+          "id":"4750640e-0f0e-4cf4-935b-ec405fe20379",
+          "city":"Bangkok",
+          "name":"ชากัญ",
+          "types":[
+            
+          ],
+          "lat":13.8425811,
+          "lng":100.6635242,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"1bc215544930a6f02bd45eb3796cf71a",
+          "has_products":false,
+          "address":"95 52 ซอย คู้บอน 6 Khwaeng Ram Inthra, Khet Khan Na Yao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.1016503933691544,
+        "dispensary":{
+          "id":"8bc5bede-2168-45d0-bd4e-29fdd1b959b3",
+          "city":"Bangkok",
+          "name":"Happiganic​",
+          "types":[
+            
+          ],
+          "lat":13.844587,
+          "lng":100.662615,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "image":"85720ae1fb8ef8ef06738a33bc08ec5c",
+          "has_products":false,
+          "address":"71/8​ Ozone Plaza, Kubon Rd., Ramintra km. 8 คันนายาว Khet Khan Na Yao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.1160006277471888,
+        "dispensary":{
+          "id":"41554f18-f199-4f8a-8c6d-364d9134cd43",
+          "city":"Bangkok",
+          "name":"Lab420 bar&cafe - สเต็ก420",
+          "types":[
+            
+          ],
+          "lat":13.8444827,
+          "lng":100.6640331,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":3
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":3
+              },
+              "count":1
+            }
+          },
+          "image":"f302a3f8c949c3aff54e76224544f63b",
+          "has_products":false,
+          "address":"92/1 Ram Inthra Rd, Khwaeng Ram Inthra, Khet Khan Na Yao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.6183205395945763,
+        "dispensary":{
+          "id":"db1b0b71-202d-4511-b499-bae34f5f8950",
+          "city":"Bangkok",
+          "name":"Soooth Official",
+          "types":[
+            
+          ],
+          "lat":13.8270581,
+          "lng":100.674334,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"30 รามอินทรา Khwaeng Ram Inthra, Khet Khan Na Yao, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.8970713639531427,
+        "dispensary":{
+          "id":"ec208c49-6463-49e1-bc9a-764e7119d733",
+          "city":"Bangkok",
+          "name":"Mickies Coffeeshop",
+          "types":[
+            "Cafe",
+            "Grower",
+            "Farm",
+            "Restaurant",
+            "Delivery",
+            "Wholesaler",
+            "Bar"
+          ],
+          "lat":13.8504441,
+          "lng":100.6547564,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"7aa1eeaf0d9719ee9315e73941a58b88",
+          "has_products":false,
+          "address":"44 25 Ram Intra 65 Alley, Lane 2-2-4, Tha Raeng, Bang Khen, Bangkok 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.9375766851386498,
+        "dispensary":{
+          "id":"f9791c06-dc85-418a-b528-81b4732ca38d",
+          "city":"Bangkok",
+          "name":"Spankystudio",
+          "types":[
+            
+          ],
+          "lat":13.849802,
+          "lng":100.652592,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"5b41d47f296a2094763c17244e26a7b9",
+          "has_products":false,
+          "address":"1171 Ram Inthra 67, Khwaeng Tha Raeng, Khet Bang Khen, Krung Thep Maha Nakhon 10230, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":2.0375632549334437,
+        "dispensary":{
+          "id":"6aed1c70-7d7a-4003-aa1b-fd6924c8529d",
+          "city":"Bangkok",
+          "name":"SP WEED MIN",
+          "types":[
+            
+          ],
+          "lat":13.8490157,
+          "lng":100.6734145,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":3
+            }
+          },
+          "image":"0cf585acc2d33bb10e0f1672ffe48c91",
+          "has_products":false,
+          "address":"เลีบฝยนม Soi 2/2, Khwaeng Khan Na Yao, Khet Khlong Sam Wa, Krung Thep Maha Nakhon 10510, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }

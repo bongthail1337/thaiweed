@@ -1,0 +1,1402 @@
+{
+    "id":"a9fbbce2-a32f-409d-86f7-98ea31f80975",
+    "lat": "13.8002807",
+    "lng": "100.5522455",
+    "city":"Bangkok",
+    "name":"Green Diamond",
+    "type":null,
+    "business_images":[
+      "1fb7fbf82d14025893d8da09d233f3dd",
+      "bb6d59acc21ee1e1c03ff12a4514ea34",
+      "b0d07b8db4cd0fff82d3e613392a5e63",
+      "e9f4f630ac89952e60bbb7d711478b0e",
+      "3a17b1b6abf71224122ced8501f7e72e",
+      "2a2dc2b218a1c4ffea8bd0811e65393b",
+      "bf8b4fbdcdd6d872645f41b525bd5910",
+      "4860029a2368359be960c8106ef6dcc5"
+    ],
+    "google_images":[
+      "e8d5dbcad38ec3bccfd58276f22739d0",
+      "ef933adfe5351a41f8f795d00fd8867d",
+      "178063cb5f8110a4933371f36ea5ce29",
+      "c927348d1608bc517188ab96848a436f",
+      "c5e7e6f2920d5f84b6b76aaca540afbd"
+    ],
+    "status":"approved",
+    "website":"https://linktr.ee/greendiamondbkk",
+    "phone":"+66 80 785 6556",
+    "opening_hours":[
+      {
+        "open":{
+          "day":0,
+          "time":"1000"
+        },
+        "close":{
+          "day":0,
+          "time":"2000"
+        }
+      },
+      {
+        "open":{
+          "day":1,
+          "time":"1000"
+        },
+        "close":{
+          "day":1,
+          "time":"2000"
+        }
+      },
+      {
+        "open":{
+          "day":2,
+          "time":"1000"
+        },
+        "close":{
+          "day":2,
+          "time":"2000"
+        }
+      },
+      {
+        "open":{
+          "day":3,
+          "time":"1000"
+        },
+        "close":{
+          "day":3,
+          "time":"2000"
+        }
+      },
+      {
+        "open":{
+          "day":4,
+          "time":"1000"
+        },
+        "close":{
+          "day":4,
+          "time":"2100"
+        }
+      },
+      {
+        "open":{
+          "day":5,
+          "time":"1000"
+        },
+        "close":{
+          "day":5,
+          "time":"2100"
+        }
+      },
+      {
+        "open":{
+          "day":6,
+          "time":"1000"
+        },
+        "close":{
+          "day":6,
+          "time":"2100"
+        }
+      }
+    ],
+    "line":"@greendiamondbkk",
+    "google_url":"https://maps.google.com/?cid=9572317238671382266",
+    "place_id":"PuVWFnU9Gq0q5wNE-uMo3Z-m45D",
+    "facebook":"https://www.facebook.com/greendiamondbkk",
+    "description":"420 𝘩𝘰𝘮𝘪𝘦𝘴 🥦 | 𝘚𝘶𝘱𝘱𝘰𝘳𝘵𝘪𝘯𝘨 𝘛𝘩𝘢𝘪 𝘨𝘳𝘰𝘸𝘦𝘳𝘴\n𝘖𝘱𝘦𝘯 𝘥𝘢𝘪𝘭𝘺 1𝘴𝘵 𝘧𝘭𝘰𝘰𝘳 𝘢𝘵 𝘔𝘪𝘹𝘵 𝘊𝘩𝘢𝘵𝘶𝘤𝘩𝘢𝘬",
+    "products_flowers":[
+      {
+        "id":"e7e14e35-eb96-47dd-a235-809d5e16cf1e",
+        "name":"Scooby Snacks",
+        "description":"Effects : Relaxed, sleepy, hungry\nFlavors : Mint, pie, sweet",
+        "images":[
+          "cd2baa2aa5d93bb3cd557c5c2aa4cd42"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":70,
+        "indica":30,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2022-12-27T07:55:34.029364+00:00",
+        "updated_at":"2023-04-15T23:00:11.202229+00:00"
+      },
+      {
+        "id":"375b8106-fa5c-445e-8415-5cda234e37ea",
+        "name":"Stay Puff",
+        "description":"Effects : Creative, energetic\nFlavors : Diesel, limonene",
+        "images":[
+          "c9b37f4bf6c1ca8033c551a94f932a99"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":70,
+        "indica":30,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2022-12-27T07:56:12.165352+00:00",
+        "updated_at":"2023-04-15T23:00:11.213862+00:00"
+      },
+      {
+        "id":"e48d1ad3-35f9-406e-9c86-b42a9e84c166",
+        "name":"Bad Mama Jamas",
+        "description":"Effects : Creative, energetic, focused\nFlavors : Limonene",
+        "images":[
+          "83fbc57077df72d207b404fa7285fa94"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":70,
+        "indica":30,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2022-12-27T07:57:12.620786+00:00",
+        "updated_at":"2023-04-15T23:00:11.196609+00:00"
+      },
+      {
+        "id":"991b0737-d205-4695-997c-bb9d0ce769ca",
+        "name":"Da Funk",
+        "description":"Effects : Relaxed, calm, uplifted\nFlavors : Berry, vanilla, mint",
+        "images":[
+          "a5b2e9f94a83307388c7613a518a0c07"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":0,
+        "indica":100,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2022-12-27T07:57:50.284693+00:00",
+        "updated_at":"2023-04-15T23:00:11.175939+00:00"
+      },
+      {
+        "id":"54004f1b-fb25-493f-b8ad-6d48f65dfbc4",
+        "name":"Blueberry",
+        "description":"Effects : Sleepy, hungry, relaxed\nFlavors : Blueberry, berry, sweet",
+        "images":[
+          "aca1c580cbe25eb2bd7318de236877d7"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":0,
+        "indica":100,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2022-12-27T07:58:26.291161+00:00",
+        "updated_at":"2023-04-15T23:00:11.185189+00:00"
+      },
+      {
+        "id":"f315f425-2de2-4760-b522-a2dbf0cbdf4e",
+        "name":"Purple Fantasy",
+        "description":"Effects : Sedated, calm, uplifted\nFlavors : Butter, berry, chestnut",
+        "images":[
+          "b780c365a3644c1c33e1c6572dbd5f2d"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":20,
+        "indica":80,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2022-12-27T07:58:57.958275+00:00",
+        "updated_at":"2023-04-15T23:00:11.208029+00:00"
+      },
+      {
+        "id":"46fcb8a4-6fb7-4b4e-a504-b06e2f217bbc",
+        "name":"Emergen-C",
+        "description":"Effects : Uplifted, euphoric, talkative\nFlavors : Diesel, citrus",
+        "images":[
+          "04a20f83dfc4f9a9c20ece4f5498920c"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":100,
+        "indica":0,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2022-12-27T08:00:23.644051+00:00",
+        "updated_at":"2023-04-15T23:00:11.179166+00:00"
+      },
+      {
+        "id":"a16d432e-c57a-47b8-a1e0-b667c6b02f82",
+        "name":"Mango Mintz x Orange Zkittlez",
+        "description":"Effects : Uplifted, energetic, focused\nFlavors : Mango, mint, orange",
+        "images":[
+          "8e7a91e11fa51884216f2c30c5eedb4c"
+        ],
+        "thc":0,
+        "cbd":0,
+        "sativa":80,
+        "indica":20,
+        "images_coa":[
+          
+        ],
+        "quality":"AAAA",
+        "disabled":false,
+        "created_at":"2022-12-27T08:01:06.137505+00:00",
+        "updated_at":"2023-04-15T23:00:11.190781+00:00"
+      }
+    ],
+    "products_seeds":[
+      
+    ],
+    "products_prerolls":[
+      
+    ],
+    "products_edibles":[
+      
+    ],
+    "products_topicals":[
+      
+    ],
+    "products_gear":[
+      
+    ],
+    "products_misc":[
+      
+    ],
+    "reviews":[
+      {
+        "author":"Ivan Lichenko",
+        "avatar":"32562d7df2054f80de9a798465e586fb",
+        "content":"(Translated by Google) Great place, great staff, great product. There is a smoking area. Ideally!\n\n(Original)\nОтличное место, великолепный персонал, хороший товар. Есть место для курения. Идеально!",
+        "review_date":"2023-01-07T08:19:45.822+00:00",
+        "rating":5,
+        "images":[
+          "a6630a1edca1803a4a72bd482cffebbb",
+          "8bd1f840800f8b1b139d47cc7b1c34c9"
+        ],
+        "url":"https://www.google.com/maps/contrib/100083015909605704992?hl=en-US"
+      },
+      {
+        "author":"Theerapon Pinsuwan",
+        "avatar":"15b9b9e7c216142ca9a056e8209e9c1b",
+        "content":"ความเป็นกันเองมีราคามากที่สุด/..ขอบคุณสำหรับการนำเสนอผลิตภัณฑ์ชั้นเยี่ยมมาให้ครับ\n\n(Translated by Google)\nFriendliness is the most expensive/..thank you for offering a great product.",
+        "review_date":"2022-12-11T10:14:22.571+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100271994253897845642?hl=en-US"
+      },
+      {
+        "author":"Rahul Kapoor",
+        "avatar":"c72220ce566076de63ff35919aebf468",
+        "content":"",
+        "review_date":"2023-03-25T13:30:10.783+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100795454913407328295?hl=en-US"
+      },
+      {
+        "author":"ทัศน์ รักทอง",
+        "avatar":"4d95355230c0131d42123c8d1ad04b19",
+        "content":"ประสบการณ์ดีๆที่นี่เลยครับ\n\n(Translated by Google)\nGood experience here.",
+        "review_date":"2022-11-29T13:55:08.144+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/100965462473609100875?hl=en-US"
+      },
+      {
+        "author":"Aldrin Anthony",
+        "avatar":"eb446b44c0ff4ae516d136759f246f5b",
+        "content":"",
+        "review_date":"2023-01-15T11:00:03.819+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101412280939581117815?hl=en-US"
+      },
+      {
+        "author":"ชบา",
+        "avatar":"37f370a78938c86d823572aa6b284d15",
+        "content":"คุณภาพของ..ร้านนี้ดีเลยค่ะต้องให้เขาเลยจริงๆอันดับต้นๆเลยเรื่องคุณภาพ\n\nสินค้ามีเยอะมาก\nร้านสวย ตกแต่งดีน่าเข้าไปนั่ง\nน้องที่ร้านให้ข้อมูลแนะนำดีมาก น่ารักเป็นกันเอง เจ้าของร้านสวยมาก\n\nที่จอดรถสะดวกสบายจอดบนตึกมิกซ์ละลงลิฟต์มาชั้น 1 ตรงประตูทางออก 8\n\n(Translated by Google)\nThe quality of this shop is really good. You have to give him the top rated quality.\n\nThere are a lot of products.\nThe shop is beautiful, well decorated, inviting to sit.\nThe lady at the shop gave very good advice. cute friendly Shop owner is very nice\n\nConvenient parking, park on the mixed building and take the elevator to the 1st floor at exit 8.",
+        "review_date":"2023-02-21T15:39:25.836+00:00",
+        "rating":5,
+        "images":[
+          "ac664fc830ade46d1ab5f8991a251ee7",
+          "84e2447bc966652d35cea15200e9be1e",
+          "4a250c6a32c3fa2c41446727c84302ec",
+          "fceda8f32e327fb30f0330848768d837",
+          "8049b97b4d188da4c4ff5e95dbeb02e5",
+          "7b0f8c8fbfe493d3185774af3f294d08",
+          "2ebf11682efcb23d9dc7386e1d7136ee",
+          "6abda179fc1decf704ff37fc9f603b9e"
+        ],
+        "url":"https://www.google.com/maps/contrib/101531254668474836773?hl=en-US"
+      },
+      {
+        "author":"Chattita Rojjanasirakeard",
+        "avatar":"8c37fad18cc8d1e68927ce1f1e2dd05e",
+        "content":"Feel good😇",
+        "review_date":"2023-01-14T14:05:29.219+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101889480507998858868?hl=en-US"
+      },
+      {
+        "author":"Chirawilai Luatngoen",
+        "avatar":"a9e5ffa087f601cafea16277131bf06e",
+        "content":"Amazing selection of strains with friendly budtenders and owners who are such an expert in their good stuffs. Good location and will visit again",
+        "review_date":"2022-11-22T02:32:05.46+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/101917924433852616013?hl=en-US"
+      },
+      {
+        "author":"May Yae-ger",
+        "avatar":"af94ffded127296e8750d36c7f033619",
+        "content":"มารอบที่สองเเล้วครับ สินค้าคุณภาพดี บริการดีเยี่ยมเหมือนเดิม พนักงานเป็นกันเองมากครับ 🙆🏻‍♂️💖👍🏻\n\n(Translated by Google)\nI'm here for the second round. good quality Great service as always The staff is very friendly 🙆🏻‍♂️💖👍🏻",
+        "review_date":"2022-12-08T10:53:32.869+00:00",
+        "rating":5,
+        "images":[
+          "99ab460b756845253653178c94449633",
+          "61d00318f0daee2b718f56fbdb10b363",
+          "a6dfcfc1a5cff40ec8004256ebfed4dc"
+        ],
+        "url":"https://www.google.com/maps/contrib/102055661414891279742?hl=en-US"
+      },
+      {
+        "author":"Tong Terry",
+        "avatar":"0bda498d9c7dc3df82a3753fc0f611f5",
+        "content":"(Translated by Google) The attitude is very good. Answer all questions.\n\n(Original)\n態度非常好。有問必答。",
+        "review_date":"2022-12-10T08:29:09.134+00:00",
+        "rating":5,
+        "images":[
+          "15e38fc138b5246922304041831f3221",
+          "ed872c691876b9acf739015a7bf7a157"
+        ],
+        "url":"https://www.google.com/maps/contrib/102245085375130945761?hl=en-US"
+      },
+      {
+        "author":"C C",
+        "avatar":"c302794fc0bf60aaacb326d03ba650ac",
+        "content":"",
+        "review_date":"2022-11-30T02:35:52.196+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102327534947306174264?hl=en-US"
+      },
+      {
+        "author":"Xin C (Cin)",
+        "avatar":"eb3598ba46fce95c0d972e9b8a44babe",
+        "content":"Super nice, friendly vendor with good quality of service & products",
+        "review_date":"2023-01-22T08:16:21.629+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102529731476333346258?hl=en-US"
+      },
+      {
+        "author":"vishal vijendran",
+        "avatar":"8405ef5980043d2adb24a5a79a33df14",
+        "content":"Green Ambience and warm staff!",
+        "review_date":"2023-01-15T11:02:02.096+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102538246083471176084?hl=en-US"
+      },
+      {
+        "author":"ICHI BKK",
+        "avatar":"7e7ac1bcf6db31aee7ae16bf468b3699",
+        "content":"ของดี ราคาไม่แรงเหมาะสมครับ\n\n(Translated by Google)\nGood stuff, the price is not strong enough.",
+        "review_date":"2022-12-26T14:15:11.439+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/102967627924678596543?hl=en-US"
+      },
+      {
+        "author":"Brendan Hepburn",
+        "avatar":"69e027415eb5addd5b72d52dcc13123a",
+        "content":"Great service.",
+        "review_date":"2022-12-18T09:00:03.158+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/104393872696519963117?hl=en-US"
+      },
+      {
+        "author":"รับเช่าพระ โดยบูมจักรเพชร",
+        "avatar":"5f9dd10ec24a7dbc4f6b799b917596e9",
+        "content":"ร้านนี้ดีครับ exotic grade ของจริงที่ไม่หลอกกัน ร้านนี้ คัดสรรมาแล้วครับ\n\n(Translated by Google)\nThis shop is good, exotic grade, the real thing that is not fooling each other. This shop has been selected.",
+        "review_date":"2022-12-18T12:33:55.663+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105070215025439363251?hl=en-US"
+      },
+      {
+        "author":"G&T Chanel",
+        "avatar":"e6aede8fc976904e532a76e80022e644",
+        "content":"",
+        "review_date":"2022-12-08T09:25:30.707+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105097803916242183109?hl=en-US"
+      },
+      {
+        "author":"Erkiah K",
+        "avatar":"bb0fb9ba328b76e8362700b618bc32b9",
+        "content":"Very pleasant staff ,good quality",
+        "review_date":"2023-04-01T18:04:27.898+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105173523243921422053?hl=en-US"
+      },
+      {
+        "author":"戴青",
+        "avatar":"801c9c45ca0b2726f663fda3f12ff8d1",
+        "content":"เจ้าของสวยมากบริการอย่างมืออาชีพและเป็นกันเอง😍\n\n(Translated by Google)\nThe owner is very nice, professional and friendly service 😍",
+        "review_date":"2023-02-05T06:51:46.08+00:00",
+        "rating":5,
+        "images":[
+          "46eda36547235f75da1e34b58c155fc2",
+          "8eaff6efbe22470f0ea5ea7ea6f03656",
+          "11406ee3410f7e6e6245d962605cb263",
+          "b8c2e6bbfa9a1c4492acf876432efdcf",
+          "650b02bf35e17e10c2d5faa33e6527ab"
+        ],
+        "url":"https://www.google.com/maps/contrib/105463719589973114701?hl=en-US"
+      },
+      {
+        "author":"PeiAn Chen",
+        "avatar":"47d761887f6ce134ce3f86aaf23d9913",
+        "content":"(Translated by Google) Good! The proprietress is kind and beautiful! 😍\n\n(Original)\nGood!老闆娘親切又漂亮！😍",
+        "review_date":"2022-12-03T10:30:57.731+00:00",
+        "rating":5,
+        "images":[
+          "d0a54543c70d78b88a4208e9b2565e95"
+        ],
+        "url":"https://www.google.com/maps/contrib/105601588796364349558?hl=en-US"
+      },
+      {
+        "author":"Yuno Nguyễn",
+        "avatar":"e20de5499456b347e56f88e7fe614e52",
+        "content":"",
+        "review_date":"2022-12-24T11:59:19.566+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105637439855767938778?hl=en-US"
+      },
+      {
+        "author":"Shai Humphryes",
+        "avatar":"a5f289f5c5682f254d44f1968f53f0c0",
+        "content":"Super nice shop, recommend",
+        "review_date":"2023-03-12T12:25:16.023+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105695485214638388774?hl=en-US"
+      },
+      {
+        "author":"ปุ๋ม_ แสงเพ็ญ",
+        "avatar":"8e10d92b341ed8eea0a0966043a0f16d",
+        "content":"",
+        "review_date":"2022-11-29T09:22:45.839+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/105818716432263961113?hl=en-US"
+      },
+      {
+        "author":"宗陵吳",
+        "avatar":"61fbeec5328357f7f8e7a3550339efaf",
+        "content":"(Translated by Google) Awesome store!\n\n(Original)\n超棒的店家！",
+        "review_date":"2023-02-05T08:38:27.618+00:00",
+        "rating":5,
+        "images":[
+          "572c978be868388ab0558eac6f8eed95"
+        ],
+        "url":"https://www.google.com/maps/contrib/105881354596298941193?hl=en-US"
+      },
+      {
+        "author":"Tsunanory",
+        "avatar":"6bf83c62407a9e391a99acb17cdb1aa0",
+        "content":"Best place with friendly and competent personal! :)",
+        "review_date":"2022-12-23T12:16:27.284+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/106354654090116342119?hl=en-US"
+      },
+      {
+        "author":"Lijo Varughese",
+        "avatar":"13a45bfa35e7b1c85947c39788079b11",
+        "content":"Beautiful. Had my first legal dose of cannabis in Thailand here. And wouldn't have wanted it any other way.",
+        "review_date":"2023-02-03T04:23:40.548+00:00",
+        "rating":5,
+        "images":[
+          "375075b99be4cf21e6f41e3bd0fb8f2d",
+          "02517d0f8d2cbee1c2c923f5f8ca7218",
+          "43d169258c933c05157a74d0c36e8527",
+          "12137ebc00a676328aa5fd62accd509d",
+          "ea0fa446a8d71cea7b8ef08ff66084e7",
+          "98eae8eb063fbb6d9d9d863fbc4874cf"
+        ],
+        "url":"https://www.google.com/maps/contrib/106577429376875603372?hl=en-US"
+      },
+      {
+        "author":"魏買加 Way Jamrock",
+        "avatar":"16b8eaccadc18e16488de6c264ff3448",
+        "content":"The best",
+        "review_date":"2023-01-07T06:59:30.319+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107127524599042614982?hl=en-US"
+      },
+      {
+        "author":"ZR",
+        "avatar":"b8d40790342645287c4f6bbaada2c865",
+        "content":"There is the awesome smoking room inside. SO GOOD 👍",
+        "review_date":"2022-10-31T08:06:52.524+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/107708111507881304395?hl=en-US"
+      },
+      {
+        "author":"Tawan Tangcharoensiri",
+        "avatar":"d069c9f28aa2ba0356a78aabcc8fdafd",
+        "content":"ให้คำแนะนำดีของก็ดี\n\n(Translated by Google)\nGive good advice. Good stuff.",
+        "review_date":"2022-12-24T12:34:35.253+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108253194592506963633?hl=en-US"
+      },
+      {
+        "author":"Hamil Patel",
+        "avatar":"2e3c51273aa22267e83b87232a6809e7",
+        "content":"",
+        "review_date":"2022-11-26T05:15:11.387+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108283990183354523879?hl=en-US"
+      },
+      {
+        "author":"daniel bass123",
+        "avatar":"54ef3689c2d93e615e313811fc55dc21",
+        "content":"Great place , very friendly with a smoking room right nexto the chatuchak market",
+        "review_date":"2023-03-12T12:24:50.372+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/108895867720228410646?hl=en-US"
+      },
+      {
+        "author":"REALL.",
+        "avatar":"63ecf6986cbe3db94436229a64080128",
+        "content":"Diz guys are awesome!! Nice prices and very lovely service 10/10 has comfortable smoke room",
+        "review_date":"2022-11-09T08:16:26.037+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109060120792656440092?hl=en-US"
+      },
+      {
+        "author":"Sia Neesan",
+        "avatar":"f3ba027268cd5627e0e73a4872e52f62",
+        "content":"There are Pre-Roll for everyone!\nLovely package 📦💖",
+        "review_date":"2022-12-10T10:40:21.173+00:00",
+        "rating":5,
+        "images":[
+          "e28cac1fac3c242d95898c3231ff809a",
+          "e086f127c522d6b7f81d9b430fe4801d"
+        ],
+        "url":"https://www.google.com/maps/contrib/109585990063193700176?hl=en-US"
+      },
+      {
+        "author":"Rishi Amin",
+        "avatar":"eee56fedf3e5f5894feaf1afaed92cb8",
+        "content":"",
+        "review_date":"2022-11-26T05:15:06.665+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/109682497952837886237?hl=en-US"
+      },
+      {
+        "author":"Zi Ling Jian",
+        "avatar":"29266c3d93ee9aaa6afb62e5a3f87386",
+        "content":"(Translated by Google) The clerk is very patient ❤️cute! And professional!\nThe ingredients will also be intimately pasted on the outside of the tube\nmarked very clearly\nThe price is also affordable! I stayed in Thailand for a week\nThis store in Chatuchak is my most recommended cannabis store💕\nYou can buy with confidence\n\n(Original)\n店員很有耐心❤️可愛！又專業！\n成分也都會貼心的貼在在管子外部\n標示的非常清楚\n價格也平價！我在泰國待了一週\n這家在洽圖洽的店是我最推薦的大麻店💕\n可以很放心的購買",
+        "review_date":"2023-03-21T02:18:36.432+00:00",
+        "rating":5,
+        "images":[
+          "4663f332ee7fe0655956e8a3609d82fa",
+          "32030740f9ff4fc0dff0760c2435d3ec",
+          "c49a9d092d2320fcf8f84c4e5b072724",
+          "436a9ca6f652bb42919d84fde858e959",
+          "d9e929aa9aa26c523143d5264f210b05"
+        ],
+        "url":"https://www.google.com/maps/contrib/109739571212095365318?hl=en-US"
+      },
+      {
+        "author":"Culturepie Music",
+        "avatar":"59e33dc1f7be4323a424c26e01b5bfce",
+        "content":"จ๊าบๆ !!\n\n(Translated by Google)\nYap!!",
+        "review_date":"2022-12-20T06:48:04.133+00:00",
+        "rating":5,
+        "images":[
+          "afaeb968184e4c839ddf3fb317704b6e"
+        ],
+        "url":"https://www.google.com/maps/contrib/110278119926200871639?hl=en-US"
+      },
+      {
+        "author":"กานต์ คุณอุดม",
+        "avatar":"4d95355230c0131d42123c8d1ad04b19",
+        "content":"ของดีมากครับผมรู้สึกอยากปีนเสาไฟ\n\n(Translated by Google)\nVery good stuff, I feel like climbing the lamp post.",
+        "review_date":"2022-12-20T06:53:49.571+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110374820709932708210?hl=en-US"
+      },
+      {
+        "author":"Leon Aoki",
+        "avatar":"d975500600cbe1cfd5224f3c9ecc930f",
+        "content":"Great shop! Located conveniently in the mall at Chatuchak weekend market.\nThey have very good weed and the price is good also. The staff are friendly and there is a room you can smoke in. They were also playing good music 😁\n\nThank you !",
+        "review_date":"2022-12-11T17:34:43.252+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110581673450472916976?hl=en-US"
+      },
+      {
+        "author":"R Henz",
+        "avatar":"143549c1638e1e63aa596843ee434f7c",
+        "content":"The worst online ordering experience. I had bad experience at first, but gave them the 2nd chance.......First, when you ordering online they don't check the availability of ordered strains and after you paid they are saying: let's change the strain to another one (which is cheaper) and you will get xxx baht off next time. Delivery is more than 2 hours (but they claim it). Yes, the prices are sweet, but you will get the worst customer service.",
+        "review_date":"2022-12-22T10:05:54.282+00:00",
+        "rating":1,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110743006086280823179?hl=en-US"
+      },
+      {
+        "author":"P1NGLY",
+        "avatar":"c1234899904e0b76f75f4b24209f0f10",
+        "content":"This shop is awesome.",
+        "review_date":"2022-11-29T08:41:12.461+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/110819319644022525959?hl=en-US"
+      },
+      {
+        "author":"Mee SunBear",
+        "avatar":"83b6be3c8baa70186515cf344258edb0",
+        "content":"",
+        "review_date":"2022-12-20T06:47:46.51+00:00",
+        "rating":5,
+        "images":[
+          "340d6093ead1dbc3ddca7cc6a5acedf8",
+          "df3e2b5224be8d6b09a5fb09ed5d48a8",
+          "2de28cf9861dd3ac6676218b27cd34cf"
+        ],
+        "url":"https://www.google.com/maps/contrib/111077299219379173563?hl=en-US"
+      },
+      {
+        "author":"Cheyne William",
+        "avatar":"4525764d3b5b507e2a9238eb1b5ab700",
+        "content":"Really high quality stuff at fair prices, this is the best value I have found so far in Bangkok. Its worth the visit and the smoking room is a great bonus perk",
+        "review_date":"2022-11-05T09:45:08.426+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/111397116712025732270?hl=en-US"
+      },
+      {
+        "author":"Антон",
+        "avatar":"e9d432ea7a9743314c71c134eead2197",
+        "content":"",
+        "review_date":"2023-03-20T19:19:34.121+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/111417346502773472580?hl=en-US"
+      },
+      {
+        "author":"又又",
+        "avatar":"3df5bb68fd8e457b517644e7eef994a2",
+        "content":"(Translated by Google) very professional price real\n\n(Original)\n非常專業價格實際",
+        "review_date":"2022-11-19T10:57:24.45+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112293261476580402556?hl=en-US"
+      },
+      {
+        "author":"ปีแอร์",
+        "avatar":"06c874d7060a4c8783dbccd67fdd8e91",
+        "content":"ของดีจัดอยากอ้วกมาเลยย ราคาไม่แรง 💎\n\n(Translated by Google)\nGood stuff. If you want to throw up, come on. Price is not strong. 💎",
+        "review_date":"2022-12-26T14:20:19.118+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112831010208848490003?hl=en-US"
+      },
+      {
+        "author":"SY 212",
+        "avatar":"16768b50b35fd971c717f896f19bb572",
+        "content":"best service! best prices! quality stuff🍃 10/10 recommended!! definitely will come back here in the future🍃🌀",
+        "review_date":"2023-01-21T05:49:34.482+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/112906916306696808905?hl=en-US"
+      },
+      {
+        "author":"เขตโสภณ เข็มทอง",
+        "avatar":"9881d04f3e8d6c3ee933e0b209129cb4",
+        "content":"ดูดมา 20 กว่าปี เจอของร้านนี้เข้าไป บอกเลยว่า ที่เคยดูดมาชิดซ้ายเลยครับ สุดยอดมาก\n\n(Translated by Google)\nI've been sucking for over 20 years. I found this shop. Let me tell you that I've sucked it close to the left. It's awesome.",
+        "review_date":"2023-02-08T09:40:57.328+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/113791434416231779948?hl=en-US"
+      },
+      {
+        "author":"katie childress",
+        "avatar":"2a59f58c1b4809d301ef1a33e06a1356",
+        "content":"Love this place and they rolled one for me!!",
+        "review_date":"2023-02-18T06:05:58.349+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/114562854957727050398?hl=en-US"
+      },
+      {
+        "author":"Alessandro Lamaro",
+        "avatar":"ac1de17a2bf2830d84fc17861f89a981",
+        "content":"I asked if they could change my choose but the answer me NO!! I don't like the service... They have fake smile just for selling, they smile but they think at the same time u are farang ki not",
+        "review_date":"2023-01-06T13:44:50.223+00:00",
+        "rating":1,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115405778074241253087?hl=en-US"
+      },
+      {
+        "author":"wing ki leung",
+        "avatar":"55bfc115fa75a5f90489894473d48aab",
+        "content":"Their service is amazing, we have tried a saliva this time with uplifted, relaxing and hyped feeling.\nThé joint was rolled smoothly.\nRecommend",
+        "review_date":"2023-02-12T19:29:25.154+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115461794633575045621?hl=en-US"
+      },
+      {
+        "author":"Alex De Jesu",
+        "avatar":"3f0146e956651513b708813a07937b5a",
+        "content":"Great little spot inside the mall, true hidden gem!",
+        "review_date":"2023-02-04T08:31:34.134+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/115728473053057162928?hl=en-US"
+      },
+      {
+        "author":"Zeya's",
+        "avatar":"fd6a4d563faf62c2f6ef887d4cba10a2",
+        "content":"I love Green Diamond service 🥦\nAll in same price & reasonable price",
+        "review_date":"2022-10-31T15:55:52.189+00:00",
+        "rating":5,
+        "images":[
+          "2fc5023813c76375545636f1390f13c0"
+        ],
+        "url":"https://www.google.com/maps/contrib/117188290188207958317?hl=en-US"
+      },
+      {
+        "author":"Raymond Uys",
+        "avatar":"f6db6d9093fc389b00687615722755e9",
+        "content":"I recently visited Green Diamond and was thoroughly impressed with the level of service I received. From the moment I walked in, the staff was incredibly friendly and welcoming. They took the time to answer all of my questions and make sure I found exactly what I was looking for. The store's communication is also top-notch - they keep their website and social media up-to-date with the latest products and deals. Overall, I had a great experience at Green Diamond and highly recommend it to anyone in the market for high-quality cannabis products.",
+        "review_date":"2023-01-18T12:11:21.765+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117269263362102363677?hl=en-US"
+      },
+      {
+        "author":"Joshua Soliva",
+        "avatar":"39c317d722daf7456324c1073d642c87",
+        "content":"Very very very very good",
+        "review_date":"2023-02-26T09:15:21.242+00:00",
+        "rating":5,
+        "images":[
+          
+        ],
+        "url":"https://www.google.com/maps/contrib/117566768030549306598?hl=en-US"
+      }
+    ],
+    "reviews_aggregate":{
+      "aggregate":{
+        "sum":{
+          "rating":262
+        },
+        "count":54
+      }
+    },
+    "suggestions":[
+      {
+        "distance":0.013754829380992966,
+        "dispensary":{
+          "id":"822cd54e-def3-4489-98e6-7ef05189ab7f",
+          "city":"Bangkok",
+          "name":"Thelittleflower",
+          "types":[
+            
+          ],
+          "lat":13.8021202,
+          "lng":100.551224,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"e459e9083cd13cc3aa699a15b9a3678b",
+          "has_products":false,
+          "address":"RH22+RFX, Chatuchak, Bangkok 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.04972234378160075,
+        "dispensary":{
+          "id":"87f4e915-e22a-4341-ba6c-01b67e17d7ef",
+          "city":"Bangkok",
+          "name":"Goodstuff Thailand 420",
+          "types":[
+            
+          ],
+          "lat":13.802686,
+          "lng":100.5512933,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "image":"f56b55345a251141ab0ea58409b8279f",
+          "has_products":false,
+          "address":"ตึกมิกซ์ จตุจักร ชั้น1 ห้อง1057 Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.07105649823435842,
+        "dispensary":{
+          "id":"aa16d3b6-e9e6-41d3-9f51-c98d24272e57",
+          "city":"Bangkok",
+          "name":"How to fly",
+          "types":[
+            
+          ],
+          "lat":13.8017591,
+          "lng":100.5507955,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":30
+              },
+              "count":6
+            }
+          },
+          "image":"0e35c93cb81e46889e145ba73ec91603",
+          "has_products":false,
+          "address":"8 Kamphaeng Phet 3 Rd, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.17929921308723654,
+        "dispensary":{
+          "id":"6e279747-a2a2-4bef-94d6-008d5496f8d4",
+          "city":"Bangkok",
+          "name":"SiamweedSociety",
+          "types":[
+            "Dispensary",
+            "Delivery",
+            "Wholesaler"
+          ],
+          "lat":13.8008321,
+          "lng":100.550422,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":159
+              },
+              "count":32
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":159
+              },
+              "count":32
+            }
+          },
+          "image":"d6ef5663b130f816d09214e9247c7c74",
+          "has_products":false,
+          "address":"1057 Kamphaeng Phet 3 Rd, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.2556803272507962,
+        "dispensary":{
+          "id":"d05cd4c9-3df8-4e77-ad4b-8ad50f9b5f77",
+          "city":"Bangkok",
+          "name":"Cloudy Cannabis Store",
+          "types":[
+            
+          ],
+          "lat":13.799945,
+          "lng":100.5511754,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"326 Section 16/6, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.2557808316086182,
+        "dispensary":{
+          "id":"9a63d18c-ecca-4022-bf00-8815a38c0ad2",
+          "city":"Bangkok",
+          "name":"Cloudy Cannabis Store",
+          "types":[
+            
+          ],
+          "lat":13.799945,
+          "lng":100.5511418,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"ห้องเลขที่ 325-326-327, โครงการตลาดนัดจตุจักร, โครงการ 16 ซอย6, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.3826920984782075,
+        "dispensary":{
+          "id":"40143842-ee92-42d8-bb38-ebfd05357f13",
+          "city":"Bangkok",
+          "name":"ติ๊บ-ตี่จตุจักร บ้องแก้วbongมาครบจบเรื่องเนื้อ",
+          "types":[
+            
+          ],
+          "lat":13.7990004,
+          "lng":100.5500391,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":45
+              },
+              "count":9
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":10
+              },
+              "count":2
+            }
+          },
+          "image":"61e515f698b5ef14d163961851c5bd61",
+          "has_products":false,
+          "address":"ตลาดนัดสวนจตุจักร โครงการ 25 ซอย 3/5, ถนนพหลโยธิน, แขวงเสนานิคม เขต จตุจักร Khwaeng Chatuchak, อำเภอ จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.38489329545312034,
+        "dispensary":{
+          "id":"c5f3db0e-7c3b-4a3b-bfb6-387dbf8c5cd6",
+          "city":"Bangkok",
+          "name":"Tib-Tee-Shop",
+          "types":[
+            
+          ],
+          "lat":13.7990864,
+          "lng":100.5497637,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":11
+              },
+              "count":3
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"a0994a3c90d6b907fb7a61e6c17e4dc0",
+          "has_products":false,
+          "address":"3/5 จตุจักร โครงการ 25 ลอต 297 Kamphaeng Phet 2 Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.5097757944614731,
+        "dispensary":{
+          "id":"4d4e92b5-c29d-4a23-b403-0bd4390001ce",
+          "city":"Bangkok",
+          "name":"Doctor Alien Shop",
+          "types":[
+            "Dispensary"
+          ],
+          "lat":13.7982996,
+          "lng":100.548818,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":35
+              },
+              "count":7
+            }
+          },
+          "image":"1f084a90c42233a9bc86e16d07fd3fb9",
+          "has_products":false,
+          "address":"242, แขวง จตุจักร เขตจตุจักร กรุงเทพมหานคร 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.5099590098513705,
+        "dispensary":{
+          "id":"2f3c24d0-dd7d-4653-8d72-a6a8f6bf82af",
+          "city":"Bangkok",
+          "name":"DoctorAlienShop",
+          "types":[
+            
+          ],
+          "lat":13.7982978,
+          "lng":100.5488178,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"cf72eee49ec753a21aa1013b7fdd495f",
+          "has_products":false,
+          "address":"024, Chatuchak, เขตจตุจักร กรุงเทพมหานคร 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.5230264642563487,
+        "dispensary":{
+          "id":"3ee76793-d239-4d1d-89b3-9f668268094d",
+          "city":"Bangkok",
+          "name":"Cannabis 420 ตึกแดง จตุจักร ชั้น4",
+          "types":[
+            
+          ],
+          "lat":13.7987411,
+          "lng":100.5479916,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"อาคารบางชื่อจังชั่น 511 Kamphaeng Phet 2 Rd, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.5267905528737822,
+        "dispensary":{
+          "id":"e245a5d6-b4e0-4ea2-bc8f-200c02448ee3",
+          "city":"Bangkok",
+          "name":"Higher สาขาจตุจักร",
+          "types":[
+            
+          ],
+          "lat":13.7982523,
+          "lng":100.5485966,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"Higher สาขาจตุจักร Kamphaeng Phet 2 Rd, Chatuchak, Bangkok 10900, Thailand",
+          "open":true
+        }
+      },
+      {
+        "distance":0.5281406794375157,
+        "dispensary":{
+          "id":"ca07e8b5-44a1-40a9-aab1-60e0d44b4995",
+          "city":"Bangkok",
+          "name":"Cannabis 420 ตึกแดงวินเทจ ชั้น4",
+          "types":[
+            
+          ],
+          "lat":13.798696,
+          "lng":100.5479725,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "has_products":false,
+          "address":"เลขที่ 511 A215 หมู่บ้าน ห้อง Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":0.9352552143564486,
+        "dispensary":{
+          "id":"4269184c-4ea3-4cbe-b976-79ee6c6d1e1c",
+          "city":"Bangkok",
+          "name":"ร้านกัญชา The Palace Collective",
+          "types":[
+            
+          ],
+          "lat":13.8017916,
+          "lng":100.5598727,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":5
+              },
+              "count":1
+            }
+          },
+          "has_products":false,
+          "address":"106, 22 Thanon Vibhavadi Rangsit, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10400, Thailand",
+          "open":false
+        }
+      },
+      {
+        "distance":1.0239223192181648,
+        "dispensary":{
+          "id":"7341f371-fee0-406f-907f-e4e832d888e3",
+          "city":"Bangkok",
+          "name":"Your Nabis",
+          "types":[
+            "Dispensary",
+            "Wholesaler"
+          ],
+          "lat":13.8082282,
+          "lng":100.5584311,
+          "reviews_aggregate":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "reviews_misc_real":{
+            "aggregate":{
+              "sum":{
+                "rating":null
+              },
+              "count":0
+            }
+          },
+          "image":"50fa926bfa42e525926a5b32aa540445",
+          "has_products":false,
+          "address":"Floor G Sun Tower, Chompol Chatuchak, Bangkok 10900, Thailand",
+          "open":false
+        }
+      }
+    ]
+  }
