@@ -24,6 +24,7 @@ const TextMaskCustom = React.forwardRef(function TextMaskCustom(props: TextMaskC
       // mask="+{7} 000 000-00-00"
       mask="+00000000000[0]"
       definitions={{
+        /*// @ts-ignore*/
         '#': /[1-9]/,
       }}
       inputRef={ref}
