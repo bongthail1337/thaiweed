@@ -1,6 +1,7 @@
 import {notFound} from './404';
 import {call} from './call';
 import {flags} from './flags';
+import {leaf} from './leaf';
 import {telegram} from './telegram';
 import {weed} from './weed';
 import {whatsApp} from './whatsApp';
@@ -11,5 +12,6 @@ export default {
   call,
   weed,
   whatsApp,
+  leaf,
   telegram,
 };

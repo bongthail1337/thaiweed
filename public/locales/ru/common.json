@@ -31,5 +31,14 @@
         "url": "https://localhost.ru/"
       }
     }
+  },
+  "PopupDetails": {
+    "productsFlowers": "Recent products preview"
+  },
+  "Flower": {
+    "thc": "THC",
+    "cbd": "CBD",
+    "indica": "INDICA",
+    "sativa": "SATIVA"
   }
 }

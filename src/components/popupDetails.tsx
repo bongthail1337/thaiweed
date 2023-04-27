@@ -1,7 +1,10 @@
 import SC from '@emotion/styled';
+import {useTranslation} from 'next-i18next';
 import React from 'react';
 
-import {Icon} from './icon';
+import {getAvgReviewsInString, getCountReviewsInString,getRating} from '../utils/calc';
+import {Flower} from './flower';
+import {Rating} from './rating';
 
 const Container = SC.div`
   overflow: hidden;
@@ -50,40 +53,23 @@ const Name = SC.span`
   white-space: break-spaces;
 `;
 
-const getCountReviewsInString = (count) => {
-  const greaterThanZero = count === 1 ? `${count} review` : `${count} reviews`;
-  return count === 0 ? 'no reviews' : greaterThanZero;
-}
+const Body = SC.div``;
 
-const normalize = (num) => (Math.round(num * 100) / 100);
+const Preview = SC.div`
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: bold;
+  padding-bottom: 5px;
+  padding-top: 10px;
+`;
 
-const getAvgReviewsInString = (num) => {
-  const avg = normalize(num);
-  return Number.isNaN(avg) ? '' : `${avg.toFixed(1)} `;
-}
-
-const getRating = (num) => {
-  const avg = normalize(num);
-  return Number.isNaN(avg) ? 0 : Math.round(avg);
-}
-
-const Rating = ({value}) => {
-  const nRating = getRating(value);
-  return (
-    <>
-    {[...Array(5)].map((s, i) => {
-      const isValid = nRating > i;
-      return (<Icon key={i} name="weed" size={15} color={isValid ? 'green' : 'red'} />)
-    })}
-    </>
-  );
-}
 
 export const PopupDetails = ({data}) => {
+  const {t} = useTranslation('common');
   const businessImages = data?.business_images || [];
   const count = data?.reviews_aggregate?.aggregate?.count || 0;
   const rating = data?.reviews_aggregate?.aggregate?.sum?.rating || 0;
-  const nRating = getRating(rating / count);
+  const productsFlowers = data?.products_flowers || [];
 
   return (
     <Container>
@@ -109,6 +95,12 @@ export const PopupDetails = ({data}) => {
           </Name>
         </Content>
       </Head>
+      {productsFlowers.length > 0 && (
+        <Body>
+          <Preview>{t('PopupDetails.productsFlowers')}</Preview>
+          {productsFlowers.map((o, i) => <Flower key={i} data={o} />)}
+        </Body>
+      )}
     </Container>
   );
 }
