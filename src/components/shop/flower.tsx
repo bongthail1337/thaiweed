@@ -1,6 +1,7 @@
 import SC from '@emotion/styled';
-import {useTranslation} from 'next-i18next';
 import React from 'react';
+
+import {useFlowerAttr} from '../../hooks/useFlowerAttr';
 
 const Container = SC.div`
   font-size: 12px;
@@ -57,23 +58,8 @@ const Details = SC.div`
   text-overflow: ellipsis;
 `;
 
-const useGetAttr = (data) => {
-  const {t} = useTranslation('common');
-  const thc = data?.thc || 0;
-  const cbd = data?.cbd || 0;
-  const sativa = data?.sativa || 0;
-  const indica = data?.indica || 0;
-  const attr = [
-    {value: thc, label: t('Flower.thc')},
-    {value: cbd, label: t('Flower.cbd')},
-    {value: indica, label: t('Flower.indica')},
-    {value: sativa, label: t('Flower.sativa')}
-  ];
-  return attr.map((o) => o.value > 0 ? `- ${o.value}% ${o.label.toUpperCase()}`: '').join(' ');
-};
-
 export const Flower = ({data}) => {
-  const attrs = useGetAttr(data);
+  const attrs = useFlowerAttr(data);
   const name = data?.name || '';
   const images = data?.images || [];
   const quality = data?.quality || '';

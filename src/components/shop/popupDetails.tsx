@@ -1,12 +1,17 @@
 import SC from '@emotion/styled';
 import {useTranslation} from 'next-i18next';
 import React from 'react';
+import { Popup} from 'react-map-gl';
 
-import {getAvgReviewsInString, getCountReviewsInString,getRating} from '../utils/calc';
+import {getAvgReviewsInString, getCountReviewsInString} from '../../utils/calc';
 import {Flower} from './flower';
 import {Rating} from './rating';
 
-const Container = SC.div`
+const Container = SC(Popup)`
+  opacity: 0.9;
+`;
+
+const Content = SC.div`
   overflow: hidden;
   padding: 5px;
   display: flex;
@@ -33,7 +38,7 @@ const Head = SC.div`
   flex-direction: row;
 `;
 
-const Content = SC.div`
+const Block = SC.div`
   padding-left: 10px;
   width: 65%;
 `;
@@ -72,7 +77,13 @@ export const PopupDetails = ({data}) => {
   const productsFlowers = data?.products_flowers || [];
 
   return (
-    <Container>
+    <Container
+    anchor="top"
+    longitude={+data.lng}
+    latitude={+data.lat}
+    closeButton={false}
+  >
+    <Content>
       <Head>
         <FeaturedImage>
           <Image
@@ -81,7 +92,7 @@ export const PopupDetails = ({data}) => {
             width="100%"
           /> 
         </FeaturedImage>
-        <Content>
+        <Block>
           <Reviews>
             <div>
               <Rating value={rating / count} />
@@ -93,7 +104,7 @@ export const PopupDetails = ({data}) => {
           <Name>
             {data.name}
           </Name>
-        </Content>
+        </Block>
       </Head>
       {productsFlowers.length > 0 && (
         <Body>
@@ -101,6 +112,7 @@ export const PopupDetails = ({data}) => {
           {productsFlowers.map((o, i) => <Flower key={i} data={o} />)}
         </Body>
       )}
-    </Container>
+    </Content>
+  </Container>
   );
 }

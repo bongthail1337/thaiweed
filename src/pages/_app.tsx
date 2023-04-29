@@ -1,6 +1,17 @@
+import 'dayjs/locale/de';
+import 'dayjs/locale/en';
+import 'dayjs/locale/es';
+import 'dayjs/locale/fr';
+import 'dayjs/locale/it';
+import 'dayjs/locale/ru';
+import 'dayjs/locale/th';
+import 'dayjs/locale/zh';
+
 import {CacheProvider} from '@emotion/react';
 import {CssBaseline} from '@mui/material';
 import {ThemeProvider} from '@mui/material/styles';
+import dayjs from 'dayjs';
+import relativeTime from 'dayjs/plugin/relativeTime.js'
 import Head from 'next/head';
 import Router, {useRouter} from 'next/router';
 import Script from 'next/script';
@@ -16,6 +27,8 @@ import {GlobalStyle} from '../styles';
 import theme from '../styles/theme';
 
 const clientSideEmotionCache = createEmotionCache();
+
+dayjs.extend(relativeTime);
 
 const App = ({Component, emotionCache = clientSideEmotionCache, pageProps}) => {
   const {t} = useTranslation('common');

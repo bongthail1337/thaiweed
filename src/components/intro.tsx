@@ -2,12 +2,14 @@ import 'maplibre-gl/dist/maplibre-gl.css';
 
 import SC from '@emotion/styled';
 import maplibregl from 'maplibre-gl';
+import Link from 'next/link';
 import React from 'react';
-import Map, {GeolocateControl, Marker, NavigationControl, Popup, ScaleControl} from 'react-map-gl';
+import Map, {GeolocateControl, Marker, NavigationControl, ScaleControl} from 'react-map-gl';
 import {Element} from 'react-scroll';
 
 import {Icon} from './icon';
-import {PopupDetails} from './popupDetails';
+import {Details} from './shop/details';
+import {PopupDetails} from './shop/popupDetails';
 
 // import {maxDevice, minDevice, theme} from '../styles';
 // import {Label, Section,Text} from './common';
@@ -16,18 +18,14 @@ const Container = SC.div`
   overflow: hidden;
 `;
 
-const SCPopup = SC(Popup)`
-  opacity: 0.9;
-`;
-
 export const Intro = (props: any) => {
-  const [activeMarker, setActiveMarker ] = React.useState(null);
-  const [popupInfo, setPopupInfo] = React.useState(null);
+  const [hoverMarker, setHoverMarker ] = React.useState(null);
+  const [currentShop, setCurrentShop] = React.useState(props?.initShop);
 
   return (
     <Element name="intro">
       <Container>
-      <Map mapLib={maplibregl}
+        <Map mapLib={maplibregl}
           initialViewState={{
             longitude: 100.4150387,
             latitude: 13.9810801,
@@ -45,46 +43,39 @@ export const Intro = (props: any) => {
           <ScaleControl />
           
           {(props?.points || []).map((point) => {
-            const plng = popupInfo?.lng;
-            const plat = popupInfo?.lat;
-            const mlng = activeMarker?.lng;
-            const mlat = activeMarker?.lat;
-            const isEqual = +point?.lat === +plat && +point?.lng === +plng;
+            const plng = currentShop?.lng;
+            const plat = currentShop?.lat;
+            const mlng = hoverMarker?.lng;
+            const mlat = hoverMarker?.lat;
+            const isEqualShop = +point?.lat === +plat && +point?.lng === +plng;
             const isEqualMarker = +point?.lat === +mlat && +point?.lng === +mlng;
             const markerColor = isEqualMarker ? 'light green' : 'green';
             return (
               <div
                 key={`marker-${point.id}`}
-                onMouseEnter={() => {setActiveMarker(point);}}
-                onMouseLeave={() => {setActiveMarker(null);}}
+                onMouseEnter={() => {setHoverMarker(point);}}
+                onMouseLeave={() => {setHoverMarker(null);}}
                 >
-                <Marker
-                  longitude={+point.lng}
-                  latitude={+point.lat}
-                  anchor="bottom"
-                  onClick={e => {
-                    e.originalEvent.stopPropagation();
-                    setPopupInfo(point);
-                  }}
-                >
-                  <Icon name="weed" size={40} color={isEqual ? 'red' : markerColor}/>
-                </Marker>
+                <Link href={`/shop/${point.id}`}>
+                  <Marker
+                    longitude={+point.lng}
+                    latitude={+point.lat}
+                    anchor="bottom"
+                    onClick={e => {
+                      e.originalEvent.stopPropagation();
+                      setCurrentShop(point);
+                    }}
+                  >
+                    <Icon name="weed" size={40} color={isEqualShop ? 'red' : markerColor}/>
+                  </Marker>
+                </Link>
               </div>
             );
           })}
 
-          {activeMarker && (
-            <SCPopup
-              anchor="top"
-              longitude={+activeMarker.lng}
-              latitude={+activeMarker.lat}
-              closeButton={false}
-              // onClose={() => setPopupInfo(null)}
-            >
-              <PopupDetails data={activeMarker} />
-            </SCPopup>
-          )}
+          {hoverMarker && <PopupDetails data={hoverMarker} />}
         </Map>
+        {currentShop && <Details data={currentShop} />}
       </Container>
     </Element>
   );

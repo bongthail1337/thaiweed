@@ -39,6 +39,32 @@
     "thc": "THC",
     "cbd": "CBD",
     "indica": "INDICA",
-    "sativa": "SATIVA"
+    "sativa": "SATIVA",
+    "grade": "Grade",
+    "price": "Price breakdown"
+  },
+  "Details": {
+    "store": "Cannabis Stores",
+    "directions": "Directions",
+    "call": "Call",
+    "website": "Website",
+    "line": "@LINE",
+    "facebook": "Facebook",
+    "opening": "Hours of operation",
+    "flowers": "Cannabis Bud/Flower",
+    "seeds": "Cannabis Seeds",
+    "prerolls": "Cannabis Prerolls",
+    "edibles": "Cannabis Edibles",
+    "topicals": "Cannabis Topicals",
+    "gear": "Cannabis Gear",
+    "misc": "Cannabis Misc",
+    "summary": "Review summary",
+    "noMore": "no more reviews",
+    "nearby": "All Nearby Shops",
+    "5stars": "5 stars",
+    "4stars": "4 stars",
+    "3stars": "3 stars",
+    "2stars": "2 stars",
+    "1star": "1 star"
   }
 }

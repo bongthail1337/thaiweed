@@ -5,12 +5,17 @@ export const getCountReviewsInString = (count) => {
   return count === 0 ? 'no reviews' : greaterThanZero;
 }
 
-export const getAvgReviewsInString = (num) => {
+export const getAvgReviewsInString = (num, zeroText?: any) => {
   const avg = normalize(num);
-  return Number.isNaN(avg) ? '' : `${avg.toFixed(1)} `;
+  return Number.isNaN(avg) ? zeroText || '' : `${avg.toFixed(1)} `;
 }
 
 export const getRating = (num) => {
   const avg = normalize(num);
   return Number.isNaN(avg) ? 0 : Math.round(avg);
+}
+
+export const getRatingWithoutRound = (num) => {
+  const avg = normalize(num);
+  return Number.isNaN(avg) ? 0 : avg;
 }
