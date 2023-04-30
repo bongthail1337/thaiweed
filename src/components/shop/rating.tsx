@@ -5,7 +5,7 @@ import {Icon} from '../icon';
 
 type RatingType = {
   value: any;
-  size: number;
+  size?: number;
   color?: string;
 }
 

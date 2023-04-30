@@ -215,7 +215,7 @@ export const Details = ({data}) => {
           {data.google_url && <Badge type={BadgeType.Location} href={data.google_url} target='_blank' />}
           {data.phone && <Badge type={BadgeType.Call} href={`tel://${data.phone}`} />}
           {data.website && <Badge type={BadgeType.Attach} href={data.website} target='_blank' />}
-          {data.line && <Badge type={BadgeType.Url} href={`https://line.me/ti/p/~${data.line}`} target='_blank' />}
+          {/* {data.line && <Badge type={BadgeType.Url} href={`https://line.me/ti/p/~${data.line}`} target='_blank' />} */}
           {data.facebook && <Badge type={BadgeType.Fb} href={data.facebook} target='_blank' />}
         </Contacts>
         {data.description && <Description>{data.description}</Description>}
